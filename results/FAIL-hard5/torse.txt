@@ -1,0 +1,230 @@
+torse,torch
+ 26 [1;32mt[1;32mo[1;32mr[0ms[0me[0m   1    19 Some((1, 1, "torch")) ["torch"]
+torse,tasty
+ 29 [1;32mt[0mo[0mr[1;33ms[0me[0m   1   315 Some((1, 1, "tasty")) ["tasty"]
+torse,sorry
+ 51 [0mt[1;32mo[1;32mr[1;33ms[0me[0m   1   107 Some((1, 1, "sorry")) ["sorry"]
+torse,torus
+ 53 [1;32mt[1;32mo[1;32mr[1;33ms[0me[0m   1    11 Some((1, 1, "torus")) ["torus"]
+torse,ghost
+ 58 [1;33mt[1;33mo[0mr[1;32ms[0me[0m   1    48 Some((1, 1, "ghost")) ["ghost"]
+torse,toast
+ 62 [1;32mt[1;32mo[0mr[1;32ms[0me[0m   1    11 Some((1, 1, "toast")) ["toast"]
+torse,frost
+ 67 [1;33mt[1;33mo[1;33mr[1;32ms[0me[0m   1    14 Some((1, 1, "frost")) ["frost"]
+torse,worst
+ 79 [1;33mt[1;32mo[1;32mr[1;32ms[0me[0m   1     6 Some((1, 1, "worst")) ["worst"]
+torse,torso
+ 80 [1;32mt[1;32mo[1;32mr[1;32ms[0me[0m   1     4 Some((1, 1, "torso")) ["torso"]
+torse,tempo
+ 86 [1;32mt[1;33mo[0mr[0ms[1;33me[0m   1    68 Some((1, 1, "tempo")) ["tempo"]
+torse,tenor
+ 95 [1;32mt[1;33mo[1;33mr[0ms[1;33me[0m   1    17 Some((1, 1, "tenor")) ["tenor"]
+torse,voter
+ 97 [1;33mt[1;32mo[1;33mr[0ms[1;33me[0m   1    21 Some((1, 1, "voter")) ["voter"]
+torse,tower
+ 98 [1;32mt[1;32mo[1;33mr[0ms[1;33me[0m   1     9 Some((1, 1, "tower")) ["tower"]
+torse,corer
+105 [0mt[1;32mo[1;32mr[0ms[1;33me[0m   1    59 Some((1, 1, "corer")) ["corer"]
+torse,testy
+110 [1;32mt[0mo[0mr[1;33ms[1;33me[0m   1   118 Some((1, 1, "testy")) ["testy"]
+torse,nosey
+114 [0mt[1;32mo[0mr[1;33ms[1;33me[0m   1   251 Some((1, 1, "nosey")) ["nosey"]
+torse,poesy
+141 [0mt[1;32mo[0mr[1;32ms[1;33me[0m   1    42 Some((1, 1, "poesy")) ["poesy"]
+torse,verso
+156 [0mt[1;33mo[1;32mr[1;32ms[1;33me[0m   1     8 Some((1, 1, "verso")) ["verso"]
+torse,wrote
+175 [1;33mt[1;33mo[1;33mr[0ms[1;32me[0m   1    17 Some((1, 1, "wrote")) ["wrote"]
+torse,route
+178 [1;33mt[1;32mo[1;33mr[0ms[1;32me[0m   1     7 Some((1, 1, "route")) ["route"]
+torse,three
+182 [1;32mt[0mo[1;32mr[0ms[1;32me[0m   1    12 Some((1, 1, "three")) ["three"]
+torse,forte
+187 [1;33mt[1;32mo[1;32mr[0ms[1;32me[0m   1     3 Some((1, 1, "forte")) ["forte"]
+torse,taste
+191 [1;32mt[0mo[0mr[1;33ms[1;32me[0m   1    15 Some((1, 1, "taste")) ["taste"]
+torse,solve
+195 [0mt[1;32mo[0mr[1;33ms[1;32me[0m   1    58 Some((1, 1, "solve")) ["solve"]
+torse,stare
+199 [1;33mt[0mo[1;33mr[1;33ms[1;32me[0m   1     9 Some((1, 1, "stare")) ["stare"]
+torse,store
+202 [1;33mt[1;33mo[1;33mr[1;33ms[1;32me[0m   1     2 Some((1, 1, "store")) ["store"]
+torse,those
+221 [1;32mt[1;33mo[0mr[1;32ms[1;32me[0m   1     5 Some((1, 1, "those")) ["those"]
+torse,rouse
+231 [0mt[1;32mo[1;33mr[1;32ms[1;32me[0m   1     9 Some((1, 1, "rouse")) ["rouse"]
+torse,terse
+236 [1;32mt[0mo[1;32mr[1;32ms[1;32me[0m   1     2 Some((1, 1, "terse")) ["terse"]
+torse,tardy
+torse,tardy,thrum
+ 20 [1;32mt[0mo[1;32mr[0ms[0me[0m   2    82 Some((3, 2, "tardy")) ["tardy", "thrum"]
+torse,solar
+torse,solar,sonar
+ 42 [0mt[1;32mo[1;33mr[1;33ms[0me[0m   2   206 Some((3, 2, "solar")) ["solar", "sonar"]
+torse,tipsy
+torse,tipsy,twist
+ 56 [1;32mt[0mo[0mr[1;32ms[0me[0m   2    37 Some((3, 2, "tipsy")) ["tipsy", "twist"]
+torse,roast
+torse,roast,roost
+ 70 [1;33mt[1;32mo[1;33mr[1;32ms[0me[0m   2    11 Some((3, 2, "roast")) ["roast", "roost"]
+torse,harsh
+torse,harsh,marsh
+ 72 [0mt[0mo[1;32mr[1;32ms[0me[0m   2    54 Some((3, 2, "harsh")) ["harsh", "marsh"]
+torse,burst
+torse,burst,first
+ 73 [1;33mt[0mo[1;32mr[1;32ms[0me[0m   2    19 Some((3, 2, "burst")) ["burst", "first"]
+torse,terra
+torse,terra,threw
+101 [1;32mt[0mo[1;32mr[0ms[1;33me[0m   2    31 Some((3, 2, "terra")) ["terra", "threw"]
+torse,error
+torse,error,heron
+102 [0mt[1;33mo[1;32mr[0ms[1;33me[0m   2    91 Some((3, 2, "error")) ["error", "heron"]
+torse,crest
+torse,crest,wrest
+145 [1;33mt[0mo[1;33mr[1;32ms[1;33me[0m   2    14 Some((3, 2, "crest")) ["crest", "wrest"]
+torse,trope
+torse,trope,trove
+176 [1;32mt[1;33mo[1;33mr[0ms[1;32me[0m   2     8 Some((3, 2, "trope")) ["trope", "trove"]
+torse,rogue
+torse,rogue,rouge
+177 [0mt[1;32mo[1;33mr[0ms[1;32me[0m   2    50 Some((3, 2, "rogue")) ["rogue", "rouge"]
+torse,arose
+torse,arose,prose
+228 [0mt[1;33mo[1;33mr[1;32ms[1;32me[0m   2    13 Some((3, 2, "arose")) ["arose", "prose"]
+torse,horse
+torse,horse,worse
+240 [0mt[1;32mo[1;32mr[1;32ms[1;32me[0m   2     7 Some((3, 2, "horse")) ["horse", "worse"]
+torse,crust,artsy
+torse,crust
+torse,crust,wrist
+ 64 [1;33mt[0mo[1;33mr[1;32ms[0me[0m   3    51 Some((5, 2, "crust")) ["artsy", "crust", "wrist"]
+torse,cross
+torse,cross,dross
+torse,cross,dross,gross
+ 66 [0mt[1;33mo[1;33mr[1;32ms[0me[0m   3    41 Some((6, 3, "cross")) ["cross", "dross", "gross"]
+torse,token
+torse,token,totem
+torse,token,totem,towel
+ 89 [1;32mt[1;32mo[0mr[0ms[1;33me[0m   3    50 Some((6, 3, "token")) ["token", "totem", "towel"]
+torse,onset,ethos
+torse,onset
+torse,onset,pesto
+112 [1;33mt[1;33mo[0mr[1;33ms[1;33me[0m   3    60 Some((5, 2, "onset")) ["ethos", "onset", "pesto"]
+torse,atone
+torse,atone,ovate
+torse,atone,quote
+166 [1;33mt[1;33mo[0mr[0ms[1;32me[0m   3    65 Some((5, 2, "atone")) ["atone", "ovate", "quote"]
+torse,tease
+torse,tease,tense
+torse,tease,these
+218 [1;32mt[0mo[0mr[1;32ms[1;32me[0m   3    12 Some((5, 2, "tease")) ["tease", "tense", "these"]
+torse,taboo
+torse,taboo,talon
+torse,taboo,tango
+torse,taboo,thong
+  5 [1;32mt[1;33mo[0mr[0ms[0me[0m   4   227 Some((7, 2, "taboo")) ["taboo", "talon", "tango", "thong"]
+torse,motor,court
+torse,motor
+torse,motor,robot
+torse,motor,rotor
+ 16 [1;33mt[1;32mo[1;33mr[0ms[0me[0m   4    94 Some((7, 2, "motor")) ["court", "motor", "robot", "rotor"]
+torse,throb,tarot
+torse,throb
+torse,throb,throw
+torse,throb,turbo
+ 23 [1;32mt[1;33mo[1;32mr[0ms[0me[0m   4    30 Some((7, 2, "throb")) ["tarot", "throb", "throw", "turbo"]
+torse,sooth,posit
+torse,sooth
+torse,sooth,sooty
+torse,sooth,south
+ 34 [1;33mt[1;32mo[0mr[1;33ms[0me[0m   4   198 Some((7, 2, "sooth")) ["posit", "sooth", "sooty", "south"]
+torse,bossy
+torse,bossy,lousy
+torse,bossy,mossy
+torse,bossy,lousy,noisy
+ 60 [0mt[1;32mo[0mr[1;32ms[0me[0m   4    97 Some((8, 3, "bossy")) ["bossy", "lousy", "mossy", "noisy"]
+torse,trust,trash
+torse,trust,truss
+torse,trust
+torse,trust,tryst
+ 65 [1;32mt[0mo[1;33mr[1;32ms[0me[0m   4    14 Some((7, 2, "trust")) ["trash", "truss", "trust", "tryst"]
+torse,comet
+torse,comet,covet
+torse,comet,hotel
+torse,comet,motel
+ 88 [1;33mt[1;32mo[0mr[0ms[1;33me[0m   4   111 Some((7, 2, "comet")) ["comet", "covet", "hotel", "motel"]
+torse,ester
+torse,ester,reset
+torse,ester,steer
+torse,ester,stern
+118 [1;33mt[0mo[1;33mr[1;33ms[1;33me[0m   4    70 Some((7, 2, "ester")) ["ester", "reset", "steer", "stern"]
+torse,loser
+torse,loser,poser
+torse,loser,sober
+torse,loser,sober,sower
+123 [0mt[1;32mo[1;33mr[1;33ms[1;33me[0m   4    55 Some((8, 3, "loser")) ["loser", "poser", "sober", "sower"]
+torse,cress
+torse,cress,dress
+torse,cress,fresh
+torse,cress,dress,press
+144 [0mt[0mo[1;33mr[1;32ms[1;33me[0m   4    65 Some((8, 3, "cress")) ["cress", "dress", "fresh", "press"]
+torse,scree
+torse,scree,serve
+torse,scree,spree
+torse,scree,surge
+207 [0mt[0mo[1;32mr[1;33ms[1;32me[0m   4    34 Some((7, 2, "scree")) ["scree", "serve", "spree", "surge"]
+torse,chose
+torse,chose,close
+torse,chose,obese
+torse,chose,whose
+219 [0mt[1;33mo[0mr[1;32ms[1;32me[0m   4    47 Some((7, 2, "chose")) ["chose", "close", "obese", "whose"]
+torse,forth,aorta
+torse,forth
+torse,forth,forty
+torse,forth,north
+torse,forth,north,worth
+ 25 [1;33mt[1;32mo[1;32mr[0ms[0me[0m   5    44 Some((10, 3, "forth")) ["aorta", "forth", "forty", "north", "worth"]
+torse,strap
+torse,strap,straw
+torse,strap,straw,stray
+torse,strap,strip
+torse,strap,strut
+ 46 [1;33mt[0mo[1;32mr[1;33ms[0me[0m   5    99 Some((10, 3, "strap")) ["strap", "straw", "stray", "strip", "strut"]
+torse,floss
+torse,floss,gloss
+torse,floss,kiosk
+torse,floss,lasso
+torse,floss,slosh
+ 57 [0mt[1;33mo[0mr[1;32ms[0me[0m   5   150 Some((9, 2, "floss")) ["floss", "gloss", "kiosk", "lasso", "slosh"]
+torse,depot
+torse,depot,detox
+torse,depot,extol
+torse,depot,octet
+torse,depot,often
+ 85 [1;33mt[1;33mo[0mr[0ms[1;33me[0m   5   210 Some((9, 2, "depot")) ["depot", "detox", "extol", "octet", "often"]
+torse,beret
+torse,beret,berth
+torse,beret,earth
+torse,beret,egret
+torse,beret,merit
+100 [1;33mt[0mo[1;32mr[0ms[1;33me[0m   5    60 Some((9, 2, "beret")) ["beret", "berth", "earth", "egret", "merit"]
+torse,irate,brute
+torse,irate,crate
+torse,irate,crate,grate
+torse,irate
+torse,irate,write
+172 [1;33mt[0mo[1;33mr[0ms[1;32me[0m   5    71 Some((10, 3, "irate")) ["brute", "crate", "grate", "irate", "write"]
+torse,forge,borne
+torse,forge,force
+torse,forge
+torse,forge,gorge
+torse,forge,borne,horde
+186 [0mt[1;32mo[1;32mr[0ms[1;32me[0m   5    28 Some((10, 3, "forge")) ["borne", "force", "forge", "gorge", "horde"]
+torse,stoke,smote
+torse,stoke
+torse,stoke,stole
+torse,stoke,stole,stone
+torse,stoke,stole,stone,stove
+193 [1;33mt[1;33mo[0mr[1;33ms[1;32me[0m   5    17 Some((12, 4, "stoke")) ["smote", "stoke", "stole", "stone", "stove"]
+201 [0mt[1;33mo[1;33mr[1;33ms[1;32me[0m   5    22 None ["score", "shore", "snore", "spore", "swore"]

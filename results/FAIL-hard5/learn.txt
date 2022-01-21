@@ -1,0 +1,373 @@
+learn,legal
+ 17 [1;32ml[1;32me[1;33ma[0mr[0mn[0m   1    33 Some((1, 1, "legal")) ["legal"]
+learn,realm
+ 52 [1;33ml[1;32me[1;32ma[1;33mr[0mn[0m   1     8 Some((1, 1, "realm")) ["realm"]
+learn,lorry
+ 56 [1;32ml[0me[0ma[1;32mr[0mn[0m   1    38 Some((1, 1, "lorry")) ["lorry"]
+learn,clerk
+ 58 [1;33ml[1;33me[0ma[1;32mr[0mn[0m   1    26 Some((1, 1, "clerk")) ["clerk"]
+learn,leery
+ 62 [1;32ml[1;32me[0ma[1;32mr[0mn[0m   1     9 Some((1, 1, "leery")) ["leery"]
+learn,alert
+ 67 [1;33ml[1;33me[1;33ma[1;32mr[0mn[0m   1    13 Some((1, 1, "alert")) ["alert"]
+learn,alarm
+ 73 [1;33ml[0me[1;32ma[1;32mr[0mn[0m   1    26 Some((1, 1, "alarm")) ["alarm"]
+learn,pearl
+ 79 [1;33ml[1;32me[1;32ma[1;32mr[0mn[0m   1     5 Some((1, 1, "pearl")) ["pearl"]
+learn,lunge
+ 86 [1;32ml[1;33me[0ma[0mr[1;33mn[0m   1    44 Some((1, 1, "lunge")) ["lunge"]
+learn,newly
+ 88 [1;33ml[1;32me[0ma[0mr[1;33mn[0m   1    36 Some((1, 1, "newly")) ["newly"]
+learn,lanky
+ 92 [1;32ml[0me[1;33ma[0mr[1;33mn[0m   1    44 Some((1, 1, "lanky")) ["lanky"]
+learn,lance
+ 95 [1;32ml[1;33me[1;33ma[0mr[1;33mn[0m   1    11 Some((1, 1, "lance")) ["lance"]
+learn,penal
+ 97 [1;33ml[1;32me[1;33ma[0mr[1;33mn[0m   1    11 Some((1, 1, "penal")) ["penal"]
+learn,plane
+103 [1;33ml[1;33me[1;32ma[0mr[1;33mn[0m   1    13 Some((1, 1, "plane")) ["plane"]
+learn,meant
+105 [0ml[1;32me[1;32ma[0mr[1;33mn[0m   1    27 Some((1, 1, "meant")) ["meant"]
+learn,leant
+107 [1;32ml[1;32me[1;32ma[0mr[1;33mn[0m   1     4 Some((1, 1, "leant")) ["leant"]
+learn,liner
+113 [1;32ml[1;33me[0ma[1;33mr[1;33mn[0m   1     3 Some((1, 1, "liner")) ["liner"]
+learn,lunar
+119 [1;32ml[0me[1;33ma[1;33mr[1;33mn[0m   1     5 Some((1, 1, "lunar")) ["lunar"]
+learn,renal
+124 [1;33ml[1;32me[1;33ma[1;33mr[1;33mn[0m   1     3 Some((1, 1, "renal")) ["renal"]
+learn,crane
+129 [0ml[1;33me[1;32ma[1;33mr[1;33mn[0m   1     9 Some((1, 1, "crane")) ["crane"]
+learn,genre
+141 [0ml[1;32me[0ma[1;32mr[1;33mn[0m   1     8 Some((1, 1, "genre")) ["genre"]
+learn,angry
+144 [0ml[0me[1;33ma[1;32mr[1;33mn[0m   1    38 Some((1, 1, "angry")) ["angry"]
+learn,snarl
+154 [1;33ml[0me[1;32ma[1;32mr[1;33mn[0m   1     4 Some((1, 1, "snarl")) ["snarl"]
+learn,snare
+156 [0ml[1;33me[1;32ma[1;32mr[1;33mn[0m   1     6 Some((1, 1, "snare")) ["snare"]
+learn,login
+164 [1;32ml[0me[0ma[0mr[1;32mn[0m   1    34 Some((1, 1, "login")) ["login"]
+learn,lemon
+170 [1;32ml[1;32me[0ma[0mr[1;32mn[0m   1     5 Some((1, 1, "lemon")) ["lemon"]
+learn,laden
+176 [1;32ml[1;33me[1;33ma[0mr[1;32mn[0m   1     4 Some((1, 1, "laden")) ["laden"]
+learn,stern
+219 [0ml[1;33me[0ma[1;32mr[1;32mn[0m   1     6 Some((1, 1, "stern")) ["stern"]
+learn,yearn
+240 [0ml[1;32me[1;32ma[1;32mr[1;32mn[0m   1     3 Some((1, 1, "yearn")) ["yearn"]
+learn
+242 [1;32ml[1;32me[1;32ma[1;32mr[1;32mn[0m   1     1 Some((1, 1, "learn")) ["learn"]
+learn,dealt
+learn,dealt,mealy
+ 25 [1;33ml[1;32me[1;32ma[0mr[0mn[0m   2    48 Some((3, 2, "dealt")) ["dealt", "mealy"]
+learn,labor
+learn,labor,larva
+ 38 [1;32ml[0me[1;33ma[1;33mr[0mn[0m   2    56 Some((3, 2, "labor")) ["labor", "larva"]
+learn,flora
+learn,flora,ultra
+ 64 [1;33ml[0me[1;33ma[1;32mr[0mn[0m   2    42 Some((3, 2, "flora")) ["flora", "ultra"]
+learn,terra
+learn,terra,zebra
+ 69 [0ml[1;32me[1;33ma[1;32mr[0mn[0m   2    44 Some((3, 2, "terra")) ["terra", "zebra"]
+learn,intro
+learn,intro,snort
+135 [0ml[0me[0ma[1;32mr[1;33mn[0m   2    79 Some((3, 2, "intro")) ["intro", "snort"]
+learn,elfin
+learn,elfin,olden
+166 [1;33ml[1;33me[0ma[0mr[1;32mn[0m   2    34 Some((3, 2, "elfin")) ["elfin", "olden"]
+learn,felon
+learn,felon,melon
+169 [1;33ml[1;32me[0ma[0mr[1;32mn[0m   2     9 Some((3, 2, "felon")) ["felon", "melon"]
+learn,plain
+learn,plain,slain
+181 [1;33ml[0me[1;32ma[0mr[1;32mn[0m   2     7 Some((3, 2, "plain")) ["plain", "slain"]
+learn,ramen
+learn,ramen,raven
+201 [0ml[1;33me[1;33ma[1;33mr[1;32mn[0m   2    11 Some((3, 2, "ramen")) ["ramen", "raven"]
+learn,llama
+learn,llama,loamy
+learn,llama,loath
+ 20 [1;32ml[0me[1;32ma[0mr[0mn[0m   3    48 Some((5, 2, "llama")) ["llama", "loamy", "loath"]
+learn,lurch
+learn,lurch,lurid
+learn,lurch,lyric
+ 29 [1;32ml[0me[0ma[1;33mr[0mn[0m   3   117 Some((5, 2, "lurch")) ["lurch", "lurid", "lyric"]
+learn,leper,lemur
+learn,leper
+learn,leper,lever
+ 35 [1;32ml[1;32me[0ma[1;33mr[0mn[0m   3    17 Some((5, 2, "leper")) ["lemur", "leper", "lever"]
+learn,reach
+learn,reach,react
+learn,reach,ready
+ 51 [0ml[1;32me[1;32ma[1;33mr[0mn[0m   3    57 Some((5, 2, "reach")) ["reach", "react", "ready"]
+learn,blare
+learn,blare,flare
+learn,blare,flare,glare
+ 76 [1;33ml[1;33me[1;32ma[1;32mr[0mn[0m   3     8 Some((6, 3, "blare")) ["blare", "flare", "glare"]
+learn,entry
+learn,entry,inert
+learn,entry,snore
+138 [0ml[1;33me[0ma[1;32mr[1;33mn[0m   3    26 Some((5, 2, "entry")) ["entry", "inert", "snore"]
+learn,liken
+learn,liken,linen
+learn,liken,lumen
+167 [1;32ml[1;33me[0ma[0mr[1;32mn[0m   3    15 Some((5, 2, "liken")) ["liken", "linen", "lumen"]
+learn,salon,align
+learn,salon
+learn,salon,talon
+172 [1;33ml[0me[1;33ma[0mr[1;32mn[0m   3    42 Some((5, 2, "salon")) ["align", "salon", "talon"]
+learn,clean,alien
+learn,clean
+learn,clean,glean
+175 [1;33ml[1;33me[1;33ma[0mr[1;32mn[0m   3     9 Some((5, 2, "clean")) ["alien", "clean", "glean"]
+learn,acorn
+learn,acorn,adorn
+learn,acorn,cairn
+225 [0ml[0me[1;33ma[1;32mr[1;32mn[0m   3    11 Some((5, 2, "acorn")) ["acorn", "adorn", "cairn"]
+learn,liver
+learn,liver,loser
+learn,liver,lover
+learn,liver,loser,lower
+ 32 [1;32ml[1;33me[0ma[1;33mr[0mn[0m   4    61 Some((8, 3, "liver")) ["liver", "loser", "lover", "lower"]
+learn,lager
+learn,lager,large
+learn,lager,later
+learn,lager,later,layer
+ 41 [1;32ml[1;33me[1;33ma[1;33mr[0mn[0m   4    21 Some((8, 3, "lager")) ["lager", "large", "later", "layer"]
+learn,relax,feral
+learn,relax,regal
+learn,relax
+learn,relax,relay
+ 43 [1;33ml[1;32me[1;33ma[1;33mr[0mn[0m   4    21 Some((7, 2, "relax")) ["feral", "regal", "relax", "relay"]
+learn,lunch,lingo
+learn,lunch
+learn,lunch,lying
+learn,lunch,lynch
+ 83 [1;32ml[0me[0ma[0mr[1;33mn[0m   4   116 Some((7, 2, "lunch")) ["lingo", "lunch", "lying", "lynch"]
+learn,knave,enact
+learn,knave,inane
+learn,knave
+learn,knave,snake
+102 [0ml[1;33me[1;32ma[0mr[1;33mn[0m   4    49 Some((7, 2, "knave")) ["enact", "inane", "knave", "snake"]
+learn,anger
+learn,anger,arena
+learn,anger,range
+learn,anger,saner
+120 [0ml[1;33me[1;33ma[1;33mr[1;33mn[0m   4    49 Some((7, 2, "anger")) ["anger", "arena", "range", "saner"]
+learn,began
+learn,began,pecan
+learn,began,pecan,sedan
+learn,began,vegan
+177 [0ml[1;32me[1;33ma[0mr[1;32mn[0m   4    18 Some((8, 3, "began")) ["began", "pecan", "sedan", "vegan"]
+learn,shawn,again
+learn,shawn,chain
+learn,shawn,spawn
+learn,shawn,stain
+180 [0ml[0me[1;32ma[0mr[1;32mn[0m   4    31 Some((8, 2, "shawn")) ["again", "chain", "spawn", "stain"]
+learn,reign,heron
+learn,reign
+learn,reign,rerun
+learn,reign,resin
+195 [0ml[1;32me[0ma[1;33mr[1;32mn[0m   4    21 Some((7, 2, "reign")) ["heron", "reign", "rerun", "resin"]
+learn,leger,ledge
+learn,leger,leech
+learn,leger,lefty
+learn,leger,leggy
+learn,leger,level
+  8 [1;32ml[1;32me[0ma[0mr[0mn[0m   5   100 Some((10, 2, "leger")) ["ledge", "leech", "lefty", "leggy", "level"]
+learn,baler,alter
+learn,baler
+learn,baler,clear
+learn,baler,early
+learn,baler,paler
+ 40 [1;33ml[1;33me[1;33ma[1;33mr[0mn[0m   5    71 Some((9, 2, "baler")) ["alter", "baler", "clear", "early", "paler"]
+learn,scare,aware
+learn,scare
+learn,scare,share
+learn,scare,share,spare
+learn,scare,share,spare,stare
+ 75 [0ml[1;33me[1;32ma[1;32mr[0mn[0m   5    56 Some((12, 4, "scare")) ["aware", "scare", "share", "spare", "stare"]
+learn,clown,blown
+learn,clown
+learn,clown,colon
+learn,clown,blown,flown
+learn,clown,nylon
+163 [1;33ml[0me[0ma[0mr[1;32mn[0m   5    90 Some((10, 3, "clown")) ["blown", "clown", "colon", "flown", "nylon"]
+learn,ripen,green
+learn,ripen,preen
+learn,ripen
+learn,ripen,risen
+learn,ripen,siren
+192 [0ml[1;33me[0ma[1;33mr[1;32mn[0m   5    45 Some((9, 2, "ripen")) ["green", "preen", "ripen", "risen", "siren"]
+learn,liege,libel
+learn,liege
+learn,liege,lithe
+learn,liege,lodge
+learn,liege,loose
+learn,liege,loose,louse
+  5 [1;32ml[1;33me[0ma[0mr[0mn[0m   6   279 Some((12, 3, "liege")) ["libel", "liege", "lithe", "lodge", "loose", "louse"]
+learn,local,lasso
+learn,local,latch
+learn,local,laugh
+learn,local,lilac
+learn,local
+learn,local,loyal
+ 11 [1;32ml[0me[1;33ma[0mr[0mn[0m   6   237 Some((11, 2, "local")) ["lasso", "latch", "laugh", "lilac", "local", "loyal"]
+learn,lapel,label
+learn,lapel,ladle
+learn,lapel
+learn,lapel,lapse
+learn,lapel,lathe
+learn,lapel,lathe,latte
+ 14 [1;32ml[1;33me[1;33ma[0mr[0mn[0m   6    89 Some((12, 3, "lapel")) ["label", "ladle", "lapel", "lapse", "lathe", "latte"]
+learn,becap,begat
+learn,becap,decay
+learn,becap,kebab
+learn,becap,mecca
+learn,becap,media
+learn,becap,sepia
+ 15 [0ml[1;32me[1;33ma[0mr[0mn[0m   6   405 Some((12, 2, "becap")) ["begat", "decay", "kebab", "mecca", "media", "sepia"]
+learn,peril
+learn,peril,rebel
+learn,peril,relic
+learn,peril,repel
+learn,peril,reply
+learn,peril,rebel,revel
+ 34 [1;33ml[1;32me[0ma[1;33mr[0mn[0m   6    58 Some((12, 3, "peril")) ["peril", "rebel", "relic", "repel", "reply", "revel"]
+learn,cedar
+learn,cedar,debar
+learn,cedar,rebar
+learn,cedar,recap
+learn,cedar,rehab
+learn,cedar,rehab,repay
+ 42 [0ml[1;32me[1;33ma[1;33mr[0mn[0m   6   133 Some((12, 3, "cedar")) ["cedar", "debar", "rebar", "recap", "rehab", "repay"]
+learn,afore,adore
+learn,afore,afire
+learn,afore,avert
+learn,afore,azure
+learn,afore,extra
+learn,afore,opera
+ 66 [0ml[1;33me[1;33ma[1;32mr[0mn[0m   6   106 Some((12, 2, "afore")) ["adore", "afire", "avert", "azure", "extra", "opera"]
+learn,heard,beard
+learn,heard
+learn,heard,heart
+learn,heard,teary,rearm
+learn,heard,teary
+learn,heard,teary,weary
+ 78 [0ml[1;32me[1;32ma[1;32mr[0mn[0m   6    37 Some((13, 3, "heard")) ["beard", "heard", "heart", "rearm", "teary", "weary"]
+learn,angel,alone
+learn,angel
+learn,angel,angle
+learn,angel,ankle
+learn,angel,navel
+learn,angel,navel,panel
+ 94 [1;33ml[1;33me[1;33ma[0mr[1;33mn[0m   6    43 Some((12, 3, "angel")) ["alone", "angel", "angle", "ankle", "navel", "panel"]
+learn,nerve,nerdy
+learn,nerve
+learn,nerve,never
+learn,nerve,newer
+learn,nerve,renew
+learn,nerve,tenor
+114 [0ml[1;32me[0ma[1;33mr[1;33mn[0m   6    70 Some((11, 2, "nerve")) ["nerdy", "nerve", "never", "newer", "renew", "tenor"]
+learn,nadir,manor
+learn,nadir
+learn,nadir,rainy
+learn,nadir,ranch
+learn,nadir,randy
+learn,nadir,sonar
+117 [0ml[0me[1;33ma[1;33mr[1;33mn[0m   6   211 Some((11, 2, "nadir")) ["manor", "nadir", "rainy", "ranch", "randy", "sonar"]
+learn,grand,brand
+learn,grand,franc,crank
+learn,grand,drank
+learn,grand,franc,frank
+learn,grand
+learn,grand,grant
+learn,grand,franc,prank
+126 [0ml[0me[1;32ma[1;33mr[1;33mn[0m   7    63 Some((16, 3, "grand")) ["brand", "crank", "drank", "frank", "grand", "grant", "prank"]
+learn,deign,begin
+learn,deign,begun
+learn,deign
+learn,deign,demon
+learn,deign,feign
+learn,deign,semen
+learn,deign,semen,seven
+168 [0ml[1;32me[0ma[0mr[1;32mn[0m   7    63 Some((14, 3, "deign")) ["begin", "begun", "deign", "demon", "feign", "semen", "seven"]
+learn,taken,ashen
+learn,taken,eaten
+learn,taken,haven
+learn,taken,oaken
+learn,taken,ocean
+learn,taken
+learn,taken,haven,waxen
+174 [0ml[1;33me[1;33ma[0mr[1;32mn[0m   7    58 Some((14, 3, "taken")) ["ashen", "eaten", "haven", "oaken", "ocean", "taken", "waxen"]
+learn,apron
+learn,apron,arson
+learn,apron,baron
+learn,apron,groan
+learn,apron,groan,organ
+learn,apron,rayon
+learn,apron,urban
+198 [0ml[0me[1;33ma[1;33mr[1;32mn[0m   7    61 Some((14, 3, "apron")) ["apron", "arson", "baron", "groan", "organ", "rayon", "urban"]
+learn,brain
+learn,brain,brawn
+learn,brain,drain
+learn,brain,drawn
+learn,brain,drain,grain
+learn,brain,drawn,prawn
+learn,brain,drain,grain,train
+207 [0ml[0me[1;32ma[1;33mr[1;32mn[0m   7    13 Some((17, 4, "brain")) ["brain", "brawn", "drain", "drawn", "grain", "prawn", "train"]
+learn,scorn,churn
+learn,scorn,mourn
+learn,scorn
+learn,scorn,shorn
+learn,scorn,spurn
+learn,scorn,shorn,sworn
+learn,scorn,thorn
+216 [0ml[0me[0ma[1;32mr[1;32mn[0m   7    26 Some((14, 3, "scorn")) ["churn", "mourn", "scorn", "shorn", "spurn", "sworn", "thorn"]
+learn,lease,leafy,leach
+learn,lease,leafy
+learn,lease,leafy,leaky
+learn,lease,leafy,leach,leapt
+learn,lease
+learn,lease,leash
+learn,lease,leash,least
+learn,lease,leave
+ 26 [1;32ml[1;32me[1;32ma[0mr[0mn[0m   8    24 Some((20, 4, "lease")) ["leach", "leafy", "leaky", "leapt", "lease", "leash", "least", "leave"]
+learn,trail,brawl
+learn,trail,brawl,crawl
+learn,trail,brawl,crawl,drawl
+learn,trail,flair
+learn,trail,frail
+learn,trail,frail,grail
+learn,trail
+learn,trail,trawl
+ 46 [1;33ml[0me[1;32ma[1;33mr[0mn[0m   8    50 Some((19, 4, "trail")) ["brawl", "crawl", "drawl", "flair", "frail", "grail", "trail", "trawl"]
+learn,blurt,blurb
+learn,blurt
+learn,blurt,flirt
+learn,blurt,glory
+learn,blurt,slurp
+learn,blurt,swirl
+learn,blurt,twirl
+learn,blurt,swirl,whirl
+ 55 [1;33ml[0me[0ma[1;32mr[0mn[0m   8    88 Some((16, 3, "blurt")) ["blurb", "blurt", "flirt", "glory", "slurp", "swirl", "twirl", "whirl"]
+learn,merry,berry
+learn,merry,decry
+learn,merry,berry,ferry
+learn,merry
+learn,merry,metro
+learn,merry,retro
+learn,merry,retry
+learn,merry,weird
+ 60 [0ml[1;32me[0ma[1;32mr[0mn[0m   8   101 Some((16, 3, "merry")) ["berry", "decry", "ferry", "merry", "metro", "retro", "retry", "weird"]
+learn,anele,blend
+learn,anele,clone
+learn,anele,inlet
+learn,anele,kneel
+learn,anele,knelt
+learn,anele,noble
+learn,anele,novel
+learn,anele,uncle
+ 85 [1;33ml[1;33me[0ma[0mr[1;33mn[0m   8   130 Some((16, 2, "anele")) ["blend", "clone", "inlet", "kneel", "knelt", "noble", "novel", "uncle"]
+189 [0ml[0me[0ma[1;33mr[1;32mn[0m   8   141 None ["brown", "crown", "drown", "frown", "groin", "grown", "moron", "robin"]

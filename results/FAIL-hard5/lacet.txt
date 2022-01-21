@@ -1,0 +1,265 @@
+lacet,lilac
+ 14 [1;32ml[1;33ma[1;33mc[0me[0mt[0m   1    21 Some((1, 1, "lilac")) ["lilac"]
+lacet,local
+ 23 [1;32ml[1;33ma[1;32mc[0me[0mt[0m   1     9 Some((1, 1, "local")) ["local"]
+lacet,leech
+ 38 [1;32ml[0ma[1;33mc[1;33me[0mt[0m   1    18 Some((1, 1, "leech")) ["leech"]
+lacet,leach
+ 41 [1;32ml[1;33ma[1;33mc[1;33me[0mt[0m   1     8 Some((1, 1, "leach")) ["leach"]
+lacet,cable
+ 43 [1;33ml[1;32ma[1;33mc[1;33me[0mt[0m   1    13 Some((1, 1, "cable")) ["cable"]
+lacet,lance
+ 44 [1;32ml[1;32ma[1;33mc[1;33me[0mt[0m   1     6 Some((1, 1, "lance")) ["lance"]
+lacet,cache
+ 51 [0ml[1;32ma[1;32mc[1;33me[0mt[0m   1    31 Some((1, 1, "cache")) ["cache"]
+lacet,camel
+ 70 [1;33ml[1;32ma[1;33mc[1;32me[0mt[0m   1     7 Some((1, 1, "camel")) ["camel"]
+lacet,racer
+ 78 [0ml[1;32ma[1;32mc[1;32me[0mt[0m   1    23 Some((1, 1, "racer")) ["racer"]
+lacet,loath
+ 86 [1;32ml[1;33ma[0mc[0me[1;33mt[0m   1    37 Some((1, 1, "loath")) ["loath"]
+lacet,cloth
+ 91 [1;33ml[0ma[1;33mc[0me[1;33mt[0m   1    43 Some((1, 1, "cloth")) ["cloth"]
+lacet,octal
+ 94 [1;33ml[1;33ma[1;33mc[0me[1;33mt[0m   1    15 Some((1, 1, "octal")) ["octal"]
+lacet,latch
+ 98 [1;32ml[1;32ma[1;33mc[0me[1;33mt[0m   1     2 Some((1, 1, "latch")) ["latch"]
+lacet,itchy
+ 99 [0ml[0ma[1;32mc[0me[1;33mt[0m   1    65 Some((1, 1, "itchy")) ["itchy"]
+lacet,table
+115 [1;33ml[1;32ma[0mc[1;33me[1;33mt[0m   1    17 Some((1, 1, "table")) ["table"]
+lacet,caste
+123 [0ml[1;32ma[1;33mc[1;33me[1;33mt[0m   1    11 Some((1, 1, "caste")) ["caste"]
+lacet,after
+138 [0ml[1;33ma[0mc[1;32me[1;33mt[0m   1   101 Some((1, 1, "after")) ["after"]
+lacet,alter
+139 [1;33ml[1;33ma[0mc[1;32me[1;33mt[0m   1    17 Some((1, 1, "alter")) ["alter"]
+lacet,later
+143 [1;32ml[1;32ma[0mc[1;32me[1;33mt[0m   1     5 Some((1, 1, "later")) ["later"]
+lacet,cater
+150 [0ml[1;32ma[1;33mc[1;32me[1;33mt[0m   1     8 Some((1, 1, "cater")) ["cater"]
+lacet,clout
+172 [1;33ml[0ma[1;33mc[0me[1;32mt[0m   1    19 Some((1, 1, "clout")) ["clout"]
+lacet,uncut
+180 [0ml[0ma[1;32mc[0me[1;32mt[0m   1    28 Some((1, 1, "uncut")) ["uncut"]
+lacet,ascot
+183 [0ml[1;33ma[1;32mc[0me[1;32mt[0m   1     7 Some((1, 1, "ascot")) ["ascot"]
+lacet,recut
+207 [0ml[0ma[1;32mc[1;33me[1;32mt[0m   1    11 Some((1, 1, "recut")) ["recut"]
+lacet,asset
+219 [0ml[1;33ma[0mc[1;32me[1;32mt[0m   1    17 Some((1, 1, "asset")) ["asset"]
+lacet,valet
+223 [1;33ml[1;32ma[0mc[1;32me[1;32mt[0m   1     4 Some((1, 1, "valet")) ["valet"]
+lacet,cadet
+231 [0ml[1;32ma[1;33mc[1;32me[1;32mt[0m   1     5 Some((1, 1, "cadet")) ["cadet"]
+lacet,facet
+240 [0ml[1;32ma[1;32mc[1;32me[1;32mt[0m   1     3 Some((1, 1, "facet")) ["facet"]
+lacet,focal
+lacet,focal,vocal
+ 22 [1;33ml[1;33ma[1;32mc[0me[0mt[0m   2    23 Some((3, 2, "focal")) ["focal", "vocal"]
+lacet,cycle
+lacet,cycle,uncle
+ 46 [1;33ml[0ma[1;32mc[1;33me[0mt[0m   2    26 Some((3, 2, "cycle")) ["cycle", "uncle"]
+lacet,decal
+lacet,decal,fecal
+ 49 [1;33ml[1;33ma[1;32mc[1;33me[0mt[0m   2    12 Some((3, 2, "decal")) ["decal", "fecal"]
+lacet,clued
+lacet,clued,cruel
+ 64 [1;33ml[0ma[1;33mc[1;32me[0mt[0m   2    32 Some((3, 2, "clued")) ["clued", "cruel"]
+lacet,excel
+lacet,excel,ulcer
+ 73 [1;33ml[0ma[1;32mc[1;32me[0mt[0m   2    11 Some((3, 2, "excel")) ["excel", "ulcer"]
+lacet,lofty
+lacet,lofty,lusty
+ 83 [1;32ml[0ma[0mc[0me[1;33mt[0m   2    87 Some((3, 2, "lofty")) ["lofty", "lusty"]
+lacet,cacti
+lacet,cacti,tacky
+105 [0ml[1;32ma[1;32mc[0me[1;33mt[0m   2    19 Some((3, 2, "cacti")) ["cacti", "tacky"]
+lacet,lefty
+lacet,lefty,lithe
+110 [1;32ml[0ma[0mc[1;33me[1;33mt[0m   2    39 Some((3, 2, "lefty")) ["lefty", "lithe"]
+lacet,lathe
+lacet,lathe,latte
+116 [1;32ml[1;32ma[0mc[1;33me[1;33mt[0m   2     8 Some((3, 2, "lathe")) ["lathe", "latte"]
+lacet,light
+lacet,light,limit
+164 [1;32ml[0ma[0mc[0me[1;32mt[0m   2    16 Some((3, 2, "light")) ["light", "limit"]
+lacet,fault
+lacet,fault,vault
+169 [1;33ml[1;32ma[0mc[0me[1;32mt[0m   2    14 Some((3, 2, "fault")) ["fault", "vault"]
+lacet,caput
+lacet,caput,carat
+177 [0ml[1;32ma[1;33mc[0me[1;32mt[0m   2    12 Some((3, 2, "caput")) ["caput", "carat"]
+lacet,tacit
+lacet,tacit,yacht
+186 [0ml[1;32ma[1;32mc[0me[1;32mt[0m   2     5 Some((3, 2, "tacit")) ["tacit", "yacht"]
+lacet,cleft
+lacet,cleft,elect
+199 [1;33ml[0ma[1;33mc[1;33me[1;32mt[0m   2     7 Some((3, 2, "cleft")) ["cleft", "elect"]
+lacet,cleat
+lacet,cleat,eclat
+202 [1;33ml[1;33ma[1;33mc[1;33me[1;32mt[0m   2     3 Some((3, 2, "cleat")) ["cleat", "eclat"]
+lacet,lucid,locus
+lacet,lucid
+lacet,lucid,lucky
+ 20 [1;32ml[0ma[1;32mc[0me[0mt[0m   3    28 Some((5, 2, "lucid")) ["locus", "lucid", "lucky"]
+lacet,cocoa
+lacet,cocoa,mocha
+lacet,cocoa,vicar
+ 21 [0ml[1;33ma[1;32mc[0me[0mt[0m   3   158 Some((5, 2, "cocoa")) ["cocoa", "mocha", "vicar"]
+lacet,lader,ladle
+lacet,lader,lapse
+lacet,lader,large
+ 35 [1;32ml[1;32ma[0mc[1;33me[0mt[0m   3    51 Some((6, 2, "lader")) ["ladle", "lapse", "large"]
+lacet,cager,cagey
+lacet,cager,cameo
+lacet,cager,caper
+ 69 [0ml[1;32ma[1;33mc[1;32me[0mt[0m   3    62 Some((6, 2, "cager")) ["cagey", "cameo", "caper"]
+lacet,leant
+lacet,leant,leapt
+lacet,leant,leapt,least
+194 [1;32ml[1;33ma[0mc[1;33me[1;32mt[0m   3     4 Some((6, 3, "leant")) ["leant", "leapt", "least"]
+lacet,comet
+lacet,comet,covet
+lacet,comet,octet
+225 [0ml[0ma[1;33mc[1;32me[1;32mt[0m   3    14 Some((5, 2, "comet")) ["comet", "covet", "octet"]
+lacet,llama
+lacet,llama,loamy
+lacet,llama,loyal
+lacet,llama,lunar
+  5 [1;32ml[1;33ma[0mc[0me[0mt[0m   4   237 Some((7, 2, "llama")) ["llama", "loamy", "loyal", "lunar"]
+lacet,clean
+lacet,clean,clear
+lacet,clean,place
+lacet,clean,scale
+ 40 [1;33ml[1;33ma[1;33mc[1;33me[0mt[0m   4    36 Some((7, 2, "clean")) ["clean", "clear", "place", "scale"]
+lacet,pecan,decay
+lacet,pecan,mecca
+lacet,pecan
+lacet,pecan,recap
+ 48 [0ml[1;33ma[1;32mc[1;33me[0mt[0m   4    51 Some((7, 2, "pecan")) ["decay", "mecca", "pecan", "recap"]
+lacet,alien,abled
+lacet,alien
+lacet,alien,alley
+lacet,alien,angel
+ 58 [1;33ml[1;33ma[0mc[1;32me[0mt[0m   4   124 Some((7, 2, "alien")) ["abled", "alien", "alley", "angel"]
+lacet,dicer,bicep
+lacet,dicer,dicey
+lacet,dicer,emcee
+lacet,dicer,nicer
+ 72 [0ml[0ma[1;32mc[1;32me[0mt[0m   4    62 Some((8, 2, "dicer")) ["bicep", "dicey", "emcee", "nicer"]
+lacet,acute
+lacet,acute,crate
+lacet,acute,teach
+lacet,acute,trace
+120 [0ml[1;33ma[1;33mc[1;33me[1;33mt[0m   4    30 Some((7, 2, "acute")) ["acute", "crate", "teach", "trace"]
+lacet,enact,cheat
+lacet,enact
+lacet,enact,exact
+lacet,enact,react
+201 [0ml[1;33ma[1;33mc[1;33me[1;32mt[0m   4    13 Some((7, 2, "enact")) ["cheat", "enact", "exact", "react"]
+lacet,largo,labor
+lacet,largo,lanky
+lacet,largo,larva
+lacet,largo,lasso
+lacet,largo,laugh
+  8 [1;32ml[1;32ma[0mc[0me[0mt[0m   5   137 Some((10, 2, "largo")) ["labor", "lanky", "larva", "lasso", "laugh"]
+lacet,lurch,logic
+lacet,lurch,lunch
+lacet,lurch
+lacet,lurch,lynch
+lacet,lurch,lyric
+ 11 [1;32ml[0ma[1;33mc[0me[0mt[0m   5    54 Some((9, 2, "lurch")) ["logic", "lunch", "lurch", "lynch", "lyric"]
+lacet,cabal
+lacet,cabal,canal
+lacet,cabal,carol
+lacet,cabal,caulk
+lacet,cabal,carol,cavil
+ 16 [1;33ml[1;32ma[1;33mc[0me[0mt[0m   5    47 Some((10, 3, "cabal")) ["cabal", "canal", "carol", "caulk", "cavil"]
+lacet,label
+lacet,label,lager,laden
+lacet,label,lager
+lacet,label,lapel
+lacet,label,lager,layer
+ 62 [1;32ml[1;32ma[0mc[1;32me[0mt[0m   5    40 Some((11, 3, "label")) ["label", "laden", "lager", "lapel", "layer"]
+lacet,attic,actor
+lacet,attic,antic
+lacet,attic
+lacet,attic,stack
+lacet,attic,track
+ 93 [0ml[1;33ma[1;33mc[0me[1;33mt[0m   5   126 Some((9, 2, "attic")) ["actor", "antic", "attic", "stack", "track"]
+lacet,hotel,betel
+lacet,hotel
+lacet,hotel,motel
+lacet,hotel,steel
+lacet,hotel,towel
+136 [1;33ml[0ma[0mc[1;32me[1;33mt[0m   5    59 Some((9, 2, "hotel")) ["betel", "hotel", "motel", "steel", "towel"]
+lacet,count
+lacet,count,court
+lacet,count,crust
+lacet,count,crypt
+lacet,count,scout
+171 [0ml[0ma[1;33mc[0me[1;32mt[0m   5   116 Some((9, 2, "count")) ["count", "court", "crust", "crypt", "scout"]
+lacet,bleat,alert
+lacet,bleat
+lacet,bleat,dealt
+lacet,bleat,dealt,exalt
+lacet,bleat,pleat
+193 [1;33ml[1;33ma[0mc[1;33me[1;32mt[0m   5    17 Some((10, 3, "bleat")) ["alert", "bleat", "dealt", "exalt", "pleat"]
+lacet,islet,filet
+lacet,islet,fleet
+lacet,islet,inlet
+lacet,islet
+lacet,islet,sleet
+217 [1;33ml[0ma[0mc[1;32me[1;32mt[0m   5    21 Some((9, 2, "islet")) ["filet", "fleet", "inlet", "islet", "sleet"]
+lacet,macho,bacon
+lacet,macho,cacao
+lacet,macho,macaw
+lacet,macho
+lacet,macho,macro
+lacet,macho,wacky
+ 24 [0ml[1;32ma[1;32mc[0me[0mt[0m   6    91 Some((11, 2, "macho")) ["bacon", "cacao", "macaw", "macho", "macro", "wacky"]
+lacet,caner,canoe
+lacet,caner,carve
+lacet,caner,cause
+lacet,caner,dance
+lacet,caner,farce
+lacet,caner,sauce
+ 42 [0ml[1;32ma[1;33mc[1;33me[0mt[0m   6    96 Some((12, 2, "caner")) ["canoe", "carve", "cause", "dance", "farce", "sauce"]
+lacet,decor
+lacet,decor,decoy
+lacet,decor,decry
+lacet,decor,gecko
+lacet,decor,niche
+lacet,decor,recur
+ 45 [0ml[0ma[1;32mc[1;33me[0mt[0m   6   148 Some((11, 2, "decor")) ["decor", "decoy", "decry", "gecko", "niche", "recur"]
+lacet,salty,fatal
+lacet,salty,fatal,natal
+lacet,salty
+lacet,salty,tally
+lacet,salty,talon
+lacet,salty,waltz
+ 88 [1;33ml[1;32ma[0mc[0me[1;33mt[0m   6    76 Some((12, 3, "salty")) ["fatal", "natal", "salty", "tally", "talon", "waltz"]
+lacet,chart,chant
+lacet,chart
+lacet,chart,coast
+lacet,chart,craft
+lacet,chart,scant
+lacet,chart,tract
+174 [0ml[1;33ma[1;33mc[0me[1;32mt[0m   6    43 Some((11, 2, "chart")) ["chant", "chart", "coast", "craft", "scant", "tract"]
+lacet,slept,dwelt
+lacet,slept,exult
+lacet,slept,dwelt,knelt
+lacet,slept
+lacet,slept,smelt
+lacet,slept,spelt
+190 [1;33ml[0ma[0mc[1;33me[1;32mt[0m   6    56 Some((12, 3, "slept")) ["dwelt", "exult", "knelt", "slept", "smelt", "spelt"]
+lacet,lyase,leafy
+lacet,lyase,leafy,leaky
+lacet,lyase,learn
+lacet,lyase,lease
+lacet,lyase,leash
+lacet,lyase,leave
+lacet,lyase,legal
+ 32 [1;32ml[1;33ma[0mc[1;33me[0mt[0m   7    89 Some((15, 3, "lyase")) ["leafy", "leaky", "learn", "lease", "leash", "leave", "legal"]
+ 96 [0ml[1;32ma[1;33mc[0me[1;33mt[0m   7    51 None ["batch", "catch", "catty", "hatch", "match", "patch", "watch"]

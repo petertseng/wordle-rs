@@ -1,0 +1,330 @@
+roate,royal
+ 17 [1;32mr[1;32mo[1;33ma[0mt[0me[0m   1    19 Some((1, 1, "royal")) ["royal"]
+roate,roach
+ 26 [1;32mr[1;32mo[1;32ma[0mt[0me[0m   1     8 Some((1, 1, "roach")) ["roach"]
+roate,right
+ 29 [1;32mr[0mo[0ma[1;33mt[0me[0m   1   120 Some((1, 1, "right")) ["right"]
+roate,ratio
+ 41 [1;32mr[1;33mo[1;33ma[1;33mt[0me[0m   1     8 Some((1, 1, "ratio")) ["ratio"]
+roate,roast
+ 53 [1;32mr[1;32mo[1;32ma[1;33mt[0me[0m   1     2 Some((1, 1, "roast")) ["roast"]
+roate,rusty
+ 56 [1;32mr[0mo[0ma[1;32mt[0me[0m   1    45 Some((1, 1, "rusty")) ["rusty"]
+roate,ratty
+ 65 [1;32mr[0mo[1;33ma[1;32mt[0me[0m   1    12 Some((1, 1, "ratty")) ["ratty"]
+roate,quota
+ 66 [0mr[1;33mo[1;33ma[1;32mt[0me[0m   1    45 Some((1, 1, "quota")) ["quota"]
+roate,aorta
+ 70 [1;33mr[1;32mo[1;33ma[1;32mt[0me[0m   1     5 Some((1, 1, "aorta")) ["aorta"]
+roate,swath
+ 72 [0mr[0mo[1;32ma[1;32mt[0me[0m   1   103 Some((1, 1, "swath")) ["swath"]
+roate,wrath
+ 73 [1;33mr[0mo[1;32ma[1;32mt[0me[0m   1    22 Some((1, 1, "wrath")) ["wrath"]
+roate,loath
+ 78 [0mr[1;32mo[1;32ma[1;32mt[0me[0m   1    10 Some((1, 1, "loath")) ["loath"]
+roate,opera
+ 94 [1;33mr[1;33mo[1;33ma[0mt[1;33me[0m   1    18 Some((1, 1, "opera")) ["opera"]
+roate,retro
+113 [1;32mr[1;33mo[0ma[1;33mt[1;33me[0m   1    13 Some((1, 1, "retro")) ["retro"]
+roate,react
+128 [1;32mr[0mo[1;32ma[1;33mt[1;33me[0m   1     5 Some((1, 1, "react")) ["react"]
+roate,berth
+136 [1;33mr[0mo[0ma[1;32mt[1;33me[0m   1    49 Some((1, 1, "berth")) ["berth"]
+roate,pesto
+138 [0mr[1;33mo[0ma[1;32mt[1;33me[0m   1    46 Some((1, 1, "pesto")) ["pesto"]
+roate,earth
+145 [1;33mr[0mo[1;33ma[1;32mt[1;33me[0m   1    17 Some((1, 1, "earth")) ["earth"]
+roate,atone
+201 [0mr[1;33mo[1;33ma[1;33mt[1;32me[0m   1    11 Some((1, 1, "atone")) ["atone"]
+roate,wrote
+220 [1;33mr[1;33mo[0ma[1;32mt[1;32me[0m   1     8 Some((1, 1, "wrote")) ["wrote"]
+roate,forte
+223 [1;33mr[1;32mo[0ma[1;32mt[1;32me[0m   1     6 Some((1, 1, "forte")) ["forte"]
+roate,route
+224 [1;32mr[1;32mo[0ma[1;32mt[1;32me[0m   1     4 Some((1, 1, "route")) ["route"]
+roate,ovate
+237 [0mr[1;33mo[1;32ma[1;32mt[1;32me[0m   1     4 Some((1, 1, "ovate")) ["ovate"]
+roate,chaos
+roate,chaos,piano
+ 21 [0mr[1;33mo[1;32ma[0mt[0me[0m   2   125 Some((3, 2, "chaos")) ["chaos", "piano"]
+roate,bravo
+roate,bravo,ovary
+ 22 [1;33mr[1;33mo[1;32ma[0mt[0me[0m   2    33 Some((3, 2, "bravo")) ["bravo", "ovary"]
+roate,board
+roate,board,hoard
+ 25 [1;33mr[1;32mo[1;32ma[0mt[0me[0m   2    19 Some((3, 2, "board")) ["board", "hoard"]
+roate,broth
+roate,broth,froth
+ 58 [1;33mr[1;33mo[0ma[1;32mt[0me[0m   2    51 Some((3, 2, "broth")) ["broth", "froth"]
+roate,party
+roate,party,warty
+ 64 [1;33mr[0mo[1;33ma[1;32mt[0me[0m   2    63 Some((3, 2, "party")) ["party", "warty"]
+roate,tower
+roate,tower,voter
+115 [1;33mr[1;32mo[0ma[1;33mt[1;33me[0m   2    21 Some((3, 2, "tower")) ["tower", "voter"]
+roate,heart
+roate,heart,teary
+127 [1;33mr[0mo[1;32ma[1;33mt[1;33me[0m   2    23 Some((3, 2, "heart")) ["heart", "teary"]
+roate,delta
+roate,delta,theta
+144 [0mr[0mo[1;33ma[1;32mt[1;33me[0m   2    90 Some((3, 2, "delta")) ["delta", "theta"]
+roate,raise
+roate,raise,range
+173 [1;32mr[0mo[1;33ma[0mt[1;32me[0m   2    28 Some((3, 2, "raise")) ["raise", "range"]
+roate,adore
+roate,adore,arose
+175 [1;33mr[1;33mo[1;33ma[0mt[1;32me[0m   2     9 Some((3, 2, "adore")) ["adore", "arose"]
+roate,quote
+roate,quote,smote
+219 [0mr[1;33mo[0ma[1;32mt[1;32me[0m   2    29 Some((3, 2, "quote")) ["quote", "smote"]
+roate,rhino
+roate,rhino,rigor
+roate,rhino,rumor
+  5 [1;32mr[1;33mo[0ma[0mt[0me[0m   3   177 Some((5, 2, "rhino")) ["rhino", "rigor", "rumor"]
+roate,rayon,radio
+roate,rayon
+roate,rayon,razor
+ 14 [1;32mr[1;33mo[1;33ma[0mt[0me[0m   3    31 Some((5, 2, "rayon")) ["radio", "rayon", "razor"]
+roate,robot
+roate,robot,roost
+roate,robot,rotor
+ 35 [1;32mr[1;32mo[0ma[1;33mt[0me[0m   3    36 Some((5, 2, "robot")) ["robot", "roost", "rotor"]
+roate,abort
+roate,abort,actor
+roate,abort,tarot
+ 40 [1;33mr[1;33mo[1;33ma[1;33mt[0me[0m   3    44 Some((5, 2, "abort")) ["abort", "actor", "tarot"]
+roate,boast
+roate,boast,coast
+roate,boast,coast,toast
+ 51 [0mr[1;32mo[1;32ma[1;33mt[0me[0m   3    22 Some((6, 3, "boast")) ["boast", "coast", "toast"]
+roate,death
+roate,death,heath
+roate,death,meaty
+153 [0mr[0mo[1;32ma[1;32mt[1;33me[0m   3    46 Some((5, 2, "death")) ["death", "heath", "meaty"]
+roate,rogue
+roate,rogue,rouge
+roate,rogue,rouse
+170 [1;32mr[1;32mo[0ma[0mt[1;32me[0m   3    17 Some((5, 2, "rogue")) ["rogue", "rouge", "rouse"]
+roate,trope,store
+roate,trope
+roate,trope,trove
+193 [1;33mr[1;33mo[0ma[1;33mt[1;32me[0m   3    17 Some((5, 2, "trope")) ["store", "trope", "trove"]
+roate,bathe
+roate,bathe,lathe
+roate,bathe,table
+198 [0mr[0mo[1;33ma[1;33mt[1;32me[0m   3    94 Some((5, 2, "bathe")) ["bathe", "lathe", "table"]
+roate,trace,stare
+roate,trace
+roate,trace,trade
+208 [1;33mr[0mo[1;32ma[1;33mt[1;32me[0m   3    15 Some((5, 2, "trace")) ["stare", "trace", "trade"]
+roate,trite,brute
+roate,trite
+roate,trite,write
+217 [1;33mr[0mo[0ma[1;32mt[1;32me[0m   3    24 Some((5, 2, "trite")) ["brute", "trite", "write"]
+roate,crate
+roate,crate,grate
+roate,crate,grate,irate
+235 [1;33mr[0mo[1;32ma[1;32mt[1;32me[0m   3    10 Some((6, 3, "crate")) ["crate", "grate", "irate"]
+roate,rigid
+roate,rigid,risky
+roate,rigid,ruddy
+roate,rigid,rugby
+  2 [1;32mr[0mo[0ma[0mt[0me[0m   4   628 Some((7, 2, "rigid")) ["rigid", "risky", "ruddy", "rugby"]
+roate,forth
+roate,forth,forty
+roate,forth,north
+roate,forth,north,worth
+ 61 [1;33mr[1;32mo[0ma[1;32mt[0me[0m   4    37 Some((8, 3, "forth")) ["forth", "forty", "north", "worth"]
+roate,roger,rodeo
+roate,roger
+roate,roger,rover
+roate,roger,rover,rower
+ 89 [1;32mr[1;32mo[0ma[0mt[1;33me[0m   4    52 Some((8, 3, "roger")) ["rodeo", "roger", "rover", "rower"]
+roate,cameo
+roate,cameo,oaken
+roate,cameo,ocean
+roate,cameo,omega
+ 93 [0mr[1;33mo[1;33ma[0mt[1;33me[0m   4    86 Some((7, 2, "cameo")) ["cameo", "oaken", "ocean", "omega"]
+roate,realm,reach
+roate,realm,reach,ready
+roate,realm
+roate,realm,rearm
+101 [1;32mr[0mo[1;32ma[0mt[1;33me[0m   4    22 Some((8, 3, "realm")) ["reach", "ready", "realm", "rearm"]
+roate,loamy,coach
+roate,loamy,foamy
+roate,loamy,koala
+roate,loamy
+roate,loamy,soapy
+ 24 [0mr[1;32mo[1;32ma[0mt[0me[0m   5    77 Some((9, 2, "loamy")) ["coach", "foamy", "koala", "loamy", "soapy"]
+roate,dotal,today
+roate,dotal,tonal
+roate,dotal,tonga
+roate,dotal,topaz
+roate,dotal,total
+ 42 [0mr[1;32mo[1;33ma[1;33mt[0me[0m   5    73 Some((10, 2, "dotal")) ["today", "tonal", "tonga", "topaz", "total"]
+roate,stoke
+roate,stoke,stole
+roate,stoke,stole,stone
+roate,stoke,stole,stone,stove
+roate,stoke,those
+192 [0mr[1;33mo[0ma[1;33mt[1;32me[0m   5    65 Some((12, 4, "stoke")) ["stoke", "stole", "stone", "stove", "those"]
+roate,stage
+roate,stage,stake
+roate,stage,stake,stale
+roate,stage,stake,stale,stave
+roate,stage,tease
+207 [0mr[0mo[1;32ma[1;33mt[1;32me[0m   5    45 Some((12, 4, "stage")) ["stage", "stake", "stale", "stave", "tease"]
+roate,round,robin
+roate,round,rocky
+roate,round,rocky,roomy
+roate,round,rough
+roate,round
+roate,round,rowdy
+  8 [1;32mr[1;32mo[0ma[0mt[0me[0m   6   130 Some((12, 3, "round")) ["robin", "rocky", "roomy", "rough", "round", "rowdy"]
+roate,torso,court
+roate,torso,motor
+roate,torso,torch
+roate,torso
+roate,torso,torus
+roate,torso,worst
+ 34 [1;33mr[1;32mo[0ma[1;33mt[0me[0m   6    94 Some((11, 2, "torso")) ["court", "motor", "torch", "torso", "torus", "worst"]
+roate,birth
+roate,birth,dirty
+roate,birth,fritz
+roate,birth,girth
+roate,birth,girth,mirth
+roate,birth,truth
+ 55 [1;33mr[0mo[0ma[1;32mt[0me[0m   6   168 Some((12, 3, "birth")) ["birth", "dirty", "fritz", "girth", "mirth", "truth"]
+roate,leary,beard
+roate,leary,beard,heard
+roate,leary,learn
+roate,leary,pearl
+roate,leary,weary
+roate,leary,yearn
+100 [1;33mr[0mo[1;32ma[0mt[1;33me[0m   6   121 Some((13, 3, "leary")) ["beard", "heard", "learn", "pearl", "weary", "yearn"]
+roate,other,metro
+roate,other
+roate,other,otter
+roate,other,outer
+roate,other,overt
+roate,other,tenor
+112 [1;33mr[1;33mo[0ma[1;33mt[1;33me[0m   6    50 Some((11, 2, "other")) ["metro", "other", "otter", "outer", "overt", "tenor"]
+roate,motel,comet
+roate,motel,covet
+roate,motel,hotel
+roate,motel
+roate,motel,covet,token
+roate,motel,totem
+roate,motel,towel
+114 [0mr[1;32mo[0ma[1;33mt[1;33me[0m   7   111 Some((14, 3, "motel")) ["comet", "covet", "hotel", "motel", "token", "totem", "towel"]
+roate,reuse
+roate,reuse,revue
+roate,reuse,ridge,rhyme
+roate,reuse,ridge
+roate,reuse,ridge,rifle
+roate,reuse,rinse
+roate,reuse,rupee
+164 [1;32mr[0mo[0ma[0mt[1;32me[0m   7    78 Some((15, 3, "reuse")) ["reuse", "revue", "rhyme", "ridge", "rifle", "rinse", "rupee"]
+roate,forge,horse,borne
+roate,forge,force
+roate,forge
+roate,forge,gorge
+roate,forge,horse,horde
+roate,forge,horse
+roate,forge,horse,worse
+169 [1;33mr[1;32mo[0ma[0mt[1;32me[0m   7    50 Some((16, 3, "forge")) ["borne", "force", "forge", "gorge", "horde", "horse", "worse"]
+roate,abode
+roate,abode,above
+roate,abode,adobe
+roate,abode,alone
+roate,abode,anode
+roate,abode,alone,awoke
+roate,abode,canoe
+174 [0mr[1;33mo[1;33ma[0mt[1;32me[0m   7    48 Some((14, 3, "abode")) ["abode", "above", "adobe", "alone", "anode", "awoke", "canoe"]
+roate,terce,terse
+roate,terce,there
+roate,terce,three
+roate,terce,tribe
+roate,terce,trice
+roate,terce,tribe,tripe
+roate,terce,trice,truce
+190 [1;33mr[0mo[0ma[1;33mt[1;32me[0m   7    71 Some((16, 3, "terce")) ["terse", "there", "three", "tribe", "trice", "tripe", "truce"]
+roate,slate,abate
+roate,slate,abate,agate
+roate,slate,elate
+roate,slate,elate,plate
+roate,slate,skate
+roate,slate
+roate,slate,skate,state
+234 [0mr[0mo[1;32ma[1;32mt[1;32me[0m   7    25 Some((16, 3, "slate")) ["abate", "agate", "elate", "plate", "skate", "slate", "state"]
+roate,plots,cloth
+roate,plots,ditto
+roate,plots,gusto
+roate,plots,ditto,junto
+roate,plots,photo
+roate,plots,pinto
+roate,plots,quoth
+roate,plots,sloth
+ 57 [0mr[1;33mo[0ma[1;32mt[0me[0m   8   247 Some((17, 3, "plots")) ["cloth", "ditto", "gusto", "junto", "photo", "pinto", "quoth", "sloth"]
+roate,recut,rebut
+roate,recut
+roate,recut,refit
+roate,recut,refit,remit
+roate,recut,refit,reset
+roate,recut,retch
+roate,recut,retry
+roate,recut,rivet
+110 [1;32mr[0mo[0ma[1;33mt[1;33me[0m   8    56 Some((17, 3, "recut")) ["rebut", "recut", "refit", "remit", "reset", "retch", "retry", "rivet"]
+roate,besot,depot
+roate,besot,detox
+roate,besot,ethos
+roate,besot,extol
+roate,besot,octet
+roate,besot,often
+roate,besot,onset
+roate,besot,tempo
+111 [0mr[1;33mo[0ma[1;33mt[1;33me[0m   8   210 Some((16, 2, "besot")) ["depot", "detox", "ethos", "extol", "octet", "often", "onset", "tempo"]
+roate,molar,borax
+roate,molar,cobra
+roate,molar,coral
+roate,molar,borax,foray
+roate,molar
+roate,molar,moral
+roate,molar,polar
+roate,molar,polar,solar
+roate,molar,sonar
+ 16 [1;33mr[1;32mo[1;33ma[0mt[0me[0m   9   104 Some((19, 3, "molar")) ["borax", "cobra", "coral", "foray", "molar", "moral", "polar", "solar", "sonar"]
+roate,derro,credo
+roate,derro,decor
+roate,derro,error
+roate,derro,heron
+roate,derro,odder
+roate,derro,offer
+roate,derro,odder,older
+roate,derro,order
+roate,derro,offer,owner
+roate,derro,verso
+ 85 [1;33mr[1;33mo[0ma[0mt[1;33me[0m  10   362 Some((22, 3, "derro")) ["credo", "decor", "error", "heron", "odder", "offer", "older", "order", "owner", "verso"]
+roate,argue,afire
+roate,argue,agree
+roate,argue
+roate,argue,arise
+roate,argue,azure
+roate,argue,barge
+roate,argue,carve
+roate,argue,carve,farce
+roate,argue,barge,large
+roate,argue,carve,parse
+172 [1;33mr[0mo[1;33ma[0mt[1;32me[0m  10   169 Some((22, 3, "argue")) ["afire", "agree", "argue", "arise", "azure", "barge", "carve", "farce", "large", "parse"]
+roate,suite,butte
+roate,suite,chute
+roate,suite,elite
+roate,suite,chute,flute
+roate,suite,quite
+roate,suite,smite
+roate,suite,smite,spite
+roate,suite
+roate,suite,unite
+roate,suite,elite,white
+216 [0mr[0mo[0ma[1;32mt[1;32me[0m  10   116 Some((22, 3, "suite")) ["butte", "chute", "elite", "flute", "quite", "smite", "spite", "suite", "unite", "white"]
+225 [0mr[0mo[1;33ma[1;32mt[1;32me[0m  10    45 None ["acute", "baste", "caste", "haste", "haute", "latte", "paste", "saute", "taste", "waste"]

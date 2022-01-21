@@ -1,0 +1,372 @@
+carte,cairn
+ 17 [1;32mc[1;32ma[1;33mr[0mt[0me[0m   1    45 Some((1, 1, "cairn")) ["cairn"]
+carte,march
+ 25 [1;33mc[1;32ma[1;32mr[0mt[0me[0m   1    50 Some((1, 1, "march")) ["march"]
+carte,torch
+ 46 [1;33mc[0ma[1;32mr[1;33mt[0me[0m   1    16 Some((1, 1, "torch")) ["torch"]
+carte,carat
+ 53 [1;32mc[1;32ma[1;32mr[1;33mt[0me[0m   1     5 Some((1, 1, "carat")) ["carat"]
+carte,cloth
+ 56 [1;32mc[0ma[0mr[1;32mt[0me[0m   1    59 Some((1, 1, "cloth")) ["cloth"]
+carte,wrath
+ 66 [0mc[1;33ma[1;33mr[1;32mt[0me[0m   1    63 Some((1, 1, "wrath")) ["wrath"]
+carte,ratty
+ 69 [0mc[1;32ma[1;33mr[1;32mt[0me[0m   1    27 Some((1, 1, "ratty")) ["ratty"]
+carte,aorta
+ 75 [0mc[1;33ma[1;32mr[1;32mt[0me[0m   1    29 Some((1, 1, "aorta")) ["aorta"]
+carte,racer
+ 97 [1;33mc[1;32ma[1;33mr[0mt[1;33me[0m   1    29 Some((1, 1, "racer")) ["racer"]
+carte,caper
+ 98 [1;32mc[1;32ma[1;33mr[0mt[1;33me[0m   1    17 Some((1, 1, "caper")) ["caper"]
+carte,corer
+101 [1;32mc[0ma[1;32mr[0mt[1;33me[0m   1    34 Some((1, 1, "corer")) ["corer"]
+carte,feral
+102 [0mc[1;33ma[1;32mr[0mt[1;33me[0m   1   131 Some((1, 1, "feral")) ["feral"]
+carte,facet
+115 [1;33mc[1;32ma[0mr[1;33mt[1;33me[0m   1    11 Some((1, 1, "facet")) ["facet"]
+carte,cadet
+116 [1;32mc[1;32ma[0mr[1;33mt[1;33me[0m   1     6 Some((1, 1, "cadet")) ["cadet"]
+carte,react
+121 [1;33mc[1;33ma[1;33mr[1;33mt[1;33me[0m   1     7 Some((1, 1, "react")) ["react"]
+carte,cater
+125 [1;32mc[1;32ma[1;33mr[1;33mt[1;33me[0m   1     3 Some((1, 1, "cater")) ["cater"]
+carte,terra
+129 [0mc[1;33ma[1;32mr[1;33mt[1;33me[0m   1    17 Some((1, 1, "terra")) ["terra"]
+carte,berth
+153 [0mc[0ma[1;32mr[1;32mt[1;33me[0m   1    15 Some((1, 1, "berth")) ["berth"]
+carte,earth
+159 [0mc[1;32ma[1;32mr[1;32mt[1;33me[0m   1     2 Some((1, 1, "earth")) ["earth"]
+carte,agree
+183 [0mc[1;33ma[1;32mr[0mt[1;32me[0m   1    43 Some((1, 1, "agree")) ["agree"]
+carte,farce
+187 [1;33mc[1;32ma[1;32mr[0mt[1;32me[0m   1     5 Some((1, 1, "farce")) ["farce"]
+carte,carve
+188 [1;32mc[1;32ma[1;32mr[0mt[1;32me[0m   1     4 Some((1, 1, "carve")) ["carve"]
+carte,twice
+190 [1;33mc[0ma[0mr[1;33mt[1;32me[0m   1    19 Some((1, 1, "twice")) ["twice"]
+carte,cutie
+191 [1;32mc[0ma[0mr[1;33mt[1;32me[0m   1    11 Some((1, 1, "cutie")) ["cutie"]
+carte,trace
+202 [1;33mc[1;33ma[1;33mr[1;33mt[1;32me[0m   1     3 Some((1, 1, "trace")) ["trace"]
+carte,chute
+218 [1;32mc[0ma[0mr[1;32mt[1;32me[0m   1     9 Some((1, 1, "chute")) ["chute"]
+carte,acute
+220 [1;33mc[1;33ma[0mr[1;32mt[1;32me[0m   1     5 Some((1, 1, "acute")) ["acute"]
+carte,caste
+224 [1;32mc[1;32ma[0mr[1;32mt[1;32me[0m   1     2 Some((1, 1, "caste")) ["caste"]
+carte,crate
+230 [1;32mc[1;33ma[1;33mr[1;32mt[1;32me[0m   1     2 Some((1, 1, "crate")) ["crate"]
+carte,forte
+234 [0mc[0ma[1;32mr[1;32mt[1;32me[0m   1     3 Some((1, 1, "forte")) ["forte"]
+carte,macro
+carte,macro,ranch
+ 16 [1;33mc[1;32ma[1;33mr[0mt[0me[0m   2    79 Some((3, 2, "macro")) ["macro", "ranch"]
+carte,circa
+carte,circa,coral
+ 23 [1;32mc[1;33ma[1;32mr[0mt[0me[0m   2    40 Some((3, 2, "circa")) ["circa", "coral"]
+carte,clout
+carte,clout,count
+ 29 [1;32mc[0ma[0mr[1;33mt[0me[0m   2   141 Some((3, 2, "clout")) ["clout", "count"]
+carte,chant
+carte,chant,coast
+ 32 [1;32mc[1;33ma[0mr[1;33mt[0me[0m   2    48 Some((3, 2, "chant")) ["chant", "coast"]
+carte,caput
+carte,caput,catch
+ 35 [1;32mc[1;32ma[0mr[1;33mt[0me[0m   2    20 Some((3, 2, "caput")) ["caput", "catch"]
+carte,trick
+carte,trick,truck
+ 37 [1;33mc[0ma[1;33mr[1;33mt[0me[0m   2    66 Some((3, 2, "trick")) ["trick", "truck"]
+carte,chart
+carte,chart,craft
+ 41 [1;32mc[1;33ma[1;33mr[1;33mt[0me[0m   2    11 Some((3, 2, "chart")) ["chart", "craft"]
+carte,tardy
+carte,tardy,tarot
+ 51 [0mc[1;32ma[1;32mr[1;33mt[0me[0m   2    45 Some((3, 2, "tardy")) ["tardy", "tarot"]
+carte,cacti
+carte,cacti,catty
+ 62 [1;32mc[1;32ma[0mr[1;32mt[0me[0m   2    10 Some((3, 2, "cacti")) ["cacti", "catty"]
+carte,party
+carte,party,warty
+ 78 [0mc[1;32ma[1;32mr[1;32mt[0me[0m   2    21 Some((3, 2, "party")) ["party", "warty"]
+carte,cheap
+carte,cheap,clean
+ 86 [1;32mc[1;33ma[0mr[0mt[1;33me[0m   2    96 Some((3, 2, "cheap")) ["cheap", "clean"]
+carte,reach
+carte,reach,recap
+ 94 [1;33mc[1;33ma[1;33mr[0mt[1;33me[0m   2    66 Some((3, 2, "reach")) ["reach", "recap"]
+carte,cheat
+carte,cheat,cleat
+113 [1;32mc[1;33ma[0mr[1;33mt[1;33me[0m   2    11 Some((3, 2, "cheat")) ["cheat", "cleat"]
+carte,crept
+carte,crept,crest
+119 [1;32mc[0ma[1;33mr[1;33mt[1;33me[0m   2    13 Some((3, 2, "crept")) ["crept", "crest"]
+carte,price
+carte,price,score
+172 [1;33mc[0ma[1;33mr[0mt[1;32me[0m   2    65 Some((3, 2, "price")) ["price", "score"]
+carte,raise
+carte,raise,range
+177 [0mc[1;32ma[1;33mr[0mt[1;32me[0m   2    68 Some((3, 2, "raise")) ["raise", "range"]
+carte,force
+carte,force,scree
+181 [1;33mc[0ma[1;32mr[0mt[1;32me[0m   2    17 Some((3, 2, "force")) ["force", "scree"]
+carte,curse
+carte,curse,curve
+182 [1;32mc[0ma[1;32mr[0mt[1;32me[0m   2    11 Some((3, 2, "curse")) ["curse", "curve"]
+carte,trice
+carte,trice,truce
+199 [1;33mc[0ma[1;33mr[1;33mt[1;32me[0m   2     6 Some((3, 2, "trice")) ["trice", "truce"]
+carte,stare
+carte,stare,trade
+201 [0mc[1;33ma[1;33mr[1;33mt[1;32me[0m   2    23 Some((3, 2, "stare")) ["stare", "trade"]
+carte,terse
+carte,terse,three
+207 [0mc[0ma[1;32mr[1;33mt[1;32me[0m   2    15 Some((3, 2, "terse")) ["terse", "three"]
+carte,grate
+carte,grate,irate
+228 [0mc[1;33ma[1;33mr[1;32mt[1;32me[0m   2    12 Some((3, 2, "grate")) ["grate", "irate"]
+carte,scram,acrid
+carte,scram
+carte,scram,scrap
+ 22 [1;33mc[1;33ma[1;32mr[0mt[0me[0m   3    74 Some((5, 2, "scram")) ["acrid", "scram", "scrap"]
+carte,cargo
+carte,cargo,carol
+carte,cargo,carry
+ 26 [1;32mc[1;32ma[1;32mr[0mt[0me[0m   3    33 Some((5, 2, "cargo")) ["cargo", "carol", "carry"]
+carte,court
+carte,court,crust
+carte,court,crypt
+ 38 [1;32mc[0ma[1;33mr[1;33mt[0me[0m   3    32 Some((5, 2, "court")) ["court", "crust", "crypt"]
+carte,track,actor
+carte,track
+carte,track,tract
+ 40 [1;33mc[1;33ma[1;33mr[1;33mt[0me[0m   3    25 Some((5, 2, "track")) ["actor", "track", "tract"]
+carte,ratio
+carte,ratio,satyr
+carte,ratio,tapir
+ 42 [0mc[1;32ma[1;33mr[1;33mt[0me[0m   3    99 Some((5, 2, "ratio")) ["ratio", "satyr", "tapir"]
+carte,party,strap
+carte,party,straw
+carte,party,stray
+ 48 [0mc[1;33ma[1;32mr[1;33mt[0me[0m   3    84 Some((6, 2, "party")) ["strap", "straw", "stray"]
+carte,camel,cagey
+carte,camel
+carte,camel,cameo
+ 89 [1;32mc[1;32ma[0mr[0mt[1;33me[0m   3    56 Some((5, 2, "camel")) ["cagey", "camel", "cameo"]
+carte,mercy
+carte,mercy,perch
+carte,mercy,screw
+100 [1;33mc[0ma[1;32mr[0mt[1;33me[0m   3    54 Some((5, 2, "mercy")) ["mercy", "perch", "screw"]
+carte,erect
+carte,erect,recut
+carte,erect,retch
+118 [1;33mc[0ma[1;33mr[1;33mt[1;33me[0m   3    27 Some((5, 2, "erect")) ["erect", "recut", "retch"]
+carte,cease
+carte,cease,chafe
+carte,cease,chase
+167 [1;32mc[1;33ma[0mr[0mt[1;32me[0m   3    41 Some((5, 2, "cease")) ["cease", "chafe", "chase"]
+carte,dance
+carte,dance,lance
+carte,dance,sauce
+169 [1;33mc[1;32ma[0mr[0mt[1;32me[0m   3    34 Some((5, 2, "dance")) ["dance", "lance", "sauce"]
+carte,brace
+carte,brace,grace
+carte,brace,scare
+175 [1;33mc[1;33ma[1;33mr[0mt[1;32me[0m   3    24 Some((5, 2, "brace")) ["brace", "grace", "scare"]
+carte,crane
+carte,crane,crave
+carte,crane,crave,craze
+176 [1;32mc[1;33ma[1;33mr[0mt[1;32me[0m   3    15 Some((6, 3, "crane")) ["crane", "crave", "craze"]
+carte,barge
+carte,barge,large
+carte,barge,parse
+186 [0mc[1;32ma[1;32mr[0mt[1;32me[0m   3    34 Some((5, 2, "barge")) ["barge", "large", "parse"]
+carte,bathe
+carte,bathe,lathe
+carte,bathe,table
+195 [0mc[1;32ma[0mr[1;33mt[1;32me[0m   3    32 Some((5, 2, "bathe")) ["bathe", "lathe", "table"]
+carte,creak,cedar
+carte,creak,clear
+carte,creak
+carte,creak,cream
+ 95 [1;32mc[1;33ma[1;33mr[0mt[1;33me[0m   4    32 Some((7, 2, "creak")) ["cedar", "clear", "creak", "cream"]
+carte,parer,early
+carte,parer,harem
+carte,parer
+carte,parer,rarer
+105 [0mc[1;32ma[1;32mr[0mt[1;33me[0m   4    83 Some((7, 2, "parer")) ["early", "harem", "parer", "rarer"]
+carte,chest
+carte,chest,cleft
+carte,chest,comet
+carte,chest,comet,covet
+110 [1;32mc[0ma[0mr[1;33mt[1;33me[0m   4    50 Some((8, 3, "chest")) ["chest", "cleft", "comet", "covet"]
+carte,enact,eclat
+carte,enact
+carte,enact,exact
+carte,enact,teach
+112 [1;33mc[1;33ma[0mr[1;33mt[1;33me[0m   4    30 Some((7, 2, "enact")) ["eclat", "enact", "exact", "teach"]
+carte,eaten
+carte,eaten,matey
+carte,eaten,taken
+carte,eaten,valet
+114 [0mc[1;32ma[0mr[1;33mt[1;33me[0m   4   120 Some((7, 2, "eaten")) ["eaten", "matey", "taken", "valet"]
+carte,beret
+carte,beret,egret
+carte,beret,merit
+carte,beret,threw
+126 [0mc[0ma[1;32mr[1;33mt[1;33me[0m   4    60 Some((7, 2, "beret")) ["beret", "egret", "merit", "threw"]
+carte,peace
+carte,peace,place
+carte,peace,scale
+carte,peace,space
+166 [1;33mc[1;33ma[0mr[0mt[1;32me[0m   4    74 Some((7, 2, "peace")) ["peace", "place", "scale", "space"]
+carte,cable
+carte,cable,cache
+carte,cable,cache,canoe
+carte,cable,cache,canoe,cause
+170 [1;32mc[1;32ma[0mr[0mt[1;32me[0m   4    18 Some((10, 4, "cable")) ["cable", "cache", "canoe", "cause"]
+carte,curly,corny
+carte,curly,curio
+carte,curly
+carte,curly,curry
+carte,curly,curry,curvy
+ 20 [1;32mc[0ma[1;32mr[0mt[0me[0m   5    96 Some((10, 3, "curly")) ["corny", "curio", "curly", "curry", "curvy"]
+carte,broth
+carte,broth,fritz
+carte,broth,froth
+carte,broth,rusty
+carte,broth,truth
+ 63 [0mc[0ma[1;33mr[1;32mt[0me[0m   5   168 Some((9, 2, "broth")) ["broth", "fritz", "froth", "rusty", "truth"]
+carte,death
+carte,death,delta
+carte,death,heath
+carte,death,meaty
+carte,death,theta
+138 [0mc[1;33ma[0mr[1;32mt[1;33me[0m   5    90 Some((9, 2, "death")) ["death", "delta", "heath", "meaty", "theta"]
+carte,write,brute
+carte,write,route
+carte,write,trite
+carte,write
+carte,write,wrote
+225 [0mc[0ma[1;33mr[1;32mt[1;32me[0m   5    24 Some((9, 2, "write")) ["brute", "route", "trite", "write", "wrote"]
+carte,chary,acorn
+carte,chary,roach
+carte,chary,scarf
+carte,chary,scary
+carte,chary,vicar
+carte,chary,wrack
+ 13 [1;33mc[1;33ma[1;33mr[0mt[0me[0m   6   211 Some((12, 2, "chary")) ["acorn", "roach", "scarf", "scary", "vicar", "wrack"]
+carte,birch
+carte,birch,lurch
+carte,birch,lyric
+carte,birch,lurch,porch
+carte,birch,scrub
+carte,birch,scrum
+ 19 [1;33mc[0ma[1;32mr[0mt[0me[0m   6   165 Some((12, 3, "birch")) ["birch", "lurch", "lyric", "porch", "scrub", "scrum"]
+carte,antic
+carte,antic,ascot
+carte,antic,attic
+carte,antic,octal
+carte,antic,scant
+carte,antic,stack
+ 31 [1;33mc[1;33ma[0mr[1;33mt[0me[0m   6   126 Some((11, 2, "antic")) ["antic", "ascot", "attic", "octal", "scant", "stack"]
+carte,creme,chore
+carte,creme
+carte,creme,crepe
+carte,creme,crime
+carte,creme,crone
+carte,creme,crone,crude
+173 [1;32mc[0ma[1;33mr[0mt[1;32me[0m   6    39 Some((12, 3, "creme")) ["chore", "creme", "crepe", "crime", "crone", "crude"]
+carte,stage,atone
+carte,stage
+carte,stage,stake
+carte,stage,stake,stale
+carte,stage,stake,stale,stave
+carte,stage,tease
+192 [0mc[1;33ma[0mr[1;33mt[1;32me[0m   6    94 Some((14, 4, "stage")) ["atone", "stage", "stake", "stale", "stave", "tease"]
+carte,tripe,store
+carte,tripe,there
+carte,tripe,tribe
+carte,tripe
+carte,tripe,trope
+carte,tripe,trove
+198 [0mc[0ma[1;33mr[1;33mt[1;32me[0m   6    71 Some((11, 2, "tripe")) ["store", "there", "tribe", "tripe", "trope", "trove"]
+carte,quota,amity
+carte,quota,aunty
+carte,quota,junta
+carte,quota,loath
+carte,quota
+carte,quota,amity,swath
+carte,quota,vista
+ 57 [0mc[1;33ma[0mr[1;32mt[0me[0m   7   325 Some((14, 3, "quota")) ["amity", "aunty", "junta", "loath", "quota", "swath", "vista"]
+carte,recur,decor
+carte,recur,decry
+carte,recur,nicer
+carte,recur
+carte,recur,relic
+carte,recur,ulcer
+carte,recur,wreck
+ 91 [1;33mc[0ma[1;33mr[0mt[1;33me[0m   7   209 Some((13, 2, "recur")) ["decor", "decry", "nicer", "recur", "relic", "ulcer", "wreck"]
+carte,eater
+carte,eater,hater
+carte,eater,hater,later
+carte,eater,taker
+carte,eater,taker,tamer
+carte,eater,taker,tamer,taper
+carte,eater,hater,later,water
+123 [0mc[1;32ma[1;33mr[1;33mt[1;33me[0m   7    35 Some((19, 4, "eater")) ["eater", "hater", "later", "taker", "tamer", "taper", "water"]
+carte,birth
+carte,birth,dirty
+carte,birth,forth
+carte,birth,forty
+carte,birth,girth
+carte,birth,girth,mirth
+carte,birth,forth,north
+carte,birth,forth,north,worth
+ 72 [0mc[0ma[1;32mr[1;32mt[0me[0m   8    74 Some((19, 4, "birth")) ["birth", "dirty", "forth", "forty", "girth", "mirth", "north", "worth"]
+carte,coked,cello
+carte,coked,check
+carte,coked,cheek
+carte,coked,chess
+carte,coked,chief
+carte,coked,clued
+carte,coked,coven
+carte,coked,coven,covey
+ 83 [1;32mc[0ma[0mr[0mt[1;33me[0m   8   342 Some((17, 3, "coked")) ["cello", "check", "cheek", "chess", "chief", "clued", "coven", "covey"]
+carte,eject,edict
+carte,eject
+carte,eject,elect
+carte,eject,ethic
+carte,eject,edict,evict
+carte,eject,fetch
+carte,eject,octet
+carte,eject,scent
+109 [1;33mc[0ma[0mr[1;33mt[1;33me[0m   8   114 Some((16, 3, "eject")) ["edict", "eject", "elect", "ethic", "evict", "fetch", "octet", "scent"]
+carte,slate,abate
+carte,slate,abate,agate
+carte,slate,elate
+carte,slate,abate,ovate
+carte,slate,elate,plate
+carte,slate,skate
+carte,slate
+carte,slate,skate,state
+219 [0mc[1;33ma[0mr[1;32mt[1;32me[0m   8    45 Some((19, 3, "slate")) ["abate", "agate", "elate", "ovate", "plate", "skate", "slate", "state"]
+carte,haste,baste
+carte,haste
+carte,haste,haute
+carte,haste,latte
+carte,haste,baste,paste
+carte,haste,saute
+carte,haste,baste,paste,taste
+carte,haste,baste,paste,taste,waste
+222 [0mc[1;32ma[0mr[1;32mt[1;32me[0m   8    16 Some((21, 5, "haste")) ["baste", "haste", "haute", "latte", "paste", "saute", "taste", "waste"]
+carte,incur,brick
+carte,incur,frock
+carte,incur
+carte,incur,micro
+carte,incur,occur
+carte,incur,brick,prick
+carte,incur,rocky
+carte,incur,scorn
+carte,incur,scour
+ 10 [1;33mc[0ma[1;33mr[0mt[0me[0m   9   507 Some((18, 3, "incur")) ["brick", "frock", "incur", "micro", "occur", "prick", "rocky", "scorn", "scour"]
+ 34 [1;33mc[1;32ma[0mr[1;33mt[0me[0m   9    51 None ["batch", "hatch", "latch", "match", "patch", "tacit", "tacky", "watch", "yacht"]

@@ -1,0 +1,161 @@
+talcs,table
+ 17 [1;32mt[1;32ma[1;33ml[0mc[0ms[0m   1    26 Some((1, 1, "table")) ["table"]
+talcs,lilac
+ 48 [0mt[1;33ma[1;32ml[1;33mc[0ms[0m   1    27 Some((1, 1, "lilac")) ["lilac"]
+talcs,eclat
+ 49 [1;33mt[1;33ma[1;32ml[1;33mc[0ms[0m   1     3 Some((1, 1, "eclat")) ["eclat"]
+talcs,elect
+ 64 [1;33mt[0ma[1;33ml[1;32mc[0ms[0m   1     7 Some((1, 1, "elect")) ["elect"]
+talcs,lance
+ 69 [0mt[1;32ma[1;33ml[1;32mc[0ms[0m   1     9 Some((1, 1, "lance")) ["lance"]
+talcs,latch
+ 70 [1;33mt[1;32ma[1;33ml[1;32mc[0ms[0m   1     3 Some((1, 1, "latch")) ["latch"]
+talcs,solar
+102 [0mt[1;33ma[1;32ml[0mc[1;33ms[0m   1   127 Some((1, 1, "solar")) ["solar"]
+talcs,splat
+103 [1;33mt[1;33ma[1;32ml[0mc[1;33ms[0m   1    18 Some((1, 1, "splat")) ["splat"]
+talcs,salty
+106 [1;33mt[1;32ma[1;32ml[0mc[1;33ms[0m   1    15 Some((1, 1, "salty")) ["salty"]
+talcs,caste
+115 [1;33mt[1;32ma[0ml[1;33mc[1;33ms[0m   1    14 Some((1, 1, "caste")) ["caste"]
+talcs,stack
+139 [1;33mt[1;33ma[0ml[1;32mc[1;33ms[0m   1     3 Some((1, 1, "stack")) ["stack"]
+talcs,slack
+147 [0mt[1;33ma[1;33ml[1;32mc[1;33ms[0m   1     4 Some((1, 1, "slack")) ["slack"]
+talcs,basis
+168 [0mt[1;32ma[0ml[0mc[1;32ms[0m   1   757 Some((1, 1, "basis")) ["basis"]
+talcs,glass
+174 [0mt[1;33ma[1;33ml[0mc[1;32ms[0m   1   303 Some((1, 1, "glass")) ["glass"]
+talcs,locus
+198 [0mt[0ma[1;33ml[1;33mc[1;32ms[0m   1    74 Some((1, 1, "locus")) ["locus"]
+talcs,class
+201 [0mt[1;33ma[1;33ml[1;33mc[1;32ms[0m   1    28 Some((1, 1, "class")) ["class"]
+talcs,allot
+talcs,allot,delta
+ 22 [1;33mt[1;33ma[1;32ml[0mc[0ms[0m   2    50 Some((3, 2, "allot")) ["allot", "delta"]
+talcs,valet
+talcs,valet,waltz
+ 25 [1;33mt[1;32ma[1;32ml[0mc[0ms[0m   2    34 Some((3, 2, "valet")) ["valet", "waltz"]
+talcs,tally
+talcs,tally,talon
+ 26 [1;32mt[1;32ma[1;32ml[0mc[0ms[0m   2    18 Some((3, 2, "tally")) ["tally", "talon"]
+talcs,tacit
+talcs,tacit,tacky
+ 35 [1;32mt[1;32ma[0ml[1;33mc[0ms[0m   2    14 Some((3, 2, "tacit")) ["tacit", "tacky"]
+talcs,cleat
+talcs,cleat,octal
+ 40 [1;33mt[1;33ma[1;33ml[1;33mc[0ms[0m   2    15 Some((3, 2, "cleat")) ["cleat", "octal"]
+talcs,taste
+talcs,taste,tasty
+ 89 [1;32mt[1;32ma[0ml[0mc[1;33ms[0m   2    68 Some((3, 2, "taste")) ["taste", "tasty"]
+talcs,islet
+talcs,islet,split
+100 [1;33mt[0ma[1;32ml[0mc[1;33ms[0m   2    60 Some((3, 2, "islet")) ["islet", "split"]
+talcs,basic
+talcs,basic,cause
+114 [0mt[1;32ma[0ml[1;33mc[1;33ms[0m   2   110 Some((3, 2, "basic")) ["basic", "cause"]
+talcs,sauce
+talcs,sauce,saucy
+141 [0mt[1;32ma[0ml[1;32mc[1;33ms[0m   2    14 Some((3, 2, "sauce")) ["sauce", "saucy"]
+talcs,slice
+talcs,slice,slick
+144 [0mt[0ma[1;33ml[1;32mc[1;33ms[0m   2    10 Some((3, 2, "slice")) ["slice", "slick"]
+talcs,ethos
+talcs,ethos,fetus
+163 [1;33mt[0ma[0ml[0mc[1;32ms[0m   2   794 Some((3, 2, "ethos")) ["ethos", "fetus"]
+talcs,torus
+talcs,torus,truss
+164 [1;32mt[0ma[0ml[0mc[1;32ms[0m   2   263 Some((3, 2, "torus")) ["torus", "truss"]
+talcs,chaos
+talcs,chaos,crass
+192 [0mt[1;33ma[0ml[1;33mc[1;32ms[0m   2   165 Some((3, 2, "chaos")) ["chaos", "crass"]
+talcs,tilde
+talcs,tilde,tulip
+talcs,tilde,tulle
+ 20 [1;32mt[0ma[1;32ml[0mc[0ms[0m   3    53 Some((5, 2, "tilde")) ["tilde", "tulip", "tulle"]
+talcs,cleft
+talcs,cleft,cloth
+talcs,cleft,clout
+ 37 [1;33mt[0ma[1;33ml[1;33mc[0ms[0m   3    43 Some((5, 2, "cleft")) ["cleft", "cloth", "clout"]
+talcs,enact
+talcs,enact,exact
+talcs,enact,react
+ 58 [1;33mt[1;33ma[0ml[1;32mc[0ms[0m   3    30 Some((5, 2, "enact")) ["enact", "exact", "react"]
+talcs,tares,tease
+talcs,tares,toast
+talcs,tares,trash
+ 86 [1;32mt[1;33ma[0ml[0mc[1;33ms[0m   3   116 Some((6, 2, "tares")) ["tease", "toast", "trash"]
+talcs,ascot
+talcs,ascot,coast
+talcs,ascot,scant
+112 [1;33mt[1;33ma[0ml[1;33mc[1;33ms[0m   3    33 Some((5, 2, "ascot")) ["ascot", "coast", "scant"]
+talcs,scold,close
+talcs,scold
+talcs,scold,scowl
+117 [0mt[0ma[1;33ml[1;33mc[1;33ms[0m   3    98 Some((5, 2, "scold")) ["close", "scold", "scowl"]
+talcs,souct,stick
+talcs,souct,stock
+talcs,souct,stuck
+136 [1;33mt[0ma[0ml[1;32mc[1;33ms[0m   3    11 Some((6, 2, "souct")) ["stick", "stock", "stuck"]
+talcs,tonic
+talcs,tonic,topic
+talcs,tonic,topic,toxic
+talcs,tonic,tunic
+ 29 [1;32mt[0ma[0ml[1;33mc[0ms[0m   4    61 Some((8, 3, "tonic")) ["tonic", "topic", "toxic", "tunic"]
+talcs,colon,cello
+talcs,colon
+talcs,colon,color
+talcs,colon,relic
+ 45 [0mt[0ma[1;32ml[1;33mc[0ms[0m   4    82 Some((7, 2, "colon")) ["cello", "colon", "color", "relic"]
+talcs,teach
+talcs,teach,trace
+talcs,teach,track
+talcs,teach,track,tract
+ 59 [1;32mt[1;33ma[0ml[1;32mc[0ms[0m   4     9 Some((8, 3, "teach")) ["teach", "trace", "track", "tract"]
+talcs,belch
+talcs,belch,gulch
+talcs,belch,gulch,mulch
+talcs,belch,welch
+ 72 [0mt[0ma[1;32ml[1;32mc[0ms[0m   4    20 Some((8, 3, "belch")) ["belch", "gulch", "mulch", "welch"]
+talcs,shack
+talcs,shack,smack
+talcs,shack,smack,snack
+talcs,shack,space
+138 [0mt[1;33ma[0ml[1;32mc[1;33ms[0m   4    28 Some((8, 3, "shack")) ["shack", "smack", "snack", "space"]
+talcs,towel,title
+talcs,towel
+talcs,towel,troll
+talcs,towel,truly
+talcs,towel,twirl
+ 11 [1;32mt[0ma[1;33ml[0mc[0ms[0m   5   106 Some((9, 2, "towel")) ["title", "towel", "troll", "truly", "twirl"]
+talcs,filet
+talcs,filet,filth
+talcs,filet,inlet
+talcs,filet,pilot
+talcs,filet,unlit
+ 19 [1;33mt[0ma[1;32ml[0mc[0ms[0m   5   141 Some((9, 2, "filet")) ["filet", "filth", "inlet", "pilot", "unlit"]
+talcs,farce,dance
+talcs,farce,fancy
+talcs,farce
+talcs,farce,march
+talcs,farce,ranch
+ 60 [0mt[1;32ma[0ml[1;32mc[0ms[0m   5    63 Some((9, 2, "farce")) ["dance", "fancy", "farce", "march", "ranch"]
+talcs,black
+talcs,black,clack
+talcs,black,clack,flack
+talcs,black,leach
+talcs,black,place
+ 66 [0mt[1;33ma[1;33ml[1;32mc[0ms[0m   5    24 Some((10, 3, "black")) ["black", "clack", "flack", "leach", "place"]
+talcs,brass,abyss
+talcs,brass,amass
+talcs,brass,amiss
+talcs,brass
+talcs,brass,grass
+165 [0mt[1;33ma[0ml[0mc[1;32ms[0m   5  1479 Some((9, 2, "brass")) ["abyss", "amass", "amiss", "brass", "grass"]
+talcs,flegs,bless
+talcs,flegs,bliss
+talcs,flegs,floss
+talcs,flegs,gloss
+talcs,flegs,lupus
+171 [0mt[0ma[1;33ml[0mc[1;32ms[0m   5   864 Some((10, 2, "flegs")) ["bless", "bliss", "floss", "gloss", "lupus"]
+ 61 [1;33mt[1;32ma[0ml[1;32mc[0ms[0m   6    12 None ["batch", "catch", "hatch", "match", "patch", "watch"]

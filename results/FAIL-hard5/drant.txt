@@ -1,0 +1,319 @@
+drant,drown
+ 35 [1;32md[1;32mr[0ma[1;33mn[0mt[0m   1    10 Some((1, 1, "drown")) ["drown"]
+drant,round
+ 58 [1;33md[1;33mr[0ma[1;32mn[0mt[0m   1    20 Some((1, 1, "round")) ["round"]
+drant,amend
+ 64 [1;33md[0mr[1;33ma[1;32mn[0mt[0m   1    37 Some((1, 1, "amend")) ["amend"]
+drant,rainy
+ 66 [0md[1;33mr[1;33ma[1;32mn[0mt[0m   1    65 Some((1, 1, "rainy")) ["rainy"]
+drant,arena
+ 69 [0md[1;32mr[1;33ma[1;32mn[0mt[0m   1    36 Some((1, 1, "arena")) ["arena"]
+drant,drank
+ 80 [1;32md[1;32mr[1;32ma[1;32mn[0mt[0m   1     2 Some((1, 1, "drank")) ["drank"]
+drant,third
+ 85 [1;33md[1;33mr[0ma[0mn[1;33mt[0m   1    44 Some((1, 1, "third")) ["third"]
+drant,tried
+ 88 [1;33md[1;32mr[0ma[0mn[1;33mt[0m   1    22 Some((1, 1, "tried")) ["tried"]
+drant,tardy
+ 94 [1;33md[1;33mr[1;33ma[0mn[1;33mt[0m   1    16 Some((1, 1, "tardy")) ["tardy"]
+drant,staid
+100 [1;33md[0mr[1;32ma[0mn[1;33mt[0m   1    21 Some((1, 1, "staid")) ["staid"]
+drant,death
+101 [1;32md[0mr[1;32ma[0mn[1;33mt[0m   1     7 Some((1, 1, "death")) ["death"]
+drant,trade
+106 [1;33md[1;32mr[1;32ma[0mn[1;33mt[0m   1     5 Some((1, 1, "trade")) ["trade"]
+drant,stain
+126 [0md[0mr[1;32ma[1;33mn[1;33mt[0m   1    50 Some((1, 1, "stain")) ["stain"]
+drant,train
+132 [0md[1;32mr[1;32ma[1;33mn[1;33mt[0m   1     9 Some((1, 1, "train")) ["train"]
+drant,trunk
+141 [0md[1;32mr[0ma[1;32mn[1;33mt[0m   1    27 Some((1, 1, "trunk")) ["trunk"]
+drant,trend
+142 [1;33md[1;32mr[0ma[1;32mn[1;33mt[0m   1     3 Some((1, 1, "trend")) ["trend"]
+drant,stand
+154 [1;33md[0mr[1;32ma[1;32mn[1;33mt[0m   1     3 Some((1, 1, "stand")) ["stand"]
+drant,adapt
+181 [1;33md[0mr[1;32ma[0mn[1;32mt[0m   1     6 Some((1, 1, "adapt")) ["adapt"]
+drant,dealt
+182 [1;32md[0mr[1;32ma[0mn[1;32mt[0m   1     4 Some((1, 1, "dealt")) ["dealt"]
+drant,draft
+188 [1;32md[1;32mr[1;32ma[0mn[1;32mt[0m   1     2 Some((1, 1, "draft")) ["draft"]
+drant,donut
+191 [1;32md[0mr[0ma[1;33mn[1;32mt[0m   1     7 Some((1, 1, "donut")) ["donut"]
+drant,angst
+198 [0md[0mr[1;33ma[1;33mn[1;32mt[0m   1    52 Some((1, 1, "angst")) ["angst"]
+drant,enact
+207 [0md[0mr[1;32ma[1;33mn[1;32mt[0m   1    21 Some((1, 1, "enact")) ["enact"]
+drant,burnt
+219 [0md[1;33mr[0ma[1;32mn[1;32mt[0m   1    20 Some((1, 1, "burnt")) ["burnt"]
+drant,daunt
+227 [1;32md[0mr[1;33ma[1;32mn[1;32mt[0m   1     4 Some((1, 1, "daunt")) ["daunt"]
+drant,grant
+240 [0md[1;32mr[1;32ma[1;32mn[1;32mt[0m   1     5 Some((1, 1, "grant")) ["grant"]
+drant,dairy
+drant,dairy,debar
+ 14 [1;32md[1;33mr[1;33ma[0mn[0mt[0m   2    74 Some((3, 2, "dairy")) ["dairy", "debar"]
+drant,dread
+drant,dread,dream
+ 17 [1;32md[1;32mr[1;33ma[0mn[0mt[0m   2    26 Some((3, 2, "dread")) ["dread", "dream"]
+drant,diary
+drant,diary,dwarf
+ 23 [1;32md[1;33mr[1;32ma[0mn[0mt[0m   2    29 Some((3, 2, "diary")) ["diary", "dwarf"]
+drant,nerdy
+drant,nerdy,under
+ 31 [1;33md[1;33mr[0ma[1;33mn[0mt[0m   2    61 Some((3, 2, "nerdy")) ["nerdy", "under"]
+drant,diner
+drant,diner,donor
+ 32 [1;32md[1;33mr[0ma[1;33mn[0mt[0m   2    21 Some((3, 2, "diner")) ["diner", "donor"]
+drant,dance
+drant,dance,dandy
+ 38 [1;32md[0mr[1;33ma[1;33mn[0mt[0m   2    46 Some((3, 2, "dance")) ["dance", "dandy"]
+drant,drain
+drant,drain,drawn
+ 53 [1;32md[1;32mr[1;32ma[1;33mn[0mt[0m   2     4 Some((3, 2, "drain")) ["drain", "drawn"]
+drant,frond
+drant,frond,grind
+ 61 [1;33md[1;32mr[0ma[1;32mn[0mt[0m   2    14 Some((3, 2, "frond")) ["frond", "grind"]
+drant,bland
+drant,bland,gland
+ 73 [1;33md[0mr[1;32ma[1;32mn[0mt[0m   2    18 Some((3, 2, "bland")) ["bland", "gland"]
+drant,brand
+drant,brand,grand
+ 79 [1;33md[1;32mr[1;32ma[1;32mn[0mt[0m   2     4 Some((3, 2, "brand")) ["brand", "grand"]
+drant,deter
+drant,deter,dirty
+ 86 [1;32md[1;33mr[0ma[0mn[1;33mt[0m   2    20 Some((3, 2, "deter")) ["deter", "dirty"]
+drant,datum
+drant,datum,delta
+ 92 [1;32md[0mr[1;33ma[0mn[1;33mt[0m   2    33 Some((3, 2, "datum")) ["datum", "delta"]
+drant,artsy
+drant,artsy,trial
+ 96 [0md[1;32mr[1;33ma[0mn[1;33mt[0m   2    89 Some((3, 2, "artsy")) ["artsy", "trial"]
+drant,tread
+drant,tread,triad
+ 97 [1;33md[1;32mr[1;33ma[0mn[1;33mt[0m   2     8 Some((3, 2, "tread")) ["tread", "triad"]
+drant,atone
+drant,atone,tawny
+144 [0md[0mr[1;33ma[1;32mn[1;33mt[0m   2    67 Some((3, 2, "atone")) ["atone", "tawny"]
+drant,drift
+drant,drift,droit
+170 [1;32md[1;32mr[0ma[0mn[1;32mt[0m   2     8 Some((3, 2, "drift")) ["drift", "droit"]
+drant,great
+drant,great,treat
+177 [0md[1;32mr[1;33ma[0mn[1;32mt[0m   2    33 Some((3, 2, "great")) ["great", "treat"]
+drant,inert
+drant,inert,snort
+192 [0md[1;33mr[0ma[1;33mn[1;32mt[0m   2    24 Some((3, 2, "inert")) ["inert", "snort"]
+drant,ardor
+drant,ardor,bread
+drant,ardor,broad
+ 16 [1;33md[1;32mr[1;33ma[0mn[0mt[0m   3    55 Some((5, 2, "ardor")) ["ardor", "bread", "broad"]
+drant,braid
+drant,braid,fraud
+drant,braid,grade
+ 25 [1;33md[1;32mr[1;32ma[0mn[0mt[0m   3    32 Some((5, 2, "braid")) ["braid", "fraud", "grade"]
+drant,nadir,adorn
+drant,nadir
+drant,nadir,randy
+ 40 [1;33md[1;33mr[1;33ma[1;33mn[0mt[0m   3    19 Some((5, 2, "nadir")) ["adorn", "nadir", "randy"]
+drant,doing
+drant,doing,downy
+drant,doing,dying
+ 56 [1;32md[0mr[0ma[1;32mn[0mt[0m   3    41 Some((5, 2, "doing")) ["doing", "downy", "dying"]
+drant,drink
+drant,drink,drone
+drant,drink,drunk
+ 62 [1;32md[1;32mr[0ma[1;32mn[0mt[0m   3     7 Some((5, 2, "drink")) ["drink", "drone", "drunk"]
+drant,tidal,stead
+drant,tidal
+drant,tidal,today
+ 91 [1;33md[0mr[1;33ma[0mn[1;33mt[0m   3    89 Some((5, 2, "tidal")) ["stead", "tidal", "today"]
+drant,stank
+drant,stank,thank
+drant,stank,twang
+153 [0md[0mr[1;32ma[1;32mn[1;33mt[0m   3    35 Some((5, 2, "stank")) ["stank", "thank", "twang"]
+drant,edict
+drant,edict,idiot
+drant,edict,midst
+163 [1;33md[0mr[0ma[0mn[1;32mt[0m   3    65 Some((5, 2, "edict")) ["edict", "idiot", "midst"]
+drant,drake
+drant,drake,drama
+drant,drake,drape
+drant,drake,drama,drawl
+ 26 [1;32md[1;32mr[1;32ma[0mn[0mt[0m   4    21 Some((8, 3, "drake")) ["drake", "drama", "drape", "drawl"]
+drant,groan,arson
+drant,groan
+drant,groan,organ
+drant,groan,urban
+ 42 [0md[1;32mr[1;33ma[1;33mn[0mt[0m   4    54 Some((7, 2, "groan")) ["arson", "groan", "organ", "urban"]
+drant,learn
+drant,learn,snare
+drant,learn,snarl
+drant,learn,yearn
+ 48 [0md[1;33mr[1;32ma[1;33mn[0mt[0m   4    63 Some((7, 2, "learn")) ["learn", "snare", "snarl", "yearn"]
+drant,brain
+drant,brain,brawn
+drant,brain,grain
+drant,brain,prawn
+ 51 [0md[1;32mr[1;32ma[1;33mn[0mt[0m   4    36 Some((7, 2, "brain")) ["brain", "brawn", "grain", "prawn"]
+drant,corny,borne
+drant,corny
+drant,corny,horny
+drant,corny,rhino
+ 57 [0md[1;33mr[0ma[1;32mn[0mt[0m   4   182 Some((7, 2, "corny")) ["borne", "corny", "horny", "rhino"]
+drant,crane
+drant,crane,crank
+drant,crane,frank
+drant,crane,frank,prank
+ 78 [0md[1;32mr[1;32ma[1;32mn[0mt[0m   4    29 Some((8, 3, "crane")) ["crane", "crank", "frank", "prank"]
+drant,craft
+drant,craft,graft
+drant,craft,tract
+drant,craft,trait
+186 [0md[1;32mr[1;32ma[0mn[1;32mt[0m   4    22 Some((7, 2, "craft")) ["craft", "graft", "tract", "trait"]
+drant,brunt
+drant,brunt,front
+drant,brunt,grunt
+drant,brunt,front,print
+222 [0md[1;32mr[0ma[1;32mn[1;32mt[0m   4    15 Some((8, 3, "brunt")) ["brunt", "front", "grunt", "print"]
+drant,stare,stair
+drant,stare
+drant,stare,stark
+drant,stare,teary
+drant,stare,tiara
+102 [0md[1;33mr[1;32ma[0mn[1;33mt[0m   5   102 Some((9, 2, "stare")) ["stair", "stare", "stark", "teary", "tiara"]
+drant,abort
+drant,abort,alert
+drant,abort,alert,avert
+drant,abort,carat
+drant,abort,tarot
+174 [0md[1;33mr[1;33ma[0mn[1;32mt[0m   5    85 Some((10, 3, "abort")) ["abort", "alert", "avert", "carat", "tarot"]
+drant,adept
+drant,adept,admit
+drant,adept,adopt
+drant,adept,admit,adult
+drant,adept,audit
+drant,adept,cadet
+172 [1;33md[0mr[1;33ma[0mn[1;32mt[0m   6    23 Some((12, 3, "adept")) ["adept", "admit", "adopt", "adult", "audit", "cadet"]
+drant,groin,brown
+drant,groin,brown,crown
+drant,groin,brown,crown,frown
+drant,groin,green
+drant,groin
+drant,groin,grown
+drant,groin,preen
+ 33 [0md[1;32mr[0ma[1;33mn[0mt[0m   7   146 Some((16, 4, "groin")) ["brown", "crown", "frown", "green", "groin", "grown", "preen"]
+drant,debut,debit
+drant,debut
+drant,debut,depot
+drant,debut,digit
+drant,debut,doubt
+drant,debut,duvet
+drant,debut,dwelt
+164 [1;32md[0mr[0ma[0mn[1;32mt[0m   7    43 Some((13, 2, "debut")) ["debit", "debut", "depot", "digit", "doubt", "duvet", "dwelt"]
+drant,slant,hiant,chant
+drant,slant,hiant,giant
+drant,slant,leant
+drant,slant,hiant,meant
+drant,slant,plant
+drant,slant,scant
+drant,slant
+234 [0md[0mr[1;32ma[1;32mn[1;32mt[0m   7    18 Some((16, 3, "slant")) ["chant", "giant", "leant", "meant", "plant", "scant", "slant"]
+drant,dicer,decor
+drant,dicer,decry
+drant,dicer,defer
+drant,dicer,demur
+drant,dicer,derby
+drant,dicer,dirge
+drant,dicer,diver
+drant,dicer,dowry
+  5 [1;32md[1;33mr[0ma[0mn[0mt[0m   8   204 Some((16, 2, "dicer")) ["decor", "decry", "defer", "demur", "derby", "dirge", "diver", "dowry"]
+drant,daily,daddy
+drant,daily
+drant,daily,daisy
+drant,daily,dally
+drant,daily,decal
+drant,daily,decay
+drant,daily,delay
+drant,daily,dogma
+ 11 [1;32md[0mr[1;33ma[0mn[0mt[0m   8   226 Some((15, 2, "daily")) ["daddy", "daily", "daisy", "dally", "decal", "decay", "delay", "dogma"]
+drant,demon,deign
+drant,demon
+drant,demon,denim
+drant,demon,dense
+drant,demon,dingo
+drant,demon,dingy
+drant,demon,dozen
+drant,demon,dunce
+ 29 [1;32md[0mr[0ma[1;33mn[0mt[0m   8   114 Some((15, 2, "demon")) ["deign", "demon", "denim", "dense", "dingo", "dingy", "dozen", "dunce"]
+drant,deity
+drant,deity,depth
+drant,deity,detox
+drant,deity,ditch
+drant,deity,ditto
+drant,deity,ditty
+drant,deity,dusty
+drant,deity,dutch
+ 83 [1;32md[0mr[0ma[0mn[1;33mt[0m   8   107 Some((15, 2, "deity")) ["deity", "depth", "detox", "ditch", "ditto", "ditty", "dusty", "dutch"]
+drant,entry,enter
+drant,entry
+drant,entry,inter
+drant,entry,intro
+drant,entry,north
+drant,entry,stern
+drant,entry,tenor
+drant,entry,thorn
+111 [0md[1;33mr[0ma[1;33mn[1;33mt[0m   8    77 Some((15, 2, "entry")) ["enter", "entry", "inter", "intro", "north", "stern", "tenor", "thorn"]
+drant,spart,apart
+drant,spart,chart
+drant,spart,chart,heart
+drant,spart,chart,quart
+drant,spart,react
+drant,spart,roast
+drant,spart,smart
+drant,spart,smart,start
+183 [0md[1;33mr[1;32ma[0mn[1;32mt[0m   8    45 Some((19, 3, "spart")) ["apart", "chart", "heart", "quart", "react", "roast", "smart", "start"]
+drant,heard,award
+drant,heard,beard
+drant,heard,award,board
+drant,heard,chard
+drant,heard,award,board,guard
+drant,heard
+drant,heard,hoard
+drant,heard,ready
+drant,heard,chard,shard
+ 22 [1;33md[1;33mr[1;32ma[0mn[0mt[0m   9    59 Some((21, 4, "heard")) ["award", "beard", "board", "chard", "guard", "heard", "hoard", "ready", "shard"]
+drant,padri,acrid
+drant,padri,adore
+drant,padri,aider
+drant,padri,cedar
+drant,padri,hardy
+drant,padri,rabid
+drant,padri,radar
+drant,padri,radii
+drant,padri,radio
+drant,padri,rapid
+ 13 [1;33md[1;33mr[1;33ma[0mn[0mt[0m  10   224 Some((20, 2, "padri")) ["acrid", "adore", "aider", "cedar", "hardy", "rabid", "radar", "radii", "radio", "rapid"]
+drant,acned,admin
+drant,acned,anode
+drant,acned,candy
+drant,acned,gonad
+drant,acned,handy
+drant,acned,knead
+drant,acned,laden
+drant,acned,nomad
+drant,acned,handy,sandy
+drant,acned,sedan
+ 37 [1;33md[0mr[1;33ma[1;33mn[0mt[0m  10   139 Some((21, 3, "acned")) ["admin", "anode", "candy", "gonad", "handy", "knead", "laden", "nomad", "sandy", "sedan"]
+drant,crate
+drant,crate,grate
+drant,crate,grate,irate
+drant,crate,trace
+drant,crate,track
+drant,crate,trail
+drant,crate,trail,tramp
+drant,crate,trail,tramp,trash
+drant,crate,trail,trawl
+drant,crate,wrath
+105 [0md[1;32mr[1;32ma[0mn[1;33mt[0m  10    60 Some((24, 4, "crate")) ["crate", "grate", "irate", "trace", "track", "trail", "tramp", "trash", "trawl", "wrath"]
+225 [0md[0mr[1;33ma[1;32mn[1;32mt[0m  10    41 None ["agent", "faint", "gaunt", "haunt", "jaunt", "paint", "saint", "taint", "taunt", "vaunt"]

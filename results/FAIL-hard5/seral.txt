@@ -1,0 +1,239 @@
+seral,sepia
+ 35 [1;32ms[1;32me[0mr[1;33ma[0ml[0m   1    33 Some((1, 1, "sepia")) ["sepia"]
+seral,parse
+ 49 [1;33ms[1;33me[1;32mr[1;33ma[0ml[0m   1    38 Some((1, 1, "parse")) ["parse"]
+seral,terra
+ 51 [0ms[1;32me[1;32mr[1;33ma[0ml[0m   1    28 Some((1, 1, "terra")) ["terra"]
+seral,assay
+ 55 [1;33ms[0me[0mr[1;32ma[0ml[0m   1   433 Some((1, 1, "assay")) ["assay"]
+seral,essay
+ 58 [1;33ms[1;33me[0mr[1;32ma[0ml[0m   1    92 Some((1, 1, "essay")) ["essay"]
+seral,sedan
+ 62 [1;32ms[1;32me[0mr[1;32ma[0ml[0m   1    13 Some((1, 1, "sedan")) ["sedan"]
+seral,welsh
+ 88 [1;33ms[1;32me[0mr[0ma[1;33ml[0m   1   141 Some((1, 1, "welsh")) ["welsh"]
+seral,slurp
+ 92 [1;32ms[0me[1;33mr[0ma[1;33ml[0m   1    20 Some((1, 1, "slurp")) ["slurp"]
+seral,loser
+ 94 [1;33ms[1;33me[1;33mr[0ma[1;33ml[0m   1    35 Some((1, 1, "loser")) ["loser"]
+seral,surly
+101 [1;32ms[0me[1;32mr[0ma[1;33ml[0m   1     5 Some((1, 1, "surly")) ["surly"]
+seral,larva
+126 [0ms[0me[1;32mr[1;33ma[1;33ml[0m   1    54 Some((1, 1, "larva")) ["larva"]
+seral,delay
+141 [0ms[1;32me[0mr[1;32ma[1;33ml[0m   1    41 Some((1, 1, "delay")) ["delay"]
+seral,solar
+146 [1;32ms[0me[1;33mr[1;32ma[1;33ml[0m   1     4 Some((1, 1, "solar")) ["solar"]
+seral,clear
+147 [0ms[1;33me[1;33mr[1;32ma[1;33ml[0m   1    15 Some((1, 1, "clear")) ["clear"]
+seral,swirl
+173 [1;32ms[0me[1;33mr[0ma[1;32ml[0m   1     8 Some((1, 1, "swirl")) ["swirl"]
+seral,peril
+186 [0ms[1;32me[1;32mr[0ma[1;32ml[0m   1     9 Some((1, 1, "peril")) ["peril"]
+seral,basil
+190 [1;33ms[0me[0mr[1;33ma[1;32ml[0m   1    41 Some((1, 1, "basil")) ["basil"]
+seral,easel
+193 [1;33ms[1;33me[0mr[1;33ma[1;32ml[0m   1    10 Some((1, 1, "easel")) ["easel"]
+seral,snarl
+200 [1;32ms[0me[1;33mr[1;33ma[1;32ml[0m   1     4 Some((1, 1, "snarl")) ["snarl"]
+seral,pearl
+204 [0ms[1;32me[1;33mr[1;33ma[1;32ml[0m   1     7 Some((1, 1, "pearl")) ["pearl"]
+seral,carol
+207 [0ms[0me[1;32mr[1;33ma[1;32ml[0m   1    25 Some((1, 1, "carol")) ["carol"]
+seral,shoal
+218 [1;32ms[0me[0mr[1;32ma[1;32ml[0m   1    16 Some((1, 1, "shoal")) ["shoal"]
+seral,steal
+221 [1;32ms[1;33me[0mr[1;32ma[1;32ml[0m   1     7 Some((1, 1, "steal")) ["steal"]
+seral,feral
+240 [0ms[1;32me[1;32mr[1;32ma[1;32ml[0m   1     3 Some((1, 1, "feral")) ["feral"]
+seral,sever
+seral,sever,sewer
+ 17 [1;32ms[1;32me[1;33mr[0ma[0ml[0m   2    34 Some((3, 2, "sever")) ["sever", "sewer"]
+seral,harsh
+seral,harsh,marsh
+ 46 [1;33ms[0me[1;32mr[1;33ma[0ml[0m   2   199 Some((3, 2, "harsh")) ["harsh", "marsh"]
+seral,sonar
+seral,sonar,sugar
+ 65 [1;32ms[0me[1;33mr[1;32ma[0ml[0m   2    49 Some((3, 2, "sonar")) ["sonar", "sugar"]
+seral,learn
+seral,learn,realm
+123 [0ms[1;32me[1;33mr[1;33ma[1;33ml[0m   2    21 Some((3, 2, "learn")) ["learn", "realm"]
+seral,early
+seral,early,large
+129 [0ms[1;33me[1;32mr[1;33ma[1;33ml[0m   2    12 Some((3, 2, "early")) ["early", "large"]
+seral,salad
+seral,salad,splat
+137 [1;32ms[0me[0mr[1;32ma[1;33ml[0m   2    26 Some((3, 2, "salad")) ["salad", "splat"]
+seral,relax
+seral,relax,relay
+150 [0ms[1;32me[1;33mr[1;32ma[1;33ml[0m   2    11 Some((3, 2, "relax")) ["relax", "relay"]
+seral,cruel
+seral,cruel,gruel
+174 [0ms[1;33me[1;33mr[0ma[1;32ml[0m   2    41 Some((3, 2, "cruel")) ["cruel", "gruel"]
+seral,equal
+seral,equal,ideal
+219 [0ms[1;33me[0mr[1;32ma[1;32ml[0m   2    38 Some((3, 2, "equal")) ["equal", "ideal"]
+seral,regal
+seral,regal,renal
+231 [0ms[1;32me[1;33mr[1;32ma[1;32ml[0m   2     6 Some((3, 2, "regal")) ["regal", "renal"]
+seral,terse
+seral,terse,verse
+seral,terse,verso
+ 25 [1;33ms[1;32me[1;32mr[0ma[0ml[0m   3    93 Some((5, 2, "terse")) ["terse", "verse", "verso"]
+seral,serif
+seral,serif,serum
+seral,serif,serum,serve
+ 26 [1;32ms[1;32me[1;32mr[0ma[0ml[0m   3    21 Some((6, 3, "serif")) ["serif", "serum", "serve"]
+seral,squad
+seral,squad,squat
+seral,squad,sumac
+ 56 [1;32ms[0me[0mr[1;32ma[0ml[0m   3   129 Some((5, 2, "squad")) ["squad", "squat", "sumac"]
+seral,false,aisle
+seral,false
+seral,false,lapse
+112 [1;33ms[1;33me[0mr[1;33ma[1;33ml[0m   3   114 Some((5, 2, "false")) ["aisle", "false", "lapse"]
+seral,lease
+seral,lease,leash
+seral,lease,leash,least
+115 [1;33ms[1;32me[0mr[1;33ma[1;33ml[0m   3    36 Some((6, 3, "lease")) ["lease", "leash", "least"]
+seral,rebel
+seral,rebel,repel
+seral,rebel,repel,revel
+177 [0ms[1;32me[1;33mr[0ma[1;32ml[0m   3    19 Some((6, 3, "rebel")) ["rebel", "repel", "revel"]
+seral,basal
+seral,basal,nasal
+seral,basal,usual
+217 [1;33ms[0me[0mr[1;32ma[1;32ml[0m   3    21 Some((5, 2, "basal")) ["basal", "nasal", "usual"]
+seral,rival
+seral,rival,royal
+seral,rival,trial
+225 [0ms[0me[1;33mr[1;32ma[1;32ml[0m   3    47 Some((5, 2, "rival")) ["rival", "royal", "trial"]
+seral,reset,rebus
+seral,reset
+seral,reset,resin
+seral,reset,reuse
+ 16 [1;33ms[1;32me[1;33mr[0ma[0ml[0m   4   186 Some((7, 2, "reset")) ["rebus", "reset", "resin", "reuse"]
+seral,arise
+seral,arise,arose
+seral,arise,erase
+seral,arise,raise
+ 40 [1;33ms[1;33me[1;33mr[1;33ma[0ml[0m   4   138 Some((7, 2, "arise")) ["arise", "arose", "erase", "raise"]
+seral,shear
+seral,shear,smear
+seral,shear,smear,spear
+seral,shear,smear,spear,swear
+ 68 [1;32ms[1;33me[1;33mr[1;32ma[0ml[0m   4    13 Some((10, 4, "shear")) ["shear", "smear", "spear", "swear"]
+seral,array
+seral,array,borax
+seral,array,carat
+seral,array,foray
+ 72 [0ms[0me[1;32mr[1;32ma[0ml[0m   4   132 Some((7, 2, "array")) ["array", "borax", "carat", "foray"]
+seral,malar,altar
+seral,malar,lunar
+seral,malar,molar
+seral,malar,polar
+144 [0ms[0me[1;33mr[1;32ma[1;33ml[0m   4    78 Some((8, 2, "malar")) ["altar", "lunar", "molar", "polar"]
+seral,curse
+seral,curse,horse
+seral,curse,nurse
+seral,curse,nurse,purse
+seral,curse,horse,worse
+ 22 [1;33ms[1;33me[1;32mr[0ma[0ml[0m   5   199 Some((11, 3, "curse")) ["curse", "horse", "nurse", "purse", "worse"]
+seral,beast
+seral,beast,cease
+seral,beast,feast
+seral,beast,tease
+seral,beast,feast,yeast
+ 34 [1;33ms[1;32me[0mr[1;33ma[0ml[0m   5   160 Some((10, 3, "beast")) ["beast", "cease", "feast", "tease", "yeast"]
+seral,shall
+seral,shall,shawl
+seral,shall,small
+seral,shall,snail
+seral,shall,small,stall
+191 [1;32ms[0me[0mr[1;33ma[1;32ml[0m   5    34 Some((10, 3, "shall")) ["shall", "shawl", "small", "snail", "stall"]
+seral,moral,coral
+seral,moral
+seral,moral,mural
+seral,moral,rural
+seral,moral,rural,viral
+234 [0ms[0me[1;32mr[1;32ma[1;32ml[0m   5    22 Some((10, 3, "moral")) ["coral", "moral", "mural", "rural", "viral"]
+seral,torus,burst
+seral,torus,first
+seral,torus,torso
+seral,torus
+seral,torus,virus
+seral,torus,worst
+ 19 [1;33ms[0me[1;32mr[0ma[0ml[0m   6   570 Some((11, 2, "torus")) ["burst", "first", "torso", "torus", "virus", "worst"]
+seral,stead,sneak
+seral,stead,sneak,speak
+seral,stead
+seral,stead,steak
+seral,stead,steak,steam
+seral,stead,sweat
+ 59 [1;32ms[1;33me[0mr[1;32ma[0ml[0m   6    41 Some((13, 3, "stead")) ["sneak", "speak", "stead", "steak", "steam", "sweat"]
+seral,began
+seral,began,begat
+seral,began,decay
+seral,began,kebab
+seral,began,pecan
+seral,began,vegan
+ 60 [0ms[1;32me[0mr[1;32ma[0ml[0m   6   133 Some((11, 2, "began")) ["began", "begat", "decay", "kebab", "pecan", "vegan"]
+seral,cedar
+seral,cedar,debar
+seral,cedar,rebar
+seral,cedar,recap
+seral,cedar,rehab
+seral,cedar,rehab,repay
+ 69 [0ms[1;32me[1;33mr[1;32ma[0ml[0m   6    49 Some((12, 3, "cedar")) ["cedar", "debar", "rebar", "recap", "rehab", "repay"]
+seral,scrap,scram
+seral,scrap
+seral,scrap,spray
+seral,scrap,strap
+seral,scrap,straw
+seral,scrap,straw,stray
+ 74 [1;32ms[0me[1;32mr[1;32ma[0ml[0m   6    32 Some((12, 3, "scrap")) ["scram", "scrap", "spray", "strap", "straw", "stray"]
+seral,leper,leery
+seral,leper,lemur
+seral,leper
+seral,leper,lever
+seral,leper,relic
+seral,leper,reply
+ 96 [0ms[1;32me[1;33mr[0ma[1;33ml[0m   6    58 Some((11, 2, "leper")) ["leery", "lemur", "leper", "lever", "relic", "reply"]
+seral,slate,salve
+seral,slate,scale
+seral,slate,scale,shale
+seral,slate
+seral,slate,slave
+seral,slate,stale
+113 [1;32ms[1;33me[0mr[1;33ma[1;33ml[0m   6    32 Some((12, 3, "slate")) ["salve", "scale", "shale", "slate", "slave", "stale"]
+seral,shell
+seral,shell,smell
+seral,shell,smell,spell
+seral,shell,spiel
+seral,shell,steel
+seral,shell,smell,spell,swell
+167 [1;32ms[1;33me[0mr[0ma[1;32ml[0m   6    28 Some((14, 4, "shell")) ["shell", "smell", "spell", "spiel", "steel", "swell"]
+seral,bevel,betel
+seral,bevel
+seral,bevel,betel,bezel
+seral,bevel,devil
+seral,bevel,jewel
+seral,bevel,level
+168 [0ms[1;32me[0mr[0ma[1;32ml[0m   6    66 Some((12, 3, "bevel")) ["betel", "bevel", "bezel", "devil", "jewel", "level"]
+seral,seine,seedy
+seral,seine,segue
+seral,seine,seize
+seral,seine,semen
+seral,seine,sense
+seral,seine,setup
+seral,seine,semen,seven
+  8 [1;32ms[1;32me[0mr[0ma[0ml[0m   7   125 Some((15, 3, "seine")) ["seedy", "segue", "seize", "semen", "sense", "setup", "seven"]
+seral,scree
+seral,scree,screw
+seral,scree,shrew
+seral,scree,shrew,siren
+seral,scree,spree
+seral,scree,shrew,siren,surer
+seral,scree,surge
+ 23 [1;32ms[1;33me[1;32mr[0ma[0ml[0m   7    51 Some((16, 4, "scree")) ["scree", "screw", "shrew", "siren", "spree", "surer", "surge"]
+ 41 [1;32ms[1;33me[1;33mr[1;33ma[0ml[0m   7    37 None ["safer", "saner", "scare", "share", "snare", "spare", "stare"]

@@ -1,0 +1,280 @@
+roset,rouse
+ 44 [1;32mr[1;32mo[1;33ms[1;33me[0mt[0m   1    16 Some((1, 1, "rouse")) ["rouse"]
+roset,resin
+ 47 [1;32mr[0mo[1;32ms[1;33me[0mt[0m   1    28 Some((1, 1, "resin")) ["resin"]
+roset,posse
+ 51 [0mr[1;32mo[1;32ms[1;33me[0mt[0m   1    46 Some((1, 1, "posse")) ["posse"]
+roset,nosey
+ 78 [0mr[1;32mo[1;32ms[1;32me[0mt[0m   1    38 Some((1, 1, "nosey")) ["nosey"]
+roset,ratty
+ 83 [1;32mr[0mo[0ms[0me[1;33mt[0m   1   120 Some((1, 1, "ratty")) ["ratty"]
+roset,ratio
+ 86 [1;32mr[1;33mo[0ms[0me[1;33mt[0m   1    46 Some((1, 1, "ratio")) ["ratio"]
+roset,rotor
+ 89 [1;32mr[1;32mo[0ms[0me[1;33mt[0m   1    36 Some((1, 1, "rotor")) ["rotor"]
+roset,rusty
+101 [1;32mr[0mo[1;32ms[0me[1;33mt[0m   1    13 Some((1, 1, "rusty")) ["rusty"]
+roset,gusto
+102 [0mr[1;33mo[1;32ms[0me[1;33mt[0m   1    32 Some((1, 1, "gusto")) ["gusto"]
+roset,retro
+113 [1;32mr[1;33mo[0ms[1;33me[1;33mt[0m   1    13 Some((1, 1, "retro")) ["retro"]
+roset,forte
+115 [1;33mr[1;32mo[0ms[1;33me[1;33mt[0m   1    21 Some((1, 1, "forte")) ["forte"]
+roset,route
+116 [1;32mr[1;32mo[0ms[1;33me[1;33mt[0m   1     8 Some((1, 1, "route")) ["route"]
+roset,store
+121 [1;33mr[1;33mo[1;33ms[1;33me[1;33mt[0m   1     7 Some((1, 1, "store")) ["store"]
+roset,pesto
+129 [0mr[1;33mo[1;32ms[1;33me[1;33mt[0m   1    11 Some((1, 1, "pesto")) ["pesto"]
+roset,often
+138 [0mr[1;33mo[0ms[1;32me[1;33mt[0m   1    87 Some((1, 1, "often")) ["often"]
+roset,right
+164 [1;32mr[0mo[0ms[0me[1;32mt[0m   1    36 Some((1, 1, "right")) ["right"]
+roset,court
+169 [1;33mr[1;32mo[0ms[0me[1;32mt[0m   1    19 Some((1, 1, "court")) ["court"]
+roset,robot
+170 [1;32mr[1;32mo[0ms[0me[1;32mt[0m   1    10 Some((1, 1, "robot")) ["robot"]
+roset,worst
+178 [1;33mr[1;32mo[1;33ms[0me[1;32mt[0m   1     9 Some((1, 1, "worst")) ["worst"]
+roset,visit
+180 [0mr[0mo[1;32ms[0me[1;32mt[0m   1    23 Some((1, 1, "visit")) ["visit"]
+roset,posit
+186 [0mr[1;32mo[1;32ms[0me[1;32mt[0m   1     5 Some((1, 1, "posit")) ["posit"]
+roset,depot
+192 [0mr[1;33mo[0ms[1;33me[1;32mt[0m   1    30 Some((1, 1, "depot")) ["depot"]
+roset,overt
+193 [1;33mr[1;33mo[0ms[1;33me[1;32mt[0m   1     5 Some((1, 1, "overt")) ["overt"]
+roset,rivet
+218 [1;32mr[0mo[0ms[1;32me[1;32mt[0m   1     9 Some((1, 1, "rivet")) ["rivet"]
+roset,octet
+219 [0mr[1;33mo[0ms[1;32me[1;32mt[0m   1    16 Some((1, 1, "octet")) ["octet"]
+roset,reset
+236 [1;32mr[0mo[1;32ms[1;32me[1;32mt[0m   1     2 Some((1, 1, "reset")) ["reset"]
+roset,onset
+237 [0mr[1;33mo[1;32ms[1;32me[1;32mt[0m   1     3 Some((1, 1, "onset")) ["onset"]
+roset,raspy
+roset,raspy,risky
+ 20 [1;32mr[0mo[1;32ms[0me[0mt[0m   2    47 Some((3, 2, "raspy")) ["raspy", "risky"]
+roset,arson
+roset,arson,visor
+ 22 [1;33mr[1;33mo[1;32ms[0me[0mt[0m   2    19 Some((3, 2, "arson")) ["arson", "visor"]
+roset,rogue
+roset,rogue,rouge
+ 35 [1;32mr[1;32mo[0ms[1;33me[0mt[0m   2    52 Some((3, 2, "rogue")) ["rogue", "rouge"]
+roset,horse
+roset,horse,worse
+ 43 [1;33mr[1;32mo[1;33ms[1;33me[0mt[0m   2    55 Some((3, 2, "horse")) ["horse", "worse"]
+roset,sober
+roset,sober,sower
+ 70 [1;33mr[1;32mo[1;33ms[1;32me[0mt[0m   2    40 Some((3, 2, "sober")) ["sober", "sower"]
+roset,bused
+roset,bused,easel
+ 72 [0mr[0mo[1;32ms[1;32me[0mt[0m   2   138 Some((3, 2, "bused")) ["bused", "easel"]
+roset,miser
+roset,miser,wiser
+ 73 [1;33mr[0mo[1;32ms[1;32me[0mt[0m   2    33 Some((3, 2, "miser")) ["miser", "wiser"]
+roset,risen
+roset,risen,riser
+ 74 [1;32mr[0mo[1;32ms[1;32me[0mt[0m   2    14 Some((3, 2, "risen")) ["risen", "riser"]
+roset,loser
+roset,loser,poser
+ 79 [1;33mr[1;32mo[1;32ms[1;32me[0mt[0m   2     8 Some((3, 2, "loser")) ["loser", "poser"]
+roset,torso
+roset,torso,torus
+ 97 [1;33mr[1;32mo[1;33ms[0me[1;33mt[0m   2    41 Some((3, 2, "torso")) ["torso", "torus"]
+roset,retch
+roset,retch,retry
+110 [1;32mr[0mo[0ms[1;33me[1;33mt[0m   2    56 Some((3, 2, "retch")) ["retch", "retry"]
+roset,tower
+roset,tower,voter
+142 [1;33mr[1;32mo[0ms[1;32me[1;33mt[0m   2    14 Some((3, 2, "tower")) ["tower", "voter"]
+roset,ester
+roset,ester,steer
+145 [1;33mr[0mo[1;33ms[1;32me[1;33mt[0m   2    19 Some((3, 2, "ester")) ["ester", "steer"]
+roset,roast
+roset,roast,roost
+179 [1;32mr[1;32mo[1;33ms[0me[1;32mt[0m   2     7 Some((3, 2, "roast")) ["roast", "roost"]
+roset,crest
+roset,crest,wrest
+199 [1;33mr[0mo[1;33ms[1;33me[1;32mt[0m   2    15 Some((3, 2, "crest")) ["crest", "wrest"]
+roset,comet
+roset,comet,covet
+222 [0mr[1;32mo[0ms[1;32me[1;32mt[0m   2    11 Some((3, 2, "comet")) ["comet", "covet"]
+roset,solar
+roset,solar,sonar
+roset,solar,sorry
+ 16 [1;33mr[1;32mo[1;33ms[0me[0mt[0m   3   206 Some((5, 2, "solar")) ["solar", "sonar", "sorry"]
+roset,bosom
+roset,bosom,bossy
+roset,bosom,mossy
+ 24 [0mr[1;32mo[1;32ms[0me[0mt[0m   3    77 Some((5, 2, "bosom")) ["bosom", "bossy", "mossy"]
+roset,stork
+roset,stork,storm
+roset,stork,storm,story
+ 94 [1;33mr[1;33mo[1;33ms[0me[1;33mt[0m   3    75 Some((6, 3, "stork")) ["stork", "storm", "story"]
+roset,sooth
+roset,sooth,sooty
+roset,sooth,south
+ 96 [0mr[1;32mo[1;33ms[0me[1;33mt[0m   3   198 Some((5, 2, "sooth")) ["sooth", "sooty", "south"]
+roset,stare
+roset,stare,stern
+roset,stare,terse
+118 [1;33mr[0mo[1;33ms[1;33me[1;33mt[0m   3    70 Some((5, 2, "stare")) ["stare", "stern", "terse"]
+roset,other
+roset,other,otter
+roset,other,outer
+139 [1;33mr[1;33mo[0ms[1;32me[1;33mt[0m   3    22 Some((5, 2, "other")) ["other", "otter", "outer"]
+roset,steed
+roset,steed,steel
+roset,steed,steel,steep
+144 [0mr[0mo[1;33ms[1;32me[1;33mt[0m   3   143 Some((6, 3, "steed")) ["steed", "steel", "steep"]
+roset,beret
+roset,beret,egret
+roset,beret,greet
+217 [1;33mr[0mo[0ms[1;32me[1;32mt[0m   3    20 Some((5, 2, "beret")) ["beret", "egret", "greet"]
+roset,bison
+roset,bison,disco
+roset,bison,lasso
+roset,bison,mason
+ 21 [0mr[1;33mo[1;32ms[0me[0mt[0m   4   134 Some((7, 2, "bison")) ["bison", "disco", "lasso", "mason"]
+roset,raise
+roset,raise,rebus
+roset,raise,reuse
+roset,raise,rinse
+ 38 [1;32mr[0mo[1;33ms[1;33me[0mt[0m   4   110 Some((7, 2, "raise")) ["raise", "rebus", "reuse", "rinse"]
+roset,cameo
+roset,cameo,oaken
+roset,cameo,olden
+roset,cameo,video
+ 57 [0mr[1;33mo[0ms[1;32me[0mt[0m   4   530 Some((7, 2, "cameo")) ["cameo", "oaken", "olden", "video"]
+roset,roger,rodeo
+roset,roger
+roset,roger,rover
+roset,roger,rover,rower
+ 62 [1;32mr[1;32mo[0ms[1;32me[0mt[0m   4    35 Some((8, 3, "roger")) ["rodeo", "roger", "rover", "rower"]
+roset,short,frost
+roset,short
+roset,short,snort
+roset,short,snort,sport
+175 [1;33mr[1;33mo[1;33ms[0me[1;32mt[0m   4    16 Some((8, 3, "short")) ["frost", "short", "snort", "sport"]
+roset,islet
+roset,islet,sheet
+roset,islet,sleet
+roset,islet,sheet,sweet
+225 [0mr[0mo[1;33ms[1;32me[1;32mt[0m   4    17 Some((8, 3, "islet")) ["islet", "sheet", "sleet", "sweet"]
+roset,unset,asset
+roset,unset,asset,beset
+roset,unset
+roset,unset,upset
+234 [0mr[0mo[1;32ms[1;32me[1;32mt[0m   4    10 Some((8, 3, "unset")) ["asset", "beset", "unset", "upset"]
+roset,forge,borne
+roset,forge,force
+roset,forge
+roset,forge,gorge
+roset,forge,borne,horde
+ 34 [1;33mr[1;32mo[0ms[1;33me[0mt[0m   5   182 Some((10, 3, "forge")) ["borne", "force", "forge", "gorge", "horde"]
+roset,odder
+roset,odder,offer
+roset,odder,older
+roset,odder,older,order
+roset,odder,offer,owner
+ 58 [1;33mr[1;33mo[0ms[1;32me[0mt[0m   5   167 Some((11, 3, "odder")) ["odder", "offer", "older", "order", "owner"]
+roset,trope,metro
+roset,trope,tenor
+roset,trope
+roset,trope,trove
+roset,trope,wrote
+112 [1;33mr[1;33mo[0ms[1;33me[1;33mt[0m   5    50 Some((9, 2, "trope")) ["metro", "tenor", "trope", "trove", "wrote"]
+roset,hotel
+roset,hotel,motel
+roset,hotel,token
+roset,hotel,totem
+roset,hotel,towel
+141 [0mr[1;32mo[0ms[1;32me[1;33mt[0m   5    68 Some((9, 2, "hotel")) ["hotel", "motel", "token", "totem", "towel"]
+roset,recut,react
+roset,recut,rebut
+roset,recut
+roset,recut,refit
+roset,recut,refit,remit
+191 [1;32mr[0mo[0ms[1;33me[1;32mt[0m   5    23 Some((10, 3, "recut")) ["react", "rebut", "recut", "refit", "remit"]
+roset,radio
+roset,radio,rayon
+roset,radio,rayon,razor
+roset,radio,rhino
+roset,radio,rigor
+roset,radio,rumor
+  5 [1;32mr[1;33mo[0ms[0me[0mt[0m   6   177 Some((12, 3, "radio")) ["radio", "rayon", "razor", "rhino", "rigor", "rumor"]
+roset,aisle
+roset,aisle,ensue
+roset,aisle,essay
+roset,aisle,issue
+roset,aisle,masse
+roset,aisle,pesky
+ 45 [0mr[0mo[1;32ms[1;33me[0mt[0m   6   254 Some((11, 2, "aisle")) ["aisle", "ensue", "essay", "issue", "masse", "pesky"]
+roset,emote,atone
+roset,emote,detox
+roset,emote,extol
+roset,emote,ovate
+roset,emote,quote
+roset,emote,tempo
+111 [0mr[1;33mo[0ms[1;33me[1;33mt[0m   6   210 Some((12, 2, "emote")) ["atone", "detox", "extol", "ovate", "quote", "tempo"]
+roset,forth,aorta
+roset,forth
+roset,forth,forty
+roset,forth,motor
+roset,forth,north
+roset,forth,torch
+roset,forth,north,worth
+ 88 [1;33mr[1;32mo[0ms[0me[1;33mt[0m   7    94 Some((14, 3, "forth")) ["aorta", "forth", "forty", "motor", "north", "torch", "worth"]
+roset,stoke,ethos
+roset,stoke,smote
+roset,stoke
+roset,stoke,stole
+roset,stoke,stole,stone
+roset,stoke,stole,stone,stove
+roset,stoke,those
+120 [0mr[1;33mo[1;33ms[1;33me[1;33mt[0m   7    60 Some((16, 4, "stoke")) ["ethos", "smote", "stoke", "stole", "stone", "stove", "those"]
+roset,feted,betel
+roset,feted,eaten
+roset,feted,matey
+roset,feted,taken
+roset,feted,tepee
+roset,feted,thief
+roset,feted,tweed
+135 [0mr[0mo[0ms[1;32me[1;33mt[0m   7   399 Some((14, 2, "feted")) ["betel", "eaten", "matey", "taken", "tepee", "thief", "tweed"]
+roset,grout,abort
+roset,grout,droit
+roset,grout,droit,front
+roset,grout
+roset,grout,orbit
+roset,grout,tarot
+roset,grout,trout
+166 [1;33mr[1;33mo[0ms[0me[1;32mt[0m   7    50 Some((14, 3, "grout")) ["abort", "droit", "front", "grout", "orbit", "tarot", "trout"]
+roset,roman,roach
+roset,roman,robin
+roset,roman,rocky
+roset,roman,roomy
+roset,roman,rocky,rough
+roset,roman,round
+roset,roman,rocky,rowdy
+roset,roman,royal
+  8 [1;32mr[1;32mo[0ms[0me[0mt[0m   8   130 Some((18, 3, "roman")) ["roach", "robin", "rocky", "roomy", "rough", "round", "rowdy", "royal"]
+roset,prose,arose
+roset,prose
+roset,prose,score
+roset,prose,score,shore
+roset,prose,score,shore,snore
+roset,prose,spore
+roset,prose,score,shore,snore,swore
+roset,prose,verso
+ 40 [1;33mr[1;33mo[1;33ms[1;33me[0mt[0m   8   101 Some((21, 5, "prose")) ["arose", "prose", "score", "shore", "snore", "spore", "swore", "verso"]
+roset,stoop,sloth
+roset,stoop,stock
+roset,stoop,stock,stoic
+roset,stoop,stomp
+roset,stoop,stock,stony
+roset,stoop,stood
+roset,stoop,stood,stool
+roset,stoop
+ 93 [0mr[1;33mo[1;33ms[0me[1;33mt[0m   8   356 Some((18, 3, "stoop")) ["sloth", "stock", "stoic", "stomp", "stony", "stood", "stool", "stoop"]
+126 [0mr[0mo[1;32ms[1;33me[1;33mt[0m   8    64 None ["baste", "caste", "haste", "paste", "taste", "testy", "waste", "zesty"]

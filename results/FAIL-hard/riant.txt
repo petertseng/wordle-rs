@@ -1,0 +1,300 @@
+riant,relic
+  5 [1;32mr[1;33mi[0ma[0mn[0mt[0m   1   182 Some((1, 1, "relic")) ["relic"]
+riant,rival
+ 17 [1;32mr[1;32mi[1;33ma[0mn[0mt[0m   1    11 Some((1, 1, "rival")) ["rival"]
+riant,diary
+ 25 [1;33mr[1;32mi[1;32ma[0mn[0mt[0m   1    11 Some((1, 1, "diary")) ["diary"]
+riant,round
+ 56 [1;32mr[0mi[0ma[1;32mn[0mt[0m   1    28 Some((1, 1, "round")) ["round"]
+riant,rhino
+ 59 [1;32mr[1;33mi[0ma[1;32mn[0mt[0m   1    11 Some((1, 1, "rhino")) ["rhino"]
+riant,arena
+ 64 [1;33mr[0mi[1;33ma[1;32mn[0mt[0m   1    65 Some((1, 1, "arena")) ["arena"]
+riant,rainy
+ 68 [1;32mr[1;33mi[1;33ma[1;32mn[0mt[0m   1     4 Some((1, 1, "rainy")) ["rainy"]
+riant,inane
+ 75 [0mr[1;33mi[1;32ma[1;32mn[0mt[0m   1    16 Some((1, 1, "inane")) ["inane"]
+riant,piano
+ 78 [0mr[1;32mi[1;32ma[1;32mn[0mt[0m   1    13 Some((1, 1, "piano")) ["piano"]
+riant,ratty
+ 92 [1;32mr[0mi[1;33ma[0mn[1;33mt[0m   1    41 Some((1, 1, "ratty")) ["ratty"]
+riant,ratio
+ 95 [1;32mr[1;33mi[1;33ma[0mn[1;33mt[0m   1     6 Some((1, 1, "ratio")) ["ratio"]
+riant,staid
+102 [0mr[1;33mi[1;32ma[0mn[1;33mt[0m   1    36 Some((1, 1, "staid")) ["staid"]
+riant,tiara
+106 [1;33mr[1;32mi[1;32ma[0mn[1;33mt[0m   1     5 Some((1, 1, "tiara")) ["tiara"]
+riant,titan
+123 [0mr[1;32mi[1;33ma[1;33mn[1;33mt[0m   1    10 Some((1, 1, "titan")) ["titan"]
+riant,stain
+129 [0mr[1;33mi[1;32ma[1;33mn[1;33mt[0m   1    10 Some((1, 1, "stain")) ["stain"]
+riant,train
+130 [1;33mr[1;33mi[1;32ma[1;33mn[1;33mt[0m   1     2 Some((1, 1, "train")) ["train"]
+riant,first
+169 [1;33mr[1;32mi[0ma[0mn[1;32mt[0m   1     8 Some((1, 1, "first")) ["first"]
+riant,trait
+184 [1;33mr[1;33mi[1;32ma[0mn[1;32mt[0m   1     4 Some((1, 1, "trait")) ["trait"]
+riant,snort
+190 [1;33mr[0mi[0ma[1;33mn[1;32mt[0m   1    24 Some((1, 1, "snort")) ["snort"]
+riant,inert
+193 [1;33mr[1;33mi[0ma[1;33mn[1;32mt[0m   1     4 Some((1, 1, "inert")) ["inert"]
+riant,night
+195 [0mr[1;32mi[0ma[1;33mn[1;32mt[0m   1    12 Some((1, 1, "night")) ["night"]
+riant,angst
+198 [0mr[0mi[1;33ma[1;33mn[1;32mt[0m   1    52 Some((1, 1, "angst")) ["angst"]
+riant,enact
+207 [0mr[0mi[1;32ma[1;33mn[1;32mt[0m   1    21 Some((1, 1, "enact")) ["enact"]
+riant,print
+220 [1;33mr[1;33mi[0ma[1;32mn[1;32mt[0m   1     2 Some((1, 1, "print")) ["print"]
+riant,grant
+235 [1;33mr[0mi[1;32ma[1;32mn[1;32mt[0m   1     6 Some((1, 1, "grant")) ["grant"]
+riant,giant
+240 [0mr[1;32mi[1;32ma[1;32mn[1;32mt[0m   1     3 Some((1, 1, "giant")) ["giant"]
+riant,renew
+riant,renew,rerun
+ 29 [1;32mr[0mi[0ma[1;33mn[0mt[0m   2   116 Some((3, 2, "renew")) ["renew", "rerun"]
+riant,cairn
+riant,cairn,nadir
+ 40 [1;33mr[1;33mi[1;33ma[1;33mn[0mt[0m   2    34 Some((3, 2, "cairn")) ["cairn", "nadir"]
+riant,final
+riant,final,ninja
+ 42 [0mr[1;32mi[1;33ma[1;33mn[0mt[0m   2    60 Some((3, 2, "final")) ["final", "ninja"]
+riant,fiend
+riant,fiend,ninny
+ 60 [0mr[1;32mi[0ma[1;32mn[0mt[0m   2    58 Some((3, 2, "fiend")) ["fiend", "ninny"]
+riant,inter
+riant,inter,intro
+112 [1;33mr[1;33mi[0ma[1;33mn[1;33mt[0m   2    15 Some((3, 2, "inter")) ["inter", "intro"]
+riant,antic
+riant,antic,satin
+120 [0mr[1;33mi[1;33ma[1;33mn[1;33mt[0m   2    39 Some((3, 2, "antic")) ["antic", "satin"]
+riant,trend
+riant,trend,trunk
+136 [1;33mr[0mi[0ma[1;32mn[1;33mt[0m   2    36 Some((3, 2, "trend")) ["trend", "trunk"]
+riant,atone
+riant,atone,tawny
+144 [0mr[0mi[1;33ma[1;32mn[1;33mt[0m   2    67 Some((3, 2, "atone")) ["atone", "tawny"]
+riant,refit
+riant,refit,remit
+167 [1;32mr[1;33mi[0ma[0mn[1;32mt[0m   2    14 Some((3, 2, "refit")) ["refit", "remit"]
+riant,right
+riant,right,rivet
+170 [1;32mr[1;32mi[0ma[0mn[1;32mt[0m   2     4 Some((3, 2, "right")) ["right", "rivet"]
+riant,react
+riant,react,roast
+182 [1;32mr[0mi[1;32ma[0mn[1;32mt[0m   2     4 Some((3, 2, "react")) ["react", "roast"]
+riant,await
+riant,await,plait
+183 [0mr[1;33mi[1;32ma[0mn[1;32mt[0m   2    13 Some((3, 2, "await")) ["await", "plait"]
+riant,reign
+riant,reign,resin
+riant,reign,robin
+ 32 [1;32mr[1;33mi[0ma[1;33mn[0mt[0m   3    39 Some((5, 2, "reign")) ["reign", "resin", "robin"]
+riant,rinse
+riant,rinse,ripen
+riant,rinse,risen
+ 35 [1;32mr[1;32mi[0ma[1;33mn[0mt[0m   3    11 Some((5, 2, "rinse")) ["rinse", "ripen", "risen"]
+riant,brain
+riant,brain,drain
+riant,brain,drain,grain
+ 49 [1;33mr[1;33mi[1;32ma[1;33mn[0mt[0m   3     6 Some((6, 3, "brain")) ["brain", "drain", "grain"]
+riant,aging
+riant,aging,aping
+riant,aging,china
+ 66 [0mr[1;33mi[1;33ma[1;32mn[0mt[0m   3    69 Some((5, 2, "aging")) ["aging", "aping", "china"]
+riant,triad,tapir
+riant,triad
+riant,triad,trial
+ 94 [1;33mr[1;33mi[1;33ma[0mn[1;33mt[0m   3    41 Some((5, 2, "triad")) ["tapir", "triad", "trial"]
+riant,irate
+riant,irate,stair
+riant,irate,trail
+103 [1;33mr[1;33mi[1;32ma[0mn[1;33mt[0m   3    14 Some((5, 2, "irate")) ["irate", "stair", "trail"]
+riant,nifty,minty
+riant,nifty,ninth
+riant,nifty,pinto
+114 [0mr[1;32mi[0ma[1;33mn[1;33mt[0m   3    54 Some((6, 2, "nifty")) ["minty", "ninth", "pinto"]
+riant,infer,groin
+riant,infer,incur
+riant,infer
+riant,infer,inner
+ 31 [1;33mr[1;33mi[0ma[1;33mn[0mt[0m   4   140 Some((7, 2, "infer")) ["groin", "incur", "infer", "inner"]
+riant,tibia
+riant,tibia,tidal
+riant,tibia,vista
+riant,tibia,vital
+ 96 [0mr[1;32mi[1;33ma[0mn[1;33mt[0m   4    49 Some((7, 2, "tibia")) ["tibia", "tidal", "vista", "vital"]
+riant,stank,stand
+riant,stank
+riant,stank,thank
+riant,stank,twang
+153 [0mr[0mi[1;32ma[1;32mn[1;33mt[0m   4    35 Some((7, 2, "stank")) ["stand", "stank", "thank", "twang"]
+riant,brunt
+riant,brunt,burnt
+riant,brunt,front
+riant,brunt,grunt
+217 [1;33mr[0mi[0ma[1;32mn[1;32mt[0m   4    20 Some((7, 2, "brunt")) ["brunt", "burnt", "front", "grunt"]
+riant,faint
+riant,faint,paint
+riant,faint,paint,saint
+riant,faint,paint,saint,taint
+228 [0mr[1;33mi[1;33ma[1;32mn[1;32mt[0m   4    11 Some((10, 4, "faint")) ["faint", "paint", "saint", "taint"]
+riant,cigar,aider
+riant,cigar
+riant,cigar,circa
+riant,cigar,vicar
+riant,cigar,viral
+ 16 [1;33mr[1;32mi[1;33ma[0mn[0mt[0m   5    55 Some((9, 2, "cigar")) ["aider", "cigar", "circa", "vicar", "viral"]
+riant,realm,reach
+riant,realm,reach,ready
+riant,realm
+riant,realm,rearm
+riant,realm,roach
+ 20 [1;32mr[0mi[1;32ma[0mn[0mt[0m   5    35 Some((10, 3, "realm")) ["reach", "ready", "realm", "rearm", "roach"]
+riant,flair,braid
+riant,flair,chair
+riant,flair
+riant,flair,frail
+riant,flair,grail
+ 22 [1;33mr[1;33mi[1;32ma[0mn[0mt[0m   5    52 Some((9, 2, "flair")) ["braid", "chair", "flair", "frail", "grail"]
+riant,plain,again
+riant,plain,again,chain
+riant,plain
+riant,plain,slain
+riant,plain,snail
+ 48 [0mr[1;33mi[1;32ma[1;33mn[0mt[0m   5    37 Some((10, 3, "plain")) ["again", "chain", "plain", "slain", "snail"]
+riant,amity
+riant,amity,attic
+riant,amity,cacti
+riant,amity,faith
+riant,amity,patio
+ 93 [0mr[1;33mi[1;33ma[0mn[1;33mt[0m   5   196 Some((9, 2, "amity")) ["amity", "attic", "cacti", "faith", "patio"]
+riant,stone
+riant,stone,stony
+riant,stone,stung
+riant,stone,stung,stunk
+riant,stone,thong
+135 [0mr[0mi[0ma[1;32mn[1;33mt[0m   5   171 Some((10, 3, "stone")) ["stone", "stony", "stung", "stunk", "thong"]
+riant,rebut
+riant,rebut,recut
+riant,rebut,reset
+riant,rebut,robot
+riant,rebut,roost
+164 [1;32mr[0mi[0ma[0mn[1;32mt[0m   5    36 Some((9, 2, "rebut")) ["rebut", "recut", "reset", "robot", "roost"]
+riant,ambit,admit
+riant,ambit,audit
+riant,ambit,habit
+riant,ambit,tacit
+riant,ambit,waist
+174 [0mr[1;33mi[1;33ma[0mn[1;32mt[0m   5    41 Some((10, 2, "ambit")) ["admit", "audit", "habit", "tacit", "waist"]
+riant,flint
+riant,flint,glint
+riant,flint,joint
+riant,flint,joint,point
+riant,flint,joint,stint
+219 [0mr[1;33mi[0ma[1;32mn[1;32mt[0m   5    29 Some((11, 3, "flint")) ["flint", "glint", "joint", "point", "stint"]
+riant,rabid,rabbi
+riant,rabid
+riant,rabid,radii
+riant,rabid,radii,radio
+riant,rabid,raise
+riant,rabid,rapid
+ 14 [1;32mr[1;33mi[1;33ma[0mn[0mt[0m   6    49 Some((12, 3, "rabid")) ["rabbi", "rabid", "radii", "radio", "raise", "rapid"]
+riant,gilas,aisle
+riant,gilas,lilac
+riant,gilas,pizza
+riant,gilas,sigma
+riant,gilas,villa
+riant,gilas,viola
+ 15 [0mr[1;32mi[1;33ma[0mn[0mt[0m   6   240 Some((12, 2, "gilas")) ["aisle", "lilac", "pizza", "sigma", "villa", "viola"]
+riant,retro,retch
+riant,retro
+riant,retro,retry
+riant,retro,rotor
+riant,retro,route
+riant,retro,rusty
+ 83 [1;32mr[0mi[0ma[0mn[1;33mt[0m   6   120 Some((11, 2, "retro")) ["retch", "retro", "retry", "rotor", "route", "rusty"]
+riant,girth,birth
+riant,girth,dirty
+riant,girth
+riant,girth,birth,mirth
+riant,girth,tiger
+riant,girth,timer
+ 88 [1;33mr[1;32mi[0ma[0mn[1;33mt[0m   6    53 Some((12, 3, "girth")) ["birth", "dirty", "girth", "mirth", "tiger", "timer"]
+riant,entry,enter
+riant,entry
+riant,entry,north
+riant,entry,stern
+riant,entry,tenor
+riant,entry,thorn
+109 [1;33mr[0mi[0ma[1;33mn[1;33mt[0m   6    77 Some((11, 2, "entry")) ["enter", "entry", "north", "stern", "tenor", "thorn"]
+riant,thing,sting
+riant,thing,stink
+riant,thing
+riant,thing,think
+riant,thing,twine
+riant,thing,tying
+138 [0mr[1;33mi[0ma[1;32mn[1;33mt[0m   6    51 Some((11, 2, "thing")) ["sting", "stink", "thing", "think", "twine", "tying"]
+riant,inept
+riant,inept,ingot
+riant,inept,inlet
+riant,inept,input
+riant,inept,unfit
+riant,inept,unfit,unlit
+192 [0mr[1;33mi[0ma[1;33mn[1;32mt[0m   6    56 Some((12, 3, "inept")) ["inept", "ingot", "inlet", "input", "unfit", "unlit"]
+riant,slant,chant
+riant,slant,leant
+riant,slant,chant,meant
+riant,slant,plant
+riant,slant,scant
+riant,slant
+234 [0mr[0mi[1;32ma[1;32mn[1;32mt[0m   6    18 Some((12, 3, "slant")) ["chant", "leant", "meant", "plant", "scant", "slant"]
+riant,diner
+riant,diner,finer
+riant,diner,finer,liner
+riant,diner,finer,liner,miner
+riant,diner,minor
+riant,diner,nicer
+riant,diner,siren
+ 34 [1;33mr[1;32mi[0ma[1;33mn[0mt[0m   7    39 Some((16, 4, "diner")) ["diner", "finer", "liner", "miner", "minor", "nicer", "siren"]
+riant,ramen
+riant,ramen,ranch
+riant,ramen,ranch,randy
+riant,ramen,range
+riant,ramen,raven
+riant,ramen,rayon
+riant,ramen,renal
+ 38 [1;32mr[0mi[1;33ma[1;33mn[0mt[0m   7    46 Some((14, 3, "ramen")) ["ramen", "ranch", "randy", "range", "raven", "rayon", "renal"]
+riant,snake,gnash
+riant,snake,knack
+riant,snake,knave
+riant,snake,snack
+riant,snake
+riant,snake,snaky
+riant,snake,spawn
+ 45 [0mr[0mi[1;32ma[1;33mn[0mt[0m   7   239 Some((13, 2, "snake")) ["gnash", "knack", "knave", "snack", "snake", "snaky", "spawn"]
+riant,brane,brawn
+riant,brane,drawn
+riant,brane,learn
+riant,brane,drawn,prawn
+riant,brane,snare
+riant,brane,snarl
+riant,brane,learn,yearn
+ 46 [1;33mr[0mi[1;32ma[1;33mn[0mt[0m   7    63 Some((16, 3, "brane")) ["brawn", "drawn", "learn", "prawn", "snare", "snarl", "yearn"]
+riant,crank,brand
+riant,crank,crane
+riant,crank
+riant,crank,drank
+riant,crank,drank,frank
+riant,crank,brand,grand
+riant,crank,drank,frank,prank
+ 73 [1;33mr[0mi[1;32ma[1;32mn[0mt[0m   7    33 Some((17, 4, "crank")) ["brand", "crane", "crank", "drank", "frank", "grand", "prank"]
+riant,treat,abort
+riant,treat,alert
+riant,treat,alert,avert
+riant,treat,carat
+riant,treat,great
+riant,treat,tarot
+riant,treat
+172 [1;33mr[0mi[1;33ma[0mn[1;32mt[0m   7    85 Some((14, 3, "treat")) ["abort", "alert", "avert", "carat", "great", "tarot", "treat"]
+225 [0mr[0mi[1;33ma[1;32mn[1;32mt[0m   7    41 None ["agent", "daunt", "gaunt", "haunt", "jaunt", "taunt", "vaunt"]

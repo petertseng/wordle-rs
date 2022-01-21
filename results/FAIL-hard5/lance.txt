@@ -1,0 +1,303 @@
+lance,vinyl
+ 19 [1;33ml[0ma[1;32mn[0mc[0me[0m   1    87 Some((1, 1, "vinyl")) ["vinyl"]
+lance,lingo
+ 20 [1;32ml[0ma[1;32mn[0mc[0me[0m   1    57 Some((1, 1, "lingo")) ["lingo"]
+lance,lunar
+ 23 [1;32ml[1;33ma[1;32mn[0mc[0me[0m   1    15 Some((1, 1, "lunar")) ["lunar"]
+lance,lanky
+ 26 [1;32ml[1;32ma[1;32mn[0mc[0me[0m   1    10 Some((1, 1, "lanky")) ["lanky"]
+lance,canal
+ 52 [1;33ml[1;32ma[1;32mn[1;33mc[0me[0m   1     3 Some((1, 1, "canal")) ["canal"]
+lance,lurch
+ 56 [1;32ml[0ma[0mn[1;32mc[0me[0m   1    19 Some((1, 1, "lurch")) ["lurch"]
+lance,latch
+ 62 [1;32ml[1;32ma[0mn[1;32mc[0me[0m   1     7 Some((1, 1, "latch")) ["latch"]
+lance,navel
+ 97 [1;33ml[1;32ma[1;33mn[0mc[1;33me[0m   1     9 Some((1, 1, "navel")) ["navel"]
+lance,laden
+ 98 [1;32ml[1;32ma[1;33mn[0mc[1;33me[0m   1     5 Some((1, 1, "laden")) ["laden"]
+lance,saner
+105 [0ml[1;32ma[1;32mn[0mc[1;33me[0m   1    50 Some((1, 1, "saner")) ["saner"]
+lance,panel
+106 [1;33ml[1;32ma[1;32mn[0mc[1;33me[0m   1     5 Some((1, 1, "panel")) ["panel"]
+lance,camel
+115 [1;33ml[1;32ma[0mn[1;33mc[1;33me[0m   1    13 Some((1, 1, "camel")) ["camel"]
+lance,clean
+121 [1;33ml[1;33ma[1;33mn[1;33mc[1;33me[0m   1     3 Some((1, 1, "clean")) ["clean"]
+lance,leech
+137 [1;32ml[0ma[0mn[1;32mc[1;33me[0m   1     7 Some((1, 1, "leech")) ["leech"]
+lance,leach
+140 [1;32ml[1;33ma[0mn[1;32mc[1;33me[0m   1     2 Some((1, 1, "leach")) ["leach"]
+lance,enact
+147 [0ml[1;33ma[1;33mn[1;32mc[1;33me[0m   1     7 Some((1, 1, "enact")) ["enact"]
+lance,noble
+172 [1;33ml[0ma[1;33mn[0mc[1;32me[0m   1    32 Some((1, 1, "noble")) ["noble"]
+lance,naive
+177 [0ml[1;32ma[1;33mn[0mc[1;32me[0m   1    33 Some((1, 1, "naive")) ["naive"]
+lance,lunge
+182 [1;32ml[0ma[1;32mn[0mc[1;32me[0m   1     5 Some((1, 1, "lunge")) ["lunge"]
+lance,scale
+193 [1;33ml[1;33ma[0mn[1;33mc[1;32me[0m   1    13 Some((1, 1, "scale")) ["scale"]
+lance,cable
+196 [1;33ml[1;32ma[0mn[1;33mc[1;32me[0m   1     6 Some((1, 1, "cable")) ["cable"]
+lance,crane
+201 [0ml[1;33ma[1;33mn[1;33mc[1;32me[0m   1    11 Some((1, 1, "crane")) ["crane"]
+lance,canoe
+213 [0ml[1;32ma[1;32mn[1;33mc[1;32me[0m   1     7 Some((1, 1, "canoe")) ["canoe"]
+lance,slice
+217 [1;33ml[0ma[0mn[1;32mc[1;32me[0m   1     6 Some((1, 1, "slice")) ["slice"]
+lance,place
+220 [1;33ml[1;33ma[0mn[1;32mc[1;32me[0m   1     3 Some((1, 1, "place")) ["place"]
+lance,niece
+225 [0ml[0ma[1;33mn[1;32mc[1;32me[0m   1    22 Some((1, 1, "niece")) ["niece"]
+lance,dance
+240 [0ml[1;32ma[1;32mn[1;32mc[1;32me[0m   1     6 Some((1, 1, "dance")) ["dance"]
+lance
+242 [1;32ml[1;32ma[1;32mn[1;32mc[1;32me[0m   1     1 Some((1, 1, "lance")) ["lance"]
+lance,login
+lance,login,lying
+ 11 [1;32ml[0ma[1;33mn[0mc[0me[0m   2   116 Some((3, 2, "login")) ["login", "lying"]
+lance,banal
+lance,banal,manly
+ 25 [1;33ml[1;32ma[1;32mn[0mc[0me[0m   2    18 Some((3, 2, "banal")) ["banal", "manly"]
+lance,lilac
+lance,lilac,local
+ 32 [1;32ml[1;33ma[0mn[1;33mc[0me[0m   2    21 Some((3, 2, "lilac")) ["lilac", "local"]
+lance,clang
+lance,clang,clank
+ 40 [1;33ml[1;33ma[1;33mn[1;33mc[0me[0m   2     9 Some((3, 2, "clang")) ["clang", "clank"]
+lance,knack
+lance,knack,snack
+ 66 [0ml[1;33ma[1;33mn[1;32mc[0me[0m   2    25 Some((3, 2, "knack")) ["knack", "snack"]
+lance,lunch
+lance,lunch,lynch
+ 74 [1;32ml[0ma[1;32mn[1;32mc[0me[0m   2     5 Some((3, 2, "lunch")) ["lunch", "lynch"]
+lance,fancy
+lance,fancy,ranch
+ 78 [0ml[1;32ma[1;32mn[1;32mc[0me[0m   2    15 Some((3, 2, "fancy")) ["fancy", "ranch"]
+lance,leant
+lance,leant,learn
+ 95 [1;32ml[1;33ma[1;33mn[0mc[1;33me[0m   2    11 Some((3, 2, "leant")) ["leant", "learn"]
+lance,linen
+lance,linen,liner
+101 [1;32ml[0ma[1;32mn[0mc[1;33me[0m   2    22 Some((3, 2, "linen")) ["linen", "liner"]
+lance,annex
+lance,annex,apnea
+102 [0ml[1;33ma[1;32mn[0mc[1;33me[0m   2    92 Some((3, 2, "annex")) ["annex", "apnea"]
+lance,penal
+lance,penal,renal
+103 [1;33ml[1;33ma[1;32mn[0mc[1;33me[0m   2    10 Some((3, 2, "penal")) ["penal", "renal"]
+lance,ocean
+lance,ocean,pecan
+120 [0ml[1;33ma[1;33mn[1;33mc[1;33me[0m   2    25 Some((3, 2, "ocean")) ["ocean", "pecan"]
+lance,bench
+lance,bench,wench
+153 [0ml[0ma[1;32mn[1;32mc[1;33me[0m   2    27 Some((3, 2, "bench")) ["bench", "wench"]
+lance,lease
+lance,lease,leave
+167 [1;32ml[1;33ma[0mn[0mc[1;32me[0m   2    17 Some((3, 2, "lease")) ["lease", "leave"]
+lance,mange
+lance,mange,range
+186 [0ml[1;32ma[1;32mn[0mc[1;32me[0m   2    20 Some((3, 2, "mange")) ["mange", "range"]
+lance,clone
+lance,clone,uncle
+199 [1;33ml[0ma[1;33mn[1;33mc[1;32me[0m   2     6 Some((3, 2, "clone")) ["clone", "uncle"]
+lance,farce
+lance,farce,sauce
+222 [0ml[1;32ma[0mn[1;32mc[1;32me[0m   2     9 Some((3, 2, "farce")) ["farce", "sauce"]
+lance,bacon
+lance,bacon,cabin
+lance,bacon,cairn
+ 42 [0ml[1;32ma[1;33mn[1;33mc[0me[0m   3    58 Some((5, 2, "bacon")) ["bacon", "cabin", "cairn"]
+lance,knock
+lance,knock,notch
+lance,knock,snuck
+ 63 [0ml[0ma[1;33mn[1;32mc[0me[0m   3    79 Some((5, 2, "knock")) ["knock", "notch", "snuck"]
+lance,lemon
+lance,lemon,liken
+lance,lemon,lumen
+ 92 [1;32ml[0ma[1;33mn[0mc[1;33me[0m   3    44 Some((5, 2, "lemon")) ["lemon", "liken", "lumen"]
+lance,alien
+lance,alien,angel
+lance,alien,glean
+ 94 [1;33ml[1;33ma[1;33mn[0mc[1;33me[0m   3    43 Some((5, 2, "alien")) ["alien", "angel", "glean"]
+lance,coven
+lance,coven,nicer
+lance,coven,scent
+117 [0ml[0ma[1;33mn[1;33mc[1;33me[0m   3    89 Some((5, 2, "coven")) ["coven", "nicer", "scent"]
+lance,close
+lance,close,clove
+lance,close,cycle
+190 [1;33ml[0ma[0mn[1;33mc[1;32me[0m   3    41 Some((5, 2, "close")) ["close", "clove", "cycle"]
+lance,llama
+lance,llama,loamy
+lance,llama,loath
+lance,llama,loyal
+  5 [1;32ml[1;33ma[0mn[0mc[0me[0m   4   237 Some((7, 2, "llama")) ["llama", "loamy", "loath", "loyal"]
+lance,labor
+lance,labor,larva
+lance,labor,lasso
+lance,labor,laugh
+  8 [1;32ml[1;32ma[0mn[0mc[0me[0m   4   137 Some((7, 2, "labor")) ["labor", "larva", "lasso", "laugh"]
+lance,tonal,annul
+lance,tonal,final
+lance,tonal
+lance,tonal,zonal
+ 22 [1;33ml[1;33ma[1;32mn[0mc[0me[0m   4    40 Some((7, 2, "tonal")) ["annul", "final", "tonal", "zonal"]
+lance,cabal
+lance,cabal,carol
+lance,cabal,caulk
+lance,cabal,carol,cavil
+ 34 [1;33ml[1;32ma[0mn[1;33mc[0me[0m   4    47 Some((8, 3, "cabal")) ["cabal", "carol", "caulk", "cavil"]
+lance,black
+lance,black,clack
+lance,black,clack,flack
+lance,black,clack,flack,slack
+ 58 [1;33ml[1;33ma[0mn[1;32mc[0me[0m   4    24 Some((10, 4, "black")) ["black", "clack", "flack", "slack"]
+lance,belch
+lance,belch,elect
+lance,belch,elect,fleck
+lance,belch,welch
+136 [1;33ml[0ma[0mn[1;32mc[1;33me[0m   4    22 Some((8, 3, "belch")) ["belch", "elect", "fleck", "welch"]
+lance,angle,alone
+lance,angle
+lance,angle,ankle
+lance,angle,plane
+175 [1;33ml[1;33ma[1;33mn[0mc[1;32me[0m   4    17 Some((7, 2, "angle")) ["alone", "angle", "ankle", "plane"]
+lance,carse,cache
+lance,carse,carve
+lance,carse,caste
+lance,carse,cause
+195 [0ml[1;32ma[0mn[1;33mc[1;32me[0m   4    34 Some((8, 2, "carse")) ["cache", "carve", "caste", "cause"]
+lance,crone
+lance,crone,niche
+lance,crone,scene
+lance,crone,scone
+198 [0ml[0ma[1;33mn[1;33mc[1;32me[0m   4    43 Some((7, 2, "crone")) ["crone", "niche", "scene", "scone"]
+lance,nasal
+lance,nasal,natal
+lance,nasal,natal,naval
+lance,nasal,salon
+lance,nasal,talon
+ 16 [1;33ml[1;32ma[1;33mn[0mc[0me[0m   5    45 Some((10, 3, "nasal")) ["nasal", "natal", "naval", "salon", "talon"]
+lance,logic,locus
+lance,logic
+lance,logic,lucid
+lance,logic,lucky
+lance,logic,lyric
+ 29 [1;32ml[0ma[0mn[1;33mc[0me[0m   5    54 Some((9, 2, "logic")) ["locus", "logic", "lucid", "lucky", "lyric"]
+lance,cling
+lance,cling,clink
+lance,cling,clown
+lance,cling,clung
+lance,cling,colon
+ 37 [1;33ml[0ma[1;33mn[1;33mc[0me[0m   5    28 Some((9, 2, "cling")) ["cling", "clink", "clown", "clung", "colon"]
+lance,candy
+lance,candy,canny
+lance,candy,canon
+lance,candy,manic
+lance,candy,manic,panic
+ 51 [0ml[1;32ma[1;32mn[1;33mc[0me[0m   5    35 Some((10, 3, "candy")) ["candy", "canny", "canon", "manic", "panic"]
+lance,lager,label
+lance,lager
+lance,lager,label,lapel
+lance,lager,later
+lance,lager,later,layer
+ 89 [1;32ml[1;32ma[0mn[0mc[1;33me[0m   5    51 Some((11, 3, "lager")) ["label", "lager", "lapel", "later", "layer"]
+lance,cleat,clear
+lance,cleat
+lance,cleat,decal
+lance,cleat,eclat
+lance,cleat,decal,fecal
+112 [1;33ml[1;33ma[0mn[1;33mc[1;33me[0m   5    36 Some((10, 3, "cleat")) ["clear", "cleat", "decal", "eclat", "fecal"]
+lance,lathe,ladle
+lance,lathe,ladle,lapse
+lance,lathe,ladle,lapse,large
+lance,lathe
+lance,lathe,latte
+170 [1;32ml[1;32ma[0mn[0mc[1;32me[0m   5    10 Some((12, 4, "lathe")) ["ladle", "lapse", "large", "lathe", "latte"]
+lance,brace
+lance,brace,grace
+lance,brace,peace
+lance,brace,peace,space
+lance,brace,grace,trace
+219 [0ml[1;33ma[0mn[1;32mc[1;32me[0m   5    19 Some((11, 3, "brace")) ["brace", "grace", "peace", "space", "trace"]
+lance,least,leafy
+lance,least,leafy,leaky
+lance,least,leapt
+lance,least,leash
+lance,least
+lance,least,legal
+ 86 [1;32ml[1;33ma[0mn[0mc[1;33me[0m   6    89 Some((12, 3, "least")) ["leafy", "leaky", "leapt", "leash", "least", "legal"]
+lance,liege,ledge
+lance,liege
+lance,liege,lithe
+lance,liege,lodge
+lance,liege,loose
+lance,liege,loose,louse
+164 [1;32ml[0ma[0mn[0mc[1;32me[0m   6    57 Some((12, 3, "liege")) ["ledge", "liege", "lithe", "lodge", "loose", "louse"]
+lance,tonga,annoy
+lance,tonga,aunty
+lance,tonga,gonad
+lance,tonga,junta
+lance,tonga,ninja
+lance,tonga,sonar
+lance,tonga
+ 21 [0ml[1;33ma[1;32mn[0mc[0me[0m   7   347 Some((13, 2, "tonga")) ["annoy", "aunty", "gonad", "junta", "ninja", "sonar", "tonga"]
+lance,chain,acorn
+lance,chain,antic
+lance,chain
+lance,chain,chant
+lance,chain,china
+lance,chain,crank
+lance,chain,scant
+ 39 [0ml[1;33ma[1;33mn[1;33mc[0me[0m   7   116 Some((13, 2, "chain")) ["acorn", "antic", "chain", "chant", "china", "crank", "scant"]
+lance,canso,condo
+lance,canso,conic
+lance,canso,cynic
+lance,canso,ionic
+lance,canso,sonic
+lance,canso,ionic,tonic
+lance,canso,tunic
+ 45 [0ml[0ma[1;32mn[1;33mc[0me[0m   7   130 Some((15, 3, "canso")) ["condo", "conic", "cynic", "ionic", "sonic", "tonic", "tunic"]
+lance,raven,taken,eaten
+lance,raven,haven
+lance,raven,taken,oaken
+lance,raven,ramen
+lance,raven
+lance,raven,taken
+lance,raven,taken,waxen
+ 96 [0ml[1;32ma[1;33mn[0mc[1;33me[0m   7   107 Some((16, 3, "raven")) ["eaten", "haven", "oaken", "ramen", "raven", "taken", "waxen"]
+lance,cheap,cedar
+lance,cheap
+lance,cheap,cheat
+lance,cheap,creak
+lance,cheap,creak,cream
+lance,cheap,decay
+lance,cheap,recap
+111 [0ml[1;33ma[0mn[1;33mc[1;33me[0m   7   207 Some((14, 3, "cheap")) ["cedar", "cheap", "cheat", "creak", "cream", "decay", "recap"]
+lance,cater,cadet
+lance,cater,cagey
+lance,cater,cagey,cameo
+lance,cater,caper
+lance,cater
+lance,cater,facet
+lance,cater,racer
+114 [0ml[1;32ma[0mn[1;33mc[1;33me[0m   7    96 Some((14, 3, "cater")) ["cadet", "cagey", "cameo", "caper", "cater", "facet", "racer"]
+lance,react,beach
+lance,react,exact
+lance,react,mecca
+lance,react,beach,peach
+lance,react,reach
+lance,react
+lance,react,teach
+138 [0ml[1;33ma[0mn[1;32mc[1;33me[0m   7    36 Some((14, 3, "react")) ["beach", "exact", "mecca", "peach", "reach", "react", "teach"]
+lance,snake,anime
+lance,snake,anime,anode
+lance,snake,atone
+lance,snake,inane
+lance,snake,knave
+lance,snake
+lance,snake,snare
+174 [0ml[1;33ma[1;33mn[0mc[1;32me[0m   7    86 Some((14, 3, "snake")) ["anime", "anode", "atone", "inane", "knave", "snake", "snare"]
+ 60 [0ml[1;32ma[0mn[1;32mc[0me[0m   8    63 None ["batch", "catch", "hatch", "march", "match", "patch", "saucy", "watch"]

@@ -1,0 +1,352 @@
+earnt,erase
+ 14 [1;32me[1;33ma[1;33mr[0mn[0mt[0m   1    22 Some((1, 1, "erase")) ["erase"]
+earnt,eager
+ 17 [1;32me[1;32ma[1;33mr[0mn[0mt[0m   1    12 Some((1, 1, "eager")) ["eager"]
+earnt,early
+ 26 [1;32me[1;32ma[1;32mr[0mn[0mt[0m   1     8 Some((1, 1, "early")) ["early"]
+earnt,enema
+ 32 [1;32me[1;33ma[0mr[1;33mn[0mt[0m   1    15 Some((1, 1, "enema")) ["enema"]
+earnt,moron
+ 45 [0me[0ma[1;32mr[1;33mn[0mt[0m   1   131 Some((1, 1, "moron")) ["moron"]
+earnt,apron
+ 48 [0me[1;33ma[1;32mr[1;33mn[0mt[0m   1    52 Some((1, 1, "apron")) ["apron"]
+earnt,baron
+ 51 [0me[1;32ma[1;32mr[1;33mn[0mt[0m   1    33 Some((1, 1, "baron")) ["baron"]
+earnt,rainy
+ 69 [0me[1;32ma[1;33mr[1;32mn[0mt[0m   1    22 Some((1, 1, "rainy")) ["rainy"]
+earnt,borne
+ 73 [1;33me[0ma[1;32mr[1;32mn[0mt[0m   1    16 Some((1, 1, "borne")) ["borne"]
+earnt,elate
+ 86 [1;32me[1;33ma[0mr[0mn[1;33mt[0m   1    24 Some((1, 1, "elate")) ["elate"]
+earnt,extra
+ 95 [1;32me[1;33ma[1;33mr[0mn[1;33mt[0m   1     5 Some((1, 1, "extra")) ["extra"]
+earnt,eater
+ 98 [1;32me[1;32ma[1;33mr[0mn[1;33mt[0m   1     4 Some((1, 1, "eater")) ["eater"]
+earnt,terra
+103 [1;33me[1;33ma[1;32mr[0mn[1;33mt[0m   1    17 Some((1, 1, "terra")) ["terra"]
+earnt,earth
+107 [1;32me[1;32ma[1;32mr[0mn[1;33mt[0m   1     3 Some((1, 1, "earth")) ["earth"]
+earnt,taken
+115 [1;33me[1;32ma[0mr[1;33mn[1;33mt[0m   1    10 Some((1, 1, "taken")) ["taken"]
+earnt,eaten
+116 [1;32me[1;32ma[0mr[1;33mn[1;33mt[0m   1     2 Some((1, 1, "eaten")) ["eaten"]
+earnt,train
+120 [0me[1;33ma[1;33mr[1;33mn[1;33mt[0m   1    25 Some((1, 1, "train")) ["train"]
+earnt,north
+126 [0me[0ma[1;32mr[1;33mn[1;33mt[0m   1    13 Some((1, 1, "north")) ["north"]
+earnt,atone
+139 [1;33me[1;33ma[0mr[1;32mn[1;33mt[0m   1    10 Some((1, 1, "atone")) ["atone"]
+earnt,tawny
+141 [0me[1;32ma[0mr[1;32mn[1;33mt[0m   1    21 Some((1, 1, "tawny")) ["tawny"]
+earnt,trunk
+144 [0me[0ma[1;33mr[1;32mn[1;33mt[0m   1    36 Some((1, 1, "trunk")) ["trunk"]
+earnt,trend
+145 [1;33me[0ma[1;33mr[1;32mn[1;33mt[0m   1    11 Some((1, 1, "trend")) ["trend"]
+earnt,egret
+182 [1;32me[0ma[1;32mr[0mn[1;32mt[0m   1     3 Some((1, 1, "egret")) ["egret"]
+earnt,angst
+192 [0me[1;33ma[0mr[1;33mn[1;32mt[0m   1    52 Some((1, 1, "angst")) ["angst"]
+earnt,enact
+194 [1;32me[1;33ma[0mr[1;33mn[1;32mt[0m   1     2 Some((1, 1, "enact")) ["enact"]
+earnt,snort
+198 [0me[0ma[1;33mr[1;33mn[1;32mt[0m   1    24 Some((1, 1, "snort")) ["snort"]
+earnt,inert
+199 [1;33me[0ma[1;33mr[1;33mn[1;32mt[0m   1     7 Some((1, 1, "inert")) ["inert"]
+earnt,event
+218 [1;32me[0ma[0mr[1;32mn[1;32mt[0m   1     3 Some((1, 1, "event")) ["event"]
+earnt,grant
+228 [0me[1;33ma[1;33mr[1;32mn[1;32mt[0m   1     8 Some((1, 1, "grant")) ["grant"]
+earnt,burnt
+234 [0me[0ma[1;32mr[1;32mn[1;32mt[0m   1     4 Some((1, 1, "burnt")) ["burnt"]
+earnt,eagle
+earnt,eagle,easel
+  8 [1;32me[1;32ma[0mr[0mn[0mt[0m   2    25 Some((3, 2, "eagle")) ["eagle", "easel"]
+earnt,eerie
+earnt,eerie,error
+ 20 [1;32me[0ma[1;32mr[0mn[0mt[0m   2    21 Some((3, 2, "eerie")) ["eerie", "error"]
+earnt,agree
+earnt,agree,feral
+ 22 [1;33me[1;33ma[1;32mr[0mn[0mt[0m   2   131 Some((3, 2, "agree")) ["agree", "feral"]
+earnt,arena
+earnt,arena,crane
+ 67 [1;33me[1;33ma[1;33mr[1;32mn[0mt[0m   2    13 Some((3, 2, "arena")) ["arena", "crane"]
+earnt,corny
+earnt,corny,horny
+ 72 [0me[0ma[1;32mr[1;32mn[0mt[0m   2    56 Some((3, 2, "corny")) ["corny", "horny"]
+earnt,ester
+earnt,ester,ether
+ 92 [1;32me[0ma[1;33mr[0mn[1;33mt[0m   2    17 Some((3, 2, "ester")) ["ester", "ether"]
+earnt,intro
+earnt,intro,thorn
+117 [0me[0ma[1;33mr[1;33mn[1;33mt[0m   2    77 Some((3, 2, "intro")) ["intro", "thorn"]
+earnt,enter
+earnt,enter,entry
+119 [1;32me[0ma[1;33mr[1;33mn[1;33mt[0m   2     3 Some((3, 2, "enter")) ["enter", "entry"]
+earnt,stone
+earnt,stone,twine
+136 [1;33me[0ma[0mr[1;32mn[1;33mt[0m   2    56 Some((3, 2, "stone")) ["stone", "twine"]
+earnt,beret
+earnt,beret,merit
+181 [1;33me[0ma[1;32mr[0mn[1;32mt[0m   2    13 Some((3, 2, "beret")) ["beret", "merit"]
+earnt,carat
+earnt,carat,tarot
+186 [0me[1;32ma[1;32mr[0mn[1;32mt[0m   2     9 Some((3, 2, "carat")) ["carat", "tarot"]
+earnt,scent
+earnt,scent,spent
+217 [1;33me[0ma[0mr[1;32mn[1;32mt[0m   2    28 Some((3, 2, "scent")) ["scent", "spent"]
+earnt,ebony
+earnt,ebony,eking
+earnt,ebony,eying
+ 56 [1;32me[0ma[0mr[1;32mn[0mt[0m   3    23 Some((5, 2, "ebony")) ["ebony", "eking", "eying"]
+earnt,party
+earnt,party,tardy
+earnt,party,warty
+105 [0me[1;32ma[1;32mr[0mn[1;33mt[0m   3    45 Some((5, 2, "party")) ["party", "tardy", "warty"]
+earnt,inter
+earnt,inter,stern
+earnt,inter,tenor
+118 [1;33me[0ma[1;33mr[1;33mn[1;33mt[0m   3    29 Some((5, 2, "inter")) ["inter", "stern", "tenor"]
+earnt,eclat
+earnt,eclat,exact
+earnt,eclat,exalt
+167 [1;32me[1;33ma[0mr[0mn[1;32mt[0m   3     9 Some((5, 2, "eclat")) ["eclat", "exact", "exalt"]
+earnt,cadet
+earnt,cadet,facet
+earnt,cadet,valet
+169 [1;33me[1;32ma[0mr[0mn[1;32mt[0m   3    13 Some((5, 2, "cadet")) ["cadet", "facet", "valet"]
+earnt,erect
+earnt,erect,erupt
+earnt,erect,exert
+173 [1;32me[0ma[1;33mr[0mn[1;32mt[0m   3     9 Some((5, 2, "erect")) ["erect", "erupt", "exert"]
+earnt,leant,agent
+earnt,leant
+earnt,leant,meant
+220 [1;33me[1;33ma[0mr[1;32mn[1;32mt[0m   3     7 Some((5, 2, "leant")) ["agent", "leant", "meant"]
+earnt,email
+earnt,email,equal
+earnt,email,essay
+earnt,email,evade
+  5 [1;32me[1;33ma[0mr[0mn[0mt[0m   4    75 Some((7, 2, "email")) ["email", "equal", "essay", "evade"]
+earnt,elder
+earnt,elder,ember
+earnt,elder,erode
+earnt,elder,every
+ 11 [1;32me[0ma[1;33mr[0mn[0mt[0m   4    84 Some((7, 2, "elder")) ["elder", "ember", "erode", "every"]
+earnt,ramen
+earnt,ramen,range
+earnt,ramen,raven
+earnt,ramen,saner
+ 43 [1;33me[1;32ma[1;33mr[1;33mn[0mt[0m   4    18 Some((7, 2, "ramen")) ["ramen", "range", "raven", "saner"]
+earnt,ratio
+earnt,ratio,ratty
+earnt,ratio,satyr
+earnt,ratio,tapir
+ 96 [0me[1;32ma[1;33mr[0mn[1;33mt[0m   4    99 Some((7, 2, "ratio")) ["ratio", "ratty", "satyr", "tapir"]
+earnt,party,aorta
+earnt,party,strap
+earnt,party,straw
+earnt,party,stray
+102 [0me[1;33ma[1;32mr[0mn[1;33mt[0m   4    84 Some((8, 2, "party")) ["aorta", "strap", "straw", "stray"]
+earnt,stank,stand
+earnt,stank
+earnt,stank,thank
+earnt,stank,twang
+138 [0me[1;33ma[0mr[1;32mn[1;33mt[0m   4    67 Some((7, 2, "stank")) ["stand", "stank", "thank", "twang"]
+earnt,wurst,burst
+earnt,wurst,first
+earnt,wurst,strut
+earnt,wurst,worst
+180 [0me[0ma[1;32mr[0mn[1;32mt[0m   4    42 Some((8, 2, "wurst")) ["burst", "first", "strut", "worst"]
+earnt,brunt
+earnt,brunt,front
+earnt,brunt,grunt
+earnt,brunt,front,print
+225 [0me[0ma[1;33mr[1;32mn[1;32mt[0m   4    20 Some((8, 3, "brunt")) ["brunt", "front", "grunt", "print"]
+earnt,learn,anger
+earnt,learn
+earnt,learn,renal
+earnt,learn,snare
+earnt,learn,yearn
+ 40 [1;33me[1;33ma[1;33mr[1;33mn[0mt[0m   5    49 Some((9, 2, "learn")) ["anger", "learn", "renal", "snare", "yearn"]
+earnt,alone
+earnt,alone,amend
+earnt,alone,hyena
+earnt,alone,inane
+earnt,alone,plane
+ 58 [1;33me[1;33ma[0mr[1;32mn[0mt[0m   5    77 Some((9, 2, "alone")) ["alone", "amend", "hyena", "inane", "plane"]
+earnt,fanny,canny
+earnt,fanny
+earnt,fanny,fauna
+earnt,fanny,canny,nanny
+earnt,fanny,sauna
+ 60 [0me[1;32ma[0mr[1;32mn[0mt[0m   5    90 Some((10, 3, "fanny")) ["canny", "fanny", "fauna", "nanny", "sauna"]
+earnt,terse,berth
+earnt,terse,forte
+earnt,terse
+earnt,terse,three
+earnt,terse,threw
+100 [1;33me[0ma[1;32mr[0mn[1;33mt[0m   5    60 Some((9, 2, "terse")) ["berth", "forte", "terse", "three", "threw"]
+earnt,scant,chant
+earnt,scant,giant
+earnt,scant,giant,plant
+earnt,scant
+earnt,scant,slant
+219 [0me[1;33ma[0mr[1;32mn[1;32mt[0m   5    41 Some((10, 3, "scant")) ["chant", "giant", "plant", "scant", "slant"]
+earnt,ranch,cairn
+earnt,ranch,manor
+earnt,ranch,nadir
+earnt,ranch
+earnt,ranch,randy
+earnt,ranch,rayon
+ 42 [0me[1;32ma[1;33mr[1;33mn[0mt[0m   6    78 Some((11, 2, "ranch")) ["cairn", "manor", "nadir", "ranch", "randy", "rayon"]
+earnt,nurse,heron
+earnt,nurse,nerdy
+earnt,nurse,nerve
+earnt,nurse
+earnt,nurse,rerun
+earnt,nurse,siren
+ 46 [1;33me[0ma[1;32mr[1;33mn[0mt[0m   6    39 Some((11, 2, "nurse")) ["heron", "nerdy", "nerve", "nurse", "rerun", "siren"]
+earnt,prone,brine
+earnt,prone,crone
+earnt,prone,crone,drone
+earnt,prone
+earnt,prone,prune
+earnt,prone,brine,urine
+ 64 [1;33me[0ma[1;33mr[1;32mn[0mt[0m   6    59 Some((13, 3, "prone")) ["brine", "crone", "drone", "prone", "prune", "urine"]
+earnt,brand
+earnt,brand,franc,crank
+earnt,brand,drank
+earnt,brand,franc,frank
+earnt,brand,grand
+earnt,brand,franc,prank
+ 66 [0me[1;33ma[1;33mr[1;32mn[0mt[0m   6    65 Some((14, 3, "brand")) ["brand", "crank", "drank", "frank", "grand", "prank"]
+earnt,elite
+earnt,elite,empty
+earnt,elite,ethic
+earnt,elite,ethos
+earnt,elite,etude
+earnt,elite,extol
+ 83 [1;32me[0ma[0mr[0mn[1;33mt[0m   6    79 Some((11, 2, "elite")) ["elite", "empty", "ethic", "ethos", "etude", "extol"]
+earnt,alert
+earnt,alert,avert
+earnt,alert,great
+earnt,alert,heart
+earnt,alert,react
+earnt,alert,great,treat
+175 [1;33me[1;33ma[1;33mr[0mn[1;32mt[0m   6    19 Some((12, 3, "alert")) ["alert", "avert", "great", "heart", "react", "treat"]
+earnt,enjoy,elfin
+earnt,enjoy,endow
+earnt,enjoy,enemy
+earnt,enjoy
+earnt,enjoy,ennui
+earnt,enjoy,ennui,ensue
+earnt,enjoy,envoy
+ 29 [1;32me[0ma[0mr[1;33mn[0mt[0m   7    78 Some((14, 3, "enjoy")) ["elfin", "endow", "enemy", "enjoy", "ennui", "ensue", "envoy"]
+earnt,cater
+earnt,cater,hater
+earnt,cater,hater,later
+earnt,cater,taker
+earnt,cater,taker,tamer
+earnt,cater,taker,tamer,taper
+earnt,cater,hater,later,water
+ 97 [1;33me[1;32ma[1;33mr[0mn[1;33mt[0m   7    35 Some((19, 4, "cater")) ["cater", "hater", "later", "taker", "tamer", "taper", "water"]
+earnt,conte,often
+earnt,conte,stein
+earnt,conte,tense
+earnt,conte,tenth
+earnt,conte,token
+earnt,conte,unite
+earnt,conte,untie
+109 [1;33me[0ma[0mr[1;33mn[1;33mt[0m   7   193 Some((14, 2, "conte")) ["often", "stein", "tense", "tenth", "token", "unite", "untie"]
+earnt,titan,antic
+earnt,titan,aunty
+earnt,titan,aunty,junta
+earnt,titan,stain
+earnt,titan
+earnt,titan,tonal
+earnt,titan,tonga
+111 [0me[1;33ma[0mr[1;33mn[1;33mt[0m   7   195 Some((14, 3, "titan")) ["antic", "aunty", "junta", "stain", "titan", "tonal", "tonga"]
+earnt,talon,baton
+earnt,talon,nasty
+earnt,talon,natal
+earnt,talon,satin
+earnt,talon
+earnt,talon,tango
+earnt,talon,tangy
+114 [0me[1;32ma[0mr[1;33mn[1;33mt[0m   7    88 Some((13, 2, "talon")) ["baton", "nasty", "natal", "satin", "talon", "tango", "tangy"]
+earnt,edict
+earnt,edict,eight
+earnt,edict,eject
+earnt,edict,eject,elect
+earnt,edict,evict
+earnt,edict,exist
+earnt,edict,exult
+164 [1;32me[0ma[0mr[0mn[1;32mt[0m   7    34 Some((14, 3, "edict")) ["edict", "eight", "eject", "elect", "evict", "exist", "exult"]
+earnt,unset,inept
+earnt,unset,inlet
+earnt,unset,inept,knelt
+earnt,unset,onset
+earnt,unset,tenet
+earnt,unset,unmet
+earnt,unset
+190 [1;33me[0ma[0mr[1;33mn[1;32mt[0m   7    53 Some((14, 3, "unset")) ["inept", "inlet", "knelt", "onset", "tenet", "unmet", "unset"]
+earnt,parge,barge
+earnt,parge,carve
+earnt,parge,carve,farce
+earnt,parge,harem
+earnt,parge,barge,large
+earnt,parge,parer
+earnt,parge,parse
+earnt,parge,harem,rarer
+ 25 [1;33me[1;32ma[1;32mr[0mn[0mt[0m   8    83 Some((19, 3, "parge")) ["barge", "carve", "farce", "harem", "large", "parer", "parse", "rarer"]
+earnt,tacit,caput
+earnt,tacit,fault
+earnt,tacit,fault,gamut
+earnt,tacit,habit
+earnt,tacit
+earnt,tacit,fault,vault
+earnt,tacit,waist
+earnt,tacit,yacht
+168 [0me[1;32ma[0mr[0mn[1;32mt[0m   8    72 Some((17, 3, "tacit")) ["caput", "fault", "gamut", "habit", "tacit", "vault", "waist", "yacht"]
+earnt,unfit,donut
+earnt,unfit,ingot
+earnt,unfit,input
+earnt,unfit,night
+earnt,unfit,snout
+earnt,unfit,uncut
+earnt,unfit
+earnt,unfit,unlit
+189 [0me[0ma[0mr[1;33mn[1;32mt[0m   8   148 Some((15, 2, "unfit")) ["donut", "ingot", "input", "night", "snout", "uncut", "unfit", "unlit"]
+earnt,tying,sting
+earnt,tying,stink
+earnt,tying,stony
+earnt,tying,stung
+earnt,tying,stunk
+earnt,tying,thing
+earnt,tying,think
+earnt,tying,thong
+earnt,tying
+135 [0me[0ma[0mr[1;32mn[1;33mt[0m   9   171 Some((17, 2, "tying")) ["sting", "stink", "stony", "stung", "stunk", "thing", "think", "thong", "tying"]
+earnt,crate,after
+earnt,crate,after,alter
+earnt,crate
+earnt,crate,grate
+earnt,crate,grate,irate
+earnt,crate,stare
+earnt,crate,teary
+earnt,crate,trace
+earnt,crate,trade
+earnt,crate,tread
+ 94 [1;33me[1;33ma[1;33mr[0mn[1;33mt[0m  10    93 Some((21, 3, "crate")) ["after", "alter", "crate", "grate", "irate", "stare", "teary", "trace", "trade", "tread"]
+earnt,count,shunt,blunt
+earnt,count
+earnt,count,flint
+earnt,count,flint,glint
+earnt,count,joint
+earnt,count,mount
+earnt,count,joint,point
+earnt,count,shunt
+earnt,count,flint,stint
+earnt,count,shunt,stunt
+216 [0me[0ma[0mr[1;32mn[1;32mt[0m  10    87 Some((24, 3, "count")) ["blunt", "count", "flint", "glint", "joint", "mount", "point", "shunt", "stint", "stunt"]
+222 [0me[1;32ma[0mr[1;32mn[1;32mt[0m  10    17 None ["daunt", "faint", "gaunt", "haunt", "jaunt", "paint", "saint", "taint", "taunt", "vaunt"]

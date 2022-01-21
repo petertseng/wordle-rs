@@ -1,0 +1,242 @@
+tarns,aorta
+ 22 [1;33mt[1;33ma[1;32mr[0mn[0ms[0m   1    84 Some((1, 1, "aorta")) ["aorta"]
+tarns,terra
+ 23 [1;32mt[1;33ma[1;32mr[0mn[0ms[0m   1    29 Some((1, 1, "terra")) ["terra"]
+tarns,train
+ 41 [1;32mt[1;33ma[1;33mr[1;33mn[0ms[0m   1     9 Some((1, 1, "train")) ["train"]
+tarns,north
+ 46 [1;33mt[0ma[1;32mr[1;33mn[0ms[0m   1    13 Some((1, 1, "north")) ["north"]
+tarns,apron
+ 48 [0mt[1;33ma[1;32mr[1;33mn[0ms[0m   1    52 Some((1, 1, "apron")) ["apron"]
+tarns,baron
+ 51 [0mt[1;32ma[1;32mr[1;33mn[0ms[0m   1    33 Some((1, 1, "baron")) ["baron"]
+tarns,grant
+ 67 [1;33mt[1;33ma[1;33mr[1;32mn[0ms[0m   1    13 Some((1, 1, "grant")) ["grant"]
+tarns,rainy
+ 69 [0mt[1;32ma[1;33mr[1;32mn[0ms[0m   1    22 Some((1, 1, "rainy")) ["rainy"]
+tarns,burnt
+ 73 [1;33mt[0ma[1;32mr[1;32mn[0ms[0m   1     8 Some((1, 1, "burnt")) ["burnt"]
+tarns,trash
+ 95 [1;32mt[1;33ma[1;33mr[0mn[1;33ms[0m   1    26 Some((1, 1, "trash")) ["trash"]
+tarns,satyr
+ 97 [1;33mt[1;32ma[1;33mr[0mn[1;33ms[0m   1    31 Some((1, 1, "satyr")) ["satyr"]
+tarns,tense
+110 [1;32mt[0ma[0mr[1;33mn[1;33ms[0m   1    43 Some((1, 1, "tense")) ["tense"]
+tarns,saner
+123 [0mt[1;32ma[1;33mr[1;33mn[1;33ms[0m   1    28 Some((1, 1, "saner")) ["saner"]
+tarns,sauna
+141 [0mt[1;32ma[0mr[1;32mn[1;33ms[0m   1    44 Some((1, 1, "sauna")) ["sauna"]
+tarns,saint
+142 [1;33mt[1;32ma[0mr[1;32mn[1;33ms[0m   1     4 Some((1, 1, "saint")) ["saint"]
+tarns,basis
+168 [0mt[1;32ma[0mr[0mn[1;32ms[0m   1   757 Some((1, 1, "basis")) ["basis"]
+tarns,truss
+173 [1;32mt[0ma[1;33mr[0mn[1;32ms[0m   1    75 Some((1, 1, "truss")) ["truss"]
+tarns,virus
+180 [0mt[0ma[1;32mr[0mn[1;32ms[0m   1   401 Some((1, 1, "virus")) ["virus"]
+tarns,torus
+182 [1;32mt[0ma[1;32mr[0mn[1;32ms[0m   1    32 Some((1, 1, "torus")) ["torus"]
+tarns,tardy
+tarns,tardy,tarot
+ 26 [1;32mt[1;32ma[1;32mr[0mn[0ms[0m   2    18 Some((3, 2, "tardy")) ["tardy", "tarot"]
+tarns,tenor
+tarns,tenor,thorn
+ 38 [1;32mt[0ma[1;33mr[1;33mn[0ms[0m   2    26 Some((3, 2, "tenor")) ["tenor", "thorn"]
+tarns,thank
+tarns,thank,twang
+ 59 [1;32mt[1;33ma[0mr[1;32mn[0ms[0m   2    22 Some((3, 2, "thank")) ["thank", "twang"]
+tarns,trend
+tarns,trend,trunk
+ 65 [1;32mt[0ma[1;33mr[1;32mn[0ms[0m   2    18 Some((3, 2, "trend")) ["trend", "trunk"]
+tarns,tease
+tarns,tease,toast
+ 86 [1;32mt[1;33ma[0mr[0mn[1;33ms[0m   2   116 Some((3, 2, "tease")) ["tease", "toast"]
+tarns,taste
+tarns,taste,tasty
+ 89 [1;32mt[1;32ma[0mr[0mn[1;33ms[0m   2    68 Some((3, 2, "taste")) ["taste", "tasty"]
+tarns,trust
+tarns,trust,tryst
+ 92 [1;32mt[0ma[1;33mr[0mn[1;33ms[0m   2    88 Some((3, 2, "trust")) ["trust", "tryst"]
+tarns,terse
+tarns,terse,torso
+101 [1;32mt[0ma[1;32mr[0mn[1;33ms[0m   2    38 Some((3, 2, "terse")) ["terse", "torso"]
+tarns,angst
+tarns,angst,stain
+112 [1;33mt[1;33ma[0mr[1;33mn[1;33ms[0m   2    54 Some((3, 2, "angst")) ["angst", "stain"]
+tarns,nasty
+tarns,nasty,satin
+115 [1;33mt[1;32ma[0mr[1;33mn[1;33ms[0m   2    27 Some((3, 2, "nasty")) ["nasty", "satin"]
+tarns,snort
+tarns,snort,stern
+118 [1;33mt[0ma[1;33mr[1;33mn[1;33ms[0m   2    15 Some((3, 2, "snort")) ["snort", "stern"]
+tarns,nurse
+tarns,nurse,siren
+126 [0mt[0ma[1;32mr[1;33mn[1;33ms[0m   2    56 Some((3, 2, "nurse")) ["nurse", "siren"]
+tarns,ethos
+tarns,ethos,fetus
+163 [1;33mt[0ma[0mr[0mn[1;32ms[0m   2   794 Some((3, 2, "ethos")) ["ethos", "fetus"]
+tarns,bonus
+tarns,bonus,minus
+189 [0mt[0ma[0mr[1;33mn[1;32ms[0m   2   703 Some((3, 2, "bonus")) ["bonus", "minus"]
+tarns,titan
+tarns,titan,tonal
+tarns,titan,tonga
+ 32 [1;32mt[1;33ma[0mr[1;33mn[0ms[0m   3    59 Some((5, 2, "titan")) ["titan", "tonal", "tonga"]
+tarns,baton
+tarns,baton,eaten
+tarns,baton,natal
+ 34 [1;33mt[1;32ma[0mr[1;33mn[0ms[0m   3    88 Some((5, 2, "baton")) ["baton", "eaten", "natal"]
+tarns,taint
+tarns,taint,taunt
+tarns,taint,tawny
+ 62 [1;32mt[1;32ma[0mr[1;32mn[0ms[0m   3     6 Some((5, 2, "taint")) ["taint", "taunt", "tawny"]
+tarns,corny,borne
+tarns,corny
+tarns,corny,horny
+ 72 [0mt[0ma[1;32mr[1;32mn[0ms[0m   3    56 Some((5, 2, "corny")) ["borne", "corny", "horny"]
+tarns,scram
+tarns,scram,scrap
+tarns,scram,spray
+102 [0mt[1;33ma[1;32mr[0mn[1;33ms[0m   3   199 Some((5, 2, "scram")) ["scram", "scrap", "spray"]
+tarns,strap
+tarns,strap,straw
+tarns,strap,straw,stray
+103 [1;33mt[1;33ma[1;32mr[0mn[1;33ms[0m   3    33 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+tarns,harsh
+tarns,harsh,marsh
+tarns,harsh,parse
+105 [0mt[1;32ma[1;32mr[0mn[1;33ms[0m   3   130 Some((5, 2, "harsh")) ["harsh", "marsh", "parse"]
+tarns,shank
+tarns,shank,slang
+tarns,shank,spank
+138 [0mt[1;33ma[0mr[1;32mn[1;33ms[0m   3   120 Some((5, 2, "shank")) ["shank", "slang", "spank"]
+tarns,brags,brass
+tarns,brags,crass
+tarns,brags,grass
+174 [0mt[1;33ma[1;33mr[0mn[1;32ms[0m   3   358 Some((6, 2, "brags")) ["brass", "crass", "grass"]
+tarns,taker
+tarns,taker,tamer
+tarns,taker,tamer,taper
+tarns,taker,tapir
+ 17 [1;32mt[1;32ma[1;33mr[0mn[0ms[0m   4    37 Some((8, 3, "taker")) ["taker", "tamer", "taper", "tapir"]
+tarns,party,carat
+tarns,party,earth
+tarns,party
+tarns,party,warty
+ 25 [1;33mt[1;32ma[1;32mr[0mn[0ms[0m   4    45 Some((7, 2, "party")) ["carat", "earth", "party", "warty"]
+tarns,antic
+tarns,antic,aunty
+tarns,antic,enact
+tarns,antic,junta
+ 31 [1;33mt[1;33ma[0mr[1;33mn[0ms[0m   4   195 Some((7, 2, "antic")) ["antic", "aunty", "enact", "junta"]
+tarns,talon,taken
+tarns,talon
+tarns,talon,tango
+tarns,talon,tangy
+ 35 [1;32mt[1;32ma[0mr[1;33mn[0ms[0m   4    29 Some((7, 2, "talon")) ["taken", "talon", "tango", "tangy"]
+tarns,canny
+tarns,canny,fanny
+tarns,canny,fauna
+tarns,canny,fanny,nanny
+ 60 [0mt[1;32ma[0mr[1;32mn[0ms[0m   4    90 Some((8, 3, "canny")) ["canny", "fanny", "fauna", "nanny"]
+tarns,brunt
+tarns,brunt,front
+tarns,brunt,grunt
+tarns,brunt,front,print
+ 64 [1;33mt[0ma[1;33mr[1;32mn[0ms[0m   4    36 Some((8, 3, "brunt")) ["brunt", "front", "grunt", "print"]
+tarns,raise
+tarns,raise,raspy
+tarns,raise,safer
+tarns,raise,savor
+ 96 [0mt[1;32ma[1;33mr[0mn[1;33ms[0m   4   224 Some((7, 2, "raise")) ["raise", "raspy", "safer", "savor"]
+tarns,onset
+tarns,onset,snout
+tarns,onset,stein
+tarns,onset,unset
+109 [1;33mt[0ma[0mr[1;33mn[1;33ms[0m   4   181 Some((7, 2, "onset")) ["onset", "snout", "stein", "unset"]
+tarns,snare,arson
+tarns,snare
+tarns,snare,snarl
+tarns,snare,sonar
+120 [0mt[1;33ma[1;33mr[1;33mn[1;33ms[0m   4    52 Some((7, 2, "snare")) ["arson", "snare", "snarl", "sonar"]
+tarns,scant
+tarns,scant,slant
+tarns,scant,stand
+tarns,scant,stand,stank
+139 [1;33mt[1;33ma[0mr[1;32mn[1;33ms[0m   4    14 Some((8, 3, "scant")) ["scant", "slant", "stand", "stank"]
+tarns,enter
+tarns,enter,entry
+tarns,enter,inert
+tarns,enter,inter
+tarns,enter,intro
+ 37 [1;33mt[0ma[1;33mr[1;33mn[0ms[0m   5    77 Some((9, 2, "enter")) ["enter", "entry", "inert", "inter", "intro"]
+tarns,narre,heron
+tarns,narre,moron
+tarns,narre,nerdy
+tarns,narre,nerve
+tarns,narre,rerun
+ 45 [0mt[0ma[1;32mr[1;33mn[0ms[0m   5   131 Some((10, 2, "narre")) ["heron", "moron", "nerdy", "nerve", "rerun"]
+tarns,thing
+tarns,thing,think
+tarns,thing,thong
+tarns,thing,twine
+tarns,thing,tying
+ 56 [1;32mt[0ma[0mr[1;32mn[0ms[0m   5    64 Some((9, 2, "thing")) ["thing", "think", "thong", "twine", "tying"]
+tarns,teste,testy
+tarns,teste,these
+tarns,teste,those
+tarns,teste,tipsy
+tarns,teste,twist
+ 83 [1;32mt[0ma[0mr[0mn[1;33ms[0m   5   315 Some((10, 2, "teste")) ["testy", "these", "those", "tipsy", "twist"]
+tarns,torsi,burst
+tarns,torsi,first
+tarns,torsi,strip
+tarns,torsi,strut
+tarns,torsi,worst
+100 [1;33mt[0ma[1;32mr[0mn[1;33ms[0m   5    99 Some((10, 2, "torsi")) ["burst", "first", "strip", "strut", "worst"]
+tarns,token,tenet
+tarns,token,tenth
+tarns,token
+tarns,token,tonic
+tarns,token,toxin
+tarns,token,tunic
+ 29 [1;32mt[0ma[0mr[1;33mn[0ms[0m   6   154 Some((11, 2, "token")) ["tenet", "tenth", "token", "tonic", "toxin", "tunic"]
+tarns,salon,basin
+tarns,salon,mason
+tarns,salon,nasal
+tarns,salon,pansy
+tarns,salon
+tarns,salon,sandy
+114 [0mt[1;32ma[0mr[1;33mn[1;33ms[0m   6   174 Some((11, 2, "salon")) ["basin", "mason", "nasal", "pansy", "salon", "sandy"]
+tarns,chams,abyss
+tarns,chams,amass
+tarns,chams,amiss
+tarns,chams,chaos
+tarns,chams,class
+tarns,chams,glass
+165 [0mt[1;33ma[0mr[0mn[1;32ms[0m   6  1479 Some((12, 2, "chams")) ["abyss", "amass", "amiss", "chaos", "class", "glass"]
+tarns,earth,cater
+tarns,earth,eater
+tarns,earth,hater
+tarns,earth,cater,later
+tarns,earth,ratio
+tarns,earth,ratty
+tarns,earth,cater,later,water
+ 16 [1;33mt[1;32ma[1;33mr[0mn[0ms[0m   7    99 Some((17, 4, "earth")) ["cater", "eater", "hater", "later", "ratio", "ratty", "water"]
+tarns,threw,three
+tarns,threw
+tarns,threw,throb
+tarns,threw,throw
+tarns,threw,throb,thrum
+tarns,threw,torch
+tarns,threw,turbo
+ 20 [1;32mt[0ma[1;32mr[0mn[0ms[0m   7    82 Some((14, 3, "threw")) ["three", "threw", "throb", "throw", "thrum", "torch", "turbo"]
+tarns,leant,agent
+tarns,leant,atone
+tarns,leant,chant
+tarns,leant,chant,giant
+tarns,leant
+tarns,leant,meant
+tarns,leant,plant
+ 58 [1;33mt[1;33ma[0mr[1;32mn[0ms[0m   7    67 Some((14, 3, "leant")) ["agent", "atone", "chant", "giant", "leant", "meant", "plant"]
+ 61 [1;33mt[1;32ma[0mr[1;32mn[0ms[0m   7    21 None ["daunt", "faint", "gaunt", "haunt", "jaunt", "paint", "vaunt"]

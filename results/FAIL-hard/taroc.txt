@@ -1,0 +1,429 @@
+taroc,terra
+ 23 [1;32mt[1;33ma[1;32mr[0mo[0mc[0m   1    29 Some((1, 1, "terra")) ["terra"]
+taroc,tardy
+ 26 [1;32mt[1;32ma[1;32mr[0mo[0mc[0m   1    18 Some((1, 1, "tardy")) ["tardy"]
+taroc,patio
+ 34 [1;33mt[1;32ma[0mr[1;33mo[0mc[0m   1    49 Some((1, 1, "patio")) ["patio"]
+taroc,tango
+ 35 [1;32mt[1;32ma[0mr[1;33mo[0mc[0m   1    19 Some((1, 1, "tango")) ["tango"]
+taroc,radio
+ 42 [0mt[1;32ma[1;33mr[1;33mo[0mc[0m   1    61 Some((1, 1, "radio")) ["radio"]
+taroc,ratio
+ 43 [1;33mt[1;32ma[1;33mr[1;33mo[0mc[0m   1    13 Some((1, 1, "ratio")) ["ratio"]
+taroc,aorta
+ 49 [1;33mt[1;33ma[1;32mr[1;33mo[0mc[0m   1    15 Some((1, 1, "aorta")) ["aorta"]
+taroc,baton
+ 61 [1;33mt[1;32ma[0mr[1;32mo[0mc[0m   1    26 Some((1, 1, "baton")) ["baton"]
+taroc,baron
+ 78 [0mt[1;32ma[1;32mr[1;32mo[0mc[0m   1    18 Some((1, 1, "baron")) ["baron"]
+taroc,tarot
+ 80 [1;32mt[1;32ma[1;32mr[1;32mo[0mc[0m   1     4 Some((1, 1, "tarot")) ["tarot"]
+taroc,teach
+ 86 [1;32mt[1;33ma[0mr[0mo[1;33mc[0m   1    24 Some((1, 1, "teach")) ["teach"]
+taroc,cater
+ 97 [1;33mt[1;32ma[1;33mr[0mo[1;33mc[0m   1     8 Some((1, 1, "cater")) ["cater"]
+taroc,carat
+106 [1;33mt[1;32ma[1;32mr[0mo[1;33mc[0m   1     6 Some((1, 1, "carat")) ["carat"]
+taroc,touch
+110 [1;32mt[0ma[0mr[1;33mo[1;33mc[0m   1    16 Some((1, 1, "touch")) ["touch"]
+taroc,court
+118 [1;33mt[0ma[1;33mr[1;33mo[1;33mc[0m   1    13 Some((1, 1, "court")) ["court"]
+taroc,macro
+123 [0mt[1;32ma[1;33mr[1;33mo[1;33mc[0m   1    11 Some((1, 1, "macro")) ["macro"]
+taroc,torch
+128 [1;32mt[0ma[1;32mr[1;33mo[1;33mc[0m   1     4 Some((1, 1, "torch")) ["torch"]
+taroc,coral
+129 [0mt[1;33ma[1;32mr[1;33mo[1;33mc[0m   1    14 Some((1, 1, "coral")) ["coral"]
+taroc,cargo
+132 [0mt[1;32ma[1;32mr[1;33mo[1;33mc[0m   1     9 Some((1, 1, "cargo")) ["cargo"]
+taroc,ascot
+139 [1;33mt[1;33ma[0mr[1;32mo[1;33mc[0m   1     7 Some((1, 1, "ascot")) ["ascot"]
+taroc,actor
+148 [1;33mt[1;33ma[1;33mr[1;32mo[1;33mc[0m   1     2 Some((1, 1, "actor")) ["actor"]
+taroc,carol
+159 [0mt[1;32ma[1;32mr[1;32mo[1;33mc[0m   1     5 Some((1, 1, "carol")) ["carol"]
+taroc,ethic
+163 [1;33mt[0ma[0mr[0mo[1;32mc[0m   1    24 Some((1, 1, "ethic")) ["ethic"]
+taroc,tunic
+164 [1;32mt[0ma[0mr[0mo[1;32mc[0m   1    11 Some((1, 1, "tunic")) ["tunic"]
+taroc,relic
+171 [0mt[0ma[1;33mr[0mo[1;32mc[0m   1    35 Some((1, 1, "relic")) ["relic"]
+taroc,lyric
+180 [0mt[0ma[1;32mr[0mo[1;32mc[0m   1    20 Some((1, 1, "lyric")) ["lyric"]
+taroc,havoc
+222 [0mt[1;32ma[0mr[1;32mo[1;32mc[0m   1     3 Some((1, 1, "havoc")) ["havoc"]
+taroc,abort
+taroc,abort,roast
+ 40 [1;33mt[1;33ma[1;33mr[1;33mo[0mc[0m   2    44 Some((3, 2, "abort")) ["abort", "roast"]
+taroc,taboo
+taroc,taboo,talon
+ 62 [1;32mt[1;32ma[0mr[1;32mo[0mc[0m   2    13 Some((3, 2, "taboo")) ["taboo", "talon"]
+taroc,throb
+taroc,throb,throw
+ 74 [1;32mt[0ma[1;32mr[1;32mo[0mc[0m   2    11 Some((3, 2, "throb")) ["throb", "throw"]
+taroc,apron
+taroc,apron,arrow
+ 75 [0mt[1;33ma[1;32mr[1;32mo[0mc[0m   2    25 Some((3, 2, "apron")) ["apron", "arrow"]
+taroc,thick
+taroc,thick,twice
+ 83 [1;32mt[0ma[0mr[0mo[1;33mc[0m   2    61 Some((3, 2, "thick")) ["thick", "twice"]
+taroc,tacit
+taroc,tacit,tacky
+ 89 [1;32mt[1;32ma[0mr[0mo[1;33mc[0m   2    14 Some((3, 2, "tacit")) ["tacit", "tacky"]
+taroc,coast
+taroc,coast,octal
+112 [1;33mt[1;33ma[0mr[1;33mo[1;33mc[0m   2    25 Some((3, 2, "coast")) ["coast", "octal"]
+taroc,chaos
+taroc,chaos,cocoa
+138 [0mt[1;33ma[0mr[1;32mo[1;33mc[0m   2    36 Some((3, 2, "chaos")) ["chaos", "cocoa"]
+taroc,antic
+taroc,antic,attic
+166 [1;33mt[1;33ma[0mr[0mo[1;32mc[0m   2     6 Some((3, 2, "antic")) ["antic", "attic"]
+taroc,optic
+taroc,optic,stoic
+190 [1;33mt[0ma[0mr[1;33mo[1;32mc[0m   2    11 Some((3, 2, "optic")) ["optic", "stoic"]
+taroc,party,strap
+taroc,party,straw
+taroc,party,stray
+ 22 [1;33mt[1;33ma[1;32mr[0mo[0mc[0m   3    84 Some((6, 2, "party")) ["strap", "straw", "stray"]
+taroc,party,earth
+taroc,party
+taroc,party,warty
+ 25 [1;33mt[1;32ma[1;32mr[0mo[0mc[0m   3    45 Some((5, 2, "party")) ["earth", "party", "warty"]
+taroc,torso
+taroc,torso,torus
+taroc,torso,turbo
+ 47 [1;32mt[0ma[1;32mr[1;33mo[0mc[0m   3    30 Some((5, 2, "torso")) ["torso", "torus", "turbo"]
+taroc,boral,borax
+taroc,boral,foray
+taroc,boral,moral
+ 48 [0mt[1;33ma[1;32mr[1;33mo[0mc[0m   3    94 Some((6, 2, "boral")) ["borax", "foray", "moral"]
+taroc,taboo,abbot
+taroc,taboo,afoot
+taroc,taboo,allot
+ 58 [1;33mt[1;33ma[0mr[1;32mo[0mc[0m   3    39 Some((6, 2, "taboo")) ["abbot", "afoot", "allot"]
+taroc,motor
+taroc,motor,robot
+taroc,motor,rotor
+ 64 [1;33mt[0ma[1;33mr[1;32mo[0mc[0m   3    44 Some((5, 2, "motor")) ["motor", "robot", "rotor"]
+taroc,trace
+taroc,trace,track
+taroc,trace,track,tract
+ 95 [1;32mt[1;33ma[1;33mr[0mo[1;33mc[0m   3     5 Some((6, 3, "trace")) ["trace", "track", "tract"]
+taroc,cacao
+taroc,cacao,cameo
+taroc,cacao,macho
+114 [0mt[1;32ma[0mr[1;33mo[1;33mc[0m   3    41 Some((5, 2, "cacao")) ["cacao", "cameo", "macho"]
+taroc,bacon
+taroc,bacon,canoe
+taroc,bacon,canon
+141 [0mt[1;32ma[0mr[1;32mo[1;33mc[0m   3    24 Some((5, 2, "bacon")) ["bacon", "canoe", "canon"]
+taroc,color
+taroc,color,crook
+taroc,color,decor
+144 [0mt[0ma[1;33mr[1;32mo[1;33mc[0m   3    27 Some((5, 2, "color")) ["color", "crook", "decor"]
+taroc,iliac
+taroc,iliac,lilac
+taroc,iliac,sumac
+165 [0mt[1;33ma[0mr[0mo[1;32mc[0m   3    43 Some((5, 2, "iliac")) ["iliac", "lilac", "sumac"]
+taroc,tonic
+taroc,tonic,topic
+taroc,tonic,topic,toxic
+191 [1;32mt[0ma[0mr[1;33mo[1;32mc[0m   3     6 Some((6, 3, "tonic")) ["tonic", "topic", "toxic"]
+taroc,taker
+taroc,taker,tamer
+taroc,taker,tamer,taper
+taroc,taker,tapir
+ 17 [1;32mt[1;32ma[1;33mr[0mo[0mc[0m   4    37 Some((8, 3, "taker")) ["taker", "tamer", "taper", "tapir"]
+taroc,terse
+taroc,terse,three
+taroc,terse,threw
+taroc,terse,thrum
+ 20 [1;32mt[0ma[1;32mr[0mo[0mc[0m   4    82 Some((7, 2, "terse")) ["terse", "three", "threw", "thrum"]
+taroc,tumor,tenor
+taroc,tumor,troop
+taroc,tumor
+taroc,tumor,tutor
+ 65 [1;32mt[0ma[1;33mr[1;32mo[0mc[0m   4    21 Some((7, 2, "tumor")) ["tenor", "troop", "tumor", "tutor"]
+taroc,trice
+taroc,trice,trick
+taroc,trice,truce
+taroc,trice,truck
+ 92 [1;32mt[0ma[1;33mr[0mo[1;33mc[0m   4    16 Some((7, 2, "trice")) ["trice", "trick", "truce", "truck"]
+taroc,chart
+taroc,chart,craft
+taroc,chart,crate
+taroc,chart,react
+ 94 [1;33mt[1;33ma[1;33mr[0mo[1;33mc[0m   4    25 Some((7, 2, "chart")) ["chart", "craft", "crate", "react"]
+taroc,cairn
+taroc,cairn,caper
+taroc,cairn,racer
+taroc,cairn,ranch
+ 96 [0mt[1;32ma[1;33mr[0mo[1;33mc[0m   4    79 Some((7, 2, "cairn")) ["cairn", "caper", "racer", "ranch"]
+taroc,scram,acrid
+taroc,scram,circa
+taroc,scram
+taroc,scram,scrap
+102 [0mt[1;33ma[1;32mr[0mo[1;33mc[0m   4    74 Some((7, 2, "scram")) ["acrid", "circa", "scram", "scrap"]
+taroc,carve,carry
+taroc,carve
+taroc,carve,farce
+taroc,carve,march
+105 [0mt[1;32ma[1;32mr[0mo[1;33mc[0m   4    50 Some((7, 2, "carve")) ["carry", "carve", "farce", "march"]
+taroc,acorn
+taroc,acorn,cobra
+taroc,acorn,croak
+taroc,acorn,roach
+120 [0mt[1;33ma[1;33mr[1;33mo[1;33mc[0m   4    30 Some((7, 2, "acorn")) ["acorn", "cobra", "croak", "roach"]
+taroc,colon
+taroc,colon,decoy
+taroc,colon,scion
+taroc,colon,scoop
+135 [0mt[0ma[0mr[1;32mo[1;33mc[0m   4    95 Some((7, 2, "colon")) ["colon", "decoy", "scion", "scoop"]
+taroc,manic,basic
+taroc,manic,magic
+taroc,manic
+taroc,manic,panic
+168 [0mt[1;32ma[0mr[0mo[1;32mc[0m   4    17 Some((7, 2, "manic")) ["basic", "magic", "manic", "panic"]
+taroc,mason,bayou
+taroc,mason
+taroc,mason,salon
+taroc,mason,savoy
+taroc,mason,wagon
+ 60 [0mt[1;32ma[0mr[1;32mo[0mc[0m   5   123 Some((9, 2, "mason")) ["bayou", "mason", "salon", "savoy", "wagon"]
+taroc,abhor
+taroc,abhor,arbor
+taroc,abhor,ardor
+taroc,abhor,ardor,armor
+taroc,abhor,arson
+ 66 [0mt[1;33ma[1;33mr[1;32mo[0mc[0m   5    61 Some((10, 3, "abhor")) ["abhor", "arbor", "ardor", "armor", "arson"]
+taroc,error
+taroc,error,furor
+taroc,error,heron
+taroc,error,furor,juror
+taroc,error,moron
+ 72 [0mt[0ma[1;32mr[1;32mo[0mc[0m   5    79 Some((10, 3, "error")) ["error", "furor", "heron", "juror", "moron"]
+taroc,corer
+taroc,corer,corny
+taroc,corer,curio
+taroc,corer,force
+taroc,corer,porch
+126 [0mt[0ma[1;32mr[1;33mo[1;33mc[0m   5    51 Some((9, 2, "corer")) ["corer", "corny", "curio", "force", "porch"]
+taroc,conic,comic
+taroc,conic
+taroc,conic,ionic
+taroc,conic,logic
+taroc,conic,ionic,sonic
+189 [0mt[0ma[0mr[1;33mo[1;32mc[0m   5    45 Some((10, 3, "conic")) ["comic", "conic", "ionic", "logic", "sonic"]
+taroc,earth,eater
+taroc,earth,hater
+taroc,earth,later
+taroc,earth,ratty
+taroc,earth,satyr
+taroc,earth,later,water
+ 16 [1;33mt[1;32ma[1;33mr[0mo[0mc[0m   6    99 Some((13, 3, "earth")) ["eater", "hater", "later", "ratty", "satyr", "water"]
+taroc,tonal,toast
+taroc,tonal,today
+taroc,tonal
+taroc,tonal,tonga
+taroc,tonal,today,topaz
+taroc,tonal,total
+ 32 [1;32mt[1;33ma[0mr[1;33mo[0mc[0m   6    47 Some((12, 3, "tonal")) ["toast", "today", "tonal", "tonga", "topaz", "total"]
+taroc,baloo,banjo
+taroc,baloo,lasso
+taroc,baloo,mambo
+taroc,baloo,mango
+taroc,baloo,oaken
+taroc,baloo,salvo
+ 33 [0mt[1;32ma[0mr[1;33mo[0mc[0m   6   215 Some((12, 2, "baloo")) ["banjo", "lasso", "mambo", "mango", "oaken", "salvo"]
+taroc,trope,thorn
+taroc,trope,tower
+taroc,trope,troll
+taroc,trope
+taroc,trope,troll,trout
+taroc,trope,trove
+ 38 [1;32mt[0ma[1;33mr[1;33mo[0mc[0m   6    77 Some((12, 3, "trope")) ["thorn", "tower", "troll", "trope", "trout", "trove"]
+taroc,forte
+taroc,forte,forth
+taroc,forte,forth,forty
+taroc,forte,north
+taroc,forte,worst
+taroc,forte,north,worth
+ 46 [1;33mt[0ma[1;32mr[1;33mo[0mc[0m   6    60 Some((13, 3, "forte")) ["forte", "forth", "forty", "north", "worst", "worth"]
+taroc,rural,agree
+taroc,rural,array
+taroc,rural,feral
+taroc,rural,mural
+taroc,rural
+taroc,rural,spray
+taroc,rural,feral,viral
+ 21 [0mt[1;33ma[1;32mr[0mo[0mc[0m   7   506 Some((14, 3, "rural")) ["agree", "array", "feral", "mural", "rural", "spray", "viral"]
+taroc,alloy,aglow
+taroc,alloy,allow
+taroc,alloy
+taroc,alloy,aloof
+taroc,alloy,annoy
+taroc,alloy,axiom
+taroc,alloy,axiom,axion
+ 57 [0mt[1;33ma[0mr[1;32mo[0mc[0m   7   199 Some((14, 3, "alloy")) ["aglow", "allow", "alloy", "aloof", "annoy", "axiom", "axion"]
+taroc,crept
+taroc,crept,crest
+taroc,crept,crust
+taroc,crept,crypt
+taroc,crept,erect
+taroc,crept,recut
+taroc,crept,retch
+ 91 [1;33mt[0ma[1;33mr[0mo[1;33mc[0m   7    66 Some((13, 2, "crept")) ["crept", "crest", "crust", "crypt", "erect", "recut", "retch"]
+taroc,cumec,civic
+taroc,cumec,cubic
+taroc,cumec,civic,cynic
+taroc,cumec,medic
+taroc,cumec,mimic
+taroc,cumec,music
+taroc,cumec,pubic
+162 [0mt[0ma[0mr[0mo[1;32mc[0m   7   127 Some((15, 3, "cumec")) ["civic", "cubic", "cynic", "medic", "mimic", "music", "pubic"]
+taroc,loach,cloak
+taroc,loach,coach
+taroc,loach,comma
+taroc,loach,focal
+taroc,loach,local
+taroc,loach,mocha
+taroc,loach,ocean
+taroc,loach,focal,vocal
+111 [0mt[1;33ma[0mr[1;33mo[1;33mc[0m   8   137 Some((17, 3, "loach")) ["cloak", "coach", "comma", "focal", "local", "mocha", "ocean", "vocal"]
+taroc,telia,tease
+taroc,telia,thank
+taroc,telia,theta
+taroc,telia,tibia
+taroc,telia,tidal
+taroc,telia,titan
+taroc,telia,tubal
+taroc,telia,thank,twang
+taroc,telia,tweak
+  5 [1;32mt[1;33ma[0mr[0mo[0mc[0m   9   318 Some((19, 3, "telia")) ["tease", "thank", "theta", "tibia", "tidal", "titan", "tubal", "twang", "tweak"]
+taroc,chant,acute
+taroc,chant
+taroc,chant,cheat
+taroc,chant,cleat
+taroc,chant,eclat
+taroc,chant,enact
+taroc,chant,exact
+taroc,chant,scant
+taroc,chant,stack
+ 85 [1;33mt[1;33ma[0mr[0mo[1;33mc[0m   9   126 Some((17, 2, "chant")) ["acute", "chant", "cheat", "cleat", "eclat", "enact", "exact", "scant", "stack"]
+taroc,toned,tempo
+taroc,toned,thong
+taroc,toned,tempo,those
+taroc,toned,toddy
+taroc,toned,token
+taroc,toned,tooth
+taroc,toned,totem
+taroc,toned,tooth,tough
+taroc,toned,totem,towel
+taroc,toned,toxin
+ 29 [1;32mt[0ma[0mr[1;33mo[0mc[0m  10   227 Some((23, 3, "toned")) ["tempo", "thong", "those", "toddy", "token", "tooth", "totem", "tough", "towel", "toxin"]
+taroc,valor,favor
+taroc,valor,labor
+taroc,valor,major
+taroc,valor,major,manor
+taroc,valor,major,manor,mayor
+taroc,valor,rayon
+taroc,valor,major,razor
+taroc,valor,favor,savor
+taroc,valor
+taroc,valor,vapor
+ 69 [0mt[1;32ma[1;33mr[1;32mo[0mc[0m  10    39 Some((24, 4, "valor")) ["favor", "labor", "major", "manor", "mayor", "rayon", "razor", "savor", "valor", "vapor"]
+taroc,comet,botch
+taroc,comet,cloth
+taroc,comet,clout
+taroc,comet
+taroc,comet,count
+taroc,comet,covet
+taroc,comet,botch,notch
+taroc,comet,octet
+taroc,comet,scout
+taroc,comet,stock
+109 [1;33mt[0ma[0mr[1;33mo[1;33mc[0m  10    98 Some((20, 3, "comet")) ["botch", "cloth", "clout", "comet", "count", "covet", "notch", "octet", "scout", "stock"]
+taroc,tanty,tabby
+taroc,tanty,table
+taroc,tanty,tabby,taffy
+taroc,tanty,taint
+taroc,tanty,taken
+taroc,tanty,tabby,taffy,tally
+taroc,tanty,tangy
+taroc,tanty,taste
+taroc,tanty,tasty
+taroc,tanty,tasty,tatty
+taroc,tanty,taint,taunt
+taroc,tanty,tawny
+  8 [1;32mt[1;32ma[0mr[0mo[0mc[0m  12   165 Some((29, 4, "tanty")) ["tabby", "table", "taffy", "taint", "taken", "tally", "tangy", "taste", "tasty", "tatty", "taunt", "tawny"]
+taroc,aloft,about
+taroc,aloft,about,adopt
+taroc,aloft
+taroc,aloft,atoll
+taroc,aloft,atone
+taroc,aloft,bloat
+taroc,aloft,boast
+taroc,aloft,float
+taroc,aloft,bloat,gloat
+taroc,aloft,loath
+taroc,aloft,ovate
+taroc,aloft,quota
+ 31 [1;33mt[1;33ma[0mr[1;33mo[0mc[0m  12   190 Some((25, 3, "aloft")) ["about", "adopt", "aloft", "atoll", "atone", "bloat", "boast", "float", "gloat", "loath", "ovate", "quota"]
+taroc,trail,teary
+taroc,trail,tiara
+taroc,trail,trads,trade
+taroc,trail
+taroc,trail,train
+taroc,trail,train,trait
+taroc,trail,trads,tramp
+taroc,trail,trads,trash
+taroc,trail,trawl
+taroc,trail,tread
+taroc,trail,tread,treat
+taroc,trail,triad
+taroc,trail,trial
+ 14 [1;32mt[1;33ma[1;33mr[0mo[0mc[0m  13   101 Some((30, 3, "trail")) ["teary", "tiara", "trade", "trail", "train", "trait", "tramp", "trash", "trawl", "tread", "treat", "triad", "trial"]
+taroc,berth,beret
+taroc,berth
+taroc,berth,birth
+taroc,berth,burnt
+taroc,berth,burnt,burst
+taroc,berth,dirty
+taroc,berth,egret
+taroc,berth,first
+taroc,berth,girth
+taroc,berth,merit
+taroc,berth,girth,mirth
+taroc,berth,first,strip
+taroc,berth,first,strut
+ 19 [1;33mt[0ma[1;32mr[0mo[0mc[0m  13   208 Some((29, 3, "berth")) ["beret", "berth", "birth", "burnt", "burst", "dirty", "egret", "first", "girth", "merit", "mirth", "strip", "strut"]
+taroc,depot,bigot
+taroc,depot
+taroc,depot,detox
+taroc,depot,ethos
+taroc,depot,ethos,extol
+taroc,depot,idiot
+taroc,depot,bigot,ingot
+taroc,depot,pilot
+taroc,depot,pilot,pivot
+taroc,depot,bigot,shoot
+taroc,depot,stood
+taroc,depot,stool
+taroc,depot,stoop
+ 55 [1;33mt[0ma[0mr[1;32mo[0mc[0m  13   151 Some((29, 3, "depot")) ["bigot", "depot", "detox", "ethos", "extol", "idiot", "ingot", "pilot", "pivot", "shoot", "stood", "stool", "stoop"]
+taroc,curve,birch
+taroc,curve,curly
+taroc,curve,curly,curry
+taroc,curve,curse
+taroc,curve
+taroc,curve,curvy
+taroc,curve,lurch
+taroc,curve,mercy
+taroc,curve,mercy,perch
+taroc,curve,scree
+taroc,curve,mercy,screw
+taroc,curve,scrub
+taroc,curve,scrub,scrum
+ 99 [0mt[0ma[1;32mr[0mo[1;33mc[0m  13   165 Some((29, 3, "curve")) ["birch", "curly", "curry", "curse", "curve", "curvy", "lurch", "mercy", "perch", "scree", "screw", "scrub", "scrum"]
+ 88 [1;33mt[1;32ma[0mr[0mo[1;33mc[0m  14    51 None ["batch", "cacti", "cadet", "caput", "caste", "catch", "catty", "facet", "hatch", "latch", "match", "patch", "watch", "yacht"]

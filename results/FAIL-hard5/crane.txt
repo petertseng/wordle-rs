@@ -1,0 +1,630 @@
+crane,croak
+ 17 [1;32mc[1;32mr[1;33ma[0mn[0me[0m   1    33 Some((1, 1, "croak")) ["croak"]
+crane,churn
+ 32 [1;32mc[1;33mr[0ma[1;33mn[0me[0m   1    26 Some((1, 1, "churn")) ["churn"]
+crane,crown
+ 35 [1;32mc[1;32mr[0ma[1;33mn[0me[0m   1    12 Some((1, 1, "crown")) ["crown"]
+crane,cairn
+ 41 [1;32mc[1;33mr[1;33ma[1;33mn[0me[0m   1     9 Some((1, 1, "cairn")) ["cairn"]
+crane,chain
+ 47 [1;32mc[0mr[1;32ma[1;33mn[0me[0m   1    13 Some((1, 1, "chain")) ["chain"]
+crane,snarl
+ 48 [0mc[1;33mr[1;32ma[1;33mn[0me[0m   1    63 Some((1, 1, "snarl")) ["snarl"]
+crane,icing
+ 55 [1;33mc[0mr[0ma[1;32mn[0me[0m   1    76 Some((1, 1, "icing")) ["icing"]
+crane,corny
+ 59 [1;32mc[1;33mr[0ma[1;32mn[0me[0m   1    20 Some((1, 1, "corny")) ["corny"]
+crane,crony
+ 62 [1;32mc[1;32mr[0ma[1;32mn[0me[0m   1    10 Some((1, 1, "crony")) ["crony"]
+crane,rainy
+ 66 [0mc[1;33mr[1;33ma[1;32mn[0me[0m   1    65 Some((1, 1, "rainy")) ["rainy"]
+crane,scant
+ 73 [1;33mc[0mr[1;32ma[1;32mn[0me[0m   1    16 Some((1, 1, "scant")) ["scant"]
+crane,crank
+ 80 [1;32mc[1;32mr[1;32ma[1;32mn[0me[0m   1     3 Some((1, 1, "crank")) ["crank"]
+crane,coven
+110 [1;32mc[0mr[0ma[1;33mn[1;33me[0m   1    32 Some((1, 1, "coven")) ["coven"]
+crane,nicer
+112 [1;33mc[1;33mr[0ma[1;33mn[1;33me[0m   1    11 Some((1, 1, "nicer")) ["nicer"]
+crane,clean
+119 [1;32mc[0mr[1;33ma[1;33mn[1;33me[0m   1     8 Some((1, 1, "clean")) ["clean"]
+crane,enact
+127 [1;33mc[0mr[1;32ma[1;33mn[1;33me[0m   1     2 Some((1, 1, "enact")) ["enact"]
+crane,scent
+136 [1;33mc[0mr[0ma[1;32mn[1;33me[0m   1    15 Some((1, 1, "scent")) ["scent"]
+crane,trend
+141 [0mc[1;32mr[0ma[1;32mn[1;33me[0m   1    30 Some((1, 1, "trend")) ["trend"]
+crane,arena
+150 [0mc[1;32mr[1;33ma[1;32mn[1;33me[0m   1     7 Some((1, 1, "arena")) ["arena"]
+crane,farce
+175 [1;33mc[1;33mr[1;33ma[0mn[1;32me[0m   1    24 Some((1, 1, "farce")) ["farce"]
+crane,carve
+176 [1;32mc[1;33mr[1;33ma[0mn[1;32me[0m   1    15 Some((1, 1, "carve")) ["carve"]
+crane,scare
+184 [1;33mc[1;33mr[1;32ma[0mn[1;32me[0m   1    13 Some((1, 1, "scare")) ["scare"]
+crane,canoe
+200 [1;32mc[0mr[1;33ma[1;33mn[1;32me[0m   1     2 Some((1, 1, "canoe")) ["canoe"]
+crane,range
+201 [0mc[1;33mr[1;33ma[1;33mn[1;32me[0m   1    13 Some((1, 1, "range")) ["range"]
+crane,snare
+210 [0mc[1;33mr[1;32ma[1;33mn[1;32me[0m   1     3 Some((1, 1, "snare")) ["snare"]
+crane,clone
+218 [1;32mc[0mr[0ma[1;32mn[1;32me[0m   1     9 Some((1, 1, "clone")) ["clone"]
+crane,borne
+219 [0mc[1;33mr[0ma[1;32mn[1;32me[0m   1    29 Some((1, 1, "borne")) ["borne"]
+crane,crone
+224 [1;32mc[1;32mr[0ma[1;32mn[1;32me[0m   1     3 Some((1, 1, "crone")) ["crone"]
+crane
+242 [1;32mc[1;32mr[1;32ma[1;32mn[1;32me[0m   1     1 Some((1, 1, "crane")) ["crane"]
+crane,incur
+crane,incur,scorn
+ 31 [1;33mc[1;33mr[0ma[1;33mn[0me[0m   2    47 Some((3, 2, "incur")) ["incur", "scorn"]
+crane,acorn
+crane,acorn,ranch
+ 40 [1;33mc[1;33mr[1;33ma[1;33mn[0me[0m   2    19 Some((3, 2, "acorn")) ["acorn", "ranch"]
+crane,knack
+crane,knack,snack
+ 46 [1;33mc[0mr[1;32ma[1;33mn[0me[0m   2    20 Some((3, 2, "knack")) ["knack", "snack"]
+crane,canny
+crane,canny,china
+ 65 [1;32mc[0mr[1;33ma[1;32mn[0me[0m   2    20 Some((3, 2, "canny")) ["canny", "china"]
+crane,erect
+crane,erect,wreck
+ 88 [1;33mc[1;32mr[0ma[0mn[1;33me[0m   2    68 Some((3, 2, "erect")) ["erect", "wreck"]
+crane,racer
+crane,racer,recap
+ 94 [1;33mc[1;33mr[1;33ma[0mn[1;33me[0m   2    66 Some((3, 2, "racer")) ["racer", "recap"]
+crane,creak
+crane,creak,cream
+ 98 [1;32mc[1;32mr[1;33ma[0mn[1;33me[0m   2    11 Some((3, 2, "creak")) ["creak", "cream"]
+crane,reach
+crane,reach,react
+103 [1;33mc[1;33mr[1;32ma[0mn[1;33me[0m   2    15 Some((3, 2, "reach")) ["reach", "react"]
+crane,bench
+crane,bench,wench
+109 [1;33mc[0mr[0ma[1;33mn[1;33me[0m   2    89 Some((3, 2, "bench")) ["bench", "wench"]
+crane,green
+crane,green,preen
+114 [0mc[1;32mr[0ma[1;33mn[1;33me[0m   2    43 Some((3, 2, "green")) ["green", "preen"]
+crane,ocean
+crane,ocean,pecan
+118 [1;33mc[0mr[1;33ma[1;33mn[1;33me[0m   2    25 Some((3, 2, "ocean")) ["ocean", "pecan"]
+crane,learn
+crane,learn,yearn
+129 [0mc[1;33mr[1;32ma[1;33mn[1;33me[0m   2     9 Some((3, 2, "learn")) ["learn", "yearn"]
+crane,leant
+crane,leant,meant
+153 [0mc[0mr[1;32ma[1;32mn[1;33me[0m   2    32 Some((3, 2, "leant")) ["leant", "meant"]
+crane,acute
+crane,acute,sauce
+172 [1;33mc[0mr[1;33ma[0mn[1;32me[0m   2    74 Some((3, 2, "acute")) ["acute", "sauce"]
+crane,dance
+crane,dance,lance
+199 [1;33mc[0mr[1;33ma[1;33mn[1;32me[0m   2    11 Some((3, 2, "dance")) ["dance", "lance"]
+crane,knave
+crane,knave,snake
+207 [0mc[0mr[1;32ma[1;33mn[1;32me[0m   2    19 Some((3, 2, "knave")) ["knave", "snake"]
+crane,scene
+crane,scene,scone
+217 [1;33mc[0mr[0ma[1;32mn[1;32me[0m   2    11 Some((3, 2, "scene")) ["scene", "scone"]
+crane,alone
+crane,alone,atone
+225 [0mc[0mr[1;33ma[1;32mn[1;32me[0m   2    34 Some((3, 2, "alone")) ["alone", "atone"]
+crane,inane
+crane,inane,plane
+234 [0mc[0mr[1;32ma[1;32mn[1;32me[0m   2    13 Some((3, 2, "inane")) ["inane", "plane"]
+crane,scarf,roach
+crane,scarf
+crane,scarf,scary
+ 22 [1;33mc[1;33mr[1;32ma[0mn[0me[0m   3    70 Some((5, 2, "scarf")) ["roach", "scarf", "scary"]
+crane,track
+crane,track,tract
+crane,track,wrack
+ 25 [1;33mc[1;32mr[1;32ma[0mn[0me[0m   3    44 Some((5, 2, "track")) ["track", "tract", "wrack"]
+crane,clang,chant
+crane,clang
+crane,clang,clank
+ 74 [1;32mc[0mr[1;32ma[1;32mn[0me[0m   3    12 Some((5, 2, "clang")) ["chant", "clang", "clank"]
+crane,agent
+crane,agent,amend
+crane,agent,hyena
+144 [0mc[0mr[1;33ma[1;32mn[1;33me[0m   3    77 Some((5, 2, "agent")) ["agent", "amend", "hyena"]
+crane,force
+crane,force,score
+crane,force,scree
+166 [1;33mc[1;33mr[0ma[0mn[1;32me[0m   3    65 Some((5, 2, "force")) ["force", "score", "scree"]
+crane,curse,chore
+crane,curse
+crane,curse,curve
+167 [1;32mc[1;33mr[0ma[0mn[1;32me[0m   3    39 Some((5, 2, "curse")) ["chore", "curse", "curve"]
+crane,price
+crane,price,trice
+crane,price,truce
+169 [1;33mc[1;32mr[0ma[0mn[1;32me[0m   3    32 Some((5, 2, "price")) ["price", "trice", "truce"]
+crane,arise,argue
+crane,arise
+crane,arise,arose
+177 [0mc[1;32mr[1;33ma[0mn[1;32me[0m   3    54 Some((5, 2, "arise")) ["argue", "arise", "arose"]
+crane,cease
+crane,cease,chafe
+crane,cease,chase
+182 [1;32mc[0mr[1;32ma[0mn[1;32me[0m   3    20 Some((5, 2, "cease")) ["cease", "chafe", "chase"]
+crane,brace
+crane,brace,grace
+crane,brace,grace,trace
+187 [1;33mc[1;32mr[1;32ma[0mn[1;32me[0m   3    11 Some((6, 3, "brace")) ["brace", "grace", "trace"]
+crane,crate
+crane,crate,crave
+crane,crate,crave,craze
+188 [1;32mc[1;32mr[1;32ma[0mn[1;32me[0m   3     8 Some((6, 3, "crate")) ["crate", "crave", "craze"]
+crane,chard,chair
+crane,chard
+crane,chard,charm
+crane,chard,charm,chart
+ 23 [1;32mc[1;33mr[1;32ma[0mn[0me[0m   4    42 Some((8, 3, "chard")) ["chair", "chard", "charm", "chart"]
+crane,canna,cabin
+crane,canna,canal
+crane,canna,candy
+crane,canna,canon
+ 38 [1;32mc[0mr[1;33ma[1;33mn[0me[0m   4    50 Some((8, 2, "canna")) ["cabin", "canal", "candy", "canon"]
+crane,groan,arson
+crane,groan
+crane,groan,organ
+crane,groan,urban
+ 42 [0mc[1;32mr[1;33ma[1;33mn[0me[0m   4    54 Some((7, 2, "groan")) ["arson", "groan", "organ", "urban"]
+crane,burnt
+crane,burnt,horny
+crane,burnt,rhino
+crane,burnt,round
+ 57 [0mc[1;33mr[0ma[1;32mn[0me[0m   4   182 Some((7, 2, "burnt")) ["burnt", "horny", "rhino", "round"]
+crane,caper
+crane,caper,cater
+crane,caper,cedar
+crane,caper,cedar,clear
+ 95 [1;32mc[1;33mr[1;33ma[0mn[1;33me[0m   4    32 Some((8, 3, "caper")) ["caper", "cater", "cedar", "clear"]
+crane,creme
+crane,creme,crepe
+crane,creme,crime
+crane,creme,crude
+170 [1;32mc[1;32mr[0ma[0mn[1;32me[0m   4    22 Some((7, 2, "creme")) ["creme", "crepe", "crime", "crude"]
+crane,chase,cable
+crane,chase,cache
+crane,chase,caste
+crane,chase,cause
+173 [1;32mc[0mr[1;33ma[0mn[1;32me[0m   4    41 Some((8, 2, "chase")) ["cable", "cache", "caste", "cause"]
+crane,peace
+crane,peace,place
+crane,peace,scale
+crane,peace,space
+181 [1;33mc[0mr[1;32ma[0mn[1;32me[0m   4    31 Some((7, 2, "peace")) ["peace", "place", "scale", "space"]
+crane,trick,brick
+crane,trick,frock
+crane,trick,brick,prick
+crane,trick
+crane,trick,truck
+  7 [1;33mc[1;32mr[0ma[0mn[0me[0m   5   167 Some((10, 3, "trick")) ["brick", "frock", "prick", "trick", "truck"]
+crane,bring,brown
+crane,bring,drown
+crane,bring,drown,frown
+crane,bring,groin
+crane,bring,grown
+ 33 [0mc[1;32mr[0ma[1;33mn[0me[0m   5   146 Some((11, 3, "bring")) ["brown", "drown", "frown", "groin", "grown"]
+crane,manic,antic
+crane,manic,bacon
+crane,manic,fancy
+crane,manic
+crane,manic,panic
+ 37 [1;33mc[0mr[1;33ma[1;33mn[0me[0m   5   116 Some((9, 2, "manic")) ["antic", "bacon", "fancy", "manic", "panic"]
+crane,clink,chunk
+crane,clink,cling
+crane,clink
+crane,clink,clung
+crane,clink,count
+ 56 [1;32mc[0mr[0ma[1;32mn[0me[0m   5    59 Some((9, 2, "clink")) ["chunk", "cling", "clink", "clung", "count"]
+crane,epact,beach
+crane,epact,exact
+crane,epact,beach,leach
+crane,epact,peach
+crane,epact,teach
+100 [1;33mc[0mr[1;32ma[0mn[1;33me[0m   5    44 Some((11, 3, "epact")) ["beach", "exact", "leach", "peach", "teach"]
+crane,ramen,anger
+crane,ramen
+crane,ramen,raven
+crane,ramen,renal
+crane,ramen,saner
+120 [0mc[1;33mr[1;33ma[1;33mn[1;33me[0m   5    49 Some((9, 2, "ramen")) ["anger", "ramen", "raven", "renal", "saner"]
+crane,genre
+crane,genre,nerve
+crane,genre,nurse
+crane,genre,rinse
+crane,genre,snore
+192 [0mc[1;33mr[0ma[1;33mn[1;32me[0m   5    48 Some((9, 2, "genre")) ["genre", "nerve", "nurse", "rinse", "snore"]
+crane,prone,brine
+crane,prone,drone
+crane,prone
+crane,prone,prune
+crane,prone,brine,urine
+222 [0mc[1;32mr[0ma[1;32mn[1;32me[0m   5    15 Some((10, 3, "prone")) ["brine", "drone", "prone", "prune", "urine"]
+crane,grand,brand
+crane,grand,drank
+crane,grand,frank
+crane,grand
+crane,grand,grant
+crane,grand,frank,prank
+ 78 [0mc[1;32mr[1;32ma[1;32mn[0me[0m   6    29 Some((12, 3, "grand")) ["brand", "drank", "frank", "grand", "grant", "prank"]
+crane,decal
+crane,decal,decay
+crane,decal,eclat
+crane,decal,facet
+crane,decal,fecal
+crane,decal,mecca
+ 91 [1;33mc[0mr[1;33ma[0mn[1;33me[0m   6   207 Some((11, 2, "decal")) ["decal", "decay", "eclat", "facet", "fecal", "mecca"]
+crane,angle
+crane,angle,anime
+crane,angle,ankle
+crane,angle,anime,anode
+crane,angle,mange
+crane,angle,naive
+198 [0mc[0mr[1;33ma[1;33mn[1;32me[0m   6    86 Some((12, 3, "angle")) ["angle", "anime", "ankle", "anode", "mange", "naive"]
+crane,scram,acrid
+crane,scram,actor
+crane,scram,macro
+crane,scram,march
+crane,scram
+crane,scram,scrap
+crane,scram,vicar
+ 13 [1;33mc[1;33mr[1;33ma[0mn[0me[0m   7   211 Some((13, 2, "scram")) ["acrid", "actor", "macro", "march", "scram", "scrap", "vicar"]
+crane,craws,crapy,crack
+crane,craws,crapy,crack,craft
+crane,craws,crapy,cramp
+crane,craws,crash
+crane,craws,crass
+crane,craws,crawl
+crane,craws,crapy,crazy
+ 26 [1;32mc[1;32mr[1;32ma[0mn[0me[0m   7    27 Some((19, 4, "craws")) ["crack", "craft", "cramp", "crash", "crass", "crawl", "crazy"]
+crane,brain
+crane,brain,brawn
+crane,brain,drain
+crane,brain,drawn
+crane,brain,drain,grain
+crane,brain,drawn,prawn
+crane,brain,drain,grain,train
+ 51 [0mc[1;32mr[1;32ma[1;33mn[0me[0m   7    36 Some((17, 4, "brain")) ["brain", "brawn", "drain", "drawn", "grain", "prawn", "train"]
+crane,cored,cheer
+crane,cored,cider
+crane,cored,clerk
+crane,cored,corer
+crane,cored,cover
+crane,cored,cover,cower
+crane,cored,cheer,cyber
+ 86 [1;32mc[1;33mr[0ma[0mn[1;33me[0m   7   112 Some((16, 3, "cored")) ["cheer", "cider", "clerk", "corer", "cover", "cower", "cyber"]
+crane,cleat,cadet
+crane,cleat,cagey
+crane,cleat,camel
+crane,cleat,cagey,cameo
+crane,cleat,cheap
+crane,cleat,cheat
+crane,cleat
+ 92 [1;32mc[0mr[1;33ma[0mn[1;33me[0m   7    96 Some((14, 3, "cleat")) ["cadet", "cagey", "camel", "cameo", "cheap", "cheat", "cleat"]
+crane,blare,share,aware
+crane,blare
+crane,blare,flare
+crane,blare,flare,glare
+crane,blare,share
+crane,blare,share,spare
+crane,blare,share,spare,stare
+183 [0mc[1;33mr[1;32ma[0mn[1;32me[0m   7    71 Some((18, 4, "blare")) ["aware", "blare", "flare", "glare", "share", "spare", "stare"]
+crane,cargo,carat
+crane,cargo
+crane,cargo,carol
+crane,cargo,carat,carry
+crane,cargo,cigar
+crane,cargo,circa
+crane,cargo,cobra
+crane,cargo,coral
+ 14 [1;32mc[1;33mr[1;33ma[0mn[0me[0m   8   107 Some((16, 3, "cargo")) ["carat", "cargo", "carol", "carry", "cigar", "circa", "cobra", "coral"]
+crane,conch,cinch
+crane,conch,clown
+crane,conch,colon
+crane,conch
+crane,conch,condo
+crane,conch,conic
+crane,conch,cumin
+crane,conch,cynic
+ 29 [1;32mc[0mr[0ma[1;33mn[0me[0m   8   137 Some((15, 2, "conch")) ["cinch", "clown", "colon", "conch", "condo", "conic", "cumin", "cynic"]
+crane,slain,again
+crane,slain,gnash
+crane,slain,plain
+crane,slain
+crane,slain,snail
+crane,slain,snaky
+crane,slain,spawn
+crane,slain,stain
+ 45 [0mc[0mr[1;32ma[1;33mn[0me[0m   8   239 Some((15, 2, "slain")) ["again", "gnash", "plain", "slain", "snail", "snaky", "spawn", "stain"]
+crane,barde,adore
+crane,barde,afire
+crane,barde,agree
+crane,barde,afire,azure
+crane,barde,barge
+crane,barde,large
+crane,barde,large,parse
+crane,barde,raise
+174 [0mc[1;33mr[1;33ma[0mn[1;32me[0m   8   169 Some((18, 3, "barde")) ["adore", "afire", "agree", "azure", "barge", "large", "parse", "raise"]
+crane,court,chirp
+crane,court,choir
+crane,court,chord
+crane,court,color
+crane,court
+crane,court,curio
+crane,court,curly
+crane,court,curry
+crane,court,curly,curvy
+  5 [1;32mc[1;33mr[0ma[0mn[0me[0m   9   283 Some((18, 3, "court")) ["chirp", "choir", "chord", "color", "court", "curio", "curly", "curry", "curvy"]
+crane,tread,bread
+crane,tread,break
+crane,tread,bread,dread
+crane,tread,dream
+crane,tread,break,freak
+crane,tread,great
+crane,tread
+crane,tread,treat
+crane,tread,break,freak,wreak
+ 96 [0mc[1;32mr[1;33ma[0mn[1;33me[0m   9   107 Some((21, 4, "tread")) ["bread", "break", "dread", "dream", "freak", "great", "tread", "treat", "wreak"]
+crane,ready,beard
+crane,ready,beard,heard
+crane,ready,heart
+crane,ready,heart,pearl
+crane,ready
+crane,ready,realm
+crane,ready,realm,rearm
+crane,ready,teary
+crane,ready,teary,weary
+102 [0mc[1;33mr[1;32ma[0mn[1;33me[0m   9   121 Some((21, 3, "ready")) ["beard", "heard", "heart", "pearl", "ready", "realm", "rearm", "teary", "weary"]
+crane,souce,deuce
+crane,souce,emcee
+crane,souce,juice
+crane,souce,piece
+crane,souce,scope
+crane,souce,slice
+crane,souce,slice,spice
+crane,souce,piece,twice
+crane,souce,voice
+163 [1;33mc[0mr[0ma[0mn[1;32me[0m   9   219 Some((20, 3, "souce")) ["deuce", "emcee", "juice", "piece", "scope", "slice", "spice", "twice", "voice"]
+crane,rayon,adorn
+crane,rayon,angry
+crane,rayon,apron
+crane,rayon,baron
+crane,rayon,lunar
+crane,rayon,manor
+crane,rayon,nadir
+crane,rayon,randy
+crane,rayon
+crane,rayon,sonar
+ 39 [0mc[1;33mr[1;33ma[1;33mn[0me[0m  10   211 Some((19, 2, "rayon")) ["adorn", "angry", "apron", "baron", "lunar", "manor", "nadir", "randy", "rayon", "sonar"]
+crane,reccy,decor
+crane,reccy,decry
+crane,reccy,mercy
+crane,reccy,perch
+crane,reccy,recur
+crane,reccy,recur,recut
+crane,reccy,relic
+crane,reccy,retch
+crane,reccy,screw
+crane,reccy,ulcer
+ 85 [1;33mc[1;33mr[0ma[0mn[1;33me[0m  10   209 Some((21, 3, "reccy")) ["decor", "decry", "mercy", "perch", "recur", "recut", "relic", "retch", "screw", "ulcer"]
+crane,creds,credo
+crane,creds,creed
+crane,creds,creek
+crane,creds,creek,creep
+crane,creds,creek,crept
+crane,creds,cress
+crane,creds,crest
+crane,creds,cried
+crane,creds,crier
+crane,creds,crier,cruel
+ 89 [1;32mc[1;32mr[0ma[0mn[1;33me[0m  10    46 Some((23, 3, "creds")) ["credo", "creed", "creek", "creep", "crept", "cress", "crest", "cried", "crier", "cruel"]
+crane,eying,being
+crane,eying,blend
+crane,eying,ebony
+crane,eying,eking
+crane,eying,event
+crane,eying
+crane,eying,fiend
+crane,eying,penny
+crane,eying,blend,spend
+crane,eying,blend,spent
+135 [0mc[0mr[0ma[1;32mn[1;33me[0m  10   263 Some((21, 3, "eying")) ["being", "blend", "ebony", "eking", "event", "eying", "fiend", "penny", "spend", "spent"]
+crane,choir,birch
+crane,choir,lurch
+crane,choir,lyric
+crane,choir,micro
+crane,choir,occur
+crane,choir,porch
+crane,choir,rocky
+crane,choir,scour
+crane,choir,scrub
+crane,choir,scrub,scrum
+crane,choir,porch,torch
+  4 [1;33mc[1;33mr[0ma[0mn[0me[0m  11   507 Some((24, 3, "choir")) ["birch", "lurch", "lyric", "micro", "occur", "porch", "rocky", "scour", "scrub", "scrum", "torch"]
+crane,cleft,cello
+crane,cleft,check
+crane,cleft,check,cheek
+crane,cleft,check,chess
+crane,cleft,chest
+crane,cleft,chief
+crane,cleft
+crane,cleft,clued
+crane,cleft,comet
+crane,cleft,comet,covet
+crane,cleft,covey
+ 83 [1;32mc[0mr[0ma[0mn[1;33me[0m  11   342 Some((24, 3, "cleft")) ["cello", "check", "cheek", "chess", "chest", "chief", "cleft", "clued", "comet", "covet", "covey"]
+crane,chose,chide
+crane,chose,chide,chime
+crane,chose,choke
+crane,chose
+crane,chose,chide,chute
+crane,chose,close
+crane,chose,clove
+crane,chose,copse
+crane,chose,coupe
+crane,chose,cutie
+crane,chose,cutie,cycle
+164 [1;32mc[0mr[0ma[0mn[1;32me[0m  11   115 Some((24, 3, "chose")) ["chide", "chime", "choke", "chose", "chute", "close", "clove", "copse", "coupe", "cutie", "cycle"]
+crane,niece,dunce
+crane,niece,fence
+crane,niece,fence,hence
+crane,niece,mince
+crane,niece,niche
+crane,niece
+crane,niece,dunce,ounce
+crane,niece,fence,hence,pence
+crane,niece,mince,since
+crane,niece,uncle
+crane,niece,mince,since,wince
+190 [1;33mc[0mr[0ma[1;33mn[1;32me[0m  11    43 Some((28, 4, "niece")) ["dunce", "fence", "hence", "mince", "niche", "niece", "ounce", "pence", "since", "uncle", "wince"]
+crane,arbor
+crane,arbor,ardor
+crane,arbor,ardor,armor
+crane,arbor,aroma
+crane,arbor,array
+crane,arbor,arrow
+crane,arbor,artsy
+crane,arbor,briar
+crane,arbor,broad
+crane,arbor,friar
+crane,arbor,triad
+crane,arbor,triad,trial
+ 15 [0mc[1;32mr[1;33ma[0mn[0me[0m  12   358 Some((25, 3, "arbor")) ["arbor", "ardor", "armor", "aroma", "array", "arrow", "artsy", "briar", "broad", "friar", "triad", "trial"]
+crane,phone,opine
+crane,phone,ovine
+crane,phone,ozone
+crane,phone,penne
+crane,phone
+crane,phone,shine
+crane,phone,shone
+crane,phone,spine
+crane,phone,ozone,stone
+crane,phone,swine
+crane,phone,swine,twine
+crane,phone,shine,whine
+216 [0mc[0mr[0ma[1;32mn[1;32me[0m  12   109 Some((26, 3, "phone")) ["opine", "ovine", "ozone", "penne", "phone", "shine", "shone", "spine", "stone", "swine", "twine", "whine"]
+crane,crops,crick
+crane,crops,crimp
+crane,crops,crisp
+crane,crops,crock
+crane,crops,crock,crook
+crane,crops,cross
+crane,crops,croup
+crane,crops,crock,crowd
+crane,crops,crick,crumb
+crane,crops,crimp,crump
+crane,crops,crush
+crane,crops,crush,crust
+crane,crops,crypt
+  8 [1;32mc[1;32mr[0ma[0mn[0me[0m  13   111 Some((31, 3, "crops")) ["crick", "crimp", "crisp", "crock", "crook", "cross", "croup", "crowd", "crumb", "crump", "crush", "crust", "crypt"]
+crane,cacti,cabal
+crane,cacti,cabal,cabby
+crane,cacti,cacao
+crane,cacti
+crane,cacti,cabal,caddy
+crane,cacti,caput
+crane,cacti,catch
+crane,cacti,catty
+crane,cacti,cabal,caulk
+crane,cacti,cavil
+crane,cacti,cloak
+crane,cacti,cocoa
+crane,cacti,cloak,comma
+ 11 [1;32mc[0mr[1;33ma[0mn[0me[0m  13   354 Some((29, 3, "cacti")) ["cabal", "cabby", "cacao", "cacti", "caddy", "caput", "catch", "catty", "caulk", "cavil", "cloak", "cocoa", "comma"]
+crane,scald,beach,aback
+crane,scald,black
+crane,scald,black,flack
+crane,scald,beach,quack
+crane,scald
+crane,scald,scalp
+crane,scald,scalp,scaly
+crane,scald,scamp
+crane,scald,scath,shack
+crane,scald,slack
+crane,scald,scath,smack
+crane,scald,scath,stack
+crane,scald,beach,whack
+ 19 [1;33mc[0mr[1;32ma[0mn[0me[0m  13   210 Some((33, 3, "scald")) ["aback", "black", "flack", "quack", "scald", "scalp", "scaly", "scamp", "shack", "slack", "smack", "stack", "whack"]
+crane,chams,chaff
+crane,chams,chaff,chalk
+crane,chams,champ
+crane,chams,chaos
+crane,chams,chasm
+crane,chams,clack
+crane,chams,claim
+crane,chams,clamp
+crane,chams,clash
+crane,chams,clasp
+crane,chams,class
+crane,chams,coach
+crane,chams,clasp,coast
+ 20 [1;32mc[0mr[1;32ma[0mn[0me[0m  13   114 Some((28, 3, "chams")) ["chaff", "chalk", "champ", "chaos", "chasm", "clack", "claim", "clamp", "clash", "clasp", "class", "coach", "coast"]
+crane,thorn,donor
+crane,thorn,honor
+crane,thorn,intro
+crane,thorn,donor,minor
+crane,thorn,moron
+crane,thorn,mourn
+crane,thorn,north
+crane,thorn,moron,robin
+crane,thorn,shorn
+crane,thorn,snort
+crane,thorn,spurn
+crane,thorn,sworn
+crane,thorn
+ 30 [0mc[1;33mr[0ma[1;33mn[0me[0m  13   533 Some((27, 3, "thorn")) ["donor", "honor", "intro", "minor", "moron", "mourn", "north", "robin", "shorn", "snort", "spurn", "sworn", "thorn"]
+crane,trade,grave,brame,brake
+crane,trade,grave,brave
+crane,trade,drake
+crane,trade,drake,drape
+crane,trade,grave,brame,erase
+crane,trade,grave,brame,frame
+crane,trade,grade
+crane,trade,grave,grape
+crane,trade,grate
+crane,trade,grave
+crane,trade,grave,grape,graze
+crane,trade,grate,irate
+crane,trade
+186 [0mc[1;32mr[1;32ma[0mn[1;32me[0m  13    42 Some((37, 4, "trade")) ["brake", "brave", "drake", "drape", "erase", "frame", "grade", "grape", "grate", "grave", "graze", "irate", "trade"]
+crane,stank,bland
+crane,stank,blank
+crane,stank,blank,flank
+crane,stank,giant
+crane,stank,bland,gland
+crane,stank,bland,piano
+crane,stank,blank,flank,plank
+crane,stank,giant,plant
+crane,stank,shank
+crane,stank,slang
+crane,stank,slant
+crane,stank,shank,spank
+crane,stank,stand
+crane,stank
+crane,stank,thank
+crane,stank,giant,twang
+ 72 [0mc[0mr[1;32ma[1;32mn[0me[0m  16   154 Some((39, 4, "stank")) ["bland", "blank", "flank", "giant", "gland", "piano", "plank", "plant", "shank", "slang", "slant", "spank", "stand", "stank", "thank", "twang"]
+crane,grind,bring
+crane,grind,brink
+crane,grind,brink,briny
+crane,grind,brunt
+crane,grind,drink
+crane,grind,drunk
+crane,grind,frond
+crane,grind,brunt,front
+crane,grind
+crane,grind,grunt
+crane,grind,irony
+crane,grind,brink,print
+crane,grind,prong
+crane,grind,brunt,trunk
+crane,grind,bring,wring
+crane,grind,prong,wrong
+crane,grind,prong,wrung
+ 60 [0mc[1;32mr[0ma[1;32mn[0me[0m  17    98 Some((40, 3, "grind")) ["bring", "brink", "briny", "brunt", "drink", "drunk", "frond", "front", "grind", "grunt", "irony", "print", "prong", "trunk", "wring", "wrong", "wrung"]
+ 28 [1;33mc[0mr[0ma[1;33mn[0me[0m  18   307 None ["bunch", "finch", "hunch", "ionic", "knock", "lunch", "lynch", "munch", "notch", "pinch", "punch", "scion", "snuck", "sonic", "tonic", "tunic", "uncut", "winch"]

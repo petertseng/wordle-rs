@@ -1,0 +1,339 @@
+plate,alpha
+ 16 [1;33mp[1;32ml[1;33ma[0mt[0me[0m   1    42 Some((1, 1, "alpha")) ["alpha"]
+plate,scalp
+ 22 [1;33mp[1;33ml[1;32ma[0mt[0me[0m   1    47 Some((1, 1, "scalp")) ["scalp"]
+plate,psalm
+ 23 [1;32mp[1;33ml[1;32ma[0mt[0me[0m   1    26 Some((1, 1, "psalm")) ["psalm"]
+plate,pilot
+ 32 [1;32mp[1;33ml[0ma[1;33mt[0me[0m   1    21 Some((1, 1, "pilot")) ["pilot"]
+plate,loath
+ 75 [0mp[1;33ml[1;32ma[1;32mt[0me[0m   1    16 Some((1, 1, "loath")) ["loath"]
+plate,lapel
+ 94 [1;33mp[1;33ml[1;33ma[0mt[1;33me[0m   1    50 Some((1, 1, "lapel")) ["lapel"]
+plate,plead
+ 98 [1;32mp[1;32ml[1;33ma[0mt[1;33me[0m   1     8 Some((1, 1, "plead")) ["plead"]
+plate,peach
+101 [1;32mp[0ml[1;32ma[0mt[1;33me[0m   1    27 Some((1, 1, "peach")) ["peach"]
+plate,pearl
+104 [1;32mp[1;33ml[1;32ma[0mt[1;33me[0m   1     6 Some((1, 1, "pearl")) ["pearl"]
+plate,spelt
+112 [1;33mp[1;33ml[0ma[1;33mt[1;33me[0m   1    14 Some((1, 1, "spelt")) ["spelt"]
+plate,slept
+115 [1;33mp[1;32ml[0ma[1;33mt[1;33me[0m   1     4 Some((1, 1, "slept")) ["slept"]
+plate,petal
+122 [1;32mp[1;33ml[1;33ma[1;33mt[1;33me[0m   1     5 Some((1, 1, "petal")) ["petal"]
+plate,pleat
+125 [1;32mp[1;32ml[1;33ma[1;33mt[1;33me[0m   1     2 Some((1, 1, "pleat")) ["pleat"]
+plate,leapt
+130 [1;33mp[1;33ml[1;32ma[1;33mt[1;33me[0m   1     2 Some((1, 1, "leapt")) ["leapt"]
+plate,lefty
+138 [0mp[1;33ml[0ma[1;32mt[1;33me[0m   1    44 Some((1, 1, "lefty")) ["lefty"]
+plate,delta
+147 [0mp[1;33ml[1;33ma[1;32mt[1;33me[0m   1    10 Some((1, 1, "delta")) ["delta"]
+plate,pulse
+167 [1;32mp[1;33ml[0ma[0mt[1;32me[0m   1    17 Some((1, 1, "pulse")) ["pulse"]
+plate,plume
+170 [1;32mp[1;32ml[0ma[0mt[1;32me[0m   1     7 Some((1, 1, "plume")) ["plume"]
+plate,stale
+210 [0mp[1;33ml[1;32ma[1;33mt[1;32me[0m   1     7 Some((1, 1, "stale")) ["stale"]
+plate,spite
+217 [1;33mp[0ml[0ma[1;32mt[1;32me[0m   1     7 Some((1, 1, "spite")) ["spite"]
+plate,paste
+227 [1;32mp[0ml[1;33ma[1;32mt[1;32me[0m   1     4 Some((1, 1, "paste")) ["paste"]
+plate,latte
+228 [0mp[1;33ml[1;33ma[1;32mt[1;32me[0m   1     6 Some((1, 1, "latte")) ["latte"]
+plate
+242 [1;32mp[1;32ml[1;32ma[1;32mt[1;32me[0m   1     1 Some((1, 1, "plate")) ["plate"]
+plate,clamp
+plate,clamp,clasp
+ 25 [1;33mp[1;32ml[1;32ma[0mt[0me[0m   2    32 Some((3, 2, "clamp")) ["clamp", "clasp"]
+plate,aptly
+plate,aptly,splat
+ 40 [1;33mp[1;33ml[1;33ma[1;33mt[0me[0m   2    23 Some((3, 2, "aptly")) ["aptly", "splat"]
+plate,blast
+plate,blast,slant
+ 51 [0mp[1;32ml[1;32ma[1;33mt[0me[0m   2    26 Some((3, 2, "blast")) ["blast", "slant"]
+plate,plait
+plate,plait,plant
+ 53 [1;32mp[1;32ml[1;32ma[1;33mt[0me[0m   2     7 Some((3, 2, "plait")) ["plait", "plant"]
+plate,salty
+plate,salty,waltz
+ 66 [0mp[1;33ml[1;33ma[1;32mt[0me[0m   2    38 Some((3, 2, "salty")) ["salty", "waltz"]
+plate,swath
+plate,swath,wrath
+ 72 [0mp[0ml[1;32ma[1;32mt[0me[0m   2   103 Some((3, 2, "swath")) ["swath", "wrath"]
+plate,peril
+plate,peril,pixel
+ 86 [1;32mp[1;33ml[0ma[0mt[1;33me[0m   2    67 Some((3, 2, "peril")) ["peril", "pixel"]
+plate,bleep
+plate,bleep,sleep
+ 88 [1;33mp[1;32ml[0ma[0mt[1;33me[0m   2    39 Some((3, 2, "bleep")) ["bleep", "sleep"]
+plate,plied
+plate,plied,plier
+ 89 [1;32mp[1;32ml[0ma[0mt[1;33me[0m   2    20 Some((3, 2, "plied")) ["plied", "plier"]
+plate,adept
+plate,adept,taper
+118 [1;33mp[0ml[1;33ma[1;33mt[1;33me[0m   2    40 Some((3, 2, "adept")) ["adept", "taper"]
+plate,depth
+plate,depth,empty
+136 [1;33mp[0ml[0ma[1;32mt[1;33me[0m   2    31 Some((3, 2, "depth")) ["depth", "empty"]
+plate,earth
+plate,earth,theta
+144 [0mp[0ml[1;33ma[1;32mt[1;33me[0m   2    90 Some((3, 2, "earth")) ["earth", "theta"]
+plate,elope
+plate,elope,slope
+169 [1;33mp[1;32ml[0ma[0mt[1;32me[0m   2    18 Some((3, 2, "elope")) ["elope", "slope"]
+plate,peace
+plate,peace,phase
+182 [1;32mp[0ml[1;32ma[0mt[1;32me[0m   2    15 Some((3, 2, "peace")) ["peace", "phase"]
+plate,place
+plate,place,plane
+188 [1;32mp[1;32ml[1;32ma[0mt[1;32me[0m   2     4 Some((3, 2, "place")) ["place", "plane"]
+plate,atone
+plate,atone,bathe
+198 [0mp[0ml[1;33ma[1;33mt[1;32me[0m   2    94 Some((3, 2, "atone")) ["atone", "bathe"]
+plate,lathe
+plate,lathe,table
+201 [0mp[1;33ml[1;33ma[1;33mt[1;32me[0m   2    12 Some((3, 2, "lathe")) ["lathe", "table"]
+plate,elite
+plate,elite,flute
+222 [0mp[1;32ml[0ma[1;32mt[1;32me[0m   2    15 Some((3, 2, "elite")) ["elite", "flute"]
+plate,elate
+plate,elate,slate
+240 [0mp[1;32ml[1;32ma[1;32mt[1;32me[0m   2     5 Some((3, 2, "elate")) ["elate", "slate"]
+plate,amply
+plate,amply,apply
+plate,amply,ralph
+ 13 [1;33mp[1;33ml[1;33ma[0mt[0me[0m   3   172 Some((5, 2, "amply")) ["amply", "apply", "ralph"]
+plate,piano
+plate,piano,prank
+plate,piano,prawn
+ 20 [1;32mp[0ml[1;32ma[0mt[0me[0m   3    71 Some((5, 2, "piano")) ["piano", "prank", "prawn"]
+plate,spilt
+plate,spilt,split
+plate,spilt,tulip
+ 31 [1;33mp[1;33ml[0ma[1;33mt[0me[0m   3    42 Some((5, 2, "spilt")) ["spilt", "split", "tulip"]
+plate,filth
+plate,filth,lofty
+plate,filth,lusty
+ 57 [0mp[1;33ml[0ma[1;32mt[0me[0m   3   137 Some((5, 2, "filth")) ["filth", "lofty", "lusty"]
+plate,cloth,blitz
+plate,cloth
+plate,cloth,sloth
+ 60 [0mp[1;32ml[0ma[1;32mt[0me[0m   3    49 Some((5, 2, "cloth")) ["blitz", "cloth", "sloth"]
+plate,pesto
+plate,pesto,petty
+plate,pesto,piety
+137 [1;32mp[0ml[0ma[1;32mt[1;33me[0m   3    22 Some((5, 2, "pesto")) ["pesto", "petty", "piety"]
+plate,death
+plate,death,heath
+plate,death,meaty
+153 [0mp[0ml[1;32ma[1;32mt[1;33me[0m   3    46 Some((5, 2, "death")) ["death", "heath", "meaty"]
+plate,parse
+plate,parse,pause
+plate,parse,payee
+173 [1;32mp[0ml[1;33ma[0mt[1;32me[0m   3    37 Some((5, 2, "parse")) ["parse", "pause", "payee"]
+plate,tripe,tepee
+plate,tripe
+plate,tripe,trope
+190 [1;33mp[0ml[0ma[1;33mt[1;32me[0m   3    22 Some((5, 2, "tripe")) ["tepee", "tripe", "trope"]
+plate,polyp
+plate,polyp,prowl
+plate,polyp,pulpy
+plate,polyp,pupil
+  5 [1;32mp[1;33ml[0ma[0mt[0me[0m   4   200 Some((7, 2, "polyp")) ["polyp", "prowl", "pulpy", "pupil"]
+plate,plain,plaid
+plate,plain
+plate,plain,plank
+plate,plain,plaza
+ 26 [1;32mp[1;32ml[1;32ma[0mt[0me[0m   4    22 Some((7, 2, "plain")) ["plaid", "plain", "plank", "plaza"]
+plate,paths,paint
+plate,paths,patch
+plate,paths,patio
+plate,paths,patsy
+ 38 [1;32mp[0ml[1;33ma[1;33mt[0me[0m   4    55 Some((8, 2, "paths")) ["paint", "patch", "patio", "patsy"]
+plate,apart,adapt
+plate,apart
+plate,apart,stamp
+plate,apart,tramp
+ 46 [1;33mp[0ml[1;32ma[1;33mt[0me[0m   4    41 Some((7, 2, "apart")) ["adapt", "apart", "stamp", "tramp"]
+plate,photo
+plate,photo,pinto
+plate,photo,pouty
+plate,photo,putty
+ 56 [1;32mp[0ml[0ma[1;32mt[0me[0m   4    75 Some((7, 2, "photo")) ["photo", "pinto", "pouty", "putty"]
+plate,party
+plate,party,pasta
+plate,party,pasty
+plate,party,pasty,patty
+ 65 [1;32mp[0ml[1;33ma[1;32mt[0me[0m   4    31 Some((8, 3, "party")) ["party", "pasta", "pasty", "patty"]
+plate,paper
+plate,paper,parer
+plate,paper,parer,payer
+plate,paper,pecan
+ 92 [1;32mp[0ml[1;33ma[0mt[1;33me[0m   4   113 Some((8, 3, "paper")) ["paper", "parer", "payer", "pecan"]
+plate,panel,paler
+plate,panel
+plate,panel,pedal
+plate,panel,penal
+ 95 [1;32mp[1;33ml[1;33ma[0mt[1;33me[0m   4    29 Some((7, 2, "panel")) ["paler", "panel", "pedal", "penal"]
+plate,cleft
+plate,cleft,elect
+plate,cleft,fleet
+plate,cleft,sleet
+114 [0mp[1;32ml[0ma[1;33mt[1;33me[0m   4    37 Some((7, 2, "cleft")) ["cleft", "elect", "fleet", "sleet"]
+plate,bleat,alert
+plate,bleat,alter
+plate,bleat
+plate,bleat,cleat
+123 [0mp[1;32ml[1;33ma[1;33mt[1;33me[0m   4    11 Some((7, 2, "bleat")) ["alert", "alter", "bleat", "cleat"]
+plate,leant,dealt
+plate,leant,exalt
+plate,leant
+plate,leant,least
+129 [0mp[1;33ml[1;32ma[1;33mt[1;33me[0m   4    14 Some((7, 2, "leant")) ["dealt", "exalt", "leant", "least"]
+plate,ample
+plate,ample,apple
+plate,ample,lapse
+plate,ample,maple
+175 [1;33mp[1;33ml[1;33ma[0mt[1;32me[0m   4    16 Some((7, 2, "ample")) ["ample", "apple", "lapse", "maple"]
+plate,alike,algae
+plate,alike
+plate,alike,alive
+plate,alike,algae,alone
+177 [0mp[1;32ml[1;33ma[0mt[1;32me[0m   4    42 Some((8, 3, "alike")) ["algae", "alike", "alive", "alone"]
+plate,pluck
+plate,pluck,plumb
+plate,pluck,plumb,plump
+plate,pluck,plunk
+plate,pluck,plumb,plush
+  8 [1;32mp[1;32ml[0ma[0mt[0me[0m   5    64 Some((11, 3, "pluck")) ["pluck", "plumb", "plump", "plunk", "plush"]
+plate,papal,palsy
+plate,papal
+plate,papal,polar
+plate,papal,polka
+plate,papal,pupal
+ 14 [1;32mp[1;33ml[1;33ma[0mt[0me[0m   5    95 Some((9, 2, "papal")) ["palsy", "papal", "polar", "polka", "pupal"]
+plate,caput,adopt
+plate,caput
+plate,caput,strap
+plate,caput,tapir
+plate,caput,topaz
+ 37 [1;33mp[0ml[1;33ma[1;33mt[0me[0m   5   126 Some((9, 2, "caput")) ["adopt", "caput", "strap", "tapir", "topaz"]
+plate,stalk,shalt
+plate,stalk
+plate,stalk,stall
+plate,stalk,trail
+plate,stalk,trail,trawl
+ 48 [0mp[1;33ml[1;32ma[1;33mt[0me[0m   5    49 Some((10, 3, "stalk")) ["shalt", "stalk", "stall", "trail", "trawl"]
+plate,scale,lease
+plate,scale,leave
+plate,scale
+plate,scale,shale
+plate,scale,whale
+183 [0mp[1;33ml[1;32ma[0mt[1;32me[0m   5    47 Some((9, 2, "scale")) ["lease", "leave", "scale", "shale", "whale"]
+plate,clump,blimp
+plate,clump
+plate,clump,glyph
+plate,clump,sloop
+plate,clump,slump
+plate,clump,slurp
+  7 [1;33mp[1;32ml[0ma[0mt[0me[0m   6   118 Some((11, 2, "clump")) ["blimp", "clump", "glyph", "sloop", "slump", "slurp"]
+plate,ponty,pitch
+plate,ponty,pithy
+plate,ponty,pivot
+plate,ponty,point
+plate,ponty,posit
+plate,ponty,print
+ 29 [1;32mp[0ml[0ma[1;33mt[0me[0m   6   139 Some((12, 2, "ponty")) ["pitch", "pithy", "pivot", "point", "posit", "print"]
+plate,fetal,eclat
+plate,fetal
+plate,fetal,later
+plate,fetal,metal
+plate,fetal,steal
+plate,fetal,valet
+120 [0mp[1;33ml[1;33ma[1;33mt[1;33me[0m   6    56 Some((11, 2, "fetal")) ["eclat", "fetal", "later", "metal", "steal", "valet"]
+plate,pandy,paddy
+plate,pandy,pagan
+plate,pandy,panic
+plate,pandy,pansy
+plate,pandy,parka
+plate,pandy,parry
+plate,pandy,pizza
+ 11 [1;32mp[0ml[1;33ma[0mt[0me[0m   7   331 Some((14, 2, "pandy")) ["paddy", "pagan", "panic", "pansy", "parka", "parry", "pizza"]
+plate,flint,blunt
+plate,flint,blurt
+plate,flint,blurt,clout
+plate,flint
+plate,flint,flirt
+plate,flint,flout
+plate,flint,glint
+ 33 [0mp[1;32ml[0ma[1;33mt[0me[0m   7   112 Some((14, 3, "flint")) ["blunt", "blurt", "clout", "flint", "flirt", "flout", "glint"]
+plate,aloft,allot
+plate,aloft
+plate,aloft,altar
+plate,aloft,bloat
+plate,aloft,float
+plate,aloft,bloat,gloat
+plate,aloft,ultra
+ 42 [0mp[1;32ml[1;33ma[1;33mt[0me[0m   7    44 Some((14, 3, "aloft")) ["allot", "aloft", "altar", "bloat", "float", "gloat", "ultra"]
+plate,clean,alien
+plate,clean,alley
+plate,clean,bleak
+plate,clean
+plate,clean,clear
+plate,clean,bleak,gleam
+plate,clean,glean
+ 96 [0mp[1;32ml[1;33ma[0mt[1;33me[0m   7    86 Some((14, 3, "clean")) ["alien", "alley", "bleak", "clean", "clear", "gleam", "glean"]
+plate,drape,agape
+plate,drape
+plate,drape,grape
+plate,drape,agape,shape
+plate,drape,space
+plate,drape,spade
+plate,drape,spare
+181 [1;33mp[0ml[1;32ma[0mt[1;32me[0m   7    34 Some((14, 3, "drape")) ["agape", "drape", "grape", "shape", "space", "spade", "spare"]
+plate,toile,lithe
+plate,toile,stole
+plate,toile,style
+plate,toile,tilde
+plate,toile,title
+plate,toile,tulle
+plate,toile,utile
+192 [0mp[1;33ml[0ma[1;33mt[1;32me[0m   7    45 Some((14, 2, "toile")) ["lithe", "stole", "style", "tilde", "title", "tulle", "utile"]
+plate,trave,stage
+plate,trave,stage,stake
+plate,trave,stare
+plate,trave,stave
+plate,trave,tease
+plate,trave,trace
+plate,trave,trace,trade
+207 [0mp[0ml[1;32ma[1;33mt[1;32me[0m   7    45 Some((16, 3, "trave")) ["stage", "stake", "stare", "stave", "tease", "trace", "trade"]
+plate,expel
+plate,expel,impel
+plate,expel,leper
+plate,expel,repel
+plate,expel,reply
+plate,expel,spell
+plate,expel,spiel
+plate,expel,whelp
+ 85 [1;33mp[1;33ml[0ma[0mt[1;33me[0m   8   145 Some((15, 2, "expel")) ["expel", "impel", "leper", "repel", "reply", "spell", "spiel", "whelp"]
+plate,leafy,email
+plate,leafy,leach
+plate,leafy
+plate,leafy,leaky
+plate,leafy,leach,learn
+plate,leafy,leach,leash
+plate,leafy,mealy
+plate,leafy,realm
+102 [0mp[1;33ml[1;32ma[0mt[1;33me[0m   8    99 Some((17, 3, "leafy")) ["email", "leach", "leafy", "leaky", "learn", "leash", "mealy", "realm"]
+plate,teeth,berth
+plate,teeth,deity
+plate,teeth,hefty
+plate,teeth,jetty
+plate,teeth
+plate,teeth,tenth
+plate,teeth,testy
+plate,teeth,deity,zesty
+135 [0mp[0ml[0ma[1;32mt[1;33me[0m   8   308 Some((16, 3, "teeth")) ["berth", "deity", "hefty", "jetty", "teeth", "tenth", "testy", "zesty"]
+225 [0mp[0ml[1;33ma[1;32mt[1;32me[0m   8    45 None ["acute", "baste", "caste", "haste", "haute", "saute", "taste", "waste"]

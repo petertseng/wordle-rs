@@ -1,0 +1,185 @@
+tares,tapir
+ 17 [1;32mt[1;32ma[1;33mr[0me[0ms[0m   1    37 Some((1, 1, "tapir")) ["tapir"]
+tares,aorta
+ 22 [1;33mt[1;33ma[1;32mr[0me[0ms[0m   1    84 Some((1, 1, "aorta")) ["aorta"]
+tares,table
+ 35 [1;32mt[1;32ma[0mr[1;33me[0ms[0m   1    45 Some((1, 1, "table")) ["table"]
+tares,range
+ 42 [0mt[1;32ma[1;33mr[1;33me[0ms[0m   1   249 Some((1, 1, "range")) ["range"]
+tares,feral
+ 48 [0mt[1;33ma[1;32mr[1;33me[0ms[0m   1   131 Some((1, 1, "feral")) ["feral"]
+tares,terra
+ 50 [1;32mt[1;33ma[1;32mr[1;33me[0ms[0m   1     9 Some((1, 1, "terra")) ["terra"]
+tares,earth
+ 52 [1;33mt[1;32ma[1;32mr[1;33me[0ms[0m   1     9 Some((1, 1, "earth")) ["earth"]
+tares,taken
+ 62 [1;32mt[1;32ma[0mr[1;32me[0ms[0m   1    32 Some((1, 1, "taken")) ["taken"]
+tares,agree
+ 75 [0mt[1;33ma[1;32mr[1;32me[0ms[0m   1    58 Some((1, 1, "agree")) ["agree"]
+tares,toast
+ 86 [1;32mt[1;33ma[0mr[0me[1;33ms[0m   1   116 Some((1, 1, "toast")) ["toast"]
+tares,tasty
+ 89 [1;32mt[1;32ma[0mr[0me[1;33ms[0m   1    68 Some((1, 1, "tasty")) ["tasty"]
+tares,trash
+ 95 [1;32mt[1;33ma[1;33mr[0me[1;33ms[0m   1    26 Some((1, 1, "trash")) ["trash"]
+tares,satyr
+ 97 [1;33mt[1;32ma[1;33mr[0me[1;33ms[0m   1    31 Some((1, 1, "satyr")) ["satyr"]
+tares,torso
+101 [1;32mt[0ma[1;32mr[0me[1;33ms[0m   1    38 Some((1, 1, "torso")) ["torso"]
+tares,tease
+113 [1;32mt[1;33ma[0mr[1;33me[1;33ms[0m   1    32 Some((1, 1, "tease")) ["tease"]
+tares,taste
+116 [1;32mt[1;32ma[0mr[1;33me[1;33ms[0m   1    17 Some((1, 1, "taste")) ["taste"]
+tares,stare
+121 [1;33mt[1;33ma[1;33mr[1;33me[1;33ms[0m   1    13 Some((1, 1, "stare")) ["stare"]
+tares,raise
+123 [0mt[1;32ma[1;33mr[1;33me[1;33ms[0m   1    56 Some((1, 1, "raise")) ["raise"]
+tares,terse
+128 [1;32mt[0ma[1;32mr[1;33me[1;33ms[0m   1    12 Some((1, 1, "terse")) ["terse"]
+tares,parse
+132 [0mt[1;32ma[1;32mr[1;33me[1;33ms[0m   1    25 Some((1, 1, "parse")) ["parse"]
+tares,asset
+139 [1;33mt[1;33ma[0mr[1;32me[1;33ms[0m   1    33 Some((1, 1, "asset")) ["asset"]
+tares,easel
+141 [0mt[1;32ma[0mr[1;32me[1;33ms[0m   1   207 Some((1, 1, "easel")) ["easel"]
+tares,basis
+168 [0mt[1;32ma[0mr[0me[1;32ms[0m   1   757 Some((1, 1, "basis")) ["basis"]
+tares,truss
+173 [1;32mt[0ma[1;33mr[0me[1;32ms[0m   1    75 Some((1, 1, "truss")) ["truss"]
+tares,virus
+180 [0mt[0ma[1;32mr[0me[1;32ms[0m   1   401 Some((1, 1, "virus")) ["virus"]
+tares,torus
+182 [1;32mt[0ma[1;32mr[0me[1;32ms[0m   1    32 Some((1, 1, "torus")) ["torus"]
+tares,ratio
+tares,ratio,ratty
+ 16 [1;33mt[1;32ma[1;33mr[0me[0ms[0m   2    99 Some((3, 2, "ratio")) ["ratio", "ratty"]
+tares,tardy
+tares,tardy,tarot
+ 26 [1;32mt[1;32ma[1;32mr[0me[0ms[0m   2    18 Some((3, 2, "tardy")) ["tardy", "tarot"]
+tares,after
+tares,after,alter
+ 67 [1;33mt[1;33ma[1;33mr[1;32me[0ms[0m   2    35 Some((3, 2, "after")) ["after", "alter"]
+tares,beret
+tares,beret,egret
+ 73 [1;33mt[0ma[1;32mr[1;32me[0ms[0m   2    20 Some((3, 2, "beret")) ["beret", "egret"]
+tares,three
+tares,three,threw
+ 74 [1;32mt[0ma[1;32mr[1;32me[0ms[0m   2    11 Some((3, 2, "three")) ["three", "threw"]
+tares,tipsy
+tares,tipsy,twist
+ 83 [1;32mt[0ma[0mr[0me[1;33ms[0m   2   315 Some((3, 2, "tipsy")) ["tipsy", "twist"]
+tares,trust
+tares,trust,tryst
+ 92 [1;32mt[0ma[1;33mr[0me[1;33ms[0m   2    88 Some((3, 2, "trust")) ["trust", "tryst"]
+tares,raspy
+tares,raspy,savor
+ 96 [0mt[1;32ma[1;33mr[0me[1;33ms[0m   2   224 Some((3, 2, "raspy")) ["raspy", "savor"]
+tares,harsh
+tares,harsh,marsh
+105 [0mt[1;32ma[1;32mr[0me[1;33ms[0m   2   130 Some((3, 2, "harsh")) ["harsh", "marsh"]
+tares,ashen
+tares,ashen,askew
+138 [0mt[1;33ma[0mr[1;32me[1;33ms[0m   2   258 Some((3, 2, "ashen")) ["ashen", "askew"]
+tares,safer
+tares,safer,saner
+150 [0mt[1;32ma[1;33mr[1;32me[1;33ms[0m   2    43 Some((3, 2, "safer")) ["safer", "saner"]
+tares,ethos
+tares,ethos,fetus
+190 [1;33mt[0ma[0mr[1;33me[1;32ms[0m   2   270 Some((3, 2, "ethos")) ["ethos", "fetus"]
+tares,party,carat
+tares,party
+tares,party,warty
+ 25 [1;33mt[1;32ma[1;32mr[0me[0ms[0m   3    45 Some((5, 2, "party")) ["carat", "party", "warty"]
+tares,teach
+tares,teach,theta
+tares,teach,tweak
+ 32 [1;32mt[1;33ma[0mr[1;33me[0ms[0m   3    94 Some((5, 2, "teach")) ["teach", "theta", "tweak"]
+tares,berth
+tares,berth,forte
+tares,berth,merit
+ 46 [1;33mt[0ma[1;32mr[1;33me[0ms[0m   3    60 Some((5, 2, "berth")) ["berth", "forte", "merit"]
+tares,aimer,aider
+tares,aimer,amber
+tares,aimer,anger
+ 66 [0mt[1;33ma[1;33mr[1;32me[0ms[0m   3   231 Some((6, 2, "aimer")) ["aider", "amber", "anger"]
+tares,taker
+tares,taker,tamer
+tares,taker,tamer,taper
+ 71 [1;32mt[1;32ma[1;33mr[1;32me[0ms[0m   3    12 Some((6, 3, "taker")) ["taker", "tamer", "taper"]
+tares,corer
+tares,corer,puree
+tares,corer,purer
+ 72 [0mt[0ma[1;32mr[1;32me[0ms[0m   3   189 Some((5, 2, "corer")) ["corer", "puree", "purer"]
+tares,parer,harem
+tares,parer
+tares,parer,rarer
+ 78 [0mt[1;32ma[1;32mr[1;32me[0ms[0m   3    45 Some((5, 2, "parer")) ["harem", "parer", "rarer"]
+tares,scram
+tares,scram,scrap
+tares,scram,spray
+102 [0mt[1;33ma[1;32mr[0me[1;33ms[0m   3   199 Some((5, 2, "scram")) ["scram", "scrap", "spray"]
+tares,strap
+tares,strap,straw
+tares,strap,straw,stray
+103 [1;33mt[1;33ma[1;32mr[0me[1;33ms[0m   3    33 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+tares,ester
+tares,ester,reset
+tares,ester,steer
+145 [1;33mt[0ma[1;33mr[1;32me[1;33ms[0m   3    19 Some((5, 2, "ester")) ["ester", "reset", "steer"]
+tares,cards,cross
+tares,cards,dross
+tares,cards,gross
+171 [0mt[0ma[1;33mr[0me[1;32ms[0m   3   956 Some((6, 2, "cards")) ["cross", "dross", "gross"]
+tares,brags,brass
+tares,brags,crass
+tares,brags,grass
+174 [0mt[1;33ma[1;33mr[0me[1;32ms[0m   3   358 Some((6, 2, "brags")) ["brass", "crass", "grass"]
+tares,alecs,bless
+tares,alecs,chess
+tares,alecs,guess
+189 [0mt[0ma[0mr[1;33me[1;32ms[0m   3  1440 Some((6, 2, "alecs")) ["bless", "chess", "guess"]
+tares,bathe
+tares,bathe,haute
+tares,bathe,lathe
+tares,bathe,latte
+ 34 [1;33mt[1;32ma[0mr[1;33me[0ms[0m   4   120 Some((7, 2, "bathe")) ["bathe", "haute", "lathe", "latte"]
+tares,tense
+tares,tense,testy
+tares,tense,these
+tares,tense,those
+110 [1;32mt[0ma[0mr[1;33me[1;33ms[0m   4   118 Some((7, 2, "tense")) ["tense", "testy", "these", "those"]
+tares,crest
+tares,crest,stern
+tares,crest,store
+tares,crest,wrest
+118 [1;33mt[0ma[1;33mr[1;33me[1;33ms[0m   4    70 Some((7, 2, "crest")) ["crest", "stern", "store", "wrest"]
+tares,creds,cress
+tares,creds,dress
+tares,creds,press
+tares,creds,rebus
+198 [0mt[0ma[1;33mr[1;33me[1;32ms[0m   4   335 Some((8, 2, "creds")) ["cress", "dress", "press", "rebus"]
+tares,throb
+tares,throb,throw
+tares,throb,thrum
+tares,throb,torch
+tares,throb,turbo
+ 20 [1;32mt[0ma[1;32mr[0me[0ms[0m   5    82 Some((9, 2, "throb")) ["throb", "throw", "thrum", "torch", "turbo"]
+tares,trade,teary
+tares,trade,trace
+tares,trade
+tares,trade,tread
+tares,trade,treat
+ 41 [1;32mt[1;33ma[1;33mr[1;33me[0ms[0m   5    30 Some((9, 2, "trade")) ["teary", "trace", "trade", "tread", "treat"]
+tares,carle,barge
+tares,carle,carve
+tares,carle,early
+tares,carle,farce
+tares,carle,large
+ 51 [0mt[1;32ma[1;32mr[1;33me[0ms[0m   5    83 Some((10, 2, "carle")) ["barge", "carve", "early", "farce", "large"]
+tares,cadet
+tares,cadet,eaten
+tares,cadet,facet
+tares,cadet,eaten,matey
+tares,cadet,valet
+ 61 [1;33mt[1;32ma[0mr[1;32me[0ms[0m   5    82 Some((10, 3, "cadet")) ["cadet", "eaten", "facet", "matey", "valet"]
+ 70 [1;33mt[1;32ma[1;33mr[1;32me[0ms[0m   5    28 None ["cater", "eater", "hater", "later", "water"]

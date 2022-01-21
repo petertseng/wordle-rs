@@ -1,0 +1,252 @@
+resat,visor
+ 19 [1;33mr[0me[1;32ms[0ma[0mt[0m   1    76 Some((1, 1, "visor")) ["visor"]
+resat,risky
+ 20 [1;32mr[0me[1;32ms[0ma[0mt[0m   1    47 Some((1, 1, "risky")) ["risky"]
+resat,pesky
+ 24 [0mr[1;32me[1;32ms[0ma[0mt[0m   1    86 Some((1, 1, "pesky")) ["pesky"]
+resat,resin
+ 26 [1;32mr[1;32me[1;32ms[0ma[0mt[0m   1    16 Some((1, 1, "resin")) ["resin"]
+resat,raise
+ 41 [1;32mr[1;33me[1;33ms[1;33ma[0mt[0m   1    29 Some((1, 1, "raise")) ["raise"]
+resat,arson
+ 46 [1;33mr[0me[1;32ms[1;33ma[0mt[0m   1    28 Some((1, 1, "arson")) ["arson"]
+resat,raspy
+ 47 [1;32mr[0me[1;32ms[1;33ma[0mt[0m   1    12 Some((1, 1, "raspy")) ["raspy"]
+resat,sedan
+ 69 [0mr[1;32me[1;33ms[1;32ma[0mt[0m   1    42 Some((1, 1, "sedan")) ["sedan"]
+resat,essay
+ 75 [0mr[1;33me[1;32ms[1;32ma[0mt[0m   1    11 Some((1, 1, "essay")) ["essay"]
+resat,rotor
+ 83 [1;32mr[0me[0ms[0ma[1;33mt[0m   1   120 Some((1, 1, "rotor")) ["rotor"]
+resat,route
+ 86 [1;32mr[1;33me[0ms[0ma[1;33mt[0m   1    56 Some((1, 1, "route")) ["route"]
+resat,terse
+ 97 [1;33mr[1;32me[1;33ms[0ma[1;33mt[0m   1    26 Some((1, 1, "terse")) ["terse"]
+resat,rusty
+101 [1;32mr[0me[1;32ms[0ma[1;33mt[0m   1    13 Some((1, 1, "rusty")) ["rusty"]
+resat,stare
+121 [1;33mr[1;33me[1;33ms[1;33ma[1;33mt[0m   1    13 Some((1, 1, "stare")) ["stare"]
+resat,tease
+123 [0mr[1;32me[1;33ms[1;33ma[1;33mt[0m   1    42 Some((1, 1, "tease")) ["tease"]
+resat,tweak
+138 [0mr[1;33me[0ms[1;32ma[1;33mt[0m   1    58 Some((1, 1, "tweak")) ["tweak"]
+resat,tread
+139 [1;33mr[1;33me[0ms[1;32ma[1;33mt[0m   1    13 Some((1, 1, "tread")) ["tread"]
+resat,rivet
+167 [1;32mr[1;33me[0ms[0ma[1;32mt[0m   1    23 Some((1, 1, "rivet")) ["rivet"]
+resat,roost
+173 [1;32mr[0me[1;33ms[0ma[1;32mt[0m   1    13 Some((1, 1, "roost")) ["roost"]
+resat,heist
+177 [0mr[1;32me[1;33ms[0ma[1;32mt[0m   1    24 Some((1, 1, "heist")) ["heist"]
+resat,beset
+186 [0mr[1;32me[1;32ms[0ma[1;32mt[0m   1     7 Some((1, 1, "beset")) ["beset"]
+resat,reset
+188 [1;32mr[1;32me[1;32ms[0ma[1;32mt[0m   1     3 Some((1, 1, "reset")) ["reset"]
+resat,heart
+196 [1;33mr[1;32me[0ms[1;33ma[1;32mt[0m   1     7 Some((1, 1, "heart")) ["heart"]
+resat,react
+197 [1;32mr[1;32me[0ms[1;33ma[1;32mt[0m   1     3 Some((1, 1, "react")) ["react"]
+resat,roast
+200 [1;32mr[0me[1;33ms[1;33ma[1;32mt[0m   1     3 Some((1, 1, "roast")) ["roast"]
+resat,asset
+210 [0mr[1;33me[1;32ms[1;33ma[1;32mt[0m   1     3 Some((1, 1, "asset")) ["asset"]
+resat,carat
+217 [1;33mr[0me[0ms[1;32ma[1;32mt[0m   1    18 Some((1, 1, "carat")) ["carat"]
+resat,begat
+222 [0mr[1;32me[0ms[1;32ma[1;32mt[0m   1     6 Some((1, 1, "begat")) ["begat"]
+resat,sweat
+228 [0mr[1;33me[1;33ms[1;32ma[1;32mt[0m   1     5 Some((1, 1, "sweat")) ["sweat"]
+resat,rinse
+resat,rinse,rouse
+ 14 [1;32mr[1;33me[1;33ms[0ma[0mt[0m   2   110 Some((3, 2, "rinse")) ["rinse", "rouse"]
+resat,rebus
+resat,rebus,reuse
+ 17 [1;32mr[1;32me[1;33ms[0ma[0mt[0m   2    52 Some((3, 2, "rebus")) ["rebus", "reuse"]
+resat,risen
+resat,risen,riser
+ 23 [1;32mr[1;33me[1;32ms[0ma[0mt[0m   2    28 Some((3, 2, "risen")) ["risen", "riser"]
+resat,sneak
+resat,sneak,speak
+ 66 [0mr[1;33me[1;33ms[1;32ma[0mt[0m   2    92 Some((3, 2, "sneak")) ["sneak", "speak"]
+resat,ratio
+resat,ratio,ratty
+110 [1;32mr[0me[0ms[1;33ma[1;33mt[0m   2    41 Some((3, 2, "ratio")) ["ratio", "ratty"]
+resat,teary
+resat,teary,terra
+115 [1;33mr[1;32me[0ms[1;33ma[1;33mt[0m   2    21 Some((3, 2, "teary")) ["teary", "terra"]
+resat,right
+resat,right,robot
+164 [1;32mr[0me[0ms[0ma[1;32mt[0m   2    36 Some((3, 2, "right")) ["right", "robot"]
+resat,beret
+resat,beret,merit
+169 [1;33mr[1;32me[0ms[0ma[1;32mt[0m   2    27 Some((3, 2, "beret")) ["beret", "merit"]
+resat,crest
+resat,crest,wrest
+175 [1;33mr[1;33me[1;33ms[0ma[1;32mt[0m   2    15 Some((3, 2, "crest")) ["crest", "wrest"]
+resat,posit
+resat,posit,visit
+180 [0mr[0me[1;32ms[0ma[1;32mt[0m   2    23 Some((3, 2, "posit")) ["posit", "visit"]
+resat,alert
+resat,alert,avert
+193 [1;33mr[1;33me[0ms[1;33ma[1;32mt[0m   2    19 Some((3, 2, "alert")) ["alert", "avert"]
+resat,smart
+resat,smart,start
+199 [1;33mr[0me[1;33ms[1;33ma[1;32mt[0m   2    18 Some((3, 2, "smart")) ["smart", "start"]
+resat,great
+resat,great,treat
+220 [1;33mr[1;33me[0ms[1;32ma[1;32mt[0m   2     4 Some((3, 2, "great")) ["great", "treat"]
+resat,splat
+resat,splat,squat
+225 [0mr[0me[1;33ms[1;32ma[1;32mt[0m   2    13 Some((3, 2, "splat")) ["splat", "squat"]
+resat,aisle
+resat,aisle,easel
+resat,aisle,masse
+ 48 [0mr[1;33me[1;32ms[1;33ma[0mt[0m   3    74 Some((5, 2, "aisle")) ["aisle", "easel", "masse"]
+resat,cedar
+resat,cedar,debar
+resat,cedar,feral
+ 61 [1;33mr[1;32me[0ms[1;32ma[0mt[0m   3    49 Some((5, 2, "cedar")) ["cedar", "debar", "feral"]
+resat,basal,assay
+resat,basal
+resat,basal,nasal
+ 72 [0mr[0me[1;32ms[1;32ma[0mt[0m   3    32 Some((5, 2, "basal")) ["assay", "basal", "nasal"]
+resat,retro,retch
+resat,retro
+resat,retro,retry
+ 89 [1;32mr[1;32me[0ms[0ma[1;33mt[0m   3    39 Some((5, 2, "retro")) ["retch", "retro", "retry"]
+resat,fetus
+resat,fetus,setup
+resat,fetus,tense
+ 96 [0mr[1;32me[1;33ms[0ma[1;33mt[0m   3   184 Some((5, 2, "fetus")) ["fetus", "setup", "tense"]
+resat,testy,pesto
+resat,testy
+resat,testy,zesty
+105 [0mr[1;32me[1;32ms[0ma[1;33mt[0m   3    40 Some((5, 2, "testy")) ["pesto", "testy", "zesty"]
+resat,altar
+resat,altar,triad
+resat,altar,trial
+136 [1;33mr[0me[0ms[1;32ma[1;33mt[0m   3    62 Some((5, 2, "altar")) ["altar", "triad", "trial"]
+resat,fetal
+resat,fetal,metal
+resat,fetal,metal,petal
+141 [0mr[1;32me[0ms[1;32ma[1;33mt[0m   3    26 Some((6, 3, "fetal")) ["fetal", "metal", "petal"]
+resat,strap
+resat,strap,straw
+resat,strap,straw,stray
+145 [1;33mr[0me[1;33ms[1;32ma[1;33mt[0m   3    19 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+resat,onset
+resat,onset,unset
+resat,onset,upset
+183 [0mr[1;33me[1;32ms[0ma[1;32mt[0m   3    15 Some((5, 2, "onset")) ["onset", "unset", "upset"]
+resat,begat,bloat
+resat,begat,float
+resat,begat,gloat
+216 [0mr[0me[0ms[1;32ma[1;32mt[0m   3    54 Some((6, 2, "begat")) ["bloat", "float", "gloat"]
+resat,loser
+resat,loser,miser
+resat,loser,poser
+resat,loser,miser,wiser
+ 22 [1;33mr[1;33me[1;32ms[0ma[0mt[0m   4    50 Some((8, 3, "loser")) ["loser", "miser", "poser", "wiser"]
+resat,realm,reach
+resat,realm,reach,ready
+resat,realm
+resat,realm,rearm
+ 35 [1;32mr[1;32me[0ms[1;33ma[0mt[0m   4    50 Some((8, 3, "realm")) ["reach", "ready", "realm", "rearm"]
+resat,cease
+resat,cease,lease
+resat,cease,leash
+resat,cease,sepia
+ 42 [0mr[1;32me[1;33ms[1;33ma[0mt[0m   4   160 Some((7, 2, "cease")) ["cease", "lease", "leash", "sepia"]
+resat,shear
+resat,shear,smear
+resat,shear,smear,spear
+resat,shear,smear,spear,swear
+ 67 [1;33mr[1;33me[1;33ms[1;32ma[0mt[0m   4    25 Some((10, 4, "shear")) ["shear", "smear", "spear", "swear"]
+resat,steer,ester
+resat,steer
+resat,steer,stern
+resat,steer,store
+ 94 [1;33mr[1;33me[1;33ms[0ma[1;33mt[0m   4    70 Some((7, 2, "steer")) ["ester", "steer", "stern", "store"]
+resat,stead
+resat,stead,steak
+resat,stead,steak,steal
+resat,stead,steak,steal,steam
+147 [0mr[1;33me[1;33ms[1;32ma[1;33mt[0m   4    26 Some((10, 4, "stead")) ["stead", "steak", "steal", "steam"]
+resat,rebut
+resat,rebut,recut
+resat,rebut,refit
+resat,rebut,refit,remit
+170 [1;32mr[1;32me[0ms[0ma[1;32mt[0m   4    19 Some((8, 3, "rebut")) ["rebut", "recut", "refit", "remit"]
+resat,leant,dealt
+resat,leant
+resat,leant,leapt
+resat,leant,meant
+195 [0mr[1;32me[0ms[1;33ma[1;32mt[0m   4    21 Some((7, 2, "leant")) ["dealt", "leant", "leapt", "meant"]
+resat,beast
+resat,beast,feast
+resat,beast,feast,least
+resat,beast,feast,least,yeast
+204 [0mr[1;32me[1;33ms[1;33ma[1;32mt[0m   4     8 Some((10, 4, "beast")) ["beast", "feast", "least", "yeast"]
+resat,ensue,bused
+resat,ensue
+resat,ensue,issue
+resat,ensue,nosey
+resat,ensue,posse
+ 21 [0mr[1;33me[1;32ms[0ma[0mt[0m   5   254 Some((9, 2, "ensue")) ["bused", "ensue", "issue", "nosey", "posse"]
+resat,racer
+resat,racer,ramen
+resat,racer,range
+resat,racer,rarer
+resat,racer,ramen,raven
+ 32 [1;32mr[1;33me[0ms[1;33ma[0mt[0m   5   117 Some((10, 3, "racer")) ["racer", "ramen", "range", "rarer", "raven"]
+resat,roral,radar
+resat,roral,rajah
+resat,roral,rival
+resat,roral,royal
+resat,roral,rural
+ 56 [1;32mr[0me[0ms[1;32ma[0mt[0m   5    60 Some((10, 2, "roral")) ["radar", "rajah", "rival", "royal", "rural"]
+resat,salad
+resat,salad,shoal
+resat,salad,squad
+resat,salad,sumac
+resat,salad,usual
+ 63 [0mr[0me[1;33ms[1;32ma[0mt[0m   5   433 Some((9, 2, "salad")) ["salad", "shoal", "squad", "sumac", "usual"]
+resat,deter,berth
+resat,deter
+resat,deter,meter
+resat,deter,metro
+resat,deter,tenor
+ 88 [1;33mr[1;32me[0ms[0ma[1;33mt[0m   5    88 Some((9, 2, "deter")) ["berth", "deter", "meter", "metro", "tenor"]
+resat,dusty
+resat,dusty,gusto
+resat,dusty,gusty
+resat,dusty,gusty,lusty
+resat,dusty,gusty,lusty,musty
+ 99 [0mr[0me[1;32ms[0ma[1;33mt[0m   5   149 Some((12, 4, "dusty")) ["dusty", "gusto", "gusty", "lusty", "musty"]
+resat,death
+resat,death,delta
+resat,death,heath
+resat,death,meaty
+resat,death,teach
+114 [0mr[1;32me[0ms[1;33ma[1;33mt[0m   5    96 Some((9, 2, "death")) ["death", "delta", "heath", "meaty", "teach"]
+resat,satyr,artsy
+resat,satyr
+resat,satyr,stair
+resat,satyr,stark
+resat,satyr,trash
+118 [1;33mr[0me[1;33ms[1;33ma[1;33mt[0m   5    91 Some((9, 2, "satyr")) ["artsy", "satyr", "stair", "stark", "trash"]
+resat,sprag,scram
+resat,sprag,scrap
+resat,sprag,solar
+resat,sprag,solar,sonar
+resat,sprag,spray
+resat,sprag,sugar
+ 64 [1;33mr[0me[1;33ms[1;32ma[0mt[0m   6   105 Some((13, 3, "sprag")) ["scram", "scrap", "solar", "sonar", "spray", "sugar"]
+resat,hasty
+resat,hasty,nasty
+resat,hasty,pasta
+resat,hasty,nasty,pasty
+resat,hasty,nasty,pasty,tasty
+resat,hasty,vista
+126 [0mr[0me[1;32ms[1;33ma[1;33mt[0m   6    53 Some((14, 4, "hasty")) ["hasty", "nasty", "pasta", "pasty", "tasty", "vista"]
+129 [0mr[1;33me[1;32ms[1;33ma[1;33mt[0m   6    19 None ["baste", "caste", "haste", "paste", "taste", "waste"]

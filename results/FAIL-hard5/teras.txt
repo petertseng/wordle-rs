@@ -1,0 +1,503 @@
+teras,tenor
+ 17 [1;32mt[1;32me[1;33mr[0ma[0ms[0m   1    22 Some((1, 1, "tenor")) ["tenor"]
+teras,teach
+ 35 [1;32mt[1;32me[0mr[1;33ma[0ms[0m   1    27 Some((1, 1, "teach")) ["teach"]
+teras,teary
+ 44 [1;32mt[1;32me[1;33mr[1;33ma[0ms[0m   1     7 Some((1, 1, "teary")) ["teary"]
+teras,earth
+ 49 [1;33mt[1;33me[1;32mr[1;33ma[0ms[0m   1    17 Some((1, 1, "earth")) ["earth"]
+teras,terra
+ 53 [1;32mt[1;32me[1;32mr[1;33ma[0ms[0m   1     4 Some((1, 1, "terra")) ["terra"]
+teras,tweak
+ 59 [1;32mt[1;33me[0mr[1;32ma[0ms[0m   1    13 Some((1, 1, "tweak")) ["tweak"]
+teras,altar
+ 64 [1;33mt[0me[1;33mr[1;32ma[0ms[0m   1    62 Some((1, 1, "altar")) ["altar"]
+teras,great
+ 67 [1;33mt[1;33me[1;33mr[1;32ma[0ms[0m   1    13 Some((1, 1, "great")) ["great"]
+teras,carat
+ 73 [1;33mt[0me[1;32mr[1;32ma[0ms[0m   1    26 Some((1, 1, "carat")) ["carat"]
+teras,feral
+ 78 [0mt[1;32me[1;32mr[1;32ma[0ms[0m   1    13 Some((1, 1, "feral")) ["feral"]
+teras,reset
+ 97 [1;33mt[1;32me[1;33mr[0ma[1;33ms[0m   1    26 Some((1, 1, "reset")) ["reset"]
+teras,torso
+101 [1;32mt[0me[1;32mr[0ma[1;33ms[0m   1    38 Some((1, 1, "torso")) ["torso"]
+teras,terse
+107 [1;32mt[1;32me[1;32mr[0ma[1;33ms[0m   1     7 Some((1, 1, "terse")) ["terse"]
+teras,taste
+113 [1;32mt[1;33me[0mr[1;33ma[1;33ms[0m   1    32 Some((1, 1, "taste")) ["taste"]
+teras,tease
+116 [1;32mt[1;32me[0mr[1;33ma[1;33ms[0m   1    12 Some((1, 1, "tease")) ["tease"]
+teras,trash
+119 [1;32mt[0me[1;33mr[1;33ma[1;33ms[0m   1    26 Some((1, 1, "trash")) ["trash"]
+teras,stare
+121 [1;33mt[1;33me[1;33mr[1;33ma[1;33ms[0m   1    13 Some((1, 1, "stare")) ["stare"]
+teras,parse
+129 [0mt[1;33me[1;32mr[1;33ma[1;33ms[0m   1    38 Some((1, 1, "parse")) ["parse"]
+teras,sedan
+141 [0mt[1;32me[0mr[1;32ma[1;33ms[0m   1    42 Some((1, 1, "sedan")) ["sedan"]
+teras,ethos
+166 [1;33mt[1;33me[0mr[0ma[1;32ms[0m   1   270 Some((1, 1, "ethos")) ["ethos"]
+teras,fetus
+169 [1;33mt[1;32me[0mr[0ma[1;32ms[0m   1   129 Some((1, 1, "fetus")) ["fetus"]
+teras,truss
+173 [1;32mt[0me[1;33mr[0ma[1;32ms[0m   1    75 Some((1, 1, "truss")) ["truss"]
+teras,rebus
+177 [0mt[1;32me[1;33mr[0ma[1;32ms[0m   1   131 Some((1, 1, "rebus")) ["rebus"]
+teras,virus
+180 [0mt[0me[1;32mr[0ma[1;32ms[0m   1   401 Some((1, 1, "virus")) ["virus"]
+teras,torus
+182 [1;32mt[0me[1;32mr[0ma[1;32ms[0m   1    32 Some((1, 1, "torus")) ["torus"]
+teras,egret
+teras,egret,forte
+ 22 [1;33mt[1;33me[1;32mr[0ma[0ms[0m   2    60 Some((3, 2, "egret")) ["egret", "forte"]
+teras,three
+teras,three,threw
+ 23 [1;32mt[1;33me[1;32mr[0ma[0ms[0m   2    31 Some((3, 2, "three")) ["three", "threw"]
+teras,heart
+teras,heart,react
+ 43 [1;33mt[1;32me[1;33mr[1;33ma[0ms[0m   2    21 Some((3, 2, "heart")) ["heart", "react"]
+teras,tardy
+teras,tardy,tarot
+ 47 [1;32mt[0me[1;32mr[1;33ma[0ms[0m   2    29 Some((3, 2, "tardy")) ["tardy", "tarot"]
+teras,triad
+teras,triad,trial
+ 65 [1;32mt[0me[1;33mr[1;32ma[0ms[0m   2    22 Some((3, 2, "triad")) ["triad", "trial"]
+teras,tread
+teras,tread,treat
+ 68 [1;32mt[1;33me[1;33mr[1;32ma[0ms[0m   2     5 Some((3, 2, "tread")) ["tread", "treat"]
+teras,tipsy
+teras,tipsy,twist
+ 83 [1;32mt[0me[0mr[0ma[1;33ms[0m   2   315 Some((3, 2, "tipsy")) ["tipsy", "twist"]
+teras,these
+teras,these,those
+ 86 [1;32mt[1;33me[0mr[0ma[1;33ms[0m   2   118 Some((3, 2, "these")) ["these", "those"]
+teras,tense
+teras,tense,testy
+ 89 [1;32mt[1;32me[0mr[0ma[1;33ms[0m   2    46 Some((3, 2, "tense")) ["tense", "testy"]
+teras,trust
+teras,trust,tryst
+ 92 [1;32mt[0me[1;33mr[0ma[1;33ms[0m   2    88 Some((3, 2, "trust")) ["trust", "tryst"]
+teras,tasty
+teras,tasty,toast
+110 [1;32mt[0me[0mr[1;33ma[1;33ms[0m   2   116 Some((3, 2, "tasty")) ["tasty", "toast"]
+teras,harsh
+teras,harsh,marsh
+126 [0mt[0me[1;32mr[1;33ma[1;33ms[0m   2   199 Some((3, 2, "harsh")) ["harsh", "marsh"]
+teras,splat
+teras,splat,squat
+136 [1;33mt[0me[0mr[1;32ma[1;33ms[0m   2    81 Some((3, 2, "splat")) ["splat", "squat"]
+teras,beret
+teras,beret,berth
+teras,beret,merit
+ 25 [1;33mt[1;32me[1;32mr[0ma[0ms[0m   3    30 Some((5, 2, "beret")) ["beret", "berth", "merit"]
+teras,table
+teras,table,taken
+teras,table,theta
+ 32 [1;32mt[1;33me[0mr[1;33ma[0ms[0m   3    94 Some((5, 2, "table")) ["table", "taken", "theta"]
+teras,party,aorta
+teras,party
+teras,party,warty
+ 46 [1;33mt[0me[1;32mr[1;33ma[0ms[0m   3    84 Some((5, 2, "party")) ["aorta", "party", "warty"]
+teras,sneak,essay
+teras,sneak
+teras,sneak,speak
+138 [0mt[1;33me[0mr[1;32ma[1;33ms[0m   3    92 Some((5, 2, "sneak")) ["essay", "sneak", "speak"]
+teras,solar
+teras,solar,sonar
+teras,solar,sugar
+144 [0mt[0me[1;33mr[1;32ma[1;33ms[0m   3   105 Some((5, 2, "solar")) ["solar", "sonar", "sugar"]
+teras,scram
+teras,scram,scrap
+teras,scram,spray
+153 [0mt[0me[1;32mr[1;32ma[1;33ms[0m   3    54 Some((5, 2, "scram")) ["scram", "scrap", "spray"]
+teras,strap
+teras,strap,straw
+teras,strap,straw,stray
+154 [1;33mt[0me[1;32mr[1;32ma[1;33ms[0m   3    13 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+teras,alecs,bless
+teras,alecs,chess
+teras,alecs,guess
+165 [0mt[1;33me[0mr[0ma[1;32ms[0m   3  1440 Some((6, 2, "alecs")) ["bless", "chess", "guess"]
+teras,cards,cross
+teras,cards,dross
+teras,cards,gross
+171 [0mt[0me[1;33mr[0ma[1;32ms[0m   3   956 Some((6, 2, "cards")) ["cross", "dross", "gross"]
+teras,creds,cress
+teras,creds,dress
+teras,creds,press
+174 [0mt[1;33me[1;33mr[0ma[1;32ms[0m   3   335 Some((6, 2, "creds")) ["cress", "dress", "press"]
+teras,brags,brass
+teras,brags,crass
+teras,brags,grass
+198 [0mt[0me[1;33mr[1;33ma[1;32ms[0m   3   358 Some((6, 2, "brags")) ["brass", "crass", "grass"]
+teras,fetal,begat
+teras,fetal
+teras,fetal,metal
+teras,fetal,metal,petal
+ 61 [1;33mt[1;32me[0mr[1;32ma[0ms[0m   4    26 Some((8, 3, "fetal")) ["begat", "fetal", "metal", "petal"]
+teras,sever,resin
+teras,sever,reuse
+teras,sever
+teras,sever,sewer
+ 96 [0mt[1;32me[1;33mr[0ma[1;33ms[0m   4   186 Some((7, 2, "sever")) ["resin", "reuse", "sever", "sewer"]
+teras,cease
+teras,cease,lease
+teras,cease,leash
+teras,cease,sepia
+114 [0mt[1;32me[0mr[1;33ma[1;33ms[0m   4   160 Some((7, 2, "cease")) ["cease", "lease", "leash", "sepia"]
+teras,beast
+teras,beast,feast
+teras,beast,feast,least
+teras,beast,feast,least,yeast
+115 [1;33mt[1;32me[0mr[1;33ma[1;33ms[0m   4    42 Some((10, 4, "beast")) ["beast", "feast", "least", "yeast"]
+teras,shear
+teras,shear,smear
+teras,shear,smear,spear
+teras,shear,smear,spear,swear
+147 [0mt[1;33me[1;33mr[1;32ma[1;33ms[0m   4    25 Some((10, 4, "shear")) ["shear", "smear", "spear", "swear"]
+teras,throb
+teras,throb,throw
+teras,throb,thrum
+teras,throb,torch
+teras,throb,turbo
+ 20 [1;32mt[0me[1;32mr[0ma[0ms[0m   5    82 Some((9, 2, "throb")) ["throb", "throw", "thrum", "torch", "turbo"]
+teras,taker
+teras,taker,tamer
+teras,taker,tamer,taper
+teras,taker,trace
+teras,taker,trace,trade
+ 41 [1;32mt[1;33me[1;33mr[1;33ma[0ms[0m   5    30 Some((11, 3, "taker")) ["taker", "tamer", "taper", "trace", "trade"]
+teras,pesto,beset
+teras,pesto,heist
+teras,pesto
+teras,pesto,setup
+teras,pesto,zesty
+ 88 [1;33mt[1;32me[0mr[0ma[1;33ms[0m   5   184 Some((9, 2, "pesto")) ["beset", "heist", "pesto", "setup", "zesty"]
+teras,torsi,burst
+teras,torsi,first
+teras,torsi,strip
+teras,torsi,strut
+teras,torsi,worst
+100 [1;33mt[0me[1;32mr[0ma[1;33ms[0m   5    99 Some((10, 2, "torsi")) ["burst", "first", "strip", "strut", "worst"]
+teras,merse,serif
+teras,merse,serum
+teras,merse,serve
+teras,merse,verse
+teras,merse,verso
+105 [0mt[1;32me[1;32mr[0ma[1;33ms[0m   5    93 Some((10, 2, "merse")) ["serif", "serum", "serve", "verse", "verso"]
+teras,stead
+teras,stead,steak
+teras,stead,steak,steal
+teras,stead,steak,steal,steam
+teras,stead,sweat
+139 [1;33mt[1;33me[0mr[1;32ma[1;33ms[0m   5    26 Some((12, 4, "stead")) ["stead", "steak", "steal", "steam", "sweat"]
+teras,cheat,bleat
+teras,cheat
+teras,cheat,cleat
+teras,cheat,eclat
+teras,cheat,bleat,pleat
+teras,cheat,wheat
+ 58 [1;33mt[1;33me[0mr[1;32ma[0ms[0m   6    58 Some((12, 3, "cheat")) ["bleat", "cheat", "cleat", "eclat", "pleat", "wheat"]
+teras,steer,crest
+teras,steer,ester
+teras,steer
+teras,steer,stern
+teras,steer,store
+teras,steer,crest,wrest
+ 94 [1;33mt[1;33me[1;33mr[0ma[1;33ms[0m   6    70 Some((12, 3, "steer")) ["crest", "ester", "steer", "stern", "store", "wrest"]
+teras,teend,teddy
+teras,teend,teeth
+teras,teend,tempo
+teras,teend,tenet
+teras,teend,tenth
+teras,teend,tepee
+teras,teend,tepid
+  8 [1;32mt[1;32me[0mr[0ma[0ms[0m   7   104 Some((14, 2, "teend")) ["teddy", "teeth", "tempo", "tenet", "tenth", "tepee", "tepid"]
+teras,fatal,bloat
+teras,fatal
+teras,fatal,float
+teras,fatal,bloat,gloat
+teras,fatal,natal
+teras,fatal,octal
+teras,fatal,octal,vital
+ 55 [1;33mt[0me[0mr[1;32ma[0ms[0m   7   206 Some((15, 3, "fatal")) ["bloat", "fatal", "float", "gloat", "natal", "octal", "vital"]
+teras,tonal,tidal
+teras,tonal,titan
+teras,tonal,today
+teras,tonal
+teras,tonal,today,topaz
+teras,tonal,total
+teras,tonal,tidal,tubal
+ 56 [1;32mt[0me[0mr[1;32ma[0ms[0m   7    64 Some((15, 3, "tonal")) ["tidal", "titan", "today", "tonal", "topaz", "total", "tubal"]
+teras,smart,artsy
+teras,smart,roast
+teras,smart,satyr
+teras,smart
+teras,smart,stair
+teras,smart,stark
+teras,smart,start
+118 [1;33mt[0me[1;33mr[1;33ma[1;33ms[0m   7    91 Some((13, 2, "smart")) ["artsy", "roast", "satyr", "smart", "stair", "stark", "start"]
+teras,amass,abyss
+teras,amass
+teras,amass,amiss
+teras,amass,basis
+teras,amass,chaos
+teras,amass,class
+teras,amass,class,glass
+189 [0mt[0me[0mr[1;33ma[1;32ms[0m   7  1479 Some((14, 3, "amass")) ["abyss", "amass", "amiss", "basis", "chaos", "class", "glass"]
+teras,dealt
+teras,dealt,death
+teras,dealt,delta
+teras,dealt,heath
+teras,dealt,leant
+teras,dealt,leant,leapt
+teras,dealt,meant
+teras,dealt,heath,meaty
+ 34 [1;33mt[1;32me[0mr[1;33ma[0ms[0m   8    96 Some((17, 3, "dealt")) ["dealt", "death", "delta", "heath", "leant", "leapt", "meant", "meaty"]
+teras,moral,array
+teras,moral,borax
+teras,moral,coral
+teras,moral,borax,foray
+teras,moral
+teras,moral,mural
+teras,moral,rural
+teras,moral,rural,viral
+ 72 [0mt[0me[1;32mr[1;32ma[0ms[0m   8   132 Some((17, 3, "moral")) ["array", "borax", "coral", "foray", "moral", "mural", "rural", "viral"]
+teras,scrub
+teras,scrub,scrum
+teras,scrub,shrub
+teras,scrub,shrug
+teras,scrub,sorry
+teras,scrub,sorry,sprig
+teras,scrub,surly
+teras,scrub,shrug,syrup
+ 99 [0mt[0me[1;32mr[0ma[1;33ms[0m   8   570 Some((17, 3, "scrub")) ["scrub", "scrum", "shrub", "shrug", "sorry", "sprig", "surly", "syrup"]
+teras,salad,assay
+teras,salad,basal
+teras,salad,basal,nasal
+teras,salad
+teras,salad,shoal
+teras,salad,squad
+teras,salad,sumac
+teras,salad,usual
+135 [0mt[0me[0mr[1;32ma[1;33ms[0m   8   433 Some((16, 3, "salad")) ["assay", "basal", "nasal", "salad", "shoal", "squad", "sumac", "usual"]
+teras,birth
+teras,birth,burnt
+teras,birth,dirty
+teras,birth,forth
+teras,birth,forty
+teras,birth,girth
+teras,birth,girth,mirth
+teras,birth,forth,north
+teras,birth,forth,north,worth
+ 19 [1;33mt[0me[1;32mr[0ma[0ms[0m   9   208 Some((21, 4, "birth")) ["birth", "burnt", "dirty", "forth", "forty", "girth", "mirth", "north", "worth"]
+teras,trail,tapir
+teras,trail,tiara
+teras,trail,track
+teras,trail,track,tract
+teras,trail
+teras,trail,train
+teras,trail,train,trait
+teras,trail,track,tramp
+teras,trail,trawl
+ 38 [1;32mt[0me[1;33mr[1;33ma[0ms[0m   9   101 Some((20, 3, "trail")) ["tapir", "tiara", "track", "tract", "trail", "train", "trait", "tramp", "trawl"]
+teras,carle,agree
+teras,carle,barge
+teras,carle,carve
+teras,carle,early
+teras,carle,farce
+teras,carle,parer,harem
+teras,carle,large
+teras,carle,parer
+teras,carle,parer,rarer
+ 48 [0mt[1;33me[1;32mr[1;33ma[0ms[0m   9   131 Some((20, 3, "carle")) ["agree", "barge", "carve", "early", "farce", "harem", "large", "parer", "rarer"]
+teras,bread
+teras,bread,break
+teras,bread,clear
+teras,bread,creak
+teras,bread,creak,cream
+teras,bread,dread
+teras,bread,dream
+teras,bread,creak,freak
+teras,bread,creak,freak,wreak
+ 66 [0mt[1;33me[1;33mr[1;32ma[0ms[0m   9    99 Some((21, 4, "bread")) ["bread", "break", "clear", "creak", "cream", "dread", "dream", "freak", "wreak"]
+teras,metro,deter
+teras,metro,meter
+teras,metro
+teras,metro,rebut
+teras,metro,rebut,recut
+teras,metro,rebut,refit
+teras,metro,remit
+teras,metro,deter,retch
+teras,metro,retro
+teras,metro,retry
+ 16 [1;33mt[1;32me[1;33mr[0ma[0ms[0m  10    88 Some((22, 3, "metro")) ["deter", "meter", "metro", "rebut", "recut", "refit", "remit", "retch", "retro", "retry"]
+teras,relay,cedar
+teras,relay,cedar,debar
+teras,relay,rebar
+teras,relay,rebar,recap
+teras,relay,regal
+teras,relay,rebar,rehab
+teras,relay,relax
+teras,relay
+teras,relay,regal,renal
+teras,relay,repay
+ 69 [0mt[1;32me[1;33mr[1;32ma[0ms[0m  10    49 Some((23, 3, "relay")) ["cedar", "debar", "rebar", "recap", "regal", "rehab", "relax", "relay", "renal", "repay"]
+teras,dense
+teras,dense,geese
+teras,dense,pesky
+teras,dense,seedy
+teras,dense,segue
+teras,dense,segue,seize
+teras,dense,semen
+teras,dense,sense
+teras,dense,semen,seven
+teras,dense,welsh
+ 87 [0mt[1;32me[0mr[0ma[1;33ms[0m  10   744 Some((21, 3, "dense")) ["dense", "geese", "pesky", "seedy", "segue", "seize", "semen", "sense", "seven", "welsh"]
+teras,saner,arise
+teras,saner,arise,arose
+teras,saner,arise,erase
+teras,saner,raise
+teras,saner,safer
+teras,saner
+teras,saner,scare
+teras,saner,scare,share
+teras,saner,snare
+teras,saner,scare,share,spare
+120 [0mt[1;33me[1;33mr[1;33ma[1;33ms[0m  10   138 Some((24, 4, "saner")) ["arise", "arose", "erase", "raise", "safer", "saner", "scare", "share", "snare", "spare"]
+teras,leary,beard
+teras,leary,beard,heard
+teras,leary,learn
+teras,leary,pearl
+teras,leary,reach
+teras,leary,ready
+teras,leary,realm
+teras,leary,beard,rearm
+teras,leary,weary
+teras,leary,yearn
+teras,leary,zebra
+ 42 [0mt[1;32me[1;33mr[1;33ma[0ms[0m  11   133 Some((24, 3, "leary")) ["beard", "heard", "learn", "pearl", "reach", "ready", "realm", "rearm", "weary", "yearn", "zebra"]
+teras,bumfs,bliss
+teras,bumfs,bonus
+teras,bumfs,ficus
+teras,bumfs,floss
+teras,bumfs,ficus,focus
+teras,bumfs,gloss
+teras,bumfs,humus
+teras,bumfs,locus
+teras,bumfs,lupus
+teras,bumfs,minus
+teras,bumfs,mucus
+162 [0mt[0me[0mr[0ma[1;32ms[0m  11  3958 Some((23, 3, "bumfs")) ["bliss", "bonus", "ficus", "floss", "focus", "gloss", "humus", "locus", "lupus", "minus", "mucus"]
+teras,gored,borne
+teras,gored,corer
+teras,gored,curve
+teras,gored,dirge
+teras,gored,error
+teras,gored,borne,force
+teras,gored,forge
+teras,gored,gorge
+teras,gored,horde
+teras,gored,puree
+teras,gored,puree,purer
+teras,gored,purge
+ 21 [0mt[1;33me[1;32mr[0ma[0ms[0m  12   469 Some((26, 3, "gored")) ["borne", "corer", "curve", "dirge", "error", "force", "forge", "gorge", "horde", "puree", "purer", "purge"]
+teras,glean,ahead
+teras,glean,algae
+teras,glean,bleak
+teras,glean,ahead,cheap
+teras,glean,clean
+teras,glean,equal
+teras,glean,gleam
+teras,glean
+teras,glean,ideal
+teras,glean,knead
+teras,glean,ocean
+teras,glean,bleak,plead
+ 57 [0mt[1;33me[0mr[1;32ma[0ms[0m  12   280 Some((25, 3, "glean")) ["ahead", "algae", "bleak", "cheap", "clean", "equal", "gleam", "glean", "ideal", "knead", "ocean", "plead"]
+teras,pedal,began
+teras,pedal,decal
+teras,pedal,decay
+teras,pedal,delay
+teras,pedal,fecal
+teras,pedal,began,kebab
+teras,pedal,fecal,legal
+teras,pedal,medal
+teras,pedal,pecan
+teras,pedal
+teras,pedal,penal
+teras,pedal,began,vegan
+ 60 [0mt[1;32me[0mr[1;32ma[0ms[0m  12   133 Some((26, 3, "pedal")) ["began", "decal", "decay", "delay", "fecal", "kebab", "legal", "medal", "pecan", "pedal", "penal", "vegan"]
+teras,curse
+teras,curse,horse
+teras,curse,nurse
+teras,curse,nurse,purse
+teras,curse,scree
+teras,curse,screw
+teras,curse,shrew
+teras,curse,shrew,siren
+teras,curse,spree
+teras,curse,surer
+teras,curse,surge
+teras,curse,horse,worse
+102 [0mt[1;33me[1;32mr[0ma[1;33ms[0m  12   199 Some((26, 3, "curse")) ["curse", "horse", "nurse", "purse", "scree", "screw", "shrew", "siren", "spree", "surer", "surge", "worse"]
+teras,chart,abort
+teras,chart,actor
+teras,chart,apart
+teras,chart
+teras,chart,craft
+teras,chart,draft
+teras,chart,draft,graft
+teras,chart,draft,grant
+teras,chart,apart,quart
+teras,chart,ratio
+teras,chart,ratio,ratty
+teras,chart,ultra
+teras,chart,wrath
+ 37 [1;33mt[0me[1;33mr[1;33ma[0ms[0m  13   308 Some((29, 3, "chart")) ["abort", "actor", "apart", "chart", "craft", "draft", "graft", "grant", "quart", "ratio", "ratty", "ultra", "wrath"]
+teras,earth,alert,after
+teras,earth,alert
+teras,earth,alert,alter
+teras,earth,alert,avert
+teras,earth,cater
+teras,earth,crate
+teras,earth,eater
+teras,earth,extra
+teras,earth,crate,grate
+teras,earth,hater
+teras,earth,crate,grate,irate
+teras,earth,cater,later
+teras,earth,cater,later,water
+ 40 [1;33mt[1;33me[1;33mr[1;33ma[0ms[0m  13    93 Some((35, 4, "earth")) ["after", "alert", "alter", "avert", "cater", "crate", "eater", "extra", "grate", "hater", "irate", "later", "water"]
+teras,trunk,third
+teras,trunk,thorn
+teras,trunk,trick
+teras,trunk,troll
+teras,trunk,troll,troop
+teras,trunk,trout
+teras,trunk,truck
+teras,trunk,truly
+teras,trunk,truly,trump
+teras,trunk
+teras,trunk,truly,trump,truth
+teras,trunk,tumor
+teras,trunk,tumor,tutor
+teras,trunk,third,twirl
+ 11 [1;32mt[0me[1;33mr[0ma[0ms[0m  14   273 Some((33, 4, "trunk")) ["third", "thorn", "trick", "troll", "troop", "trout", "truck", "truly", "trump", "trunk", "truth", "tumor", "tutor", "twirl"]
+teras,horst,crust
+teras,horst,frost
+teras,horst,roost
+teras,horst,rusty
+teras,horst,shirt
+teras,horst,short
+teras,horst,skirt
+teras,horst,snort
+teras,horst,snort,sport
+teras,horst,skirt,spurt
+teras,horst,stork
+teras,horst,stork,storm
+teras,horst,stork,storm,story
+teras,horst,crust,wrist
+ 91 [1;33mt[0me[1;33mr[0ma[1;33ms[0m  14   272 Some((34, 4, "horst")) ["crust", "frost", "roost", "rusty", "shirt", "short", "skirt", "snort", "sport", "spurt", "stork", "storm", "story", "wrist"]
+112 [1;33mt[1;33me[0mr[1;33ma[1;33ms[0m  14   117 None ["asset", "baste", "caste", "haste", "paste", "saute", "skate", "slate", "stage", "stake", "stale", "state", "stave", "waste"]

@@ -1,0 +1,456 @@
+laten,loath
+ 14 [1;32ml[1;33ma[1;33mt[0me[0mn[0m   1    37 Some((1, 1, "loath")) ["loath"]
+laten,hotly
+ 19 [1;33ml[0ma[1;32mt[0me[0mn[0m   1    98 Some((1, 1, "hotly")) ["hotly"]
+laten,fatal
+ 25 [1;33ml[1;32ma[1;32mt[0me[0mn[0m   1    22 Some((1, 1, "fatal")) ["fatal"]
+laten,latch
+ 26 [1;32ml[1;32ma[1;32mt[0me[0mn[0m   1    13 Some((1, 1, "latch")) ["latch"]
+laten,lefty
+ 38 [1;32ml[0ma[1;33mt[1;33me[0mn[0m   1    39 Some((1, 1, "lefty")) ["lefty"]
+laten,table
+ 43 [1;33ml[1;32ma[1;33mt[1;33me[0mn[0m   1    17 Some((1, 1, "table")) ["table"]
+laten,lithe
+ 47 [1;32ml[0ma[1;32mt[1;33me[0mn[0m   1    24 Some((1, 1, "lithe")) ["lithe"]
+laten,extra
+ 48 [0ml[1;33ma[1;32mt[1;33me[0mn[0m   1    87 Some((1, 1, "extra")) ["extra"]
+laten,bathe
+ 51 [0ml[1;32ma[1;32mt[1;33me[0mn[0m   1    52 Some((1, 1, "bathe")) ["bathe"]
+laten,asset
+ 66 [0ml[1;33ma[1;33mt[1;32me[0mn[0m   1   101 Some((1, 1, "asset")) ["asset"]
+laten,valet
+ 70 [1;33ml[1;32ma[1;33mt[1;32me[0mn[0m   1    12 Some((1, 1, "valet")) ["valet"]
+laten,after
+ 75 [0ml[1;33ma[1;32mt[1;32me[0mn[0m   1    53 Some((1, 1, "after")) ["after"]
+laten,alter
+ 76 [1;33ml[1;33ma[1;32mt[1;32me[0mn[0m   1     8 Some((1, 1, "alter")) ["alter"]
+laten,later
+ 80 [1;32ml[1;32ma[1;32mt[1;32me[0mn[0m   1     4 Some((1, 1, "later")) ["later"]
+laten,lunar
+ 86 [1;32ml[1;33ma[0mt[0me[1;33mn[0m   1    44 Some((1, 1, "lunar")) ["lunar"]
+laten,lanky
+ 89 [1;32ml[1;32ma[0mt[0me[1;33mn[0m   1    23 Some((1, 1, "lanky")) ["lanky"]
+laten,until
+100 [1;33ml[0ma[1;32mt[0me[1;33mn[0m   1     6 Some((1, 1, "until")) ["until"]
+laten,antic
+102 [0ml[1;33ma[1;32mt[0me[1;33mn[0m   1    37 Some((1, 1, "antic")) ["antic"]
+laten,natal
+106 [1;33ml[1;32ma[1;32mt[0me[1;33mn[0m   1     2 Some((1, 1, "natal")) ["natal"]
+laten,lunge
+110 [1;32ml[0ma[0mt[1;33me[1;33mn[0m   1    44 Some((1, 1, "lunge")) ["lunge"]
+laten,lance
+116 [1;32ml[1;32ma[0mt[1;33me[1;33mn[0m   1     5 Some((1, 1, "lance")) ["lance"]
+laten,knelt
+118 [1;33ml[0ma[1;33mt[1;33me[1;33mn[0m   1    14 Some((1, 1, "knelt")) ["knelt"]
+laten,leant
+122 [1;32ml[1;33ma[1;33mt[1;33me[1;33mn[0m   1     2 Some((1, 1, "leant")) ["leant"]
+laten,liner
+137 [1;32ml[0ma[0mt[1;32me[1;33mn[0m   1    21 Some((1, 1, "liner")) ["liner"]
+laten,angel
+139 [1;33ml[1;33ma[0mt[1;32me[1;33mn[0m   1     8 Some((1, 1, "angel")) ["angel"]
+laten,saner
+141 [0ml[1;32ma[0mt[1;32me[1;33mn[0m   1    69 Some((1, 1, "saner")) ["saner"]
+laten,inlet
+145 [1;33ml[0ma[1;33mt[1;32me[1;33mn[0m   1     5 Some((1, 1, "inlet")) ["inlet"]
+laten,login
+164 [1;32ml[0ma[0mt[0me[1;32mn[0m   1    34 Some((1, 1, "login")) ["login"]
+laten,salon
+169 [1;33ml[1;32ma[0mt[0me[1;32mn[0m   1    12 Some((1, 1, "salon")) ["salon"]
+laten,talon
+178 [1;33ml[1;32ma[1;33mt[0me[1;32mn[0m   1     2 Some((1, 1, "talon")) ["talon"]
+laten,titan
+183 [0ml[1;33ma[1;32mt[0me[1;32mn[0m   1    17 Some((1, 1, "titan")) ["titan"]
+laten,lemon
+191 [1;32ml[0ma[0mt[1;33me[1;32mn[0m   1    15 Some((1, 1, "lemon")) ["lemon"]
+laten,learn
+194 [1;32ml[1;33ma[0mt[1;33me[1;32mn[0m   1     4 Some((1, 1, "learn")) ["learn"]
+laten,olden
+217 [1;33ml[0ma[0mt[1;32me[1;32mn[0m   1    16 Some((1, 1, "olden")) ["olden"]
+laten,ashen
+219 [0ml[1;33ma[0mt[1;32me[1;32mn[0m   1    29 Some((1, 1, "ashen")) ["ashen"]
+laten,alien
+220 [1;33ml[1;33ma[0mt[1;32me[1;32mn[0m   1     3 Some((1, 1, "alien")) ["alien"]
+laten,laden
+224 [1;32ml[1;32ma[0mt[1;32me[1;32mn[0m   1     2 Some((1, 1, "laden")) ["laden"]
+laten,token
+225 [0ml[0ma[1;33mt[1;32me[1;32mn[0m   1    13 Some((1, 1, "token")) ["token"]
+laten,taken
+231 [0ml[1;32ma[1;33mt[1;32me[1;32mn[0m   1     6 Some((1, 1, "taken")) ["taken"]
+laten,often
+234 [0ml[0ma[1;32mt[1;32me[1;32mn[0m   1     7 Some((1, 1, "often")) ["often"]
+laten,eaten
+240 [0ml[1;32ma[1;32mt[1;32me[1;32mn[0m   1     4 Some((1, 1, "eaten")) ["eaten"]
+laten,leapt
+laten,leapt,least
+ 41 [1;32ml[1;33ma[1;33mt[1;33me[0mn[0m   2    14 Some((3, 2, "leapt")) ["leapt", "least"]
+laten,extol
+laten,extol,title
+ 46 [1;33ml[0ma[1;32mt[1;33me[0mn[0m   2    46 Some((3, 2, "extol")) ["extol", "title"]
+laten,lathe
+laten,lathe,latte
+ 53 [1;32ml[1;32ma[1;32mt[1;33me[0mn[0m   2     7 Some((3, 2, "lathe")) ["lathe", "latte"]
+laten,abled
+laten,abled,alley
+ 58 [1;33ml[1;33ma[0mt[1;32me[0mn[0m   2   124 Some((3, 2, "abled")) ["abled", "alley"]
+laten,entry
+laten,entry,untie
+126 [0ml[0ma[1;32mt[1;33me[1;33mn[0m   2    32 Some((3, 2, "entry")) ["entry", "untie"]
+laten,kneel
+laten,kneel,novel
+136 [1;33ml[0ma[0mt[1;32me[1;33mn[0m   2    42 Some((3, 2, "kneel")) ["kneel", "novel"]
+laten,navel
+laten,navel,panel
+142 [1;33ml[1;32ma[0mt[1;32me[1;33mn[0m   2     6 Some((3, 2, "navel")) ["navel", "panel"]
+laten,enter
+laten,enter,inter
+153 [0ml[0ma[1;32mt[1;32me[1;33mn[0m   2    19 Some((3, 2, "enter")) ["enter", "inter"]
+laten,thorn
+laten,thorn,toxin
+171 [0ml[0ma[1;33mt[0me[1;32mn[0m   2    76 Some((3, 2, "thorn")) ["thorn", "toxin"]
+laten,stain
+laten,stain,train
+174 [0ml[1;33ma[1;33mt[0me[1;32mn[0m   2    37 Some((3, 2, "stain")) ["stain", "train"]
+laten,baton
+laten,baton,satin
+186 [0ml[1;32ma[1;32mt[0me[1;32mn[0m   2     9 Some((3, 2, "baton")) ["baton", "satin"]
+laten,clean
+laten,clean,glean
+193 [1;33ml[1;33ma[0mt[1;33me[1;32mn[0m   2     9 Some((3, 2, "clean")) ["clean", "glean"]
+laten,stein
+laten,stein,stern
+198 [0ml[0ma[1;33mt[1;33me[1;32mn[0m   2    23 Some((3, 2, "stein")) ["stein", "stern"]
+laten,actor
+laten,actor,artsy
+laten,actor,attic
+ 21 [0ml[1;33ma[1;32mt[0me[0mn[0m   3   250 Some((5, 2, "actor")) ["actor", "artsy", "attic"]
+laten,lader,ladle
+laten,lader,lapse
+laten,lader,large
+ 35 [1;32ml[1;32ma[0mt[1;33me[0mn[0m   3    51 Some((6, 2, "lader")) ["ladle", "lapse", "large"]
+laten,fetal
+laten,fetal,metal
+laten,fetal,metal,petal
+ 49 [1;33ml[1;33ma[1;32mt[1;33me[0mn[0m   3    15 Some((6, 3, "fetal")) ["fetal", "metal", "petal"]
+laten,hotel,betel
+laten,hotel
+laten,hotel,motel
+ 73 [1;33ml[0ma[1;32mt[1;32me[0mn[0m   3    22 Some((5, 2, "hotel")) ["betel", "hotel", "motel"]
+laten,plant
+laten,plant,slant
+laten,plant,tonal
+ 94 [1;33ml[1;33ma[1;33mt[0me[1;33mn[0m   3    12 Some((5, 2, "plant")) ["plant", "slant", "tonal"]
+laten,intro
+laten,intro,notch
+laten,intro,nutty
+ 99 [0ml[0ma[1;32mt[0me[1;33mn[0m   3    85 Some((5, 2, "intro")) ["intro", "notch", "nutty"]
+laten,anger
+laten,anger,annex
+laten,anger,apnea
+138 [0ml[1;33ma[0mt[1;32me[1;33mn[0m   3    90 Some((5, 2, "anger")) ["anger", "annex", "apnea"]
+laten,plain,align
+laten,plain
+laten,plain,slain
+166 [1;33ml[1;33ma[0mt[0me[1;32mn[0m   3    42 Some((5, 2, "plain")) ["align", "plain", "slain"]
+laten,elfin
+laten,elfin,felon
+laten,elfin,melon
+190 [1;33ml[0ma[0mt[1;33me[1;32mn[0m   3    34 Some((5, 2, "elfin")) ["elfin", "felon", "melon"]
+laten,liken
+laten,liken,linen
+laten,liken,lumen
+218 [1;32ml[0ma[0mt[1;32me[1;32mn[0m   3    11 Some((5, 2, "liken")) ["liken", "linen", "lumen"]
+laten,labor
+laten,labor,larva
+laten,labor,lasso
+laten,labor,laugh
+  8 [1;32ml[1;32ma[0mt[0me[0mn[0m   4   137 Some((7, 2, "labor")) ["labor", "larva", "lasso", "laugh"]
+laten,litho,light
+laten,litho,limit
+laten,litho,lofty
+laten,litho,lusty
+ 11 [1;32ml[0ma[1;33mt[0me[0mn[0m   4    87 Some((8, 2, "litho")) ["light", "limit", "lofty", "lusty"]
+laten,label
+laten,label,lager
+laten,label,lapel
+laten,label,lager,layer
+ 62 [1;32ml[1;32ma[0mt[1;32me[0mn[0m   4    40 Some((8, 3, "label")) ["label", "lager", "lapel", "layer"]
+laten,lunch,lingo
+laten,lunch
+laten,lunch,lying
+laten,lunch,lynch
+ 83 [1;32ml[0ma[0mt[0me[1;33mn[0m   4   116 Some((7, 2, "lunch")) ["lingo", "lunch", "lying", "lynch"]
+laten,flint,blunt
+laten,flint
+laten,flint,glint
+laten,flint,unlit
+ 91 [1;33ml[0ma[1;33mt[0me[1;33mn[0m   4    35 Some((7, 2, "flint")) ["blunt", "flint", "glint", "unlit"]
+laten,agent
+laten,agent,atone
+laten,agent,enact
+laten,agent,meant
+120 [0ml[1;33ma[1;33mt[1;33me[1;33mn[0m   4    34 Some((7, 2, "agent")) ["agent", "atone", "enact", "meant"]
+laten,onset
+laten,onset,tenet
+laten,onset,unmet
+laten,onset,unset
+144 [0ml[0ma[1;33mt[1;32me[1;33mn[0m   4    55 Some((7, 2, "onset")) ["onset", "tenet", "unmet", "unset"]
+laten,lilac
+laten,lilac,llama
+laten,lilac,loamy
+laten,lilac,local
+laten,lilac,loyal
+  5 [1;32ml[1;33ma[0mt[0me[0mn[0m   5   237 Some((9, 2, "lilac")) ["lilac", "llama", "loamy", "local", "loyal"]
+laten,fatly,fault
+laten,fatly,salty
+laten,fatly,tally
+laten,fatly,vault
+laten,fatly,waltz
+ 16 [1;33ml[1;32ma[1;33mt[0me[0mn[0m   5    76 Some((10, 2, "fatly")) ["fault", "salty", "tally", "vault", "waltz"]
+laten,amber,abbey
+laten,amber,agree
+laten,amber,aider
+laten,amber
+laten,amber,askew
+ 57 [0ml[1;33ma[0mt[1;32me[0mn[0m   5   653 Some((9, 2, "amber")) ["abbey", "agree", "aider", "amber", "askew"]
+laten,tamed,cadet
+laten,tamed,facet
+laten,tamed,taker
+laten,tamed,tamer
+laten,tamed,taker,taper
+ 69 [0ml[1;32ma[1;33mt[1;32me[0mn[0m   5    82 Some((11, 3, "tamed")) ["cadet", "facet", "taker", "tamer", "taper"]
+laten,cater
+laten,cater,eater
+laten,cater,eater,hater
+laten,cater,matey
+laten,cater,eater,hater,water
+ 78 [0ml[1;32ma[1;32mt[1;32me[0mn[0m   5    43 Some((12, 4, "cater")) ["cater", "eater", "hater", "matey", "water"]
+laten,banal
+laten,banal,canal
+laten,banal,manly
+laten,banal,nasal
+laten,banal,nasal,naval
+ 88 [1;33ml[1;32ma[0mt[0me[1;33mn[0m   5    45 Some((10, 3, "banal")) ["banal", "canal", "manly", "nasal", "naval"]
+laten,clone,blend
+laten,clone
+laten,clone,newly
+laten,clone,noble
+laten,clone,uncle
+109 [1;33ml[0ma[0mt[1;33me[1;33mn[0m   5   130 Some((9, 2, "clone")) ["blend", "clone", "newly", "noble", "uncle"]
+laten,caner,canoe
+laten,caner,dance
+laten,caner,mange
+laten,caner,naive
+laten,caner,range
+114 [0ml[1;32ma[0mt[1;33me[1;33mn[0m   5   107 Some((10, 2, "caner")) ["canoe", "dance", "mange", "naive", "range"]
+laten,clown,blown
+laten,clown
+laten,clown,colon
+laten,clown,blown,flown
+laten,clown,nylon
+163 [1;33ml[0ma[0mt[0me[1;32mn[0m   5    90 Some((10, 3, "clown")) ["blown", "clown", "colon", "flown", "nylon"]
+laten,raven,haven
+laten,raven,oaken
+laten,raven,ramen
+laten,raven
+laten,raven,oaken,waxen
+222 [0ml[1;32ma[0mt[1;32me[1;32mn[0m   5    23 Some((10, 3, "raven")) ["haven", "oaken", "ramen", "raven", "waxen"]
+laten,rotal,altar
+laten,rotal,aptly
+laten,rotal,octal
+laten,rotal,total
+laten,rotal,ultra
+laten,rotal,vital
+ 22 [1;33ml[1;33ma[1;32mt[0me[0mn[0m   6    51 Some((12, 2, "rotal")) ["altar", "aptly", "octal", "total", "ultra", "vital"]
+laten,fleet,filet
+laten,fleet
+laten,fleet,islet
+laten,fleet,sleet
+laten,fleet,steel
+laten,fleet,towel
+ 64 [1;33ml[0ma[1;33mt[1;32me[0mn[0m   6    59 Some((11, 2, "fleet")) ["filet", "fleet", "islet", "sleet", "steel", "towel"]
+laten,angle,alone
+laten,angle
+laten,angle,ankle
+laten,angle,penal
+laten,angle,plane
+laten,angle,penal,renal
+112 [1;33ml[1;33ma[0mt[1;33me[1;33mn[0m   6    43 Some((12, 3, "angle")) ["alone", "angle", "ankle", "penal", "plane", "renal"]
+laten,began
+laten,began,ocean
+laten,began,pecan
+laten,began,pecan,sedan
+laten,began,vegan
+laten,began,yearn
+192 [0ml[1;33ma[0mt[1;33me[1;32mn[0m   6    58 Some((12, 3, "began")) ["began", "ocean", "pecan", "sedan", "vegan", "yearn"]
+laten,lyase,leach
+laten,lyase,leafy
+laten,lyase,leafy,leaky
+laten,lyase,lease
+laten,lyase,leash
+laten,lyase,leave
+laten,lyase,legal
+ 32 [1;32ml[1;33ma[0mt[1;33me[0mn[0m   7    89 Some((15, 3, "lyase")) ["leach", "leafy", "leaky", "lease", "leash", "leave", "legal"]
+laten,gales,bagel
+laten,gales,baler
+laten,gales,camel
+laten,gales,easel
+laten,gales,gavel
+laten,gales,camel,hazel
+laten,gales,baler,paler
+ 61 [1;33ml[1;32ma[0mt[1;32me[0mn[0m   7    88 Some((16, 3, "gales")) ["bagel", "baler", "camel", "easel", "gavel", "hazel", "paler"]
+laten,level,leper
+laten,level
+laten,level,lever
+laten,level,libel
+laten,level,liver
+laten,level,loser
+laten,level,liver,lover
+laten,level,loser,lower
+ 56 [1;32ml[0ma[0mt[1;32me[0mn[0m   8   148 Some((17, 3, "level")) ["leper", "level", "lever", "libel", "liver", "loser", "lover", "lower"]
+laten,leers,ledge
+laten,leers,leech
+laten,leers,leery
+laten,leers,leggy
+laten,leers,lemur
+laten,leers,liege
+laten,leers,lodge
+laten,leers,loose
+laten,leers,loose,louse
+ 29 [1;32ml[0ma[0mt[1;33me[0mn[0m   9   279 Some((19, 3, "leers")) ["ledge", "leech", "leery", "leggy", "lemur", "liege", "lodge", "loose", "louse"]
+laten,tache,baste
+laten,tache,caste
+laten,tache,earth
+laten,tache,haste
+laten,tache,haste,haute
+laten,tache,baste,paste
+laten,tache,baste,saute
+laten,tache,taste
+laten,tache,baste,paste,waste
+ 42 [0ml[1;32ma[1;33mt[1;33me[0mn[0m   9   120 Some((23, 4, "tache")) ["baste", "caste", "earth", "haste", "haute", "paste", "saute", "taste", "waste"]
+laten,motet,deter
+laten,motet,deter,ester
+laten,motet,meter
+laten,motet,octet
+laten,motet,otter
+laten,motet,outer
+laten,motet,totem
+laten,motet,utter
+laten,motet,voter
+ 72 [0ml[0ma[1;32mt[1;32me[0mn[0m   9   162 Some((19, 3, "motet")) ["deter", "ester", "meter", "octet", "otter", "outer", "totem", "utter", "voter"]
+laten,reign,begin
+laten,reign,begun
+laten,reign,deign
+laten,reign,demon
+laten,reign,deign,feign
+laten,reign,heron
+laten,reign
+laten,reign,rerun
+laten,reign,resin
+189 [0ml[0ma[0mt[1;33me[1;32mn[0m   9   196 Some((18, 3, "reign")) ["begin", "begun", "deign", "demon", "feign", "heron", "reign", "rerun", "resin"]
+laten,sable,cable
+laten,sable,eagle
+laten,sable,early
+laten,sable,cable,fable
+laten,sable,false
+laten,sable,halve
+laten,sable,eagle,maple
+laten,sable,salve
+laten,sable,halve,value
+laten,sable,halve,valve
+ 34 [1;33ml[1;32ma[0mt[1;33me[0mn[0m  10   142 Some((24, 3, "sable")) ["cable", "eagle", "early", "fable", "false", "halve", "maple", "salve", "value", "valve"]
+laten,caron,bacon
+laten,caron,baron
+laten,caron,basin
+laten,caron,cabin
+laten,caron,cairn
+laten,caron,canon
+laten,caron,mason
+laten,caron,basin,pagan
+laten,caron,rayon
+laten,caron,mason,wagon
+168 [0ml[1;32ma[0mt[0me[1;32mn[0m  10   101 Some((22, 3, "caron")) ["bacon", "baron", "basin", "cabin", "cairn", "canon", "mason", "pagan", "rayon", "wagon"]
+laten,angst
+laten,angst,aunty
+laten,angst,chant
+laten,angst,giant
+laten,angst,giant,grant
+laten,angst,junta
+laten,angst,scant
+laten,angst,stand
+laten,angst,stand,stank
+laten,angst,junta,thank
+laten,angst,tonga
+laten,angst,tonga,twang
+ 93 [0ml[1;33ma[1;33mt[0me[1;33mn[0m  12   195 Some((27, 3, "angst")) ["angst", "aunty", "chant", "giant", "grant", "junta", "scant", "stand", "stank", "thank", "tonga", "twang"]
+laten,terne,event
+laten,terne,inept
+laten,terne,inert
+laten,terne,scent
+laten,terne,scent,spent
+laten,terne,stone
+laten,terne,tenor
+laten,terne,tense
+laten,terne,tenth
+laten,terne,trend
+laten,terne,twine
+laten,terne,unite
+117 [0ml[0ma[1;33mt[1;33me[1;33mn[0m  12   193 Some((25, 3, "terne")) ["event", "inept", "inert", "scent", "spent", "stone", "tenor", "tense", "tenth", "trend", "twine", "unite"]
+laten,pleat,alert
+laten,pleat,bleat
+laten,pleat,bleat,cleat
+laten,pleat,dealt
+laten,pleat,delta
+laten,pleat,eclat
+laten,pleat,elate
+laten,pleat,dealt,exalt
+laten,pleat,plate
+laten,pleat
+laten,pleat,elate,slate
+laten,pleat,delta,stale
+laten,pleat,steal
+ 40 [1;33ml[1;33ma[1;33mt[1;33me[0mn[0m  13    56 Some((29, 3, "pleat")) ["alert", "bleat", "cleat", "dealt", "delta", "eclat", "elate", "exalt", "plate", "pleat", "slate", "stale", "steal"]
+laten,amens,amend
+laten,amens,anime
+laten,amens,anode
+laten,amens,arena
+laten,amens,crane
+laten,amens,enema
+laten,amens,hyena
+laten,amens,crane,inane
+laten,amens,knave
+laten,amens,knead
+laten,amens,snake
+laten,amens,snake,snare
+laten,amens,sneak
+111 [0ml[1;33ma[0mt[1;33me[1;33mn[0m  13   288 Some((28, 3, "amens")) ["amend", "anime", "anode", "arena", "crane", "enema", "hyena", "inane", "knave", "knead", "snake", "snare", "sneak"]
+laten,stele,cleft
+laten,stele,dwelt
+laten,stele,elect
+laten,stele,elite
+laten,stele,exult
+laten,stele,flute
+laten,stele,slept
+laten,stele,smelt
+laten,stele,smelt,spelt
+laten,stele,stole
+laten,stele,stole,style
+laten,stele,flute,tilde
+laten,stele,tulle
+laten,stele,utile
+ 37 [1;33ml[0ma[1;33mt[1;33me[0mn[0m  14   194 Some((31, 3, "stele")) ["cleft", "dwelt", "elect", "elite", "exult", "flute", "slept", "smelt", "spelt", "stole", "style", "tilde", "tulle", "utile"]
+laten,rotte,butte
+laten,rotte,cutie
+laten,rotte,detox
+laten,rotte,beths,fetch
+laten,rotte,beths,fetid
+laten,rotte,beths,fetus
+laten,rotte,jetty
+laten,rotte,metro
+laten,rotte,jetty,petty
+laten,rotte,retch
+laten,rotte,retro
+laten,rotte,retch,retry
+laten,rotte,beths,setup
+laten,rotte,tithe
+ 45 [0ml[0ma[1;32mt[1;33me[0mn[0m  14   286 Some((34, 3, "rotte")) ["butte", "cutie", "detox", "fetch", "fetid", "fetus", "jetty", "metro", "petty", "retch", "retro", "retry", "setup", "tithe"]
+ 96 [0ml[1;32ma[1;33mt[0me[1;33mn[0m  14    88 None ["daunt", "faint", "gaunt", "haunt", "jaunt", "nasty", "paint", "saint", "taint", "tango", "tangy", "taunt", "tawny", "vaunt"]

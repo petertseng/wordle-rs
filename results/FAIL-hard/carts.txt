@@ -1,0 +1,309 @@
+carts,acrid
+ 22 [1;33mc[1;33ma[1;32mr[0mt[0ms[0m   1    74 Some((1, 1, "acrid")) ["acrid"]
+carts,cater
+ 44 [1;32mc[1;32ma[1;33mr[1;33mt[0ms[0m   1     6 Some((1, 1, "cater")) ["cater"]
+carts,torch
+ 46 [1;33mc[0ma[1;32mr[1;33mt[0ms[0m   1    16 Some((1, 1, "torch")) ["torch"]
+carts,terra
+ 48 [0mc[1;33ma[1;32mr[1;33mt[0ms[0m   1    84 Some((1, 1, "terra")) ["terra"]
+carts,carat
+ 53 [1;32mc[1;32ma[1;32mr[1;33mt[0ms[0m   1     5 Some((1, 1, "carat")) ["carat"]
+carts,acute
+ 58 [1;33mc[1;33ma[0mr[1;32mt[0ms[0m   1    35 Some((1, 1, "acute")) ["acute"]
+carts,crate
+ 68 [1;32mc[1;33ma[1;33mr[1;32mt[0ms[0m   1     4 Some((1, 1, "crate")) ["crate"]
+carts,ratty
+ 69 [0mc[1;32ma[1;33mr[1;32mt[0ms[0m   1    27 Some((1, 1, "ratty")) ["ratty"]
+carts,aorta
+ 75 [0mc[1;33ma[1;32mr[1;32mt[0ms[0m   1    29 Some((1, 1, "aorta")) ["aorta"]
+carts,cause
+ 89 [1;32mc[1;32ma[0mr[0mt[1;33ms[0m   1    63 Some((1, 1, "cause")) ["cause"]
+carts,crash
+ 95 [1;32mc[1;33ma[1;33mr[0mt[1;33ms[0m   1    22 Some((1, 1, "crash")) ["crash"]
+carts,curse
+101 [1;32mc[0ma[1;32mr[0mt[1;33ms[0m   1    34 Some((1, 1, "curse")) ["curse"]
+carts,spray
+102 [0mc[1;33ma[1;32mr[0mt[1;33ms[0m   1   199 Some((1, 1, "spray")) ["spray"]
+carts,chest
+110 [1;32mc[0ma[0mr[1;33mt[1;33ms[0m   1    47 Some((1, 1, "chest")) ["chest"]
+carts,coast
+113 [1;32mc[1;33ma[0mr[1;33mt[1;33ms[0m   1    13 Some((1, 1, "coast")) ["coast"]
+carts,satyr
+123 [0mc[1;32ma[1;33mr[1;33mt[1;33ms[0m   1    31 Some((1, 1, "satyr")) ["satyr"]
+carts,caste
+143 [1;32mc[1;32ma[0mr[1;32mt[1;33ms[0m   1     4 Some((1, 1, "caste")) ["caste"]
+carts,rusty
+144 [0mc[0ma[1;33mr[1;32mt[1;33ms[0m   1    66 Some((1, 1, "rusty")) ["rusty"]
+carts,chess
+164 [1;32mc[0ma[0mr[0mt[1;32ms[0m   1   252 Some((1, 1, "chess")) ["chess"]
+carts,basis
+168 [0mc[1;32ma[0mr[0mt[1;32ms[0m   1   757 Some((1, 1, "basis")) ["basis"]
+carts,crass
+176 [1;32mc[1;33ma[1;33mr[0mt[1;32ms[0m   1    20 Some((1, 1, "crass")) ["crass"]
+carts,virus
+180 [0mc[0ma[1;32mr[0mt[1;32ms[0m   1   401 Some((1, 1, "virus")) ["virus"]
+carts,truss
+198 [0mc[0ma[1;33mr[1;33mt[1;32ms[0m   1   144 Some((1, 1, "truss")) ["truss"]
+carts,torus
+207 [0mc[0ma[1;32mr[1;33mt[1;32ms[0m   1    57 Some((1, 1, "torus")) ["torus"]
+carts,cairn
+carts,cairn,caper
+ 17 [1;32mc[1;32ma[1;33mr[0mt[0ms[0m   2    45 Some((3, 2, "cairn")) ["cairn", "caper"]
+carts,circa
+carts,circa,coral
+ 23 [1;32mc[1;33ma[1;32mr[0mt[0ms[0m   2    40 Some((3, 2, "circa")) ["circa", "coral"]
+carts,farce
+carts,farce,march
+ 25 [1;33mc[1;32ma[1;32mr[0mt[0ms[0m   2    50 Some((3, 2, "farce")) ["farce", "march"]
+carts,chart
+carts,chart,craft
+ 41 [1;32mc[1;33ma[1;33mr[1;33mt[0ms[0m   2    11 Some((3, 2, "chart")) ["chart", "craft"]
+carts,tardy
+carts,tardy,tarot
+ 51 [0mc[1;32ma[1;32mr[1;33mt[0ms[0m   2    45 Some((3, 2, "tardy")) ["tardy", "tarot"]
+carts,chute
+carts,chute,cloth
+ 56 [1;32mc[0ma[0mr[1;32mt[0ms[0m   2    59 Some((3, 2, "chute")) ["chute", "cloth"]
+carts,cacti
+carts,cacti,catty
+ 62 [1;32mc[1;32ma[0mr[1;32mt[0ms[0m   2    10 Some((3, 2, "cacti")) ["cacti", "catty"]
+carts,crisp
+carts,crisp,crush
+ 92 [1;32mc[0ma[1;33mr[0mt[1;33ms[0m   2    76 Some((3, 2, "crisp")) ["crisp", "crush"]
+carts,scram
+carts,scram,scrap
+103 [1;33mc[1;33ma[1;32mr[0mt[1;33ms[0m   2    24 Some((3, 2, "scram")) ["scram", "scrap"]
+carts,crest
+carts,crest,crust
+119 [1;32mc[0ma[1;33mr[1;33mt[1;33ms[0m   2     7 Some((3, 2, "crest")) ["crest", "crust"]
+carts,chaos
+carts,chaos,class
+167 [1;32mc[1;33ma[0mr[0mt[1;32ms[0m   2    94 Some((3, 2, "chaos")) ["chaos", "class"]
+carts,cress
+carts,cress,cross
+173 [1;32mc[0ma[1;33mr[0mt[1;32ms[0m   2    61 Some((3, 2, "cress")) ["cress", "cross"]
+carts,brass
+carts,brass,grass
+174 [0mc[1;33ma[1;33mr[0mt[1;32ms[0m   2   358 Some((3, 2, "brass")) ["brass", "grass"]
+carts,ethos
+carts,ethos,fetus
+189 [0mc[0ma[0mr[1;33mt[1;32ms[0m   2   794 Some((3, 2, "ethos")) ["ethos", "fetus"]
+carts,macro
+carts,macro,racer
+carts,macro,ranch
+ 16 [1;33mc[1;32ma[1;33mr[0mt[0ms[0m   3    79 Some((5, 2, "macro")) ["macro", "racer", "ranch"]
+carts,chant
+carts,chant,cheat
+carts,chant,cleat
+ 32 [1;32mc[1;33ma[0mr[1;33mt[0ms[0m   3    48 Some((5, 2, "chant")) ["chant", "cheat", "cleat"]
+carts,cadet
+carts,cadet,caput
+carts,cadet,catch
+ 35 [1;32mc[1;32ma[0mr[1;33mt[0ms[0m   3    20 Some((5, 2, "cadet")) ["cadet", "caput", "catch"]
+carts,crept,court
+carts,crept
+carts,crept,crypt
+ 38 [1;32mc[0ma[1;33mr[1;33mt[0ms[0m   3    32 Some((5, 2, "crept")) ["court", "crept", "crypt"]
+carts,grate
+carts,grate,irate
+carts,grate,wrath
+ 66 [0mc[1;33ma[1;33mr[1;32mt[0ms[0m   3    63 Some((5, 2, "grate")) ["grate", "irate", "wrath"]
+carts,party,earth
+carts,party
+carts,party,warty
+ 78 [0mc[1;32ma[1;32mr[1;32mt[0ms[0m   3    21 Some((5, 2, "party")) ["earth", "party", "warty"]
+carts,chose
+carts,chose,close
+carts,chose,copse
+ 83 [1;32mc[0ma[0mr[0mt[1;33ms[0m   3   309 Some((5, 2, "chose")) ["chose", "close", "copse"]
+carts,sauce,basic
+carts,sauce
+carts,sauce,saucy
+ 88 [1;33mc[1;32ma[0mr[0mt[1;33ms[0m   3   110 Some((5, 2, "sauce")) ["basic", "sauce", "saucy"]
+carts,score
+carts,score,scorn
+carts,score,scour
+ 91 [1;33mc[0ma[1;33mr[0mt[1;33ms[0m   3   135 Some((5, 2, "score")) ["score", "scorn", "scour"]
+carts,scare
+carts,scare,scarf
+carts,scare,scarf,scary
+ 94 [1;33mc[1;33ma[1;33mr[0mt[1;33ms[0m   3    52 Some((6, 3, "scare")) ["scare", "scarf", "scary"]
+carts,harsh
+carts,harsh,marsh
+carts,harsh,parse
+105 [0mc[1;32ma[1;32mr[0mt[1;33ms[0m   3   130 Some((5, 2, "harsh")) ["harsh", "marsh", "parse"]
+carts,ascot
+carts,ascot,scant
+carts,ascot,stack
+112 [1;33mc[1;33ma[0mr[1;33mt[1;33ms[0m   3    33 Some((5, 2, "ascot")) ["ascot", "scant", "stack"]
+carts,strap
+carts,strap,straw
+carts,strap,straw,stray
+129 [0mc[1;33ma[1;32mr[1;33mt[1;33ms[0m   3    33 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+carts,cargo
+carts,cargo,carol
+carts,cargo,carry
+carts,cargo,carry,carve
+ 26 [1;32mc[1;32ma[1;32mr[0mt[0ms[0m   4    33 Some((8, 3, "cargo")) ["cargo", "carol", "carry", "carve"]
+carts,scree
+carts,scree,screw
+carts,scree,scrub
+carts,scree,scrub,scrum
+100 [1;33mc[0ma[1;32mr[0mt[1;33ms[0m   4    64 Some((8, 3, "scree")) ["scree", "screw", "scrub", "scrum"]
+carts,patsy
+carts,patsy,saint
+carts,patsy,satin
+carts,patsy,waist
+114 [0mc[1;32ma[0mr[1;33mt[1;33ms[0m   4   206 Some((7, 2, "patsy")) ["patsy", "saint", "satin", "waist"]
+carts,focus,ficus
+carts,focus
+carts,focus,locus
+carts,focus,mucus
+163 [1;33mc[0ma[0mr[0mt[1;32ms[0m   4   454 Some((7, 2, "focus")) ["ficus", "focus", "locus", "mucus"]
+carts,amass,abyss
+carts,amass
+carts,amass,amiss
+carts,amass,glass
+165 [0mc[1;33ma[0mr[0mt[1;32ms[0m   4  1479 Some((7, 2, "amass")) ["abyss", "amass", "amiss", "glass"]
+carts,react,actor
+carts,react
+carts,react,trace
+carts,react,track
+carts,react,tract
+ 40 [1;33mc[1;33ma[1;33mr[1;33mt[0ms[0m   5    25 Some((9, 2, "react")) ["actor", "react", "trace", "track", "tract"]
+carts,chase,cease
+carts,chase
+carts,chase,chasm
+carts,chase,clash
+carts,chase,clasp
+ 86 [1;32mc[1;33ma[0mr[0mt[1;33ms[0m   5   114 Some((9, 2, "chase")) ["cease", "chase", "chasm", "clash", "clasp"]
+carts,safer,raise
+carts,safer,raspy
+carts,safer
+carts,safer,saner
+carts,safer,savor
+ 96 [0mc[1;32ma[1;33mr[0mt[1;33ms[0m   5   224 Some((9, 2, "safer")) ["raise", "raspy", "safer", "saner", "savor"]
+carts,skate
+carts,skate,slate
+carts,skate,slate,state
+carts,skate,swath
+carts,skate,vista
+138 [0mc[1;33ma[0mr[1;32mt[1;33ms[0m   5   164 Some((10, 3, "skate")) ["skate", "slate", "state", "swath", "vista"]
+carts,dress
+carts,dress,dross
+carts,dress,gross
+carts,dress,press
+carts,dress,rebus
+171 [0mc[0ma[1;33mr[0mt[1;32ms[0m   5   956 Some((9, 2, "dress")) ["dress", "dross", "gross", "press", "rebus"]
+carts,comet,cleft
+carts,comet,clout
+carts,comet
+carts,comet,count
+carts,comet,covet
+carts,comet,cutie
+ 29 [1;32mc[0ma[0mr[1;33mt[0ms[0m   6   141 Some((11, 2, "comet")) ["cleft", "clout", "comet", "count", "covet", "cutie"]
+carts,stoic,scent
+carts,stoic,scout
+carts,stoic,stick
+carts,stoic,stock
+carts,stoic
+carts,stoic,stuck
+109 [1;33mc[0ma[0mr[1;33mt[1;33ms[0m   6    96 Some((11, 2, "stoic")) ["scent", "scout", "stick", "stock", "stoic", "stuck"]
+carts,perch,birch
+carts,perch,force
+carts,perch,birch,lurch
+carts,perch,lyric
+carts,perch,mercy
+carts,perch
+carts,perch,porch
+ 19 [1;33mc[0ma[1;32mr[0mt[0ms[0m   7   165 Some((14, 3, "perch")) ["birch", "force", "lurch", "lyric", "mercy", "perch", "porch"]
+carts,corer
+carts,corer,corny
+carts,corer,curio
+carts,corer,curly
+carts,corer,curry
+carts,corer,curve
+carts,corer,curly,curvy
+ 20 [1;32mc[0ma[1;32mr[0mt[0ms[0m   7    96 Some((14, 3, "corer")) ["corer", "corny", "curio", "curly", "curry", "curve", "curvy"]
+carts,scant,antic
+carts,scant,attic
+carts,scant,eclat
+carts,scant,enact
+carts,scant,exact
+carts,scant,octal
+carts,scant,teach
+ 31 [1;33mc[1;33ma[0mr[1;33mt[0ms[0m   7   126 Some((14, 2, "scant")) ["antic", "attic", "eclat", "enact", "exact", "octal", "teach"]
+carts,recut,erect
+carts,recut
+carts,recut,retch
+carts,recut,trice
+carts,recut,trick
+carts,recut,truce
+carts,recut,truck
+ 37 [1;33mc[0ma[1;33mr[1;33mt[0ms[0m   7    66 Some((13, 2, "recut")) ["erect", "recut", "retch", "trice", "trick", "truce", "truck"]
+carts,torsi,burst
+carts,torsi,first
+carts,torsi,strip
+carts,torsi,strut
+carts,torsi,terse
+carts,torsi,torso
+carts,torsi,worst
+126 [0mc[0ma[1;32mr[1;33mt[1;33ms[0m   7    99 Some((14, 2, "torsi")) ["burst", "first", "strip", "strut", "terse", "torso", "worst"]
+carts,brace,acorn
+carts,brace
+carts,brace,grace
+carts,brace,reach
+carts,brace,recap
+carts,brace,roach
+carts,brace,acorn,vicar
+carts,brace,wrack
+ 13 [1;33mc[1;33ma[1;33mr[0mt[0ms[0m   8   211 Some((16, 3, "brace")) ["acorn", "brace", "grace", "reach", "recap", "roach", "vicar", "wrack"]
+carts,fatty,batty
+carts,fatty,faith
+carts,fatty
+carts,fatty,haute
+carts,fatty,latte
+carts,fatty,batty,patty
+carts,fatty,batty,patty,tatty
+carts,fatty,haute,waltz
+ 60 [0mc[1;32ma[0mr[1;32mt[0ms[0m   8   151 Some((19, 4, "fatty")) ["batty", "faith", "fatty", "haute", "latte", "patty", "tatty", "waltz"]
+carts,smart,artsy
+carts,smart,roast
+carts,smart
+carts,smart,stair
+carts,smart,stare
+carts,smart,stare,stark
+carts,smart,start
+carts,smart,trash
+120 [0mc[1;33ma[1;33mr[1;33mt[1;33ms[0m   8    91 Some((16, 3, "smart")) ["artsy", "roast", "smart", "stair", "stare", "stark", "start", "trash"]
+carts,eater
+carts,eater,hater
+carts,eater,hater,later
+carts,eater,ratio
+carts,eater,taker
+carts,eater,taker,tamer
+carts,eater,taker,tamer,taper
+carts,eater,tapir
+carts,eater,hater,later,water
+ 42 [0mc[1;32ma[1;33mr[1;33mt[0ms[0m   9    99 Some((23, 4, "eater")) ["eater", "hater", "later", "ratio", "taker", "tamer", "taper", "tapir", "water"]
+carts,route,broth
+carts,route,brute
+carts,route,fritz
+carts,route,broth,froth
+carts,route
+carts,route,trite
+carts,route,truth
+carts,route,trite,write
+carts,route,wrote
+ 63 [0mc[0ma[1;33mr[1;32mt[0ms[0m   9   168 Some((19, 3, "route")) ["broth", "brute", "fritz", "froth", "route", "trite", "truth", "write", "wrote"]
+carts,glibs,bless
+carts,glibs,bliss
+carts,glibs,bonus
+carts,glibs,floss
+carts,glibs,gloss
+carts,glibs,guess
+carts,glibs,humus
+carts,glibs,lupus
+carts,glibs,minus
+162 [0mc[0ma[0mr[0mt[1;32ms[0m   9  3958 Some((18, 2, "glibs")) ["bless", "bliss", "bonus", "floss", "gloss", "guess", "humus", "lupus", "minus"]
+ 34 [1;33mc[1;32ma[0mr[1;33mt[0ms[0m  10    51 None ["batch", "facet", "hatch", "latch", "match", "patch", "tacit", "tacky", "watch", "yacht"]

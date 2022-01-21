@@ -1,0 +1,756 @@
+trone,orbit
+ 16 [1;33mt[1;32mr[1;33mo[0mn[0me[0m   1    55 Some((1, 1, "orbit")) ["orbit"]
+trone,tooth
+ 20 [1;32mt[0mr[1;32mo[0mn[0me[0m   1    41 Some((1, 1, "tooth")) ["tooth"]
+trone,train
+ 35 [1;32mt[1;32mr[0mo[1;33mn[0me[0m   1    15 Some((1, 1, "train")) ["train"]
+trone,snout
+ 46 [1;33mt[0mr[1;32mo[1;33mn[0me[0m   1    29 Some((1, 1, "snout")) ["snout"]
+trone,snort
+ 49 [1;33mt[1;33mr[1;32mo[1;33mn[0me[0m   1     8 Some((1, 1, "snort")) ["snort"]
+trone,thorn
+ 50 [1;32mt[1;33mr[1;32mo[1;33mn[0me[0m   1     6 Some((1, 1, "thorn")) ["thorn"]
+trone,rainy
+ 57 [0mt[1;33mr[0mo[1;32mn[0me[0m   1   182 Some((1, 1, "rainy")) ["rainy"]
+trone,burnt
+ 58 [1;33mt[1;33mr[0mo[1;32mn[0me[0m   1    36 Some((1, 1, "burnt")) ["burnt"]
+trone,trunk
+ 62 [1;32mt[1;32mr[0mo[1;32mn[0me[0m   1    13 Some((1, 1, "trunk")) ["trunk"]
+trone,stony
+ 73 [1;33mt[0mr[1;32mo[1;32mn[0me[0m   1    18 Some((1, 1, "stony")) ["stony"]
+trone,thong
+ 74 [1;32mt[0mr[1;32mo[1;32mn[0me[0m   1     7 Some((1, 1, "thong")) ["thong"]
+trone,front
+ 79 [1;33mt[1;32mr[1;32mo[1;32mn[0me[0m   1     6 Some((1, 1, "front")) ["front"]
+trone,tower
+ 95 [1;32mt[1;33mr[1;33mo[0mn[1;33me[0m   1    17 Some((1, 1, "tower")) ["tower"]
+trone,wooer
+102 [0mt[1;33mr[1;32mo[0mn[1;33me[0m   1    63 Some((1, 1, "wooer")) ["wooer"]
+trone,token
+119 [1;32mt[0mr[1;33mo[1;33mn[1;33me[0m   1    10 Some((1, 1, "token")) ["token"]
+trone,tenor
+122 [1;32mt[1;33mr[1;33mo[1;33mn[1;33me[0m   1     3 Some((1, 1, "tenor")) ["tenor"]
+trone,arena
+141 [0mt[1;32mr[0mo[1;32mn[1;33me[0m   1    30 Some((1, 1, "arena")) ["arena"]
+trone,trend
+143 [1;32mt[1;32mr[0mo[1;32mn[1;33me[0m   1     3 Some((1, 1, "trend")) ["trend"]
+trone,ebony
+153 [0mt[0mr[1;32mo[1;32mn[1;33me[0m   1    29 Some((1, 1, "ebony")) ["ebony"]
+trone,stare
+166 [1;33mt[1;33mr[0mo[0mn[1;32me[0m   1    71 Some((1, 1, "stare")) ["stare"]
+trone,ovate
+172 [1;33mt[0mr[1;33mo[0mn[1;32me[0m   1    65 Some((1, 1, "ovate")) ["ovate"]
+trone,those
+182 [1;32mt[0mr[1;32mo[0mn[1;32me[0m   1     7 Some((1, 1, "those")) ["those"]
+trone,store
+184 [1;33mt[1;33mr[1;32mo[0mn[1;32me[0m   1     7 Some((1, 1, "store")) ["store"]
+trone,wrote
+187 [1;33mt[1;32mr[1;32mo[0mn[1;32me[0m   1     6 Some((1, 1, "wrote")) ["wrote"]
+trone,tense
+191 [1;32mt[0mr[0mo[1;33mn[1;32me[0m   1    14 Some((1, 1, "tense")) ["tense"]
+trone,snore
+210 [0mt[1;33mr[1;32mo[1;33mn[1;32me[0m   1     9 Some((1, 1, "snore")) ["snore"]
+trone,twine
+218 [1;32mt[0mr[0mo[1;32mn[1;32me[0m   1     9 Some((1, 1, "twine")) ["twine"]
+trone,borne
+228 [0mt[1;33mr[1;33mo[1;32mn[1;32me[0m   1    12 Some((1, 1, "borne")) ["borne"]
+trone,intro
+trone,intro,north
+ 40 [1;33mt[1;33mr[1;33mo[1;33mn[0me[0m   2    20 Some((3, 2, "intro")) ["intro", "north"]
+trone,arson
+trone,arson,organ
+ 42 [0mt[1;32mr[1;33mo[1;33mn[0me[0m   2    52 Some((3, 2, "arson")) ["arson", "organ"]
+trone,green
+trone,green,preen
+114 [0mt[1;32mr[0mo[1;33mn[1;33me[0m   2    43 Some((3, 2, "green")) ["green", "preen"]
+trone,often
+trone,often,onset
+118 [1;33mt[0mr[1;33mo[1;33mn[1;33me[0m   2    35 Some((3, 2, "often")) ["often", "onset"]
+trone,forte
+trone,forte,route
+175 [1;33mt[1;33mr[1;33mo[0mn[1;32me[0m   2    17 Some((3, 2, "forte")) ["forte", "route"]
+trone,trope
+trone,trope,trove
+188 [1;32mt[1;32mr[1;32mo[0mn[1;32me[0m   2     5 Some((3, 2, "trope")) ["trope", "trove"]
+trone,unite
+trone,unite,untie
+190 [1;33mt[0mr[0mo[1;33mn[1;32me[0m   2    33 Some((3, 2, "unite")) ["unite", "untie"]
+trone,opine
+trone,opine,ovine
+225 [0mt[0mr[1;33mo[1;32mn[1;32me[0m   2    36 Some((3, 2, "opine")) ["opine", "ovine"]
+trone,atone
+trone,atone,stone
+235 [1;33mt[0mr[1;32mo[1;32mn[1;32me[0m   2     3 Some((3, 2, "atone")) ["atone", "stone"]
+trone,troll
+trone,troll,troop
+trone,troll,troop,trout
+ 26 [1;32mt[1;32mr[1;32mo[0mn[0me[0m   3    25 Some((6, 3, "troll")) ["troll", "troop", "trout"]
+trone,tangy
+trone,tangy,titan
+trone,tangy,tunic
+ 29 [1;32mt[0mr[0mo[1;33mn[0me[0m   3   154 Some((5, 2, "tangy")) ["tangy", "titan", "tunic"]
+trone,tempo
+trone,tempo,totem
+trone,tempo,towel
+ 92 [1;32mt[0mr[1;33mo[0mn[1;33me[0m   3    68 Some((5, 2, "tempo")) ["tempo", "totem", "towel"]
+trone,credo
+trone,credo,error
+trone,credo,order
+ 96 [0mt[1;32mr[1;33mo[0mn[1;33me[0m   3    59 Some((5, 2, "credo")) ["credo", "error", "order"]
+trone,epoch
+trone,epoch,epoxy
+trone,epoch,gooey
+ 99 [0mt[0mr[1;32mo[0mn[1;33me[0m   3   216 Some((5, 2, "epoch")) ["epoch", "epoxy", "gooey"]
+trone,taken
+trone,taken,tenet
+trone,taken,tenth
+110 [1;32mt[0mr[0mo[1;33mn[1;33me[0m   3    54 Some((5, 2, "taken")) ["taken", "tenet", "tenth"]
+trone,goner
+trone,goner,heron
+trone,goner,owner
+120 [0mt[1;33mr[1;33mo[1;33mn[1;33me[0m   3    51 Some((5, 2, "goner")) ["goner", "heron", "owner"]
+trone,terse
+trone,terse,there
+trone,terse,three
+167 [1;32mt[1;33mr[0mo[0mn[1;32me[0m   3    33 Some((5, 2, "terse")) ["terse", "there", "three"]
+trone,anode
+trone,anode,gnome
+trone,anode,noose
+207 [0mt[0mr[1;32mo[1;33mn[1;32me[0m   3    27 Some((5, 2, "anode")) ["anode", "gnome", "noose"]
+trone,crone
+trone,crone,drone
+trone,crone,drone,prone
+240 [0mt[1;32mr[1;32mo[1;32mn[1;32me[0m   3     7 Some((6, 3, "crone")) ["crone", "drone", "prone"]
+trone,grunt,brunt
+trone,grunt,grant
+trone,grunt
+trone,grunt,print
+ 61 [1;33mt[1;32mr[0mo[1;32mn[0me[0m   4    27 Some((7, 2, "grunt")) ["brunt", "grant", "grunt", "print"]
+trone,count
+trone,count,joint
+trone,count,mount
+trone,count,joint,point
+ 64 [1;33mt[0mr[1;33mo[1;32mn[0me[0m   4    34 Some((8, 3, "count")) ["count", "joint", "mount", "point"]
+trone,corny
+trone,corny,horny
+trone,corny,rhino
+trone,corny,round
+ 66 [0mt[1;33mr[1;33mo[1;32mn[0me[0m   4    52 Some((7, 2, "corny")) ["corny", "horny", "rhino", "round"]
+trone,tread
+trone,tread,treat
+trone,tread,tried
+trone,tread,truer
+ 89 [1;32mt[1;32mr[0mo[0mn[1;33me[0m   4    43 Some((7, 2, "tread")) ["tread", "treat", "tried", "truer"]
+trone,bonce,canoe
+trone,bonce,noble
+trone,bonce,noise
+trone,bonce,ounce
+198 [0mt[0mr[1;33mo[1;33mn[1;32me[0m   4    67 Some((8, 2, "bonce")) ["canoe", "noble", "noise", "ounce"]
+trone,urine,brine
+trone,urine,crane
+trone,urine,prune
+trone,urine
+222 [0mt[1;32mr[0mo[1;32mn[1;32me[0m   4    15 Some((7, 2, "urine")) ["brine", "crane", "prune", "urine"]
+trone,frost,broth
+trone,frost,droit
+trone,frost
+trone,frost,froth
+trone,frost,droit,grout
+ 25 [1;33mt[1;32mr[1;32mo[0mn[0me[0m   5    42 Some((10, 3, "frost")) ["broth", "droit", "frost", "froth", "grout"]
+trone,acorn
+trone,acorn,adorn
+trone,acorn,scorn
+trone,acorn,shorn
+trone,acorn,shorn,sworn
+ 48 [0mt[1;33mr[1;32mo[1;33mn[0me[0m   5    51 Some((10, 3, "acorn")) ["acorn", "adorn", "scorn", "shorn", "sworn"]
+trone,along,agony
+trone,along
+trone,along,among
+trone,along,blond
+trone,along,phony
+ 72 [0mt[0mr[1;32mo[1;32mn[0me[0m   5   103 Some((9, 2, "along")) ["agony", "along", "among", "blond", "phony"]
+trone,crony
+trone,crony,prong,frond
+trone,crony,irony
+trone,crony,prong
+trone,crony,prong,wrong
+ 78 [0mt[1;32mr[1;32mo[1;32mn[0me[0m   5    26 Some((11, 3, "crony")) ["crony", "frond", "irony", "prong", "wrong"]
+trone,enter
+trone,enter,entry
+trone,enter,inert
+trone,enter,inter
+trone,enter,stern
+112 [1;33mt[1;33mr[0mo[1;33mn[1;33me[0m   5    29 Some((9, 2, "enter")) ["enter", "entry", "inert", "inter", "stern"]
+trone,irate,brute
+trone,irate,crate
+trone,irate,crate,grate
+trone,irate
+trone,irate,write
+169 [1;33mt[1;32mr[0mo[0mn[1;32me[0m   5    31 Some((10, 3, "irate")) ["brute", "crate", "grate", "irate", "write"]
+trone,stoke,quote
+trone,stoke,smote
+trone,stoke
+trone,stoke,stole
+trone,stoke,stole,stove
+181 [1;33mt[0mr[1;32mo[0mn[1;32me[0m   5    26 Some((10, 3, "stoke")) ["quote", "smote", "stoke", "stole", "stove"]
+trone,tardy,tapir
+trone,tardy
+trone,tardy,third
+trone,tardy,thrum
+trone,tardy,tiara
+trone,tardy,twirl
+  5 [1;32mt[1;33mr[0mo[0mn[0me[0m   6   273 Some((11, 2, "tardy")) ["tapir", "tardy", "third", "thrum", "tiara", "twirl"]
+trone,talon
+trone,talon,tango
+trone,talon,tonal
+trone,talon,tonga
+trone,talon,tonic
+trone,talon,toxin
+ 38 [1;32mt[0mr[1;33mo[1;33mn[0me[0m   6    42 Some((11, 2, "talon")) ["talon", "tango", "tonal", "tonga", "tonic", "toxin"]
+trone,scent,agent
+trone,scent,agent,event
+trone,scent,leant
+trone,scent,leant,meant
+trone,scent
+trone,scent,spent
+136 [1;33mt[0mr[0mo[1;32mn[1;33me[0m   6    56 Some((13, 3, "scent")) ["agent", "event", "leant", "meant", "scent", "spent"]
+trone,chore,spore,adore
+trone,chore
+trone,chore,score
+trone,chore,shore
+trone,chore,spore
+trone,chore,spore,swore
+183 [0mt[1;33mr[1;32mo[0mn[1;32me[0m   6    53 Some((13, 3, "chore")) ["adore", "chore", "score", "shore", "spore", "swore"]
+trone,genre
+trone,genre,nerve
+trone,genre,nurse
+trone,genre,range
+trone,genre,rinse
+trone,genre,snare
+192 [0mt[1;33mr[0mo[1;33mn[1;32me[0m   6    48 Some((11, 2, "genre")) ["genre", "nerve", "nurse", "range", "rinse", "snare"]
+trone,clone,alone
+trone,clone
+trone,clone,phone,ozone
+trone,clone,phone
+trone,clone,scone
+trone,clone,phone,shone
+234 [0mt[0mr[1;32mo[1;32mn[1;32me[0m   6    20 Some((13, 3, "clone")) ["alone", "clone", "ozone", "phone", "scone", "shone"]
+trone,arbor
+trone,arbor,ardor
+trone,arbor,ardor,armor
+trone,arbor,arrow
+trone,arbor,bravo
+trone,arbor,primo
+trone,arbor,prior
+ 15 [0mt[1;32mr[1;33mo[0mn[0me[0m   7   259 Some((14, 3, "arbor")) ["arbor", "ardor", "armor", "arrow", "bravo", "primo", "prior"]
+trone,stork,abort
+trone,stork,roost
+trone,stork,short
+trone,stork,short,sport
+trone,stork
+trone,stork,storm
+trone,stork,storm,story
+ 22 [1;33mt[1;33mr[1;32mo[0mn[0me[0m   7    66 Some((15, 3, "stork")) ["abort", "roost", "short", "sport", "stork", "storm", "story"]
+trone,bring,brain
+trone,bring,brawn
+trone,bring,drain
+trone,bring,drawn
+trone,bring,grain
+trone,bring,drawn,prawn
+trone,bring,urban
+ 33 [0mt[1;32mr[0mo[1;33mn[0me[0m   7   146 Some((15, 3, "bring")) ["brain", "brawn", "drain", "drawn", "grain", "prawn", "urban"]
+trone,donut,baton
+trone,donut
+trone,donut,ingot
+trone,donut,junto
+trone,donut,month
+trone,donut,notch
+trone,donut,pinto
+ 37 [1;33mt[0mr[1;33mo[1;33mn[0me[0m   7   140 Some((13, 2, "donut")) ["baton", "donut", "ingot", "junto", "month", "notch", "pinto"]
+trone,bronc,brown
+trone,bronc,crown
+trone,bronc,drown
+trone,bronc,drown,frown
+trone,bronc,drown,groan
+trone,bronc,drown,groan,groin
+trone,bronc,drown,frown,grown
+ 51 [0mt[1;32mr[1;32mo[1;33mn[0me[0m   7    38 Some((20, 4, "bronc")) ["brown", "crown", "drown", "frown", "groan", "groin", "grown"]
+trone,crest,crept
+trone,crest
+trone,crest,erect
+trone,crest,erupt
+trone,crest,great
+trone,crest,great,greet
+trone,crest,wrest
+ 88 [1;33mt[1;32mr[0mo[0mn[1;33me[0m   7    81 Some((14, 3, "crest")) ["crept", "crest", "erect", "erupt", "great", "greet", "wrest"]
+trone,other,metro
+trone,other
+trone,other,otter
+trone,other,outer
+trone,other,overt
+trone,other,metro,retro
+trone,other,voter
+ 94 [1;33mt[1;33mr[1;33mo[0mn[1;33me[0m   7    50 Some((14, 3, "other")) ["metro", "other", "otter", "outer", "overt", "retro", "voter"]
+trone,trace
+trone,trace,trade
+trone,trace,tribe
+trone,trace,trice
+trone,trace,tribe,tripe
+trone,trace,tribe,tripe,trite
+trone,trace,trice,truce
+170 [1;32mt[1;32mr[0mo[0mn[1;32me[0m   7    18 Some((17, 4, "trace")) ["trace", "trade", "tribe", "trice", "tripe", "trite", "truce"]
+trone,thing,taint
+trone,thing,taunt
+trone,thing,taunt,tawny
+trone,thing,thank
+trone,thing
+trone,thing,think
+trone,thing,twang
+trone,thing,tying
+ 56 [1;32mt[0mr[0mo[1;32mn[0me[0m   8    64 Some((16, 3, "thing")) ["taint", "taunt", "tawny", "thank", "thing", "think", "twang", "tying"]
+trone,inlet,eaten
+trone,inlet,enact
+trone,inlet,inept
+trone,inlet
+trone,inlet,knelt
+trone,inlet,stein
+trone,inlet,unmet
+trone,inlet,unmet,unset
+109 [1;33mt[0mr[0mo[1;33mn[1;33me[0m   8   193 Some((16, 3, "inlet")) ["eaten", "enact", "inept", "inlet", "knelt", "stein", "unmet", "unset"]
+trone,shine,inane
+trone,shine,penne
+trone,shine,penne,plane
+trone,shine,scene
+trone,shine
+trone,shine,spine
+trone,shine,spine,swine
+trone,shine,whine
+216 [0mt[0mr[0mo[1;32mn[1;32me[0m   8   109 Some((17, 3, "shine")) ["inane", "penne", "plane", "scene", "shine", "spine", "swine", "whine"]
+trone,throb,tarot
+trone,throb
+trone,throb,throw
+trone,throb,torch
+trone,throb,torso
+trone,throb,torso,torus
+trone,throb,tumor
+trone,throb,turbo
+trone,throb,tumor,tutor
+ 14 [1;32mt[1;33mr[1;33mo[0mn[0me[0m   9    77 Some((19, 3, "throb")) ["tarot", "throb", "throw", "torch", "torso", "torus", "tumor", "turbo", "tutor"]
+trone,meiny,amend
+trone,meiny,being
+trone,meiny,blend
+trone,meiny,eking
+trone,meiny,eying
+trone,meiny,fiend
+trone,meiny,hyena
+trone,meiny,penny
+trone,meiny,blend,spend
+135 [0mt[0mr[0mo[1;32mn[1;33me[0m   9   263 Some((19, 3, "meiny")) ["amend", "being", "blend", "eking", "eying", "fiend", "hyena", "penny", "spend"]
+trone,today,taboo
+trone,today,toast
+trone,today
+trone,today,toddy
+trone,today,topaz
+trone,today,topic
+trone,today,topaz,total
+trone,today,topic,touch
+trone,today,topic,tough
+trone,today,topic,toxic
+ 11 [1;32mt[0mr[1;33mo[0mn[0me[0m  10   227 Some((23, 3, "today")) ["taboo", "toast", "today", "toddy", "topaz", "topic", "total", "touch", "tough", "toxic"]
+trone,cairn,angry
+trone,cairn
+trone,cairn,churn
+trone,cairn,incur
+trone,cairn,lunar
+trone,cairn,nadir
+trone,cairn,ranch
+trone,cairn,randy
+trone,cairn,angry,snarl
+trone,cairn,spurn
+ 30 [0mt[1;33mr[0mo[1;33mn[0me[0m  10   533 Some((20, 3, "cairn")) ["angry", "cairn", "churn", "incur", "lunar", "nadir", "ranch", "randy", "snarl", "spurn"]
+trone,tamer,taker
+trone,tamer
+trone,tamer,taker,taper
+trone,tamer,teary
+trone,tamer,teary,terra
+trone,tamer,their
+trone,tamer,threw
+trone,tamer,tiger
+trone,tamer,timer
+trone,tamer,tiger,tuber
+ 86 [1;32mt[1;33mr[0mo[0mn[1;33me[0m  10   118 Some((22, 3, "tamer")) ["taker", "tamer", "taper", "teary", "terra", "their", "threw", "tiger", "timer", "tuber"]
+trone,metol,comet
+trone,metol,covet
+trone,metol,depot
+trone,metol,detox
+trone,metol,ethos
+trone,metol,extol
+trone,metol,hotel
+trone,metol,motel
+trone,metol,octet
+trone,metol,pesto
+ 91 [1;33mt[0mr[1;33mo[0mn[1;33me[0m  10   210 Some((20, 2, "metol")) ["comet", "covet", "depot", "detox", "ethos", "extol", "hotel", "motel", "octet", "pesto"]
+trone,forge,force
+trone,forge
+trone,forge,gorge
+trone,forge,horde
+trone,forge,horde,horse
+trone,forge,ombre
+trone,forge,rogue
+trone,forge,rouge
+trone,forge,rouse
+trone,forge,horde,worse
+174 [0mt[1;33mr[1;33mo[0mn[1;32me[0m  10   110 Some((21, 3, "forge")) ["force", "forge", "gorge", "horde", "horse", "ombre", "rogue", "rouge", "rouse", "worse"]
+trone,probe,drove,arose
+trone,probe,broke
+trone,probe,drove
+trone,probe,drove,erode
+trone,probe,drove,arose,froze
+trone,probe,grope
+trone,probe,drove,grove
+trone,probe
+trone,probe,prose
+trone,probe,prose,prove
+186 [0mt[1;32mr[1;32mo[0mn[1;32me[0m  10    36 Some((25, 4, "probe")) ["arose", "broke", "drove", "erode", "froze", "grope", "grove", "probe", "prose", "prove"]
+trone,craft,artsy
+trone,craft
+trone,craft,crust
+trone,craft,crust,crypt
+trone,craft,draft
+trone,craft,drift
+trone,craft,fritz
+trone,craft,fruit
+trone,craft,draft,graft
+trone,craft,wrath
+trone,craft,wrist
+  7 [1;33mt[1;32mr[0mo[0mn[0me[0m  11   240 Some((23, 3, "craft")) ["artsy", "craft", "crust", "crypt", "draft", "drift", "fritz", "fruit", "graft", "wrath", "wrist"]
+trone,maron,apron
+trone,maron,baron
+trone,maron,donor
+trone,maron,donor,honor
+trone,maron,manor
+trone,maron,minor
+trone,maron,moron
+trone,maron,mourn
+trone,maron,rayon
+trone,maron,robin
+trone,maron,sonar
+ 39 [0mt[1;33mr[1;33mo[1;33mn[0me[0m  11   166 Some((23, 3, "maron")) ["apron", "baron", "donor", "honor", "manor", "minor", "moron", "mourn", "rayon", "robin", "sonar"]
+trone,clown,blown
+trone,clown
+trone,clown,blown,flown
+trone,clown,knock
+trone,clown,knoll
+trone,clown,known
+trone,clown,known,shown
+trone,clown,snoop
+trone,clown,snowy
+trone,clown,spoon
+trone,clown,swoon
+ 45 [0mt[0mr[1;32mo[1;33mn[0me[0m  11   188 Some((23, 3, "clown")) ["blown", "clown", "flown", "knock", "knoll", "known", "shown", "snoop", "snowy", "spoon", "swoon"]
+trone,teeth,teach
+trone,teeth,teddy
+trone,teeth
+trone,teeth,teddy,tepid
+trone,teeth,testy
+trone,teeth,theft
+trone,teeth,theta
+trone,teeth,thief
+trone,teeth,tweak
+trone,teeth,tweed
+trone,teeth,tweet
+ 83 [1;32mt[0mr[0mo[0mn[1;33me[0m  11   352 Some((22, 3, "teeth")) ["teach", "teddy", "teeth", "tepid", "testy", "theft", "theta", "thief", "tweak", "tweed", "tweet"]
+trone,roast,actor
+trone,roast,aorta
+trone,roast,court
+trone,roast,forth
+trone,roast,forth,forty
+trone,roast,forth,motor
+trone,roast,ratio
+trone,roast
+trone,roast,robot
+trone,roast,rotor
+trone,roast,worst
+trone,roast,forth,worth
+ 13 [1;33mt[1;33mr[1;33mo[0mn[0me[0m  12   219 Some((26, 3, "roast")) ["actor", "aorta", "court", "forth", "forty", "motor", "ratio", "roast", "robot", "rotor", "worst", "worth"]
+trone,fiord,agora
+trone,fiord,choir
+trone,fiord,chord
+trone,fiord,fjord
+trone,fiord,floor
+trone,fiord,flora
+trone,fiord,floor,flour
+trone,fiord,agora,glory
+trone,fiord,ivory
+trone,fiord,roomy
+trone,fiord,roomy,scour
+trone,fiord,chord,sword
+ 21 [0mt[1;33mr[1;32mo[0mn[0me[0m  12   297 Some((28, 3, "fiord")) ["agora", "choir", "chord", "fjord", "floor", "flora", "flour", "glory", "ivory", "roomy", "scour", "sword"]
+trone,these,tilde,table
+trone,these,taste
+trone,these,tease
+trone,these,tepee
+trone,these,theme
+trone,these
+trone,these,thyme
+trone,these,tilde
+trone,these,tithe
+trone,these,tilde,title
+trone,these,tilde,tulle
+trone,these,tilde,twice
+164 [1;32mt[0mr[0mo[0mn[1;32me[0m  12    98 Some((27, 3, "these")) ["table", "taste", "tease", "tepee", "theme", "these", "thyme", "tilde", "tithe", "title", "tulle", "twice"]
+trone,powny,fohns,bound
+trone,powny,fohns,bound,doing
+trone,powny,downy
+trone,powny,fohns,found
+trone,powny,fohns,bound,going
+trone,powny,fohns,hound
+trone,powny,fohns,bound,mound
+trone,powny,owing
+trone,powny,piano
+trone,powny,pound
+trone,powny,fohns,sound
+trone,powny,wound
+trone,powny,young
+ 63 [0mt[0mr[1;33mo[1;32mn[0me[0m  13   219 Some((36, 4, "powny")) ["bound", "doing", "downy", "found", "going", "hound", "mound", "owing", "piano", "pound", "sound", "wound", "young"]
+trone,grind,brand
+trone,grind,bring
+trone,grind,brink
+trone,grind,brink,briny
+trone,grind,franc,crank
+trone,grind,drank
+trone,grind,drink
+trone,grind,drank,drunk
+trone,grind,franc,frank
+trone,grind,grand
+trone,grind
+trone,grind,franc,prank
+trone,grind,bring,wring
+trone,grind,wrung
+ 60 [0mt[1;32mr[0mo[1;32mn[0me[0m  14    98 Some((33, 3, "grind")) ["brand", "bring", "brink", "briny", "crank", "drank", "drink", "drunk", "frank", "grand", "grind", "prank", "wring", "wrung"]
+trone,tract,track
+trone,tract
+trone,tract,trail
+trone,tract,trait
+trone,tract,trail,tramp
+trone,tract,trail,tramp,trash
+trone,tract,trail,trawl
+trone,tract,triad
+trone,tract,triad,trial
+trone,tract,trick
+trone,tract,trick,truck
+trone,tract,trams,truly
+trone,tract,trams,trump
+trone,tract,trams,truss
+trone,tract,trust
+trone,tract,truth
+trone,tract,trust,tryst
+  8 [1;32mt[1;32mr[0mo[0mn[0me[0m  17   117 Some((43, 4, "tract")) ["track", "tract", "trail", "trait", "tramp", "trash", "trawl", "triad", "trial", "trick", "truck", "truly", "trump", "truss", "trust", "truth", "tryst"]
+trone,until,angst
+trone,until,antic
+trone,until,aunty
+trone,until,input
+trone,until,aunty,junta
+trone,until,minty
+trone,until,nasty
+trone,until,natal
+trone,until,minty,night
+trone,until,minty,ninth
+trone,until,nutty
+trone,until,satin
+trone,until,stain
+trone,until,uncut
+trone,until,unfit
+trone,until,unity
+trone,until,unlit
+trone,until
+ 28 [1;33mt[0mr[0mo[1;33mn[0me[0m  18   537 Some((38, 3, "until")) ["angst", "antic", "aunty", "input", "junta", "minty", "nasty", "natal", "night", "ninth", "nutty", "satin", "stain", "uncut", "unfit", "unity", "unlit", "until"]
+trone,louse,boule
+trone,louse,poise,copse
+trone,louse,coupe
+trone,louse,movie,dodge
+trone,louse,coupe,gouge
+trone,louse,house
+trone,louse,lodge
+trone,louse
+trone,louse,house,mouse
+trone,louse,movie
+trone,louse,obese
+trone,louse,olive
+trone,louse,oxide
+trone,louse,poise
+trone,louse,poise,posse
+trone,louse,solve
+trone,louse,vogue
+trone,louse,movie,voice
+171 [0mt[0mr[1;33mo[0mn[1;32me[0m  18   411 Some((41, 3, "louse")) ["boule", "copse", "coupe", "dodge", "gouge", "house", "lodge", "louse", "mouse", "movie", "obese", "olive", "oxide", "poise", "posse", "solve", "vogue", "voice"]
+trone,dowel,below
+trone,dowel,bowel
+trone,dowel,cameo
+trone,dowel,cello
+trone,dowel,covey
+trone,dowel,decoy
+trone,dowel,dopey
+trone,dowel
+trone,dowel,below,elbow
+trone,dowel,gecko
+trone,dowel,golem
+trone,dowel,cello,hello
+trone,dowel,hovel
+trone,dowel,model
+trone,dowel,modem
+trone,dowel,gecko,omega
+trone,dowel,poesy
+trone,dowel,video
+trone,dowel,bowel,vowel
+ 90 [0mt[0mr[1;33mo[0mn[1;33me[0m  19  1217 Some((41, 3, "dowel")) ["below", "bowel", "cameo", "cello", "covey", "decoy", "dopey", "dowel", "elbow", "gecko", "golem", "hello", "hovel", "model", "modem", "omega", "poesy", "video", "vowel"]
+trone,tacit,tabla,tabby
+trone,tacit
+trone,tacit,tacky
+trone,tacit,tabla,taffy
+trone,tacit,tabla,tally
+trone,tacit,tasty
+trone,tacit,tasty,tatty
+trone,tacit,thick
+trone,tacit,thigh
+trone,tacit,thumb
+trone,tacit,thumb,thump
+trone,tacit,tibia
+trone,tacit,tidal
+trone,tacit,twist,tight
+trone,tacit,timid
+trone,tacit,thigh,tipsy
+trone,tacit,tubal
+trone,tacit,timid,tulip
+trone,tacit,twist
+trone,tacit,twist,twixt
+  2 [1;32mt[0mr[0mo[0mn[0me[0m  20   815 Some((48, 3, "tacit")) ["tabby", "tacit", "tacky", "taffy", "tally", "tasty", "tatty", "thick", "thigh", "thumb", "thump", "tibia", "tidal", "tight", "timid", "tipsy", "tubal", "tulip", "twist", "twixt"]
+trone,demon,boney
+trone,demon,coven
+trone,demon
+trone,demon,dozen
+trone,demon,endow
+trone,demon,enjoy
+trone,demon,enjoy,envoy
+trone,demon,felon
+trone,demon,boney,honey
+trone,demon,lemon
+trone,demon,melon
+trone,demon,money
+trone,demon,boney,nosey
+trone,demon,boney,novel
+trone,demon,coven,oaken
+trone,demon,coven,ocean
+trone,demon,olden
+trone,demon,venom
+trone,demon,coven,woken
+trone,demon,women
+trone,demon,coven,woven
+117 [0mt[0mr[1;33mo[1;33mn[1;33me[0m  21   241 Some((49, 3, "demon")) ["boney", "coven", "demon", "dozen", "endow", "enjoy", "envoy", "felon", "honey", "lemon", "melon", "money", "nosey", "novel", "oaken", "ocean", "olden", "venom", "woken", "women", "woven"]
+trone,droop,croak,aroma
+trone,droop,broad
+trone,droop,croak,broil
+trone,droop,brood
+trone,droop,brook
+trone,droop,brook,broom
+trone,droop,croak
+trone,droop,croak,crock
+trone,droop,brook,crook
+trone,droop,croak,cross
+trone,droop,croup
+trone,droop,broad,crowd
+trone,droop,droll
+trone,droop,drool
+trone,droop
+trone,droop,droll,dross
+trone,droop,croak,frock
+trone,droop,brook,groom
+trone,droop,croak,broil,gross
+trone,droop,croup,group
+trone,droop,croak,broil,growl
+trone,droop,proof
+trone,droop,proud
+trone,droop,prowl
+trone,droop,prowl,proxy
+ 24 [0mt[1;32mr[1;32mo[0mn[0me[0m  25   186 Some((65, 4, "droop")) ["aroma", "broad", "broil", "brood", "brook", "broom", "croak", "crock", "crook", "cross", "croup", "crowd", "droll", "drool", "droop", "dross", "frock", "groom", "gross", "group", "growl", "proof", "proud", "prowl", "proxy"]
+trone,thing,stand,blunt
+trone,thing,chant
+trone,thing,stand,daunt
+trone,thing,faint
+trone,thing,faint,flint
+trone,thing,gaunt
+trone,thing,giant
+trone,thing,glint
+trone,thing,haunt
+trone,thing,stand,jaunt
+trone,thing,faint,paint
+trone,thing,stand,plant
+trone,thing,faint,paint,saint
+trone,thing,stand,scant
+trone,thing,chant,shunt
+trone,thing,stand,scant,slant
+trone,thing,stand
+trone,thing,stand,stank
+trone,thing,sting
+trone,thing,faint,stink
+trone,thing,faint,stint
+trone,thing,stung
+trone,thing,stand,stunk
+trone,thing,stand,stunk,stunt
+trone,thing,stand,jaunt,vaunt
+ 55 [1;33mt[0mr[0mo[1;32mn[0me[0m  25   171 Some((70, 4, "thing")) ["blunt", "chant", "daunt", "faint", "flint", "gaunt", "giant", "glint", "haunt", "jaunt", "paint", "plant", "saint", "scant", "shunt", "slant", "stand", "stank", "sting", "stink", "stint", "stung", "stunk", "stunt", "vaunt"]
+trone,diner,never,anger
+trone,diner
+trone,diner,finer
+trone,diner,infer
+trone,diner,inner
+trone,diner,learn
+trone,diner,finer,liner
+trone,diner,finer,liner,miner
+trone,diner,nerdy
+trone,diner,never
+trone,diner,never,newer
+trone,diner,nicer
+trone,diner,ramen
+trone,diner,ramen,raven
+trone,diner,reign
+trone,diner,renal
+trone,diner,renew
+trone,diner,learn,rerun
+trone,diner,reign,resin
+trone,diner,ripen
+trone,diner,ripen,risen
+trone,diner,saner
+trone,diner,ripen,siren
+trone,diner,never,sneer
+trone,diner,under
+trone,diner,learn,yearn
+111 [0mt[1;33mr[0mo[1;33mn[1;33me[0m  26   211 Some((63, 4, "diner")) ["anger", "diner", "finer", "infer", "inner", "learn", "liner", "miner", "nerdy", "never", "newer", "nicer", "ramen", "raven", "reign", "renal", "renew", "rerun", "resin", "ripen", "risen", "saner", "siren", "sneer", "under", "yearn"]
+trone,close,abode
+trone,close,abode,above
+trone,close,abode,adobe
+trone,close,abode,awoke
+trone,close,abode,biome
+trone,close,globe,bloke
+trone,close,abode,biome,booze
+trone,close,choke
+trone,close,chose
+trone,close
+trone,close,clove
+trone,close,abode,diode
+trone,close,globe,elope
+trone,close,abode,evoke
+trone,close,globe
+trone,close,globe,glove
+trone,close,goose
+trone,close,loose
+trone,close,goose,moose
+trone,close,scope
+trone,close,smoke,shove
+trone,close,slope
+trone,close,smoke
+trone,close,smoke,spoke
+trone,close,whole
+trone,close,goose,whose
+180 [0mt[0mr[1;32mo[0mn[1;32me[0m  26   156 Some((66, 4, "close")) ["abode", "above", "adobe", "awoke", "biome", "bloke", "booze", "choke", "chose", "close", "clove", "diode", "elope", "evoke", "globe", "glove", "goose", "loose", "moose", "scope", "shove", "slope", "smoke", "spoke", "whole", "whose"]
+ 93 [0mt[1;33mr[1;33mo[0mn[1;33me[0m  28   362 None ["boxer", "corer", "cover", "cower", "decor", "foyer", "homer", "hover", "joker", "loser", "lover", "lower", "mover", "mower", "odder", "offer", "older", "opera", "poker", "poser", "power", "rodeo", "roger", "rover", "rower", "sober", "sower", "verso"]

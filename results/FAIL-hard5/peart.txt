@@ -1,0 +1,664 @@
+peart,sepia
+ 16 [1;33mp[1;32me[1;33ma[0mr[0mt[0m   1    54 Some((1, 1, "sepia")) ["sepia"]
+peart,parry
+ 65 [1;32mp[0me[1;33ma[1;32mr[0mt[0m   1    16 Some((1, 1, "parry")) ["parry"]
+peart,opera
+ 67 [1;33mp[1;33me[1;33ma[1;32mr[0mt[0m   1    13 Some((1, 1, "opera")) ["opera"]
+peart,zebra
+ 69 [0mp[1;32me[1;33ma[1;32mr[0mt[0m   1    44 Some((1, 1, "zebra")) ["zebra"]
+peart,spare
+ 76 [1;33mp[1;33me[1;32ma[1;32mr[0mt[0m   1     6 Some((1, 1, "spare")) ["spare"]
+peart,pearl
+ 80 [1;32mp[1;32me[1;32ma[1;32mr[0mt[0m   1     4 Some((1, 1, "pearl")) ["pearl"]
+peart,piety
+ 86 [1;32mp[1;33me[0ma[0mr[1;33mt[0m   1    44 Some((1, 1, "piety")) ["piety"]
+peart,paste
+ 95 [1;32mp[1;33me[1;33ma[0mr[1;33mt[0m   1    18 Some((1, 1, "paste")) ["paste"]
+peart,petal
+ 98 [1;32mp[1;32me[1;33ma[0mr[1;33mt[0m   1     6 Some((1, 1, "petal")) ["petal"]
+peart,stamp
+100 [1;33mp[0me[1;32ma[0mr[1;33mt[0m   1    41 Some((1, 1, "stamp")) ["stamp"]
+peart,plate
+104 [1;32mp[1;33me[1;32ma[0mr[1;33mt[0m   1     5 Some((1, 1, "plate")) ["plate"]
+peart,party
+119 [1;32mp[0me[1;33ma[1;33mr[1;33mt[0m   1    12 Some((1, 1, "party")) ["party"]
+peart,taper
+121 [1;33mp[1;33me[1;33ma[1;33mr[1;33mt[0m   1     8 Some((1, 1, "taper")) ["taper"]
+peart,tramp
+127 [1;33mp[0me[1;32ma[1;33mr[1;33mt[0m   1    13 Some((1, 1, "tramp")) ["tramp"]
+peart,ultra
+144 [0mp[0me[1;33ma[1;32mr[1;33mt[0m   1    53 Some((1, 1, "ultra")) ["ultra"]
+peart,extra
+147 [0mp[1;33me[1;33ma[1;32mr[1;33mt[0m   1    14 Some((1, 1, "extra")) ["extra"]
+peart,terra
+150 [0mp[1;32me[1;33ma[1;32mr[1;33mt[0m   1     7 Some((1, 1, "terra")) ["terra"]
+peart,stare
+156 [0mp[1;33me[1;32ma[1;32mr[1;33mt[0m   1     6 Some((1, 1, "stare")) ["stare"]
+peart,teary
+159 [0mp[1;32me[1;32ma[1;32mr[1;33mt[0m   1     5 Some((1, 1, "teary")) ["teary"]
+peart,depot
+169 [1;33mp[1;32me[0ma[0mr[1;32mt[0m   1    13 Some((1, 1, "depot")) ["depot"]
+peart,paint
+173 [1;32mp[0me[1;33ma[0mr[1;32mt[0m   1    10 Some((1, 1, "paint")) ["paint"]
+peart,adept
+175 [1;33mp[1;33me[1;33ma[0mr[1;32mt[0m   1    11 Some((1, 1, "adept")) ["adept"]
+peart,pleat
+176 [1;32mp[1;33me[1;33ma[0mr[1;32mt[0m   1     3 Some((1, 1, "pleat")) ["pleat"]
+peart,begat
+177 [0mp[1;32me[1;33ma[0mr[1;32mt[0m   1    21 Some((1, 1, "begat")) ["begat"]
+peart,adapt
+181 [1;33mp[0me[1;32ma[0mr[1;32mt[0m   1    22 Some((1, 1, "adapt")) ["adapt"]
+peart,leapt
+187 [1;33mp[1;32me[1;32ma[0mr[1;32mt[0m   1     2 Some((1, 1, "leapt")) ["leapt"]
+peart,crypt
+190 [1;33mp[0me[0ma[1;33mr[1;32mt[0m   1    31 Some((1, 1, "crypt")) ["crypt"]
+peart,print
+191 [1;32mp[0me[0ma[1;33mr[1;32mt[0m   1    10 Some((1, 1, "print")) ["print"]
+peart,react
+213 [0mp[1;32me[1;32ma[1;33mr[1;32mt[0m   1     5 Some((1, 1, "react")) ["react"]
+peart,abort
+225 [0mp[0me[1;33ma[1;32mr[1;32mt[0m   1    25 Some((1, 1, "abort")) ["abort"]
+peart,apart
+235 [1;33mp[0me[1;32ma[1;32mr[1;32mt[0m   1     3 Some((1, 1, "apart")) ["apart"]
+peart,heart
+240 [0mp[1;32me[1;32ma[1;32mr[1;32mt[0m   1     3 Some((1, 1, "heart")) ["heart"]
+peart,peace
+peart,peace,peach
+ 26 [1;32mp[1;32me[1;32ma[0mr[0mt[0m   2    17 Some((3, 2, "peace")) ["peace", "peach"]
+peart,parka
+peart,parka,polar
+ 38 [1;32mp[0me[1;33ma[1;33mr[0mt[0m   2    89 Some((3, 2, "parka")) ["parka", "polar"]
+peart,caper
+peart,caper,spear
+ 40 [1;33mp[1;33me[1;33ma[1;33mr[0mt[0m   2    68 Some((3, 2, "caper")) ["caper", "spear"]
+peart,recap
+peart,recap,repay
+ 43 [1;33mp[1;32me[1;33ma[1;33mr[0mt[0m   2    14 Some((3, 2, "recap")) ["recap", "repay"]
+peart,prank
+peart,prank,prawn
+ 47 [1;32mp[0me[1;32ma[1;33mr[0mt[0m   2    22 Some((3, 2, "prank")) ["prank", "prawn"]
+peart,drape
+peart,drape,grape
+ 49 [1;33mp[1;33me[1;32ma[1;33mr[0mt[0m   2    15 Some((3, 2, "drape")) ["drape", "grape"]
+peart,sharp
+peart,sharp,spark
+ 73 [1;33mp[0me[1;32ma[1;32mr[0mt[0m   2    14 Some((3, 2, "sharp")) ["sharp", "spark"]
+peart,pesto
+peart,pesto,petty
+ 89 [1;32mp[1;32me[0ma[0mr[1;33mt[0m   2    21 Some((3, 2, "pesto")) ["pesto", "petty"]
+peart,aptly
+peart,aptly,topaz
+ 91 [1;33mp[0me[1;33ma[0mr[1;33mt[0m   2   126 Some((3, 2, "aptly")) ["aptly", "topaz"]
+peart,tripe
+peart,tripe,trope
+112 [1;33mp[1;33me[0ma[1;33mr[1;33mt[0m   2    27 Some((3, 2, "tripe")) ["tripe", "trope"]
+peart,strap
+peart,strap,tapir
+118 [1;33mp[0me[1;33ma[1;33mr[1;33mt[0m   2    29 Some((3, 2, "strap")) ["strap", "tapir"]
+peart,stark
+peart,stark,tiara
+153 [0mp[0me[1;32ma[1;32mr[1;33mt[0m   2    33 Some((3, 2, "stark")) ["stark", "tiara"]
+peart,plait
+peart,plait,plant
+182 [1;32mp[0me[1;32ma[0mr[1;32mt[0m   2     6 Some((3, 2, "plait")) ["plait", "plant"]
+peart,crept
+peart,crept,erupt
+193 [1;33mp[1;33me[0ma[1;33mr[1;32mt[0m   2    10 Some((3, 2, "crept")) ["crept", "erupt"]
+peart,carat
+peart,carat,tarot
+198 [0mp[0me[1;33ma[1;33mr[1;32mt[0m   2    85 Some((3, 2, "carat")) ["carat", "tarot"]
+peart,great
+peart,great,treat
+201 [0mp[1;33me[1;33ma[1;33mr[1;32mt[0m   2    19 Some((3, 2, "great")) ["great", "treat"]
+peart,sport
+peart,sport,spurt
+217 [1;33mp[0me[0ma[1;32mr[1;32mt[0m   2    10 Some((3, 2, "sport")) ["sport", "spurt"]
+peart,alert
+peart,alert,avert
+228 [0mp[1;33me[1;33ma[1;32mr[1;32mt[0m   2     6 Some((3, 2, "alert")) ["alert", "avert"]
+peart,pecan
+peart,pecan,pedal
+peart,pecan,penal
+ 17 [1;32mp[1;32me[1;33ma[0mr[0mt[0m   3    32 Some((5, 2, "pecan")) ["pecan", "pedal", "penal"]
+peart,place,phase
+peart,place
+peart,place,plane
+ 23 [1;32mp[1;33me[1;32ma[0mr[0mt[0m   3    27 Some((5, 2, "place")) ["phase", "place", "plane"]
+peart,leper
+peart,leper,repel
+peart,leper,reply
+ 34 [1;33mp[1;32me[0ma[1;33mr[0mt[0m   3    55 Some((5, 2, "leper")) ["leper", "repel", "reply"]
+peart,perch
+peart,perch,peril
+peart,perch,peril,perky
+ 35 [1;32mp[1;32me[0ma[1;33mr[0mt[0m   3    35 Some((6, 3, "perch")) ["perch", "peril", "perky"]
+peart,cramp
+peart,cramp,graph
+peart,cramp,grasp
+ 46 [1;33mp[0me[1;32ma[1;33mr[0mt[0m   3    53 Some((5, 2, "cramp")) ["cramp", "graph", "grasp"]
+peart,heard,reach
+peart,heard,ready
+peart,heard,realm
+ 51 [0mp[1;32me[1;32ma[1;33mr[0mt[0m   3    57 Some((6, 2, "heard")) ["reach", "ready", "realm"]
+peart,spire,sperm
+peart,spire
+peart,spire,spore
+ 58 [1;33mp[1;33me[0ma[1;32mr[0mt[0m   3    30 Some((5, 2, "spire")) ["sperm", "spire", "spore"]
+peart,afore,adore
+peart,afore,afire
+peart,afore,azure
+ 66 [0mp[1;33me[1;33ma[1;32mr[0mt[0m   3   106 Some((6, 2, "afore")) ["adore", "afire", "azure"]
+peart,empty
+peart,empty,spite
+peart,empty,steep
+ 85 [1;33mp[1;33me[0ma[0mr[1;33mt[0m   3   131 Some((5, 2, "empty")) ["empty", "spite", "steep"]
+peart,fetal,delta
+peart,fetal
+peart,fetal,metal
+ 96 [0mp[1;32me[1;33ma[0mr[1;33mt[0m   3    96 Some((5, 2, "fetal")) ["delta", "fetal", "metal"]
+peart,troop,strip
+peart,troop
+peart,troop,trump
+109 [1;33mp[0me[0ma[1;33mr[1;33mt[0m   3    78 Some((5, 2, "troop")) ["strip", "troop", "trump"]
+peart,metro
+peart,metro,retro
+peart,metro,retry
+141 [0mp[1;32me[0ma[1;32mr[1;33mt[0m   3    17 Some((5, 2, "metro")) ["metro", "retro", "retry"]
+peart,apart,adopt
+peart,apart,caput
+peart,apart,splat
+172 [1;33mp[0me[1;33ma[0mr[1;32mt[0m   3    39 Some((6, 2, "apart")) ["adopt", "caput", "splat"]
+peart,enact
+peart,enact,exact
+peart,enact,exalt
+183 [0mp[1;33me[1;32ma[0mr[1;32mt[0m   3    19 Some((5, 2, "enact")) ["enact", "exact", "exalt"]
+peart,evert,exert
+peart,evert,inert
+peart,evert,overt
+219 [0mp[1;33me[0ma[1;32mr[1;32mt[0m   3    13 Some((6, 2, "evert")) ["exert", "inert", "overt"]
+peart,pence
+peart,pence,penne
+peart,pence,penny
+peart,pence,pesky
+  8 [1;32mp[1;32me[0ma[0mr[0mt[0m   4   117 Some((7, 2, "pence")) ["pence", "penne", "penny", "pesky"]
+peart,panel
+peart,panel,pause
+peart,panel,payee
+peart,panel,plead
+ 14 [1;32mp[1;33me[1;33ma[0mr[0mt[0m   4   113 Some((7, 2, "panel")) ["panel", "pause", "payee", "plead"]
+peart,space,agape
+peart,space,shape
+peart,space
+peart,space,spade
+ 22 [1;33mp[1;33me[1;32ma[0mr[0mt[0m   4    56 Some((7, 2, "space")) ["agape", "shape", "space", "spade"]
+peart,slurp,chirp
+peart,slurp
+peart,slurp,spurn
+peart,slurp,usurp
+ 55 [1;33mp[0me[0ma[1;32mr[0mt[0m   4    72 Some((7, 2, "slurp")) ["chirp", "slurp", "spurn", "usurp"]
+peart,stern,entry
+peart,stern
+peart,stern,store
+peart,stern,there
+138 [0mp[1;33me[0ma[1;32mr[1;33mt[0m   4    52 Some((7, 2, "stern")) ["entry", "stern", "store", "there"]
+peart,spilt,input
+peart,spilt
+peart,spilt,split
+peart,spilt,spout
+163 [1;33mp[0me[0ma[0mr[1;32mt[0m   4   108 Some((7, 2, "spilt")) ["input", "spilt", "split", "spout"]
+peart,pilot
+peart,pilot,pivot
+peart,pilot,point
+peart,pilot,point,posit
+164 [1;32mp[0me[0ma[0mr[1;32mt[0m   4    35 Some((8, 3, "pilot")) ["pilot", "pivot", "point", "posit"]
+peart,smart,chart
+peart,smart,chart,quart
+peart,smart
+peart,smart,start
+234 [0mp[0me[1;32ma[1;32mr[1;32mt[0m   4    19 Some((8, 3, "smart")) ["chart", "quart", "smart", "start"]
+peart,parle,paler
+peart,parle,paper
+peart,parle,parer
+peart,parle,parse
+peart,parle,paper,payer
+ 41 [1;32mp[1;33me[1;33ma[1;33mr[0mt[0m   5    34 Some((11, 3, "parle")) ["paler", "paper", "parer", "parse", "payer"]
+peart,tepee,depth
+peart,tepee,setup
+peart,tepee,tempo
+peart,tepee
+peart,tepee,tepid
+ 88 [1;33mp[1;32me[0ma[0mr[1;33mt[0m   5    46 Some((9, 2, "tepee")) ["depth", "setup", "tempo", "tepee", "tepid"]
+peart,death
+peart,death,heath
+peart,death,meaty
+peart,death,teach
+peart,death,tease
+105 [0mp[1;32me[1;32ma[0mr[1;33mt[0m   5    47 Some((9, 2, "death")) ["death", "heath", "meaty", "teach", "tease"]
+peart,crate
+peart,crate,grate
+peart,crate,grate,irate
+peart,crate,trace
+peart,crate,trade
+129 [0mp[1;33me[1;32ma[1;33mr[1;33mt[0m   5    23 Some((10, 3, "crate")) ["crate", "grate", "irate", "trace", "trade"]
+peart,plain,piano
+peart,plain,plaid
+peart,plain
+peart,plain,plank
+peart,plain,plaza
+peart,plain,psalm
+ 20 [1;32mp[0me[1;32ma[0mr[0mt[0m   6    71 Some((11, 2, "plain")) ["piano", "plaid", "plain", "plank", "plaza", "psalm"]
+peart,yearn,beard
+peart,yearn,beard,heard
+peart,yearn,learn
+peart,yearn,beard,rearm
+peart,yearn,weary
+peart,yearn
+ 78 [0mp[1;32me[1;32ma[1;32mr[0mt[0m   6    37 Some((13, 3, "yearn")) ["beard", "heard", "learn", "rearm", "weary", "yearn"]
+peart,pitch,photo
+peart,pitch,pinto
+peart,pitch
+peart,pitch,pithy
+peart,pitch,pouty
+peart,pitch,putty
+ 83 [1;32mp[0me[0ma[0mr[1;33mt[0m   6   139 Some((11, 2, "pitch")) ["photo", "pinto", "pitch", "pithy", "pouty", "putty"]
+peart,pasta
+peart,pasta,pasty
+peart,pasta,patch
+peart,pasta,patch,patio
+peart,pasta,patsy
+peart,pasta,patty
+ 92 [1;32mp[0me[1;33ma[0mr[1;33mt[0m   6    55 Some((12, 3, "pasta")) ["pasta", "pasty", "patch", "patio", "patsy", "patty"]
+peart,deter,berth
+peart,deter
+peart,deter,meter
+peart,deter,retch
+peart,deter,tenor
+peart,deter,terse
+114 [0mp[1;32me[0ma[1;33mr[1;33mt[0m   6    88 Some((11, 2, "deter")) ["berth", "deter", "meter", "retch", "tenor", "terse"]
+peart,slept,inept
+peart,slept
+peart,slept,spelt
+peart,slept,spent
+peart,slept,swept
+peart,slept,upset
+166 [1;33mp[1;33me[0ma[0mr[1;32mt[0m   6    39 Some((11, 2, "slept")) ["inept", "slept", "spelt", "spent", "swept", "upset"]
+peart,erect,crest
+peart,erect,egret
+peart,erect
+peart,erect,greet
+peart,erect,rivet
+peart,erect,wrest
+192 [0mp[1;33me[0ma[1;33mr[1;32mt[0m   6    72 Some((11, 2, "erect")) ["crest", "egret", "erect", "greet", "rivet", "wrest"]
+peart,berry
+peart,berry,decry
+peart,berry,ferry
+peart,berry,genre
+peart,berry,decry,leery
+peart,berry,ferry,merry
+peart,berry,genre,weird
+ 60 [0mp[1;32me[0ma[1;32mr[0mt[0m   7   101 Some((16, 3, "berry")) ["berry", "decry", "ferry", "genre", "leery", "merry", "weird"]
+peart,blare,scare,aware
+peart,blare
+peart,blare,flare
+peart,blare,flare,glare
+peart,blare,scare
+peart,blare,scare,share
+peart,blare,scare,share,snare
+ 75 [0mp[1;33me[1;32ma[1;32mr[0mt[0m   7    56 Some((18, 4, "blare")) ["aware", "blare", "flare", "glare", "scare", "share", "snare"]
+peart,trail,stair
+peart,trail,track
+peart,trail
+peart,trail,train
+peart,trail,track,trash
+peart,trail,trawl
+peart,trail,wrath
+126 [0mp[0me[1;32ma[1;33mr[1;33mt[0m   7   102 Some((14, 3, "trail")) ["stair", "track", "trail", "train", "trash", "trawl", "wrath"]
+peart,stork,intro
+peart,stork
+peart,stork,storm
+peart,stork,storm,story
+peart,stork,third
+peart,stork,thorn
+peart,stork,third,twirl
+135 [0mp[0me[0ma[1;32mr[1;33mt[0m   7   132 Some((15, 3, "stork")) ["intro", "stork", "storm", "story", "third", "thorn", "twirl"]
+peart,besit,befit
+peart,besit,beget
+peart,besit,beset
+peart,besit,debit
+peart,besit,debut
+peart,besit,heist
+peart,besit,tenet
+168 [0mp[1;32me[0ma[0mr[1;32mt[0m   7    86 Some((14, 2, "besit")) ["befit", "beget", "beset", "debit", "debut", "heist", "tenet"]
+peart,leant,beast
+peart,leant,dealt
+peart,leant,beast,feast
+peart,leant
+peart,leant,least
+peart,leant,meant
+peart,leant,beast,feast,yeast
+186 [0mp[1;32me[1;32ma[0mr[1;32mt[0m   7    15 Some((16, 4, "leant")) ["beast", "dealt", "feast", "leant", "least", "meant", "yeast"]
+peart,beret
+peart,beret,merit
+peart,beret,rebut
+peart,beret,refit,recut
+peart,beret,refit
+peart,beret,refit,remit
+peart,beret,reset
+195 [0mp[1;32me[0ma[1;33mr[1;32mt[0m   7    27 Some((15, 3, "beret")) ["beret", "merit", "rebut", "recut", "refit", "remit", "reset"]
+peart,craft
+peart,craft,draft
+peart,craft,draft,graft
+peart,craft,grant
+peart,craft,roast
+peart,craft,tract
+peart,craft,grant,trait
+207 [0mp[0me[1;32ma[1;33mr[1;32mt[0m   7    45 Some((15, 3, "craft")) ["craft", "draft", "graft", "grant", "roast", "tract", "trait"]
+peart,shirt,blurt
+peart,shirt,blurt,court
+peart,shirt,flirt
+peart,shirt
+peart,shirt,short
+peart,shirt,skirt
+peart,shirt,snort
+216 [0mp[0me[0ma[1;32mr[1;32mt[0m   7    50 Some((14, 3, "shirt")) ["blurt", "court", "flirt", "shirt", "short", "skirt", "snort"]
+peart,apple,ample
+peart,apple,apnea
+peart,apple
+peart,apple,cheap
+peart,apple,lapel
+peart,apple,lapse
+peart,apple,maple
+peart,apple,speak
+ 13 [1;33mp[1;33me[1;33ma[0mr[0mt[0m   8   229 Some((15, 2, "apple")) ["ample", "apnea", "apple", "cheap", "lapel", "lapse", "maple", "speak"]
+peart,raspy,apron
+peart,raspy,harpy
+peart,raspy,ralph
+peart,raspy,rapid
+peart,raspy
+peart,raspy,scrap
+peart,raspy,spray
+peart,raspy,vapor
+ 37 [1;33mp[0me[1;33ma[1;33mr[0mt[0m   8   183 Some((15, 2, "raspy")) ["apron", "harpy", "ralph", "rapid", "raspy", "scrap", "spray", "vapor"]
+peart,topoi,optic
+peart,topoi,stomp
+peart,topoi,stoop
+peart,topoi,stump
+peart,topoi,thump
+peart,topoi,tipsy
+peart,topoi,topic
+peart,topoi,tulip
+ 82 [1;33mp[0me[0ma[0mr[1;33mt[0m   8   347 Some((16, 2, "topoi")) ["optic", "stomp", "stoop", "stump", "thump", "tipsy", "topic", "tulip"]
+peart,happy,alpha
+peart,happy,amply
+peart,happy,aphid
+peart,happy,aping
+peart,happy,apply
+peart,happy
+peart,happy,kappa
+peart,happy,sappy
+peart,happy,vapid
+ 10 [1;33mp[0me[1;33ma[0mr[0mt[0m   9   726 Some((17, 2, "happy")) ["alpha", "amply", "aphid", "aping", "apply", "happy", "kappa", "sappy", "vapid"]
+peart,palsy,paddy
+peart,palsy,pagan
+peart,palsy
+peart,palsy,pagan,panic
+peart,palsy,pansy
+peart,palsy,papal
+peart,palsy,pizza
+peart,palsy,polka
+peart,palsy,pupal
+ 11 [1;32mp[0me[1;33ma[0mr[0mt[0m   9   331 Some((18, 3, "palsy")) ["paddy", "pagan", "palsy", "panic", "pansy", "papal", "pizza", "polka", "pupal"]
+peart,crump,crimp
+peart,crump,crisp
+peart,crump,croup
+peart,crump
+peart,crump,droop
+peart,crump,group
+peart,crump,morph
+peart,crump,sprig
+peart,crump,syrup
+ 28 [1;33mp[0me[0ma[1;33mr[0mt[0m   9   488 Some((17, 2, "crump")) ["crimp", "crisp", "croup", "crump", "droop", "group", "morph", "sprig", "syrup"]
+peart,regal,cedar
+peart,regal,cedar,debar
+peart,regal,feral
+peart,regal,rebar
+peart,regal
+peart,regal,rebar,rehab
+peart,regal,relax
+peart,regal,relax,relay
+peart,regal,renal
+ 42 [0mp[1;32me[1;33ma[1;33mr[0mt[0m   9   133 Some((20, 3, "regal")) ["cedar", "debar", "feral", "rebar", "regal", "rehab", "relax", "relay", "renal"]
+peart,swamp,champ
+peart,swamp,champ,clamp
+peart,swamp,clasp
+peart,swamp,scalp
+peart,swamp,scamp
+peart,swamp,soapy
+peart,swamp,soapy,spank
+peart,swamp,spasm
+peart,swamp,spawn
+peart,swamp
+ 19 [1;33mp[0me[1;32ma[0mr[0mt[0m  10   194 Some((21, 3, "swamp")) ["champ", "clamp", "clasp", "scalp", "scamp", "soapy", "spank", "spasm", "spawn", "swamp"]
+peart,proyn,porch
+peart,proyn,prick
+peart,proyn,primo
+peart,proyn,primo,prior
+peart,proyn,prick,prism
+peart,proyn,privy
+peart,proyn,prong
+peart,proyn,proul,proof
+peart,proyn,proul,proud
+peart,proyn,proul,prowl
+peart,proyn,proxy
+ 29 [1;32mp[0me[0ma[1;33mr[0mt[0m  11   250 Some((27, 3, "proyn")) ["porch", "prick", "primo", "prior", "prism", "privy", "prong", "proof", "proud", "prowl", "proxy"]
+peart,slate,abate
+peart,slate,abate,agate
+peart,slate,elate
+peart,slate,abate,ovate
+peart,slate,skate
+peart,slate
+peart,slate,stage
+peart,slate,stage,stake
+peart,slate,stale
+peart,slate,skate,state
+peart,slate,stage,stake,stave
+102 [0mp[1;33me[1;32ma[0mr[1;33mt[0m  11    94 Some((27, 4, "slate")) ["abate", "agate", "elate", "ovate", "skate", "slate", "stage", "stake", "stale", "state", "stave"]
+peart,earth,after
+peart,earth,after,alter
+peart,earth,cater
+peart,earth
+peart,earth,eater
+peart,earth,hater
+peart,earth,cater,later
+peart,earth,cater,taker
+peart,earth,cater,taker,tamer
+peart,earth,after,tread
+peart,earth,cater,later,water
+120 [0mp[1;33me[1;33ma[1;33mr[1;33mt[0m  11    93 Some((29, 4, "earth")) ["after", "alter", "cater", "earth", "eater", "hater", "later", "taker", "tamer", "tread", "water"]
+peart,cleat,agent
+peart,cleat,asset
+peart,cleat,bleat
+peart,cleat,cadet
+peart,cleat,cheat
+peart,cleat
+peart,cleat,eclat
+peart,cleat,facet
+peart,cleat,sweat
+peart,cleat,valet
+peart,cleat,sweat,wheat
+174 [0mp[1;33me[1;33ma[0mr[1;32mt[0m  11    67 Some((22, 3, "cleat")) ["agent", "asset", "bleat", "cadet", "cheat", "cleat", "eclat", "facet", "sweat", "valet", "wheat"]
+peart,clast,await
+peart,clast,blast
+peart,clast,boast
+peart,clast,chant
+peart,clast,coast
+peart,clast,await,giant
+peart,clast,scant
+peart,clast,shaft
+peart,clast,shalt
+peart,clast,slant
+peart,clast,boast,toast
+180 [0mp[0me[1;32ma[0mr[1;32mt[0m  11   107 Some((24, 3, "clast")) ["await", "blast", "boast", "chant", "coast", "giant", "scant", "shaft", "shalt", "slant", "toast"]
+peart,poule,phone
+peart,poule,piece
+peart,poule,piney
+peart,poule,pique
+peart,poule,pixel
+peart,poule,piece,pixie
+peart,poule,pixel,plied
+peart,poule,plume
+peart,poule,poesy
+peart,poule,poise
+peart,poule,poise,posse
+peart,poule,pulse
+  5 [1;32mp[1;33me[0ma[0mr[0mt[0m  12   366 Some((27, 3, "poule")) ["phone", "piece", "piney", "pique", "pixel", "pixie", "plied", "plume", "poesy", "poise", "posse", "pulse"]
+peart,rupee,creep
+peart,rupee,crepe
+peart,rupee,gripe
+peart,rupee,gripe,grope
+peart,rupee,hyper
+peart,rupee,ripen
+peart,rupee,ripen,riper
+peart,rupee
+peart,rupee,spree
+peart,rupee,super
+peart,rupee,upper
+peart,rupee,hyper,viper
+ 31 [1;33mp[1;33me[0ma[1;33mr[0mt[0m  12   232 Some((26, 3, "rupee")) ["creep", "crepe", "gripe", "grope", "hyper", "ripen", "riper", "rupee", "spree", "super", "upper", "viper"]
+peart,decal,began
+peart,decal
+peart,decal,decay
+peart,decal,delay
+peart,decal,fecal
+peart,decal,fella
+peart,decal,began,kebab
+peart,decal,legal
+peart,decal,mecca
+peart,decal,medal
+peart,decal,media
+peart,decal,sedan
+peart,decal,began,vegan
+ 15 [0mp[1;32me[1;33ma[0mr[0mt[0m  13   405 Some((27, 3, "decal")) ["began", "decal", "decay", "delay", "fecal", "fella", "kebab", "legal", "mecca", "medal", "media", "sedan", "vegan"]
+peart,grace,brace
+peart,grace,brake
+peart,grace,brake,brave
+peart,grace,crane
+peart,grace,crane,crave
+peart,grace,crane,crave,craze
+peart,grace,brake,drake
+peart,grace,brake,erase
+peart,grace,brake,erase,frame
+peart,grace
+peart,grace,grade
+peart,grace,grade,grave
+peart,grace,grade,grave,graze
+ 48 [0mp[1;33me[1;32ma[1;33mr[0mt[0m  13   121 Some((36, 4, "grace")) ["brace", "brake", "brave", "crane", "crave", "craze", "drake", "erase", "frame", "grace", "grade", "grave", "graze"]
+peart,chore
+peart,chore,clerk
+peart,chore,emirs,every
+peart,chore,fibre
+peart,chore,emirs,fiery
+peart,chore,ombre
+peart,chore,emirs,query
+peart,chore,score
+peart,chore,shire
+peart,chore,shore
+peart,chore,snore
+peart,chore,snore,swore
+peart,chore,shire,where
+ 57 [0mp[1;33me[0ma[1;32mr[0mt[0m  13   284 Some((30, 3, "chore")) ["chore", "clerk", "every", "fibre", "fiery", "ombre", "query", "score", "shire", "shore", "snore", "swore", "where"]
+peart,thank,loath
+peart,thank,stack
+peart,thank,dealt,staff
+peart,thank,dealt,staid
+peart,thank,stain
+peart,thank,stack,stalk
+peart,thank,dealt,stall
+peart,thank,stand
+peart,thank,stank
+peart,thank,loath,stash
+peart,thank,loath,swath
+peart,thank
+peart,thank,twang
+ 99 [0mp[0me[1;32ma[0mr[1;33mt[0m  13   308 Some((31, 3, "thank")) ["loath", "stack", "staff", "staid", "stain", "stalk", "stall", "stand", "stank", "stash", "swath", "thank", "twang"]
+peart,tardy,actor
+peart,tardy,actor,altar
+peart,tardy,aorta
+peart,tardy,artsy
+peart,tardy,ratio
+peart,tardy,ratty
+peart,tardy,satyr
+peart,tardy,aorta,straw
+peart,tardy,stray
+peart,tardy
+peart,tardy,triad
+peart,tardy,trial
+peart,tardy,warty
+117 [0mp[0me[1;33ma[1;33mr[1;33mt[0m  13   308 Some((27, 3, "tardy")) ["actor", "altar", "aorta", "artsy", "ratio", "ratty", "satyr", "straw", "stray", "tardy", "triad", "trial", "warty"]
+peart,leash,beach
+peart,leash,beady
+peart,leash,cease
+peart,leash,heady
+peart,leash,heady,heave
+peart,leash,heady,heavy
+peart,leash,leach
+peart,leash,leafy
+peart,leash,leafy,leaky
+peart,leash,lease
+peart,leash
+peart,leash,leafy,leave
+peart,leash,mealy
+peart,leash,beady,weave
+ 24 [0mp[1;32me[1;32ma[0mr[0mt[0m  14   189 Some((32, 3, "leash")) ["beach", "beady", "cease", "heady", "heave", "heavy", "leach", "leafy", "leaky", "lease", "leash", "leave", "mealy", "weave"]
+peart,cairn,acorn
+peart,cairn,adorn
+peart,cairn,agora
+peart,cairn,angry
+peart,cairn
+peart,cairn,carry
+peart,cairn,cobra
+peart,cairn,dairy
+peart,cairn,dairy,fairy
+peart,cairn,agora,flora
+peart,cairn,dairy,fairy,hairy
+peart,cairn,harry
+peart,cairn,macro
+peart,cairn,harry,marry
+peart,cairn,agora,umbra
+ 63 [0mp[0me[1;33ma[1;32mr[0mt[0m  15   350 Some((35, 4, "cairn")) ["acorn", "adorn", "agora", "angry", "cairn", "carry", "cobra", "dairy", "fairy", "flora", "hairy", "harry", "macro", "marry", "umbra"]
+peart,fetts,betel
+peart,fetts,deity
+peart,fetts,betel,detox
+peart,fetts,fetch
+peart,fetts,fetch,fetid
+peart,fetts,fetus
+peart,fetts,hefty
+peart,fetts,jetty
+peart,fetts,hefty,lefty
+peart,fetts,teddy
+peart,fetts,teeth
+peart,fetts,tense
+peart,fetts,teeth,tenth
+peart,fetts,testy
+peart,fetts,zesty
+ 87 [0mp[1;32me[0ma[0mr[1;33mt[0m  15   403 Some((34, 3, "fetts")) ["betel", "deity", "detox", "fetch", "fetid", "fetus", "hefty", "jetty", "lefty", "teddy", "teeth", "tense", "tenth", "testy", "zesty"]
+peart,chard,alarm
+peart,chard,award
+peart,chard,award,board
+peart,chard
+peart,chard,charm
+peart,chard,diary
+peart,chard,diary,dwarf
+peart,chard,award,board,guard
+peart,chard,hoard
+peart,chard,alarm,ovary
+peart,chard,alarm,ovary,quark
+peart,chard,scarf
+peart,chard,scarf,scary
+peart,chard,shard
+peart,chard,shark
+peart,chard,alarm,snarl
+peart,chard,alarm,swarm
+peart,chard,shark,wharf
+ 72 [0mp[0me[1;32ma[1;32mr[0mt[0m  18   167 Some((46, 4, "chard")) ["alarm", "award", "board", "chard", "charm", "diary", "dwarf", "guard", "hoard", "ovary", "quark", "scarf", "scary", "shard", "shark", "snarl", "swarm", "wharf"]
+ 32 [1;32mp[1;33me[0ma[1;33mr[0mt[0m  22   129 None ["piper", "plier", "poker", "poser", "power", "preen", "press", "price", "pride", "pried", "prime", "prize", "probe", "prone", "prose", "prove", "prude", "prune", "puree", "purer", "purge", "purse"]

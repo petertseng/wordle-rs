@@ -1,0 +1,340 @@
+arets,argue
+ 17 [1;32ma[1;32mr[1;33me[0mt[0ms[0m   1    39 Some((1, 1, "argue")) ["argue"]
+arets,arena
+ 26 [1;32ma[1;32mr[1;32me[0mt[0ms[0m   1    17 Some((1, 1, "arena")) ["arena"]
+arets,atone
+ 38 [1;32ma[0mr[1;33me[1;33mt[0ms[0m   1    41 Some((1, 1, "atone")) ["atone"]
+arets,aorta
+ 59 [1;32ma[1;33mr[0me[1;32mt[0ms[0m   1     7 Some((1, 1, "aorta")) ["aorta"]
+arets,wrath
+ 61 [1;33ma[1;32mr[0me[1;32mt[0ms[0m   1    22 Some((1, 1, "wrath")) ["wrath"]
+arets,earth
+ 67 [1;33ma[1;33mr[1;33me[1;32mt[0ms[0m   1    17 Some((1, 1, "earth")) ["earth"]
+arets,theta
+ 73 [1;33ma[0mr[1;32me[1;32mt[0ms[0m   1     9 Some((1, 1, "theta")) ["theta"]
+arets,arson
+ 89 [1;32ma[1;32mr[0me[0mt[1;33ms[0m   1    28 Some((1, 1, "arson")) ["arson"]
+arets,prose
+ 96 [0ma[1;32mr[1;33me[0mt[1;33ms[0m   1    92 Some((1, 1, "prose")) ["prose"]
+arets,erase
+ 97 [1;33ma[1;32mr[1;33me[0mt[1;33ms[0m   1    15 Some((1, 1, "erase")) ["erase"]
+arets,fresh
+105 [0ma[1;32mr[1;32me[0mt[1;33ms[0m   1    50 Some((1, 1, "fresh")) ["fresh"]
+arets,trash
+115 [1;33ma[1;32mr[0me[1;33mt[1;33ms[0m   1    18 Some((1, 1, "trash")) ["trash"]
+arets,artsy
+116 [1;32ma[1;32mr[0me[1;33mt[1;33ms[0m   1     3 Some((1, 1, "artsy")) ["artsy"]
+arets,asset
+119 [1;32ma[0mr[1;33me[1;33mt[1;33ms[0m   1     6 Some((1, 1, "asset")) ["asset"]
+arets,stare
+121 [1;33ma[1;33mr[1;33me[1;33mt[1;33ms[0m   1    13 Some((1, 1, "stare")) ["stare"]
+arets,rusty
+138 [0ma[1;33mr[0me[1;32mt[1;33ms[0m   1    66 Some((1, 1, "rusty")) ["rusty"]
+arets,virus
+165 [0ma[1;33mr[0me[0mt[1;32ms[0m   1   956 Some((1, 1, "virus")) ["virus"]
+arets,rebus
+174 [0ma[1;33mr[1;33me[0mt[1;32ms[0m   1   335 Some((1, 1, "rebus")) ["rebus"]
+arets,torus
+192 [0ma[1;33mr[0me[1;33mt[1;32ms[0m   1   144 Some((1, 1, "torus")) ["torus"]
+arets,truss
+195 [0ma[1;32mr[0me[1;33mt[1;32ms[0m   1    46 Some((1, 1, "truss")) ["truss"]
+arets,ahead
+arets,ahead,amend
+ 20 [1;32ma[0mr[1;32me[0mt[0ms[0m   2    68 Some((3, 2, "ahead")) ["ahead", "amend"]
+arets,clear
+arets,clear,opera
+ 22 [1;33ma[1;33mr[1;32me[0mt[0ms[0m   2    70 Some((3, 2, "clear")) ["clear", "opera"]
+arets,after
+arets,after,alter
+ 41 [1;32ma[1;33mr[1;33me[1;33mt[0ms[0m   2    14 Some((3, 2, "after")) ["after", "alter"]
+arets,trace
+arets,trace,trade
+ 43 [1;33ma[1;32mr[1;33me[1;33mt[0ms[0m   2    23 Some((3, 2, "trace")) ["trace", "trade"]
+arets,adept
+arets,adept,agent
+ 47 [1;32ma[0mr[1;32me[1;33mt[0ms[0m   2    15 Some((3, 2, "adept")) ["adept", "agent"]
+arets,alert
+arets,alert,avert
+ 50 [1;32ma[1;33mr[1;32me[1;33mt[0ms[0m   2     6 Some((3, 2, "alert")) ["alert", "avert"]
+arets,amity
+arets,amity,aunty
+ 56 [1;32ma[0mr[0me[1;32mt[0ms[0m   2    29 Some((3, 2, "amity")) ["amity", "aunty"]
+arets,piety
+arets,piety,teeth
+ 72 [0ma[0mr[1;32me[1;32mt[0ms[0m   2    47 Some((3, 2, "piety")) ["piety", "teeth"]
+arets,assay
+arets,assay,awash
+ 83 [1;32ma[0mr[0me[0mt[1;33ms[0m   2   228 Some((3, 2, "assay")) ["assay", "awash"]
+arets,arise
+arets,arise,arose
+ 98 [1;32ma[1;32mr[1;33me[0mt[1;33ms[0m   2     8 Some((3, 2, "arise")) ["arise", "arose"]
+arets,sneak
+arets,sneak,speak
+100 [1;33ma[0mr[1;32me[0mt[1;33ms[0m   2    59 Some((3, 2, "sneak")) ["sneak", "speak"]
+arets,angst
+arets,angst,ascot
+110 [1;32ma[0mr[0me[1;33mt[1;33ms[0m   2    37 Some((3, 2, "angst")) ["angst", "ascot"]
+arets,steer
+arets,steer,stern
+129 [0ma[1;33mr[1;32me[1;33mt[1;33ms[0m   2    22 Some((3, 2, "steer")) ["steer", "stern"]
+arets,crest
+arets,crest,wrest
+132 [0ma[1;32mr[1;32me[1;33mt[1;33ms[0m   2    14 Some((3, 2, "crest")) ["crest", "wrest"]
+arets,ethos
+arets,ethos,fetus
+198 [0ma[0mr[1;33me[1;33mt[1;32ms[0m   2   270 Some((3, 2, "ethos")) ["ethos", "fetus"]
+arets,great
+arets,great,tread
+arets,great,treat
+ 52 [1;33ma[1;32mr[1;32me[1;33mt[0ms[0m   3     8 Some((5, 2, "great")) ["great", "tread", "treat"]
+arets,party
+arets,party,ratty
+arets,party,warty
+ 58 [1;33ma[1;33mr[0me[1;32mt[0ms[0m   3    63 Some((5, 2, "party")) ["party", "ratty", "warty"]
+arets,abate
+arets,abate,acute
+arets,abate,agate
+ 65 [1;32ma[0mr[1;33me[1;32mt[0ms[0m   3    13 Some((5, 2, "abate")) ["abate", "acute", "agate"]
+arets,berth
+arets,berth,forte
+arets,berth,route
+ 66 [0ma[1;33mr[1;33me[1;32mt[0ms[0m   3    49 Some((5, 2, "berth")) ["berth", "forte", "route"]
+arets,crate
+arets,crate,grate
+arets,crate,grate,irate
+ 70 [1;33ma[1;32mr[1;33me[1;32mt[0ms[0m   3    11 Some((6, 3, "crate")) ["crate", "grate", "irate"]
+arets,brash
+arets,brash,crash
+arets,brash,grasp
+ 88 [1;33ma[1;32mr[0me[0mt[1;33ms[0m   3   105 Some((5, 2, "brash")) ["brash", "crash", "grasp"]
+arets,sheer
+arets,sheer,sneer
+arets,sheer,sperm
+102 [0ma[1;33mr[1;32me[0mt[1;33ms[0m   3   127 Some((5, 2, "sheer")) ["sheer", "sneer", "sperm"]
+arets,amass,abyss
+arets,amass
+arets,amass,amiss
+164 [1;32ma[0mr[0me[0mt[1;32ms[0m   3   165 Some((5, 2, "amass")) ["abyss", "amass", "amiss"]
+arets,crags,cross
+arets,crags,dross
+arets,crags,gross
+168 [0ma[1;32mr[0me[0mt[1;32ms[0m   3   232 Some((6, 2, "crags")) ["cross", "dross", "gross"]
+arets,brags,brass
+arets,brags,crass
+arets,brags,grass
+169 [1;33ma[1;32mr[0me[0mt[1;32ms[0m   3    87 Some((6, 2, "brags")) ["brass", "crass", "grass"]
+arets,alecs,bless
+arets,alecs,chess
+arets,alecs,guess
+180 [0ma[0mr[1;32me[0mt[1;32ms[0m   3   298 Some((6, 2, "alecs")) ["bless", "chess", "guess"]
+arets,creds,cress
+arets,creds,dress
+arets,creds,press
+186 [0ma[1;32mr[1;32me[0mt[1;32ms[0m   3    41 Some((6, 2, "creds")) ["cress", "dress", "press"]
+arets,abort
+arets,abort,actor
+arets,abort,altar
+arets,abort,apart
+ 32 [1;32ma[1;33mr[0me[1;33mt[0ms[0m   4    40 Some((7, 2, "abort")) ["abort", "actor", "altar", "apart"]
+arets,crept
+arets,crept,erect
+arets,crept,greet
+arets,crept,trend
+ 51 [0ma[1;32mr[1;32me[1;33mt[0ms[0m   4    37 Some((7, 2, "crept")) ["crept", "erect", "greet", "trend"]
+arets,broth
+arets,broth,fritz
+arets,broth,froth
+arets,broth,truth
+ 60 [0ma[1;32mr[0me[1;32mt[0ms[0m   4    51 Some((7, 2, "broth")) ["broth", "fritz", "froth", "truth"]
+arets,write,brute
+arets,write,trite
+arets,write
+arets,write,wrote
+ 69 [0ma[1;32mr[1;33me[1;32mt[0ms[0m   4    18 Some((7, 2, "write")) ["brute", "trite", "write", "wrote"]
+arets,shear
+arets,shear,smear
+arets,shear,smear,spear
+arets,shear,smear,spear,swear
+103 [1;33ma[1;33mr[1;32me[0mt[1;33ms[0m   4    17 Some((10, 4, "shear")) ["shear", "smear", "spear", "swear"]
+arets,ester
+arets,ester,reset
+arets,ester,store
+arets,ester,terse
+120 [0ma[1;33mr[1;33me[1;33mt[1;33ms[0m   4    70 Some((7, 2, "ester")) ["ester", "reset", "store", "terse"]
+arets,chaos,basis
+arets,chaos
+arets,chaos,class
+arets,chaos,glass
+163 [1;33ma[0mr[0me[0mt[1;32ms[0m   4  1479 Some((7, 2, "chaos")) ["basis", "chaos", "class", "glass"]
+arets,evert,exert
+arets,evert,inert
+arets,evert,overt
+arets,evert,their
+arets,evert,there
+ 48 [0ma[1;33mr[1;32me[1;33mt[0ms[0m   5    62 Some((10, 2, "evert")) ["exert", "inert", "overt", "their", "there"]
+arets,trust,crust
+arets,trust,frost
+arets,trust
+arets,trust,tryst
+arets,trust,frost,wrist
+114 [0ma[1;32mr[0me[1;33mt[1;33ms[0m   5    67 Some((10, 3, "trust")) ["crust", "frost", "trust", "tryst", "wrist"]
+arets,stead
+arets,stead,steak
+arets,stead,steak,steal
+arets,stead,steak,steal,steam
+arets,stead,sweat
+127 [1;33ma[0mr[1;32me[1;33mt[1;33ms[0m   5    15 Some((12, 4, "stead")) ["stead", "steak", "steal", "steam", "sweat"]
+arets,arbor
+arets,arbor,ardor
+arets,arbor,ardor,armor
+arets,arbor,aroma
+arets,arbor,array
+arets,arbor,arrow
+  8 [1;32ma[1;32mr[0me[0mt[0ms[0m   6    87 Some((12, 3, "arbor")) ["arbor", "ardor", "armor", "aroma", "array", "arrow"]
+arets,cheat,bleat
+arets,cheat
+arets,cheat,cleat
+arets,cheat,bleat,pleat
+arets,cheat,tweak
+arets,cheat,wheat
+ 46 [1;33ma[0mr[1;32me[1;33mt[0ms[0m   6    44 Some((12, 3, "cheat")) ["bleat", "cheat", "cleat", "pleat", "tweak", "wheat"]
+arets,brisk
+arets,brisk,brush
+arets,brisk,crisp
+arets,brisk,crush
+arets,brisk,frisk
+arets,brisk,crisp,prism
+ 87 [0ma[1;32mr[0me[0mt[1;33ms[0m   6   299 Some((12, 3, "brisk")) ["brisk", "brush", "crisp", "crush", "frisk", "prism"]
+arets,abase
+arets,abase,abuse
+arets,abase,aisle
+arets,abase,amuse
+arets,abase,ashen
+arets,abase,aisle,aside
+arets,abase,ashen,askew
+ 92 [1;32ma[0mr[1;33me[0mt[1;33ms[0m   7    72 Some((15, 3, "abase")) ["abase", "abuse", "aisle", "amuse", "ashen", "aside", "askew"]
+arets,pesto
+arets,pesto,smite
+arets,pesto,smote
+arets,pesto,spite
+arets,pesto,smite,suite
+arets,pesto,testy
+arets,pesto,testy,zesty
+144 [0ma[0mr[1;33me[1;32mt[1;33ms[0m   7   155 Some((15, 3, "pesto")) ["pesto", "smite", "smote", "spite", "suite", "testy", "zesty"]
+arets,aider,adore
+arets,aider,afire
+arets,aider,agree
+arets,aider
+arets,aider,amber
+arets,aider,amber,anger
+arets,aider,aware
+arets,aider,aware,azure
+ 14 [1;32ma[1;33mr[1;33me[0mt[0ms[0m   8    97 Some((17, 3, "aider")) ["adore", "afire", "agree", "aider", "amber", "anger", "aware", "azure"]
+arets,bread
+arets,bread,break
+arets,bread,creak
+arets,bread,creak,cream
+arets,bread,dread
+arets,bread,dream
+arets,bread,creak,freak
+arets,bread,creak,freak,wreak
+ 25 [1;33ma[1;32mr[1;32me[0mt[0ms[0m   8    39 Some((19, 4, "bread")) ["bread", "break", "creak", "cream", "dread", "dream", "freak", "wreak"]
+arets,birth
+arets,birth,dirty
+arets,birth,forth
+arets,birth,forty
+arets,birth,girth
+arets,birth,girth,mirth
+arets,birth,forth,north
+arets,birth,forth,north,worth
+ 57 [0ma[1;33mr[0me[1;32mt[0ms[0m   8   168 Some((19, 4, "birth")) ["birth", "dirty", "forth", "forty", "girth", "mirth", "north", "worth"]
+arets,nares,parse
+arets,nares,raise
+arets,nares,safer
+arets,nares,saner
+arets,nares,scare
+arets,nares,scare,share
+arets,nares,snare
+arets,nares,scare,share,spare
+ 94 [1;33ma[1;33mr[1;33me[0mt[1;33ms[0m   8   138 Some((19, 4, "nares")) ["parse", "raise", "safer", "saner", "scare", "share", "snare", "spare"]
+arets,hasty
+arets,hasty,nasty
+arets,hasty,pasta
+arets,hasty,nasty,pasty
+arets,hasty,salty
+arets,hasty,swath
+arets,hasty,nasty,pasty,tasty
+arets,hasty,vista
+136 [1;33ma[0mr[0me[1;32mt[1;33ms[0m   8   164 Some((18, 4, "hasty")) ["hasty", "nasty", "pasta", "pasty", "salty", "swath", "tasty", "vista"]
+arets,every,cheer
+arets,every,clerk
+arets,every
+arets,every,fiery
+arets,every,leery
+arets,every,cheer,queer
+arets,every,fiery,query
+arets,every,reedy
+arets,every,where
+ 21 [0ma[1;33mr[1;32me[0mt[0ms[0m   9   295 Some((19, 3, "every")) ["cheer", "clerk", "every", "fiery", "leery", "queer", "query", "reedy", "where"]
+arets,carat
+arets,carat,chart
+arets,carat,quart
+arets,carat,ratio
+arets,carat,ratio,tapir
+arets,carat,tardy
+arets,carat,tarot
+arets,carat,tiara
+arets,carat,ultra
+ 31 [1;33ma[1;33mr[0me[1;33mt[0ms[0m   9   308 Some((18, 3, "carat")) ["carat", "chart", "quart", "ratio", "tapir", "tardy", "tarot", "tiara", "ultra"]
+arets,trice,erupt
+arets,trice,tribe
+arets,trice
+arets,trice,tried
+arets,trice,tribe,tripe
+arets,trice,trope
+arets,trice,trope,trove
+arets,trice,truce
+arets,trice,truer
+ 42 [0ma[1;32mr[1;33me[1;33mt[0ms[0m   9    81 Some((19, 3, "trice")) ["erupt", "tribe", "trice", "tried", "tripe", "trope", "trove", "truce", "truer"]
+arets,death
+arets,death,delta
+arets,death,elate
+arets,death,haute
+arets,death,heath
+arets,death,latte
+arets,death,meaty
+arets,death,elate,ovate
+arets,death,elate,plate
+ 64 [1;33ma[0mr[1;33me[1;32mt[0ms[0m   9    90 Some((19, 3, "death")) ["death", "delta", "elate", "haute", "heath", "latte", "meaty", "ovate", "plate"]
+arets,stark,roast
+arets,stark,satyr
+arets,stark,smart
+arets,stark,stair
+arets,stark
+arets,stark,start
+arets,stark,strap
+arets,stark,strap,straw
+arets,stark,strap,straw,stray
+112 [1;33ma[1;33mr[0me[1;33mt[1;33ms[0m   9    91 Some((20, 4, "stark")) ["roast", "satyr", "smart", "stair", "stark", "start", "strap", "straw", "stray"]
+arets,least,beast
+arets,least,beast,feast
+arets,least
+arets,least,stage
+arets,least,stage,stake
+arets,least,stale
+arets,least,stage,stake,stave
+arets,least,tease
+arets,least,beast,feast,yeast
+118 [1;33ma[0mr[1;33me[1;33mt[1;33ms[0m   9   117 Some((23, 4, "least")) ["beast", "feast", "least", "stage", "stake", "stale", "stave", "tease", "yeast"]
+arets,adorn,abhor
+arets,adorn,acorn
+arets,adorn,acrid
+arets,adorn
+arets,adorn,agora
+arets,adorn,alarm
+arets,adorn,angry
+arets,adorn,apron
+arets,adorn,augur
+arets,adorn,award
+  5 [1;32ma[1;33mr[0me[0mt[0ms[0m  10   219 Some((19, 2, "adorn")) ["abhor", "acorn", "acrid", "adorn", "agora", "alarm", "angry", "apron", "augur", "award"]
+145 [1;33ma[0mr[1;33me[1;32mt[1;33ms[0m  10    32 None ["baste", "caste", "haste", "paste", "saute", "skate", "slate", "state", "taste", "waste"]

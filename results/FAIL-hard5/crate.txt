@@ -1,0 +1,533 @@
+crate,croak
+ 17 [1;32mc[1;32mr[1;33ma[0mt[0me[0m   1    33 Some((1, 1, "croak")) ["croak"]
+crate,wrack
+ 25 [1;33mc[1;32mr[1;32ma[0mt[0me[0m   1    44 Some((1, 1, "wrack")) ["wrack"]
+crate,torch
+ 31 [1;33mc[1;33mr[0ma[1;33mt[0me[0m   1    66 Some((1, 1, "torch")) ["torch"]
+crate,court
+ 32 [1;32mc[1;33mr[0ma[1;33mt[0me[0m   1    32 Some((1, 1, "court")) ["court"]
+crate,actor
+ 40 [1;33mc[1;33mr[1;33ma[1;33mt[0me[0m   1    25 Some((1, 1, "actor")) ["actor"]
+crate,carat
+ 41 [1;32mc[1;33mr[1;33ma[1;33mt[0me[0m   1    11 Some((1, 1, "carat")) ["carat"]
+crate,chart
+ 50 [1;32mc[1;33mr[1;32ma[1;33mt[0me[0m   1     4 Some((1, 1, "chart")) ["chart"]
+crate,craft
+ 53 [1;32mc[1;32mr[1;32ma[1;33mt[0me[0m   1     2 Some((1, 1, "craft")) ["craft"]
+crate,cloth
+ 56 [1;32mc[0mr[0ma[1;32mt[0me[0m   1    59 Some((1, 1, "cloth")) ["cloth"]
+crate,wrath
+ 78 [0mc[1;32mr[1;32ma[1;32mt[0me[0m   1    18 Some((1, 1, "wrath")) ["wrath"]
+crate,wreck
+ 88 [1;33mc[1;32mr[0ma[0mt[1;33me[0m   1    68 Some((1, 1, "wreck")) ["wreck"]
+crate,reach
+103 [1;33mc[1;33mr[1;32ma[0mt[1;33me[0m   1    15 Some((1, 1, "reach")) ["reach"]
+crate,erect
+115 [1;33mc[1;32mr[0ma[1;33mt[1;33me[0m   1    10 Some((1, 1, "erect")) ["erect"]
+crate,cater
+122 [1;32mc[1;33mr[1;33ma[1;33mt[1;33me[0m   1     4 Some((1, 1, "cater")) ["cater"]
+crate,react
+130 [1;33mc[1;33mr[1;32ma[1;33mt[1;33me[0m   1     3 Some((1, 1, "react")) ["react"]
+crate,berth
+138 [0mc[1;33mr[0ma[1;32mt[1;33me[0m   1    49 Some((1, 1, "berth")) ["berth"]
+crate,earth
+147 [0mc[1;33mr[1;33ma[1;32mt[1;33me[0m   1    17 Some((1, 1, "earth")) ["earth"]
+crate,price
+169 [1;33mc[1;32mr[0ma[0mt[1;32me[0m   1    32 Some((1, 1, "price")) ["price"]
+crate,farce
+175 [1;33mc[1;33mr[1;33ma[0mt[1;32me[0m   1    24 Some((1, 1, "farce")) ["farce"]
+crate,carve
+176 [1;32mc[1;33mr[1;33ma[0mt[1;32me[0m   1    15 Some((1, 1, "carve")) ["carve"]
+crate,scare
+184 [1;33mc[1;33mr[1;32ma[0mt[1;32me[0m   1    13 Some((1, 1, "scare")) ["scare"]
+crate,twice
+190 [1;33mc[0mr[0ma[1;33mt[1;32me[0m   1    19 Some((1, 1, "twice")) ["twice"]
+crate,cutie
+191 [1;32mc[0mr[0ma[1;33mt[1;32me[0m   1    11 Some((1, 1, "cutie")) ["cutie"]
+crate,stare
+210 [0mc[1;33mr[1;32ma[1;33mt[1;32me[0m   1    15 Some((1, 1, "stare")) ["stare"]
+crate,trade
+213 [0mc[1;32mr[1;32ma[1;33mt[1;32me[0m   1    12 Some((1, 1, "trade")) ["trade"]
+crate,trace
+214 [1;33mc[1;32mr[1;32ma[1;33mt[1;32me[0m   1     2 Some((1, 1, "trace")) ["trace"]
+crate,chute
+218 [1;32mc[0mr[0ma[1;32mt[1;32me[0m   1     9 Some((1, 1, "chute")) ["chute"]
+crate,acute
+226 [1;33mc[0mr[1;33ma[1;32mt[1;32me[0m   1     5 Some((1, 1, "acute")) ["acute"]
+crate,caste
+227 [1;32mc[0mr[1;33ma[1;32mt[1;32me[0m   1     4 Some((1, 1, "caste")) ["caste"]
+crate
+242 [1;32mc[1;32mr[1;32ma[1;32mt[1;32me[0m   1     1 Some((1, 1, "crate")) ["crate"]
+crate,clout
+crate,clout,count
+ 29 [1;32mc[0mr[0ma[1;33mt[0me[0m   2   141 Some((3, 2, "clout")) ["clout", "count"]
+crate,trick
+crate,trick,truck
+ 34 [1;33mc[1;32mr[0ma[1;33mt[0me[0m   2    30 Some((3, 2, "trick")) ["trick", "truck"]
+crate,crust
+crate,crust,crypt
+ 35 [1;32mc[1;32mr[0ma[1;33mt[0me[0m   2    14 Some((3, 2, "crust")) ["crust", "crypt"]
+crate,caput
+crate,caput,catch
+ 38 [1;32mc[0mr[1;33ma[1;33mt[0me[0m   2    48 Some((3, 2, "caput")) ["caput", "catch"]
+crate,scant
+crate,scant,stack
+ 46 [1;33mc[0mr[1;32ma[1;33mt[0me[0m   2    36 Some((3, 2, "scant")) ["scant", "stack"]
+crate,chant
+crate,chant,coast
+ 47 [1;32mc[0mr[1;32ma[1;33mt[0me[0m   2    18 Some((3, 2, "chant")) ["chant", "coast"]
+crate,track
+crate,track,tract
+ 52 [1;33mc[1;32mr[1;32ma[1;33mt[0me[0m   2     7 Some((3, 2, "track")) ["track", "tract"]
+crate,cacti
+crate,cacti,catty
+ 65 [1;32mc[0mr[1;33ma[1;32mt[0me[0m   2    21 Some((3, 2, "cacti")) ["cacti", "catty"]
+crate,loath
+crate,loath,swath
+ 72 [0mc[0mr[1;32ma[1;32mt[0me[0m   2   103 Some((3, 2, "loath")) ["loath", "swath"]
+crate,racer
+crate,racer,recap
+ 94 [1;33mc[1;33mr[1;33ma[0mt[1;33me[0m   2    66 Some((3, 2, "racer")) ["racer", "recap"]
+crate,creak
+crate,creak,cream
+ 98 [1;32mc[1;32mr[1;33ma[0mt[1;33me[0m   2    11 Some((3, 2, "creak")) ["creak", "cream"]
+crate,recut
+crate,recut,retch
+112 [1;33mc[1;33mr[0ma[1;33mt[1;33me[0m   2    27 Some((3, 2, "recut")) ["recut", "retch"]
+crate,crept
+crate,crept,crest
+116 [1;32mc[1;32mr[0ma[1;33mt[1;33me[0m   2     4 Some((3, 2, "crept")) ["crept", "crest"]
+crate,eclat
+crate,eclat,facet
+118 [1;33mc[0mr[1;33ma[1;33mt[1;33me[0m   2    30 Some((3, 2, "eclat")) ["eclat", "facet"]
+crate,heart
+crate,heart,teary
+129 [0mc[1;33mr[1;32ma[1;33mt[1;33me[0m   2    23 Some((3, 2, "heart")) ["heart", "teary"]
+crate,delta
+crate,delta,theta
+144 [0mc[0mr[1;33ma[1;32mt[1;33me[0m   2    90 Some((3, 2, "delta")) ["delta", "theta"]
+crate,brace
+crate,brace,grace
+187 [1;33mc[1;32mr[1;32ma[0mt[1;32me[0m   2    11 Some((3, 2, "brace")) ["brace", "grace"]
+crate,trice
+crate,trice,truce
+196 [1;33mc[1;32mr[0ma[1;33mt[1;32me[0m   2     4 Some((3, 2, "trice")) ["trice", "truce"]
+crate,forte
+crate,forte,route
+219 [0mc[1;33mr[0ma[1;32mt[1;32me[0m   2    24 Some((3, 2, "forte")) ["forte", "route"]
+crate,grate
+crate,grate,irate
+240 [0mc[1;32mr[1;32ma[1;32mt[1;32me[0m   2     8 Some((3, 2, "grate")) ["grate", "irate"]
+crate,brick
+crate,brick,frock
+crate,brick,prick
+  7 [1;33mc[1;32mr[0ma[0mt[0me[0m   3   167 Some((5, 2, "brick")) ["brick", "frock", "prick"]
+crate,scarf,roach
+crate,scarf
+crate,scarf,scary
+ 22 [1;33mc[1;33mr[1;32ma[0mt[0me[0m   3    70 Some((5, 2, "scarf")) ["roach", "scarf", "scary"]
+crate,chard,chair
+crate,chard
+crate,chard,charm
+ 23 [1;32mc[1;33mr[1;32ma[0mt[0me[0m   3    42 Some((5, 2, "chard")) ["chair", "chard", "charm"]
+crate,triad,artsy
+crate,triad
+crate,triad,trial
+ 42 [0mc[1;32mr[1;33ma[1;33mt[0me[0m   3    89 Some((5, 2, "triad")) ["artsy", "triad", "trial"]
+crate,cedar,caper
+crate,cedar
+crate,cedar,clear
+ 95 [1;32mc[1;33mr[1;33ma[0mt[1;33me[0m   3    32 Some((5, 2, "cedar")) ["caper", "cedar", "clear"]
+crate,place,beach
+crate,place,leach
+crate,place,peach
+100 [1;33mc[0mr[1;32ma[0mt[1;33me[0m   3    44 Some((6, 2, "place")) ["beach", "leach", "peach"]
+crate,cheat,cadet
+crate,cheat
+crate,cheat,cleat
+119 [1;32mc[0mr[1;33ma[1;33mt[1;33me[0m   3    11 Some((5, 2, "cheat")) ["cadet", "cheat", "cleat"]
+crate,great
+crate,great,tread
+crate,great,treat
+123 [0mc[1;32mr[1;33ma[1;33mt[1;33me[0m   3    23 Some((5, 2, "great")) ["great", "tread", "treat"]
+crate,enact
+crate,enact,exact
+crate,enact,teach
+127 [1;33mc[0mr[1;32ma[1;33mt[1;33me[0m   3     8 Some((5, 2, "enact")) ["enact", "exact", "teach"]
+crate,death
+crate,death,heath
+crate,death,meaty
+153 [0mc[0mr[1;32ma[1;32mt[1;33me[0m   3    46 Some((5, 2, "death")) ["death", "heath", "meaty"]
+crate,force
+crate,force,score
+crate,force,scree
+166 [1;33mc[1;33mr[0ma[0mt[1;32me[0m   3    65 Some((5, 2, "force")) ["force", "score", "scree"]
+crate,curse,chore
+crate,curse
+crate,curse,curve
+167 [1;32mc[1;33mr[0ma[0mt[1;32me[0m   3    39 Some((5, 2, "curse")) ["chore", "curse", "curve"]
+crate,dance
+crate,dance,lance
+crate,dance,sauce
+172 [1;33mc[0mr[1;33ma[0mt[1;32me[0m   3    74 Some((5, 2, "dance")) ["dance", "lance", "sauce"]
+crate,arise,argue
+crate,arise
+crate,arise,arose
+177 [0mc[1;32mr[1;33ma[0mt[1;32me[0m   3    54 Some((5, 2, "arise")) ["argue", "arise", "arose"]
+crate,cease
+crate,cease,chafe
+crate,cease,chase
+182 [1;32mc[0mr[1;32ma[0mt[1;32me[0m   3    20 Some((5, 2, "cease")) ["cease", "chafe", "chase"]
+crate,crane
+crate,crane,crave
+crate,crane,crave,craze
+188 [1;32mc[1;32mr[1;32ma[0mt[1;32me[0m   3     8 Some((6, 3, "crane")) ["crane", "crave", "craze"]
+crate,broth
+crate,broth,fritz
+crate,broth,froth
+crate,broth,truth
+ 60 [0mc[1;32mr[0ma[1;32mt[0me[0m   4    51 Some((7, 2, "broth")) ["broth", "fritz", "froth", "truth"]
+crate,party,aorta
+crate,party
+crate,party,ratty
+crate,party,warty
+ 66 [0mc[1;33mr[1;33ma[1;32mt[0me[0m   4    63 Some((7, 2, "party")) ["aorta", "party", "ratty", "warty"]
+crate,chest
+crate,chest,cleft
+crate,chest,comet
+crate,chest,comet,covet
+110 [1;32mc[0mr[0ma[1;33mt[1;33me[0m   4    50 Some((8, 3, "chest")) ["chest", "cleft", "comet", "covet"]
+crate,chase,cable
+crate,chase,cache
+crate,chase,cable,canoe
+crate,chase,cause
+173 [1;32mc[0mr[1;33ma[0mt[1;32me[0m   4    41 Some((9, 3, "chase")) ["cable", "cache", "canoe", "cause"]
+crate,peace
+crate,peace,place
+crate,peace,scale
+crate,peace,space
+181 [1;33mc[0mr[1;32ma[0mt[1;32me[0m   4    31 Some((7, 2, "peace")) ["peace", "place", "scale", "space"]
+crate,store
+crate,store,terse
+crate,store,there
+crate,store,three
+192 [0mc[1;33mr[0ma[1;33mt[1;32me[0m   4    71 Some((7, 2, "store")) ["store", "terse", "there", "three"]
+crate,tripe,tribe
+crate,tripe
+crate,tripe,trope
+crate,tripe,trove
+195 [0mc[1;32mr[0ma[1;33mt[1;32me[0m   4    31 Some((7, 2, "tripe")) ["tribe", "tripe", "trope", "trove"]
+crate,bathe,atone
+crate,bathe
+crate,bathe,lathe
+crate,bathe,table
+198 [0mc[0mr[1;33ma[1;33mt[1;32me[0m   4    94 Some((7, 2, "bathe")) ["atone", "bathe", "lathe", "table"]
+crate,write,brute
+crate,write,trite
+crate,write
+crate,write,wrote
+222 [0mc[1;32mr[0ma[1;32mt[1;32me[0m   4    14 Some((7, 2, "write")) ["brute", "trite", "write", "wrote"]
+crate,camel,cagey
+crate,camel
+crate,camel,cameo
+crate,camel,cheap
+crate,camel,clean
+ 92 [1;32mc[0mr[1;33ma[0mt[1;33me[0m   5    96 Some((9, 2, "camel")) ["cagey", "camel", "cameo", "cheap", "clean"]
+crate,creme
+crate,creme,crepe
+crate,creme,crime
+crate,creme,crone
+crate,creme,crone,crude
+170 [1;32mc[1;32mr[0ma[0mt[1;32me[0m   5    22 Some((10, 3, "creme")) ["creme", "crepe", "crime", "crone", "crude"]
+crate,stage
+crate,stage,stake
+crate,stage,stake,stale
+crate,stage,stake,stale,stave
+crate,stage,tease
+207 [0mc[0mr[1;32ma[1;33mt[1;32me[0m   5    45 Some((12, 4, "stage")) ["stage", "stake", "stale", "stave", "tease"]
+crate,decal
+crate,decal,decay
+crate,decal,fecal
+crate,decal,mecca
+crate,decal,ocean
+crate,decal,pecan
+ 91 [1;33mc[0mr[1;33ma[0mt[1;33me[0m   6   207 Some((11, 2, "decal")) ["decal", "decay", "fecal", "mecca", "ocean", "pecan"]
+crate,truer,erupt
+crate,truer,greet
+crate,truer,trend
+crate,truer,tried
+crate,truer
+crate,truer,wrest
+114 [0mc[1;32mr[0ma[1;33mt[1;33me[0m   6    81 Some((11, 2, "truer")) ["erupt", "greet", "trend", "tried", "truer", "wrest"]
+crate,crams,crack
+crate,crams,cramp
+crate,crams,crack,crank
+crate,crams,crash
+crate,crams,crass
+crate,crams,crack,crawl
+crate,crams,crack,crawl,crazy
+ 26 [1;32mc[1;32mr[1;32ma[0mt[0me[0m   7    27 Some((18, 4, "crams")) ["crack", "cramp", "crank", "crash", "crass", "crawl", "crazy"]
+crate,cored,cheer
+crate,cored,cider
+crate,cored,clerk
+crate,cored,corer
+crate,cored,cover
+crate,cored,cover,cower
+crate,cored,cheer,cyber
+ 86 [1;32mc[1;33mr[0ma[0mt[1;33me[0m   7   112 Some((16, 3, "cored")) ["cheer", "cider", "clerk", "corer", "cover", "cower", "cyber"]
+crate,bread,arena
+crate,bread
+crate,bread,break
+crate,bread,dread
+crate,bread,dream
+crate,bread,freak
+crate,bread,freak,wreak
+ 96 [0mc[1;32mr[1;33ma[0mt[1;33me[0m   7   107 Some((14, 3, "bread")) ["arena", "bread", "break", "dread", "dream", "freak", "wreak"]
+crate,blare,share,aware
+crate,blare
+crate,blare,flare
+crate,blare,flare,glare
+crate,blare,share
+crate,blare,share,snare
+crate,blare,share,snare,spare
+183 [0mc[1;33mr[1;32ma[0mt[1;32me[0m   7    71 Some((18, 4, "blare")) ["aware", "blare", "flare", "glare", "share", "snare", "spare"]
+crate,scram,acorn
+crate,scram,acrid
+crate,scram,macro
+crate,scram,march
+crate,scram,ranch
+crate,scram
+crate,scram,scrap
+crate,scram,vicar
+ 13 [1;33mc[1;33mr[1;33ma[0mt[0me[0m   8   211 Some((15, 2, "scram")) ["acorn", "acrid", "macro", "march", "ranch", "scram", "scrap", "vicar"]
+crate,cargo,cairn
+crate,cargo
+crate,cargo,carol
+crate,cargo,carry
+crate,cargo,cigar
+crate,cargo,circa
+crate,cargo,cobra
+crate,cargo,coral
+ 14 [1;32mc[1;33mr[1;33ma[0mt[0me[0m   8   107 Some((15, 2, "cargo")) ["cairn", "cargo", "carol", "carry", "cigar", "circa", "cobra", "coral"]
+crate,smart,apart
+crate,smart,apart,quart
+crate,smart,roast
+crate,smart
+crate,smart,stair
+crate,smart,stark
+crate,smart,start
+crate,smart,tiara
+ 48 [0mc[1;33mr[1;32ma[1;33mt[0me[0m   8   102 Some((16, 3, "smart")) ["apart", "quart", "roast", "smart", "stair", "stark", "start", "tiara"]
+crate,coked,cello
+crate,coked,check
+crate,coked,cheek
+crate,coked,chess
+crate,coked,chief
+crate,coked,clued
+crate,coked,coven
+crate,coked,coven,covey
+ 83 [1;32mc[0mr[0ma[0mt[1;33me[0m   8   342 Some((17, 3, "coked")) ["cello", "check", "cheek", "chess", "chief", "clued", "coven", "covey"]
+crate,creed,credo
+crate,creed
+crate,creed,creek
+crate,creed,creek,creep
+crate,creed,cress
+crate,creed,cried
+crate,creed,crier
+crate,creed,crier,cruel
+ 89 [1;32mc[1;32mr[0ma[0mt[1;33me[0m   8    46 Some((17, 3, "creed")) ["credo", "creed", "creek", "creep", "cress", "cried", "crier", "cruel"]
+crate,heald,beady
+crate,heald,email
+crate,heald,heady
+crate,heald,heavy
+crate,heald,leafy
+crate,heald,leafy,leaky
+crate,heald,leash
+crate,heald,mealy
+ 99 [0mc[0mr[1;32ma[0mt[1;33me[0m   8   381 Some((17, 3, "heald")) ["beady", "email", "heady", "heavy", "leafy", "leaky", "leash", "mealy"]
+crate,eject,edict
+crate,eject
+crate,eject,elect
+crate,eject,ethic
+crate,eject,edict,evict
+crate,eject,fetch
+crate,eject,octet
+crate,eject,scent
+109 [1;33mc[0mr[0ma[1;33mt[1;33me[0m   8   114 Some((16, 3, "eject")) ["edict", "eject", "elect", "ethic", "evict", "fetch", "octet", "scent"]
+crate,haute,patte,baste
+crate,haute,haste
+crate,haute
+crate,haute,patte,latte
+crate,haute,patte,paste
+crate,haute,saute
+crate,haute,patte,taste
+crate,haute,patte,baste,waste
+225 [0mc[0mr[1;33ma[1;32mt[1;32me[0m   8    45 Some((21, 4, "haute")) ["baste", "haste", "haute", "latte", "paste", "saute", "taste", "waste"]
+crate,slate,abate
+crate,slate,abate,agate
+crate,slate,elate
+crate,slate,abate,ovate
+crate,slate,elate,plate
+crate,slate,skate
+crate,slate
+crate,slate,skate,state
+234 [0mc[0mr[1;32ma[1;32mt[1;32me[0m   8    25 Some((19, 3, "slate")) ["abate", "agate", "elate", "ovate", "plate", "skate", "slate", "state"]
+crate,trail,draft
+crate,trail,draft,graft
+crate,trail,draft,grant
+crate,trail
+crate,trail,train
+crate,trail,train,trait
+crate,trail,tramp
+crate,trail,tramp,trash
+crate,trail,trawl
+ 51 [0mc[1;32mr[1;32ma[1;33mt[0me[0m   9    60 Some((21, 3, "trail")) ["draft", "graft", "grant", "trail", "train", "trait", "tramp", "trash", "trawl"]
+crate,birth
+crate,birth,dirty
+crate,birth,forth
+crate,birth,forty
+crate,birth,girth
+crate,birth,girth,mirth
+crate,birth,forth,north
+crate,birth,rusty
+crate,birth,forth,north,worth
+ 57 [0mc[1;33mr[0ma[1;32mt[0me[0m   9   168 Some((21, 4, "birth")) ["birth", "dirty", "forth", "forty", "girth", "mirth", "north", "rusty", "worth"]
+crate,ricey,decor
+crate,ricey,decry
+crate,ricey,mercy
+crate,ricey,nicer
+crate,ricey,perch
+crate,ricey,recur
+crate,ricey,relic
+crate,ricey,screw
+crate,ricey,ulcer
+ 85 [1;33mc[1;33mr[0ma[0mt[1;33me[0m   9   209 Some((18, 2, "ricey")) ["decor", "decry", "mercy", "nicer", "perch", "recur", "relic", "screw", "ulcer"]
+crate,ready,beard
+crate,ready,beard,heard
+crate,ready,learn
+crate,ready,learn,pearl
+crate,ready
+crate,ready,realm
+crate,ready,realm,rearm
+crate,ready,weary
+crate,ready,yearn
+102 [0mc[1;33mr[1;32ma[0mt[1;33me[0m   9   121 Some((20, 3, "ready")) ["beard", "heard", "learn", "pearl", "ready", "realm", "rearm", "weary", "yearn"]
+crate,leant,beast
+crate,leant,dealt
+crate,leant,exalt
+crate,leant,beast,feast
+crate,leant
+crate,leant,leapt
+crate,leant,leapt,least
+crate,leant,meant
+crate,leant,beast,feast,yeast
+126 [0mc[0mr[1;32ma[1;33mt[1;33me[0m   9    94 Some((21, 4, "leant")) ["beast", "dealt", "exalt", "feast", "leant", "leapt", "least", "meant", "yeast"]
+crate,farse,adore
+crate,farse,afire
+crate,farse,agree
+crate,farse,adore,azure
+crate,farse,barge
+crate,farse,barge,large
+crate,farse,parse
+crate,farse,raise
+crate,farse,range
+174 [0mc[1;33mr[1;33ma[0mt[1;32me[0m   9   169 Some((20, 3, "farse")) ["adore", "afire", "agree", "azure", "barge", "large", "parse", "raise", "range"]
+crate,cauri,chirp
+crate,cauri,choir
+crate,cauri,chord
+crate,cauri,churn
+crate,cauri,color
+crate,cauri,color,corny
+crate,cauri,curio
+crate,cauri,curly
+crate,cauri,curry
+crate,cauri,curly,curvy
+  5 [1;32mc[1;33mr[0ma[0mt[0me[0m  10   283 Some((22, 3, "cauri")) ["chirp", "choir", "chord", "churn", "color", "corny", "curio", "curly", "curry", "curvy"]
+crate,chose,chide
+crate,chose,chide,chime
+crate,chose,choke
+crate,chose
+crate,chose,clone
+crate,chose,close
+crate,chose,clone,clove
+crate,chose,copse
+crate,chose,coupe
+crate,chose,cycle
+164 [1;32mc[0mr[0ma[0mt[1;32me[0m  10   115 Some((21, 3, "chose")) ["chide", "chime", "choke", "chose", "clone", "close", "clove", "copse", "coupe", "cycle"]
+crate,drake,brake
+crate,drake,grave,brave
+crate,drake
+crate,drake,drape
+crate,drake,grave,erase
+crate,drake,grave,erase,frame
+crate,drake,grade
+crate,drake,grave,grape
+crate,drake,grave
+crate,drake,grave,grape,graze
+186 [0mc[1;32mr[1;32ma[0mt[1;32me[0m  10    42 Some((26, 4, "drake")) ["brake", "brave", "drake", "drape", "erase", "frame", "grade", "grape", "grave", "graze"]
+crate,satyr,abort
+crate,satyr,altar
+crate,satyr,ratio
+crate,satyr
+crate,satyr,strap
+crate,satyr,strap,straw
+crate,satyr,stray
+crate,satyr,tapir
+crate,satyr,tardy
+crate,satyr,tarot
+crate,satyr,ultra
+ 39 [0mc[1;33mr[1;33ma[1;33mt[0me[0m  11   308 Some((22, 3, "satyr")) ["abort", "altar", "ratio", "satyr", "strap", "straw", "stray", "tapir", "tardy", "tarot", "ultra"]
+crate,suite,butte
+crate,suite,elite
+crate,suite,flute
+crate,suite,quite
+crate,suite,butte,quote
+crate,suite,smite
+crate,suite,smote
+crate,suite,smite,spite
+crate,suite
+crate,suite,unite
+crate,suite,elite,white
+216 [0mc[0mr[0ma[1;32mt[1;32me[0m  11   116 Some((24, 3, "suite")) ["butte", "elite", "flute", "quite", "quote", "smite", "smote", "spite", "suite", "unite", "white"]
+crate,choir,birch
+crate,choir,incur
+crate,choir,lurch
+crate,choir,lyric
+crate,choir,micro
+crate,choir,occur
+crate,choir,porch
+crate,choir,rocky
+crate,choir,scorn
+crate,choir,scour
+crate,choir,scrub
+crate,choir,scrub,scrum
+  4 [1;33mc[1;33mr[0ma[0mt[0me[0m  12   507 Some((25, 3, "choir")) ["birch", "incur", "lurch", "lyric", "micro", "occur", "porch", "rocky", "scorn", "scour", "scrub", "scrum"]
+crate,crios,crick
+crate,crios,crick,crimp
+crate,crios,crisp
+crate,crios,crown,crock
+crate,crios,crown,crony
+crate,crios,crook
+crate,crios,cross
+crate,crios,crown,crock,croup
+crate,crios,crown,crowd
+crate,crios,crown
+crate,crios,crumb
+crate,crios,crumb,crump
+crate,crios,crush
+  8 [1;32mc[1;32mr[0ma[0mt[0me[0m  13   111 Some((33, 4, "crios")) ["crick", "crimp", "crisp", "crock", "crony", "crook", "cross", "croup", "crowd", "crown", "crumb", "crump", "crush"]
+crate,arbor
+crate,arbor,ardor
+crate,arbor,ardor,armor
+crate,arbor,aroma
+crate,arbor,array
+crate,arbor,arrow
+crate,arbor,arson
+crate,arbor,briar
+crate,arbor,broad
+crate,arbor,friar
+crate,arbor,groan
+crate,arbor,groan,organ
+crate,arbor,urban
+ 15 [0mc[1;32mr[1;33ma[0mt[0me[0m  13   358 Some((27, 3, "arbor")) ["arbor", "ardor", "armor", "aroma", "array", "arrow", "arson", "briar", "broad", "friar", "groan", "organ", "urban"]
+ 37 [1;33mc[0mr[1;33ma[1;33mt[0me[0m  13   126 None ["antic", "ascot", "attic", "batch", "hatch", "latch", "match", "octal", "patch", "tacit", "tacky", "watch", "yacht"]

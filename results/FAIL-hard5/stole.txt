@@ -1,0 +1,203 @@
+stole,south
+ 14 [1;32ms[1;33mt[1;33mo[0ml[0me[0m   1    99 Some((1, 1, "south")) ["south"]
+stole,sloth
+ 50 [1;32ms[1;33mt[1;32mo[1;33ml[0me[0m   1     7 Some((1, 1, "sloth")) ["sloth"]
+stole,stool
+ 53 [1;32ms[1;32mt[1;32mo[1;33ml[0me[0m   1     3 Some((1, 1, "stool")) ["stool"]
+stole,psalm
+ 55 [1;33ms[0mt[0mo[1;32ml[0me[0m   1   357 Some((1, 1, "psalm")) ["psalm"]
+stole,scold
+ 74 [1;32ms[0mt[1;32mo[1;32ml[0me[0m   1    11 Some((1, 1, "scold")) ["scold"]
+stole,troll
+ 75 [0ms[1;33mt[1;32mo[1;32ml[0me[0m   1     9 Some((1, 1, "troll")) ["troll"]
+stole,atoll
+ 78 [0ms[1;32mt[1;32mo[1;32ml[0me[0m   1     3 Some((1, 1, "atoll")) ["atoll"]
+stole,ethos
+ 97 [1;33ms[1;32mt[1;33mo[0ml[1;33me[0m   1    10 Some((1, 1, "ethos")) ["ethos"]
+stole,loser
+118 [1;33ms[0mt[1;33mo[1;33ml[1;33me[0m   1    72 Some((1, 1, "loser")) ["loser"]
+stole,etude
+168 [0ms[1;32mt[0mo[0ml[1;32me[0m   1    42 Some((1, 1, "etude")) ["etude"]
+stole,those
+184 [1;33ms[1;33mt[1;32mo[0ml[1;32me[0m   1    11 Some((1, 1, "those")) ["those"]
+stole,smote
+185 [1;32ms[1;33mt[1;32mo[0ml[1;32me[0m   1    10 Some((1, 1, "smote")) ["smote"]
+stole,atone
+186 [0ms[1;32mt[1;32mo[0ml[1;32me[0m   1     9 Some((1, 1, "atone")) ["atone"]
+stole,slate
+194 [1;32ms[1;33mt[0mo[1;33ml[1;32me[0m   1     6 Some((1, 1, "slate")) ["slate"]
+stole,louse
+199 [1;33ms[0mt[1;33mo[1;33ml[1;32me[0m   1    14 Some((1, 1, "louse")) ["louse"]
+stole,solve
+200 [1;32ms[0mt[1;33mo[1;33ml[1;32me[0m   1    10 Some((1, 1, "solve")) ["solve"]
+stole,slope
+209 [1;32ms[0mt[1;32mo[1;33ml[1;32me[0m   1     5 Some((1, 1, "slope")) ["slope"]
+stole,aisle
+217 [1;33ms[0mt[0mo[1;32ml[1;32me[0m   1    30 Some((1, 1, "aisle")) ["aisle"]
+stole,utile
+222 [0ms[1;32mt[0mo[1;32ml[1;32me[0m   1     7 Some((1, 1, "utile")) ["utile"]
+stole,whole
+234 [0ms[0mt[1;32mo[1;32ml[1;32me[0m   1    14 Some((1, 1, "whole")) ["whole"]
+stole
+242 [1;32ms[1;32mt[1;32mo[1;32ml[1;32me[0m   1     1 Some((1, 1, "stole")) ["stole"]
+stole,attic
+stole,attic,itchy
+  6 [0ms[1;32mt[0mo[0ml[0me[0m   2   239 Some((3, 2, "attic")) ["attic", "itchy"]
+stole,blast
+stole,blast,lusty
+ 31 [1;33ms[1;33mt[0mo[1;33ml[0me[0m   2   170 Some((3, 2, "blast")) ["blast", "lusty"]
+stole,floss
+stole,floss,gloss
+ 46 [1;33ms[0mt[1;32mo[1;33ml[0me[0m   2   105 Some((3, 2, "floss")) ["floss", "gloss"]
+stole,shalt
+stole,shalt,spilt
+ 59 [1;32ms[1;33mt[0mo[1;32ml[0me[0m   2    26 Some((3, 2, "shalt")) ["shalt", "spilt"]
+stole,hotly
+stole,hotly,moult
+ 66 [0ms[1;33mt[1;33mo[1;32ml[0me[0m   2    21 Some((3, 2, "hotly")) ["hotly", "moult"]
+stole,sober
+stole,sober,sower
+ 92 [1;32ms[0mt[1;33mo[0ml[1;33me[0m   2    90 Some((3, 2, "sober")) ["sober", "sower"]
+stole,onset
+stole,onset,pesto
+ 94 [1;33ms[1;33mt[1;33mo[0ml[1;33me[0m   2    60 Some((3, 2, "onset")) ["onset", "pesto"]
+stole,other
+stole,other,otter
+ 96 [0ms[1;32mt[1;33mo[0ml[1;33me[0m   2    14 Some((3, 2, "other")) ["other", "otter"]
+stole,islet
+stole,islet,least
+112 [1;33ms[1;33mt[0mo[1;33ml[1;33me[0m   2    53 Some((3, 2, "islet")) ["islet", "least"]
+stole,sleet
+stole,sleet,slept
+113 [1;32ms[1;33mt[0mo[1;33ml[1;33me[0m   2    18 Some((3, 2, "sleet")) ["sleet", "slept"]
+stole,steal
+stole,steal,steel
+116 [1;32ms[1;32mt[0mo[1;33ml[1;33me[0m   2    10 Some((3, 2, "steal")) ["steal", "steel"]
+stole,smelt
+stole,smelt,spelt
+140 [1;32ms[1;33mt[0mo[1;32ml[1;33me[0m   2    10 Some((3, 2, "smelt")) ["smelt", "spelt"]
+stole,cello
+stole,cello,hello
+144 [0ms[0mt[1;33mo[1;32ml[1;33me[0m   2    54 Some((3, 2, "cello")) ["cello", "hello"]
+stole,lodge
+stole,lodge,olive
+198 [0ms[0mt[1;33mo[1;33ml[1;32me[0m   2    97 Some((3, 2, "lodge")) ["lodge", "olive"]
+stole,close
+stole,close,loose
+208 [1;33ms[0mt[1;32mo[1;33ml[1;32me[0m   2     7 Some((3, 2, "close")) ["close", "loose"]
+stole,stale
+stole,stale,style
+224 [1;32ms[1;32mt[0mo[1;32ml[1;32me[0m   2     5 Some((3, 2, "stale")) ["stale", "style"]
+stole,boule
+stole,boule,noble
+225 [0ms[0mt[1;33mo[1;32ml[1;32me[0m   2    41 Some((3, 2, "boule")) ["boule", "noble"]
+stole,lasso
+stole,lasso,locus
+stole,lasso,lousy
+ 37 [1;33ms[0mt[1;33mo[1;33ml[0me[0m   3   334 Some((5, 2, "lasso")) ["lasso", "locus", "lousy"]
+stole,ether
+stole,ether,ethic
+stole,ether,utter
+ 87 [0ms[1;32mt[0mo[0ml[1;33me[0m   3    98 Some((5, 2, "ether")) ["ether", "ethic", "utter"]
+stole,sleek
+stole,sleek,sleep
+stole,sleek,spiel
+110 [1;32ms[0mt[0mo[1;33ml[1;33me[0m   3   120 Some((5, 2, "sleek")) ["sleek", "sleep", "spiel"]
+stole,forte
+stole,forte,ovate
+stole,forte,route
+174 [0ms[1;33mt[1;33mo[0ml[1;32me[0m   3    65 Some((5, 2, "forte")) ["forte", "ovate", "route"]
+stole,scale
+stole,scale,shale
+stole,scale,smile
+218 [1;32ms[0mt[0mo[1;32ml[1;32me[0m   3    23 Some((5, 2, "scale")) ["scale", "shale", "smile"]
+stole,butle,table
+stole,butle,title
+stole,butle,tulle
+219 [0ms[1;33mt[0mo[1;32ml[1;32me[0m   3    18 Some((6, 2, "butle")) ["table", "title", "tulle"]
+stole,chogs,cross
+stole,chogs,dross
+stole,chogs,gross
+stole,chogs,kiosk
+ 19 [1;33ms[0mt[1;32mo[0ml[0me[0m   4   474 Some((8, 2, "chogs")) ["cross", "dross", "gross", "kiosk"]
+stole,roost,boost
+stole,roost,frost
+stole,roost,ghost
+stole,roost
+ 22 [1;33ms[1;33mt[1;32mo[0ml[0me[0m   4   120 Some((7, 2, "roost")) ["boost", "frost", "ghost", "roost"]
+stole,salty
+stole,salty,slant
+stole,salty,splat
+stole,salty,split
+ 32 [1;32ms[1;33mt[0mo[1;33ml[0me[0m   4    56 Some((7, 2, "salty")) ["salty", "slant", "splat", "split"]
+stole,salon
+stole,salon,salvo
+stole,salon,solar
+stole,salon,solid
+ 38 [1;32ms[0mt[1;33mo[1;33ml[0me[0m   4    82 Some((7, 2, "salon")) ["salon", "salvo", "solar", "solid"]
+stole,stall,stalk
+stole,stall
+stole,stall,still
+stole,stall,stilt
+ 62 [1;32ms[1;32mt[0mo[1;32ml[0me[0m   4    17 Some((7, 2, "stall")) ["stalk", "stall", "still", "stilt"]
+stole,droll
+stole,droll,knoll
+stole,droll,viola
+stole,droll,viola,wooly
+ 72 [0ms[0mt[1;32mo[1;32ml[0me[0m   4    72 Some((8, 3, "droll")) ["droll", "knoll", "viola", "wooly"]
+stole,nosey
+stole,nosey,poesy
+stole,nosey,poser
+stole,nosey,verso
+ 91 [1;33ms[0mt[1;33mo[0ml[1;33me[0m   4   408 Some((7, 2, "nosey")) ["nosey", "poesy", "poser", "verso"]
+stole,hotel,extol
+stole,hotel
+stole,hotel,motel
+stole,hotel,towel
+120 [0ms[1;33mt[1;33mo[1;33ml[1;33me[0m   4    26 Some((7, 2, "hotel")) ["extol", "hotel", "motel", "towel"]
+stole,trope,quote
+stole,trope
+stole,trope,trove
+stole,trope,wrote
+183 [0ms[1;33mt[1;32mo[0ml[1;32me[0m   4    26 Some((7, 2, "trope")) ["quote", "trope", "trove", "wrote"]
+stole,stoke
+stole,stoke,stone
+stole,stoke,stone,store
+stole,stoke,stone,store,stove
+188 [1;32ms[1;32mt[1;32mo[0ml[1;32me[0m   4     7 Some((10, 4, "stoke")) ["stoke", "stone", "store", "stove"]
+stole,false
+stole,false,lapse
+stole,false,lease
+stole,false,pulse
+190 [1;33ms[0mt[0mo[1;33ml[1;32me[0m   4    66 Some((7, 2, "false")) ["false", "lapse", "lease", "pulse"]
+stole,ebony
+stole,ebony,epoch
+stole,ebony,epoxy
+stole,ebony,gooey
+stole,ebony,wooer
+ 99 [0ms[0mt[1;32mo[0ml[1;33me[0m   5   216 Some((9, 2, "ebony")) ["ebony", "epoch", "epoxy", "gooey", "wooer"]
+stole,leash,bless
+stole,leash,easel
+stole,leash,flesh
+stole,leash
+stole,leash,welsh
+109 [1;33ms[0mt[0mo[1;33ml[1;33me[0m   5   454 Some((9, 2, "leash")) ["bless", "easel", "flesh", "leash", "welsh"]
+stole,shelf
+stole,shelf,shell
+stole,shelf,smell
+stole,shelf,smell,spell
+stole,shelf,smell,spell,swell
+137 [1;32ms[0mt[0mo[1;32ml[1;33me[0m   5    48 Some((12, 4, "shelf")) ["shelf", "shell", "smell", "spell", "swell"]
+stole,dealt
+stole,dealt,dwelt
+stole,dealt,exalt
+stole,dealt,exult
+stole,dealt,exult,knelt
+138 [0ms[1;33mt[0mo[1;32ml[1;33me[0m   5    37 Some((10, 3, "dealt")) ["dealt", "dwelt", "exalt", "exult", "knelt"]
+stole,saute
+stole,saute,skate
+stole,saute,smite
+stole,saute,smite,spite
+stole,saute,suite
+167 [1;32ms[1;33mt[0mo[0ml[1;32me[0m   5    53 Some((10, 3, "saute")) ["saute", "skate", "smite", "spite", "suite"]
+170 [1;32ms[1;32mt[0mo[0ml[1;32me[0m   5    32 None ["stage", "stake", "stare", "state", "stave"]

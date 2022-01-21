@@ -1,0 +1,769 @@
+tails,amity
+ 22 [1;33mt[1;33ma[1;32mi[0ml[0ms[0m   1    49 Some((1, 1, "amity")) ["amity"]
+tails,triad
+ 23 [1;32mt[1;33ma[1;32mi[0ml[0ms[0m   1    13 Some((1, 1, "triad")) ["triad"]
+tails,taint
+ 26 [1;32mt[1;32ma[1;32mi[0ml[0ms[0m   1     9 Some((1, 1, "taint")) ["taint"]
+tails,towel
+ 29 [1;32mt[0ma[0mi[1;33ml[0ms[0m   1   106 Some((1, 1, "towel")) ["towel"]
+tails,talon
+ 35 [1;32mt[1;32ma[0mi[1;33ml[0ms[0m   1    26 Some((1, 1, "talon")) ["talon"]
+tails,twirl
+ 47 [1;32mt[0ma[1;32mi[1;33ml[0ms[0m   1    16 Some((1, 1, "twirl")) ["twirl"]
+tails,trial
+ 50 [1;32mt[1;33ma[1;32mi[1;33ml[0ms[0m   1     2 Some((1, 1, "trial")) ["trial"]
+tails,title
+ 65 [1;32mt[0ma[1;33mi[1;32ml[0ms[0m   1    17 Some((1, 1, "title")) ["title"]
+tails,tipsy
+ 92 [1;32mt[0ma[1;33mi[0ml[1;33ms[0m   1    68 Some((1, 1, "tipsy")) ["tipsy"]
+tails,satin
+ 97 [1;33mt[1;32ma[1;33mi[0ml[1;33ms[0m   1    29 Some((1, 1, "satin")) ["satin"]
+tails,twist
+101 [1;32mt[0ma[1;32mi[0ml[1;33ms[0m   1    24 Some((1, 1, "twist")) ["twist"]
+tails,salty
+115 [1;33mt[1;32ma[0mi[1;33ml[1;33ms[0m   1    23 Some((1, 1, "salty")) ["salty"]
+tails,basil
+123 [0mt[1;32ma[1;33mi[1;33ml[1;33ms[0m   1    31 Some((1, 1, "basil")) ["basil"]
+tails,silly
+144 [0mt[0ma[1;33mi[1;32ml[1;33ms[0m   1    98 Some((1, 1, "silly")) ["silly"]
+tails,aisle
+147 [0mt[1;33ma[1;33mi[1;32ml[1;33ms[0m   1    22 Some((1, 1, "aisle")) ["aisle"]
+tails,basis
+177 [0mt[1;32ma[1;33mi[0ml[1;32ms[0m   1   118 Some((1, 1, "basis")) ["basis"]
+tails,amiss
+183 [0mt[1;33ma[1;32mi[0ml[1;32ms[0m   1    92 Some((1, 1, "amiss")) ["amiss"]
+tails,bliss
+207 [0mt[0ma[1;32mi[1;33ml[1;32ms[0m   1    69 Some((1, 1, "bliss")) ["bliss"]
+tails,tacit
+tails,tacit,tapir
+ 17 [1;32mt[1;32ma[1;33mi[0ml[0ms[0m   2    27 Some((3, 2, "tacit")) ["tacit", "tapir"]
+tails,tilde
+tails,tilde,tulip
+ 38 [1;32mt[0ma[1;33mi[1;33ml[0ms[0m   2    37 Some((3, 2, "tilde")) ["tilde", "tulip"]
+tails,plait
+tails,plait,vital
+ 40 [1;33mt[1;33ma[1;33mi[1;33ml[0ms[0m   2    22 Some((3, 2, "plait")) ["plait", "vital"]
+tails,tidal
+tails,tidal,trail
+ 41 [1;32mt[1;33ma[1;33mi[1;33ml[0ms[0m   2     8 Some((3, 2, "tidal")) ["tidal", "trail"]
+tails,cavil
+tails,cavil,valid
+ 42 [0mt[1;32ma[1;33mi[1;33ml[0ms[0m   2    70 Some((3, 2, "cavil")) ["cavil", "valid"]
+tails,fault
+tails,fault,vault
+ 61 [1;33mt[1;32ma[0mi[1;32ml[0ms[0m   2    17 Some((3, 2, "fault")) ["fault", "vault"]
+tails,table
+tails,table,tally
+ 62 [1;32mt[1;32ma[0mi[1;32ml[0ms[0m   2     8 Some((3, 2, "table")) ["table", "tally"]
+tails,villa
+tails,villa,viola
+ 66 [0mt[1;33ma[1;33mi[1;32ml[0ms[0m   2    49 Some((3, 2, "villa")) ["villa", "viola"]
+tails,agile
+tails,agile,voila
+ 75 [0mt[1;33ma[1;32mi[1;32ml[0ms[0m   2    28 Some((3, 2, "agile")) ["agile", "voila"]
+tails,daily
+tails,daily,gaily
+ 78 [0mt[1;32ma[1;32mi[1;32ml[0ms[0m   2    19 Some((3, 2, "daily")) ["daily", "gaily"]
+tails,taste
+tails,taste,tasty
+ 89 [1;32mt[1;32ma[0mi[0ml[1;33ms[0m   2    68 Some((3, 2, "taste")) ["taste", "tasty"]
+tails,basic
+tails,basic,basin
+ 96 [0mt[1;32ma[1;33mi[0ml[1;33ms[0m   2   163 Some((3, 2, "basic")) ["basic", "basin"]
+tails,arise
+tails,arise,aside
+102 [0mt[1;33ma[1;32mi[0ml[1;33ms[0m   2   126 Some((3, 2, "arise")) ["arise", "aside"]
+tails,daisy
+tails,daisy,raise
+105 [0mt[1;32ma[1;32mi[0ml[1;33ms[0m   2    81 Some((3, 2, "daisy")) ["daisy", "raise"]
+tails,saint
+tails,saint,waist
+106 [1;33mt[1;32ma[1;32mi[0ml[1;33ms[0m   2    14 Some((3, 2, "saint")) ["saint", "waist"]
+tails,islet
+tails,islet,split
+118 [1;33mt[0ma[1;33mi[1;33ml[1;33ms[0m   2    42 Some((3, 2, "islet")) ["islet", "split"]
+tails,slain
+tails,slain,snail
+120 [0mt[1;33ma[1;33mi[1;33ml[1;33ms[0m   2    62 Some((3, 2, "slain")) ["slain", "snail"]
+tails,sadly
+tails,sadly,sally
+141 [0mt[1;32ma[0mi[1;32ml[1;33ms[0m   2    54 Some((3, 2, "sadly")) ["sadly", "sally"]
+tails,ethos
+tails,ethos,fetus
+163 [1;33mt[0ma[0mi[0ml[1;32ms[0m   2   794 Some((3, 2, "ethos")) ["ethos", "fetus"]
+tails,torus
+tails,torus,truss
+164 [1;32mt[0ma[0mi[0ml[1;32ms[0m   2   263 Some((3, 2, "torus")) ["torus", "truss"]
+tails,class
+tails,class,glass
+192 [0mt[1;33ma[0mi[1;33ml[1;32ms[0m   2   303 Some((3, 2, "class")) ["class", "glass"]
+tails,faint
+tails,faint,faith
+tails,faint,paint
+ 25 [1;33mt[1;32ma[1;32mi[0ml[0ms[0m   3    32 Some((5, 2, "faint")) ["faint", "faith", "paint"]
+tails,troll
+tails,troll,truly
+tails,troll,tulle
+ 56 [1;32mt[0ma[0mi[1;32ml[0ms[0m   3    41 Some((5, 2, "troll")) ["troll", "truly", "tulle"]
+tails,tares,tease
+tails,tares,toast
+tails,tares,trash
+ 86 [1;32mt[1;33ma[0mi[0ml[1;33ms[0m   3   116 Some((6, 2, "tares")) ["tease", "toast", "trash"]
+tails,silky
+tails,silky,solid
+tails,silky,spoil
+117 [0mt[0ma[1;33mi[1;33ml[1;33ms[0m   3   306 Some((5, 2, "silky")) ["silky", "solid", "spoil"]
+tails,spilt
+tails,spilt,still
+tails,spilt,stilt
+154 [1;33mt[0ma[1;32mi[1;32ml[1;33ms[0m   3     8 Some((5, 2, "spilt")) ["spilt", "still", "stilt"]
+tails,airns,ficus
+tails,airns,minus
+tails,airns,virus
+171 [0mt[0ma[1;33mi[0ml[1;32ms[0m   3   962 Some((6, 2, "airns")) ["ficus", "minus", "virus"]
+tails,patio,cacti
+tails,patio,habit
+tails,patio
+tails,patio,ratio
+ 16 [1;33mt[1;32ma[1;33mi[0ml[0ms[0m   4    74 Some((7, 2, "patio")) ["cacti", "habit", "patio", "ratio"]
+tails,tonal
+tails,tonal,total
+tails,tonal,trawl
+tails,tonal,tubal
+ 32 [1;32mt[1;33ma[0mi[1;33ml[0ms[0m   4    48 Some((7, 2, "tonal")) ["tonal", "total", "trawl", "tubal"]
+tails,built
+tails,built,guilt
+tails,built,guilt,quilt
+tails,built,utile
+ 73 [1;33mt[0ma[1;32mi[1;32ml[0ms[0m   4    22 Some((8, 3, "built")) ["built", "guilt", "quilt", "utile"]
+tails,sepia,quasi
+tails,sepia
+tails,sepia,sigma
+tails,sepia,swami
+ 93 [0mt[1;33ma[1;33mi[0ml[1;33ms[0m   4   347 Some((7, 2, "sepia")) ["quasi", "sepia", "sigma", "swami"]
+tails,staid
+tails,staid,stain
+tails,staid,stain,stair
+tails,staid,vista
+ 94 [1;33mt[1;33ma[1;33mi[0ml[1;33ms[0m   4    63 Some((8, 3, "staid")) ["staid", "stain", "stair", "vista"]
+tails,smolt,smelt
+tails,smolt,spelt
+tails,smolt,stole
+tails,smolt,style
+136 [1;33mt[0ma[0mi[1;32ml[1;33ms[0m   4    43 Some((8, 2, "smolt")) ["smelt", "spelt", "stole", "style"]
+tails,stale,shalt
+tails,stale
+tails,stale,stalk
+tails,stale,stalk,stall
+139 [1;33mt[1;33ma[0mi[1;32ml[1;33ms[0m   4    15 Some((8, 3, "stale")) ["shalt", "stale", "stalk", "stall"]
+tails,skill
+tails,skill,smile
+tails,skill,spill
+tails,skill,spill,swill
+153 [0mt[0ma[1;32mi[1;32ml[1;33ms[0m   4    50 Some((8, 3, "skill")) ["skill", "smile", "spill", "swill"]
+tails,train,tiara
+tails,train,tibia
+tails,train,titan
+tails,train
+tails,train,trait
+ 14 [1;32mt[1;33ma[1;33mi[0ml[0ms[0m   5    58 Some((9, 2, "train")) ["tiara", "tibia", "titan", "train", "trait"]
+tails,flint,blitz
+tails,flint,blitz,elite
+tails,flint
+tails,flint,flirt
+tails,flint,glint
+ 46 [1;33mt[0ma[1;32mi[1;33ml[0ms[0m   5    51 Some((10, 3, "flint")) ["blitz", "elite", "flint", "flirt", "glint"]
+tails,dwelt
+tails,dwelt,exult
+tails,dwelt,hotly
+tails,dwelt,knelt
+tails,dwelt,moult
+ 55 [1;33mt[0ma[0mi[1;32ml[0ms[0m   5   101 Some((9, 2, "dwelt")) ["dwelt", "exult", "hotly", "knelt", "moult"]
+tails,adult
+tails,adult,aptly
+tails,adult,aptly,atoll
+tails,adult,dealt
+tails,adult,exalt
+ 58 [1;33mt[1;33ma[0mi[1;32ml[0ms[0m   5    35 Some((10, 3, "adult")) ["adult", "aptly", "atoll", "dealt", "exalt"]
+tails,floss,bless
+tails,floss
+tails,floss,gloss
+tails,floss,locus
+tails,floss,lupus
+189 [0mt[0ma[0mi[1;33ml[1;32ms[0m   5   864 Some((9, 2, "floss")) ["bless", "floss", "gloss", "locus", "lupus"]
+tails,sleet,lusty
+tails,sleet
+tails,sleet,slept
+tails,sleet,sloth
+tails,sleet,steel
+tails,sleet,stool
+109 [1;33mt[0ma[0mi[1;33ml[1;33ms[0m   6   170 Some((11, 2, "sleet")) ["lusty", "sleet", "slept", "sloth", "steel", "stool"]
+tails,blast
+tails,blast,least
+tails,blast,slant
+tails,blast,slate
+tails,blast,splat
+tails,blast,steal
+112 [1;33mt[1;33ma[0mi[1;33ml[1;33ms[0m   6    58 Some((11, 2, "blast")) ["blast", "least", "slant", "slate", "splat", "steal"]
+tails,carbs,abyss
+tails,carbs,amass
+tails,carbs,brass
+tails,carbs,chaos
+tails,carbs,crass
+tails,carbs,grass
+165 [0mt[1;33ma[0mi[0ml[1;32ms[0m   6  1479 Some((12, 2, "carbs")) ["abyss", "amass", "brass", "chaos", "crass", "grass"]
+tails,idant,admit
+tails,idant,antic
+tails,idant,attic
+tails,idant,audit
+tails,idant,await
+tails,idant,giant
+tails,idant,irate
+ 13 [1;33mt[1;33ma[1;33mi[0ml[0ms[0m   7   196 Some((14, 2, "idant")) ["admit", "antic", "attic", "audit", "await", "giant", "irate"]
+tails,alien,alibi
+tails,alien
+tails,alien,align
+tails,alien,alike
+tails,alien,alike,alive
+tails,alien,axial
+tails,alien,iliac
+ 48 [0mt[1;33ma[1;32mi[1;33ml[0ms[0m   7    64 Some((14, 3, "alien")) ["alibi", "alien", "align", "alike", "alive", "axial", "iliac"]
+tails,daine,cairn
+tails,daine,dairy
+tails,daine,fairy
+tails,daine,fairy,hairy
+tails,daine,maize
+tails,daine,naive
+tails,daine,rainy
+tails,daine,maize,waive
+ 24 [0mt[1;32ma[1;32mi[0ml[0ms[0m   8   146 Some((18, 3, "daine")) ["cairn", "dairy", "fairy", "hairy", "maize", "naive", "rainy", "waive"]
+tails,lathe,fatal
+tails,lathe,latch
+tails,lathe,later
+tails,lathe
+tails,lathe,latte
+tails,lathe,fatal,natal
+tails,lathe,valet
+tails,lathe,waltz
+ 34 [1;33mt[1;32ma[0mi[1;33ml[0ms[0m   8    76 Some((16, 3, "lathe")) ["fatal", "latch", "later", "lathe", "latte", "natal", "valet", "waltz"]
+tails,terse,tense
+tails,terse
+tails,terse,testy
+tails,terse,these
+tails,terse,those
+tails,terse,torso
+tails,terse,trust
+tails,terse,trust,tryst
+ 83 [1;32mt[0ma[0mi[0ml[1;33ms[0m   8   315 Some((16, 3, "terse")) ["tense", "terse", "testy", "these", "those", "torso", "trust", "tryst"]
+tails,scale,psalm
+tails,scale,scald
+tails,scale
+tails,scale,scald,scalp
+tails,scale,scald,scalp,scaly
+tails,scale,shale
+tails,scale,shall
+tails,scale,shall,small
+138 [0mt[1;33ma[0mi[1;32ml[1;33ms[0m   8   129 Some((19, 4, "scale")) ["psalm", "scald", "scale", "scalp", "scaly", "shale", "shall", "small"]
+tails,lithe,filet
+tails,lithe,filth
+tails,lithe,inlet
+tails,lithe,light
+tails,lithe,limit
+tails,lithe
+tails,lithe,pilot
+tails,lithe,unlit
+tails,lithe,until
+ 37 [1;33mt[0ma[1;33mi[1;33ml[0ms[0m   9   138 Some((17, 2, "lithe")) ["filet", "filth", "inlet", "light", "limit", "lithe", "pilot", "unlit", "until"]
+tails,slice
+tails,slice,slick
+tails,slice,slide
+tails,slice,slide,slime
+tails,slice,sling,slimy
+tails,slice,sling
+tails,slice,sling,slink
+tails,slice,spiel
+tails,slice,swirl
+126 [0mt[0ma[1;32mi[1;33ml[1;33ms[0m   9   107 Some((20, 3, "slice")) ["slice", "slick", "slide", "slime", "slimy", "sling", "slink", "spiel", "swirl"]
+tails,rosit,first
+tails,rosit,midst
+tails,rosit,posit
+tails,rosit,midst,sight
+tails,rosit,sixth
+tails,rosit,sixth,sixty
+tails,rosit,stein
+tails,rosit,stoic
+tails,rosit,strip
+tails,rosit,visit
+ 91 [1;33mt[0ma[1;33mi[0ml[1;33ms[0m  10   338 Some((22, 3, "rosit")) ["first", "midst", "posit", "sight", "sixth", "sixty", "stein", "stoic", "strip", "visit"]
+tails,amino,abide
+tails,amino,abide,afire
+tails,amino,aging
+tails,amino,anime
+tails,amino,aging,aping
+tails,amino,avian
+tails,amino,axiom
+tails,amino,axion
+tails,amino,briar
+tails,amino,china
+tails,amino,briar,friar
+ 21 [0mt[1;33ma[1;32mi[0ml[0ms[0m  11   286 Some((25, 3, "amino")) ["abide", "afire", "aging", "anime", "aping", "avian", "axiom", "axion", "briar", "china", "friar"]
+tails,tined,tepid
+tails,tined,their
+tails,tined,tiger
+tails,tined,tight
+tails,tined,tiger,timer
+tails,tined,timid
+tails,tined,tithe
+tails,tined,tonic
+tails,tined,topic
+tails,tined,topic,toxic
+tails,tined,toxin
+tails,tined,tonic,tunic
+ 11 [1;32mt[0ma[1;33mi[0ml[0ms[0m  12   222 Some((27, 3, "tined")) ["tepid", "their", "tiger", "tight", "timer", "timid", "tithe", "tonic", "topic", "toxic", "toxin", "tunic"]
+tails,patsy,bahts,baste
+tails,patsy,bahts,caste
+tails,patsy,bahts,haste
+tails,patsy,hasty
+tails,patsy,hasty,nasty
+tails,patsy,pasta
+tails,patsy,pasta,paste
+tails,patsy,pasty
+tails,patsy
+tails,patsy,satyr
+tails,patsy,bahts,caste,saute
+tails,patsy,bahts,caste,waste
+ 88 [1;33mt[1;32ma[0mi[0ml[1;33ms[0m  12   206 Some((32, 4, "patsy")) ["baste", "caste", "haste", "hasty", "nasty", "pasta", "paste", "pasty", "patsy", "satyr", "saute", "waste"]
+tails,valse,basal
+tails,valse,easel
+tails,valse,false
+tails,valse,lapse
+tails,valse,lasso
+tails,valse,basal,nasal
+tails,valse,palsy
+tails,valse,salad
+tails,valse,salad,salon
+tails,valse,palsy,salsa
+tails,valse,salve
+tails,valse,salvo
+114 [0mt[1;32ma[0mi[1;33ml[1;33ms[0m  12   186 Some((27, 3, "valse")) ["basal", "easel", "false", "lapse", "lasso", "nasal", "palsy", "salad", "salon", "salsa", "salve", "salvo"]
+tails,shell,skulk,scold
+tails,shell,shelf
+tails,shell
+tails,shell,shyly
+tails,shell,skulk
+tails,shell,skull
+tails,shell,slyly
+tails,shell,smell
+tails,shell,smell,spell
+tails,shell,slyly,sully
+tails,shell,skulk,surly
+tails,shell,smell,spell,swell
+135 [0mt[0ma[0mi[1;32ml[1;33ms[0m  12   357 Some((29, 4, "shell")) ["scold", "shelf", "shell", "shyly", "skulk", "skull", "slyly", "smell", "spell", "sully", "surly", "swell"]
+tails,madly,badly
+tails,madly,cable
+tails,madly,cable,caulk
+tails,madly,dally
+tails,madly,cable,eagle
+tails,madly,early
+tails,madly,cable,fable
+tails,madly,early,gayly
+tails,madly,ladle
+tails,madly
+tails,madly,manly
+tails,madly,maple
+tails,madly,early,rally
+ 60 [0mt[1;32ma[0mi[1;32ml[0ms[0m  13   127 Some((30, 3, "madly")) ["badly", "cable", "caulk", "dally", "eagle", "early", "fable", "gayly", "ladle", "madly", "manly", "maple", "rally"]
+tails,crogs,bonus
+tails,crogs,chess
+tails,crogs,cress
+tails,crogs,cross
+tails,crogs,dress
+tails,crogs,dross
+tails,crogs,focus
+tails,crogs,gross
+tails,crogs,guess
+tails,crogs,humus
+tails,crogs,mucus
+tails,crogs,dress,press
+tails,crogs,rebus
+162 [0mt[0ma[0mi[0ml[1;32ms[0m  13  3958 Some((27, 3, "crogs")) ["bonus", "chess", "cress", "cross", "dress", "dross", "focus", "gross", "guess", "humus", "mucus", "press", "rebus"]
+tails,canid,cabin
+tails,canid,mafia
+tails,canid,magic
+tails,canid,mania
+tails,canid,manic
+tails,canid,mafia,maxim
+tails,canid,nadir
+tails,canid,manic,panic
+tails,canid,rabbi
+tails,canid,rabid
+tails,canid,radii
+tails,canid,radii,radio
+tails,canid,rabid,rapid
+tails,canid,rabid,vapid
+ 15 [0mt[1;32ma[1;33mi[0ml[0ms[0m  14   379 Some((33, 3, "canid")) ["cabin", "mafia", "magic", "mania", "manic", "maxim", "nadir", "panic", "rabbi", "rabid", "radii", "radio", "rapid", "vapid"]
+tails,ample,amble
+tails,ample
+tails,ample,amply
+tails,ample,angle
+tails,ample,angle,ankle
+tails,ample,apple
+tails,ample,apply
+tails,ample,chalk
+tails,ample,fella
+tails,ample,chalk,koala
+tails,ample,mealy
+tails,ample,qualm
+tails,ample,mealy,realm
+tails,ample,whale
+ 57 [0mt[1;33ma[0mi[1;32ml[0ms[0m  14   292 Some((30, 3, "ample")) ["amble", "ample", "amply", "angle", "ankle", "apple", "apply", "chalk", "fella", "koala", "mealy", "qualm", "realm", "whale"]
+tails,field,bible
+tails,field,billy
+tails,field,dilly
+tails,field,dilly,dimly
+tails,field
+tails,field,filly
+tails,field,billy,girly
+tails,field,billy,hilly
+tails,field,idyll
+tails,field,imply
+tails,field,rifle
+tails,field,wield
+tails,field,billy,hilly,willy
+tails,field,wield,yield
+ 63 [0mt[0ma[1;33mi[1;32ml[0ms[0m  14   216 Some((33, 4, "field")) ["bible", "billy", "dilly", "dimly", "field", "filly", "girly", "hilly", "idyll", "imply", "rifle", "wield", "willy", "yield"]
+tails,guild,build
+tails,guild,child
+tails,guild,chill,chili
+tails,guild,chill
+tails,guild,drill
+tails,guild,chill,exile
+tails,guild,chill,frill
+tails,guild,grill
+tails,guild
+tails,guild,guile
+tails,guild,chill,icily
+tails,guild,chill,frill,krill
+tails,guild,quill
+tails,guild,chill,while
+ 72 [0mt[0ma[1;32mi[1;32ml[0ms[0m  14   104 Some((34, 4, "guild")) ["build", "child", "chili", "chill", "drill", "exile", "frill", "grill", "guild", "guile", "icily", "krill", "quill", "while"]
+tails,tanky,tarty,tabby
+tails,tanky,tamer,taboo
+tails,tanky,tacky
+tails,tanky,tarty,tabby,taffy
+tails,tanky,taken
+tails,tanky,taker
+tails,tanky,tamer
+tails,tanky,tango
+tails,tanky,tangy
+tails,tanky,tamer,taper
+tails,tanky,tarty,tardy
+tails,tanky,tamer,tarot
+tails,tanky,tarty,tatty
+tails,tanky,taunt
+tails,tanky,tawny
+  8 [1;32mt[1;32ma[0mi[0ml[0ms[0m  15   165 Some((38, 4, "tanky")) ["tabby", "taboo", "tacky", "taffy", "taken", "taker", "tamer", "tango", "tangy", "taper", "tardy", "tarot", "tatty", "taunt", "tawny"]
+tails,urite,deity
+tails,urite,drift
+tails,urite,edict
+tails,urite,edict,evict
+tails,urite,fritz
+tails,urite,joint,idiot
+tails,urite,joint
+tails,urite,joint,point
+tails,urite,drift,print
+tails,urite,quiet
+tails,urite,quite
+tails,urite,unite
+tails,urite,unity
+tails,urite,white
+tails,urite,write
+ 19 [1;33mt[0ma[1;32mi[0ml[0ms[0m  15   273 Some((34, 3, "urite")) ["deity", "drift", "edict", "evict", "fritz", "idiot", "joint", "point", "print", "quiet", "quite", "unite", "unity", "white", "write"]
+tails,cloth,betel
+tails,cloth,blunt
+tails,cloth,blunt,blurt
+tails,cloth,cleft
+tails,cloth
+tails,cloth,clout
+tails,cloth,elect
+tails,cloth,extol
+tails,cloth,blunt,fleet
+tails,cloth,flout
+tails,cloth,flute
+tails,cloth,hotel
+tails,cloth,lefty
+tails,cloth,lofty
+tails,cloth,extol,motel
+ 28 [1;33mt[0ma[0mi[1;33ml[0ms[0m  15   491 Some((32, 3, "cloth")) ["betel", "blunt", "blurt", "cleft", "cloth", "clout", "elect", "extol", "fleet", "flout", "flute", "hotel", "lefty", "lofty", "motel"]
+tails,clash
+tails,clash,clasp
+tails,clash,flash
+tails,clash,flask
+tails,clash,lease
+tails,clash,leash
+tails,clash,shawl
+tails,clash,shoal
+tails,clash,slack
+tails,clash,slang
+tails,clash,flash,slash
+tails,clash,slang,slave
+tails,clash,snarl
+tails,clash,solar
+tails,clash,solar,usual
+111 [0mt[1;33ma[0mi[1;33ml[1;33ms[0m  15   455 Some((32, 3, "clash")) ["clash", "clasp", "flash", "flask", "lease", "leash", "shawl", "shoal", "slack", "slang", "slash", "slave", "snarl", "solar", "usual"]
+tails,trice,thick
+tails,trice,thief
+tails,trice,thigh
+tails,trice,thigh,thing
+tails,trice,thigh,think
+tails,trice,third
+tails,trice,tribe
+tails,trice
+tails,trice,trick
+tails,trice,tried
+tails,trice,tribe,tripe
+tails,trice,tribe,tripe,trite
+tails,trice,twice
+tails,trice,twine
+tails,trice,thigh,twixt
+tails,trice,thigh,tying
+ 20 [1;32mt[0ma[1;32mi[0ml[0ms[0m  16    79 Some((38, 4, "trice")) ["thick", "thief", "thigh", "thing", "think", "third", "tribe", "trice", "trick", "tried", "tripe", "trite", "twice", "twine", "twixt", "tying"]
+tails,trade,teach
+tails,trade,teary
+tails,trade,terra
+tails,trade,thank
+tails,trade,theta
+tails,trade,today
+tails,trade,tonga
+tails,trade,tonga,topaz
+tails,trade,trace
+tails,trade,track
+tails,trade,track,tract
+tails,trade
+tails,trade,track,tramp
+tails,trade,tread
+tails,trade,treat
+tails,trade,thank,twang
+tails,trade,theta,tweak
+  5 [1;32mt[1;33ma[0mi[0ml[0ms[0m  17   318 Some((38, 3, "trade")) ["teach", "teary", "terra", "thank", "theta", "today", "tonga", "topaz", "trace", "track", "tract", "trade", "tramp", "tread", "treat", "twang", "tweak"]
+tails,rival,anvil
+tails,rival,avail
+tails,rival,plaid,claim
+tails,rival,aumil,email
+tails,rival,final
+tails,rival,aumil,flail
+tails,rival,flair
+tails,rival,frail
+tails,rival,frail,grail
+tails,rival,ideal
+tails,rival,inlay
+tails,rival,lilac
+tails,rival,plaid
+tails,rival,plaid,plain
+tails,rival,aumil,quail
+tails,rival
+tails,rival,viral
+ 39 [0mt[1;33ma[1;33mi[1;33ml[0ms[0m  17   232 Some((39, 3, "rival")) ["anvil", "avail", "claim", "email", "final", "flail", "flair", "frail", "grail", "ideal", "inlay", "lilac", "plaid", "plain", "quail", "rival", "viral"]
+tails,blind,blimp
+tails,blind
+tails,blind,blink
+tails,blind,flier,click
+tails,blind,flier,cliff
+tails,blind,climb
+tails,blind,cling
+tails,blind,cling,clink
+tails,blind,elide
+tails,blind,flier,flick
+tails,blind,flier
+tails,blind,cling,fling
+tails,blind,elide,glide
+tails,blind,lying
+tails,blind,flier,olive
+tails,blind,plied
+tails,blind,flier,plier
+tails,blind,whirl
+ 45 [0mt[0ma[1;32mi[1;33ml[0ms[0m  18   248 Some((43, 3, "blind")) ["blimp", "blind", "blink", "click", "cliff", "climb", "cling", "clink", "elide", "flick", "flier", "fling", "glide", "lying", "olive", "plied", "plier", "whirl"]
+tails,heist,exist
+tails,heist,foist
+tails,heist
+tails,heist,hoist
+tails,heist,foist,joist
+tails,heist,foist,joist,moist
+tails,heist,shift
+tails,heist,shift,shirt
+tails,heist,frist,skirt
+tails,heist,smite
+tails,heist,smith
+tails,heist,smite,spite
+tails,heist,stink,stick
+tails,heist,stink,stiff
+tails,heist,stink,sting
+tails,heist,stink
+tails,heist,frist,stint
+tails,heist,smite,spite,suite
+tails,heist,frist,swift
+tails,heist,foist,wrist
+100 [1;33mt[0ma[1;32mi[0ml[1;33ms[0m  20   137 Some((53, 4, "heist")) ["exist", "foist", "heist", "hoist", "joist", "moist", "shift", "shirt", "skirt", "smite", "smith", "spite", "stick", "stiff", "sting", "stink", "stint", "suite", "swift", "wrist"]
+tails,sanes,cause
+tails,sanes,gassy
+tails,sanes,harsh
+tails,sanes,harsh,marsh
+tails,sanes,mason
+tails,sanes,masse
+tails,sanes,pansy
+tails,sanes,cause,parse
+tails,sanes,cause,pause
+tails,sanes,harsh,raspy
+tails,sanes,safer
+tails,sanes,sandy
+tails,sanes,saner
+tails,sanes,savor,sappy
+tails,sanes,sassy
+tails,sanes,sauce
+tails,sanes,savor,sappy,saucy
+tails,sanes,sauna
+tails,sanes,savor
+tails,sanes,savor,savoy
+tails,sanes,savor,savvy
+ 87 [0mt[1;32ma[0mi[0ml[1;33ms[0m  21  1017 Some((51, 4, "sanes")) ["cause", "gassy", "harsh", "marsh", "mason", "masse", "pansy", "parse", "pause", "raspy", "safer", "sandy", "saner", "sappy", "sassy", "sauce", "saucy", "sauna", "savor", "savoy", "savvy"]
+tails,pleat,alert
+tails,pleat,allot
+tails,pleat,allot,aloft
+tails,pleat,altar
+tails,pleat,alter
+tails,pleat,bleat
+tails,pleat,bloat
+tails,pleat,bleat,cleat
+tails,pleat,delta
+tails,pleat,eclat
+tails,pleat,alter,elate
+tails,pleat,fetal
+tails,pleat,bloat,float
+tails,pleat,bloat,float,gloat
+tails,pleat,leant
+tails,pleat,leapt
+tails,pleat,loath
+tails,pleat,fetal,metal
+tails,pleat,octal
+tails,pleat,petal
+tails,pleat,plant
+tails,pleat,plate
+tails,pleat
+tails,pleat,ultra
+ 31 [1;33mt[1;33ma[0mi[1;33ml[0ms[0m  24   197 Some((54, 4, "pleat")) ["alert", "allot", "aloft", "altar", "alter", "bleat", "bloat", "cleat", "delta", "eclat", "elate", "fetal", "float", "gloat", "leant", "leapt", "loath", "metal", "octal", "petal", "plant", "plate", "pleat", "ultra"]
+tails,grain,acrid
+tails,grain,admin
+tails,grain,aphid,affix
+tails,grain,again
+tails,grain,aider
+tails,grain,aphid
+tails,grain,aphid,audio
+tails,grain,aphid,avoid
+tails,grain,braid
+tails,grain,brain
+tails,grain,chain
+tails,grain,chair
+tails,grain,cigar
+tails,grain,aider,circa
+tails,grain,diary
+tails,grain,brain,drain
+tails,grain
+tails,grain,image
+tails,grain,inane
+tails,grain,khaki
+tails,grain,aphid,media
+tails,grain,ninja
+tails,grain,inane,piano
+tails,grain,pizza
+tails,grain,aider,vicar
+ 12 [0mt[1;33ma[1;33mi[0ml[0ms[0m  25  1011 Some((57, 3, "grain")) ["acrid", "admin", "affix", "again", "aider", "aphid", "audio", "avoid", "braid", "brain", "chain", "chair", "cigar", "circa", "diary", "drain", "grain", "image", "inane", "khaki", "media", "ninja", "piano", "pizza", "vicar"]
+tails,slope,blush
+tails,slope,close
+tails,slope,flesh
+tails,slope,blush,flush
+tails,slope,loose
+tails,slope,loser
+tails,slope,louse
+tails,slope,lousy
+tails,slope,plush
+tails,slope,pulse
+tails,slope,scowl
+tails,slope,sleek
+tails,slope,sleep
+tails,slope,sloop
+tails,slope
+tails,slope,slosh
+tails,slope,slump
+tails,slope,slung
+tails,slope,slung,slunk
+tails,slope,slump,slurp
+tails,slope,slung,slush
+tails,slope,solve
+tails,slope,spool
+tails,slope,sulky
+tails,slope,welsh
+108 [0mt[0ma[0mi[1;33ml[1;33ms[0m  25  1237 Some((53, 3, "slope")) ["blush", "close", "flesh", "flush", "loose", "loser", "louse", "lousy", "plush", "pulse", "scowl", "sleek", "sleep", "sloop", "slope", "slosh", "slump", "slung", "slunk", "slurp", "slush", "solve", "spool", "sulky", "welsh"]
+tails,rinse,bison
+tails,rinse,fishy,disco
+tails,rinse,fishy
+tails,rinse,missy,gipsy
+tails,rinse,issue
+tails,rinse,missy,kiosk
+tails,rinse,miser
+tails,rinse,missy
+tails,rinse,music
+tails,rinse,resin
+tails,rinse
+tails,rinse,risen
+tails,rinse,riser
+tails,rinse,risky
+tails,rinse,serif
+tails,rinse,sheik
+tails,rinse,siege
+tails,rinse,siege,sieve
+tails,rinse,since
+tails,rinse,sinew
+tails,rinse,since,singe
+tails,rinse,siren
+tails,rinse,missy,sissy
+tails,rinse,sonic
+tails,rinse,sprig
+tails,rinse,music,squib
+tails,rinse,music,sushi
+tails,rinse,visor
+tails,rinse,miser,wiser
+tails,rinse,fishy,wispy
+ 90 [0mt[0ma[1;33mi[0ml[1;33ms[0m  30  1471 Some((69, 3, "rinse")) ["bison", "disco", "fishy", "gipsy", "issue", "kiosk", "miser", "missy", "music", "resin", "rinse", "risen", "riser", "risky", "serif", "sheik", "siege", "sieve", "since", "sinew", "singe", "siren", "sissy", "sonic", "sprig", "squib", "sushi", "visor", "wiser", "wispy"]
+tails,lager,bagel
+tails,lager,baler
+tails,lager,banal,balmy
+tails,lager,banal
+tails,lager,banal,cabal
+tails,lager,navel,camel
+tails,lager,banal,canal
+tails,lager,carol
+tails,lager,gavel
+tails,lager,halve
+tails,lager,navel,camel,hazel
+tails,lager,label
+tails,lager,labor
+tails,lager,label,laden
+tails,lager
+tails,lager,lance
+tails,lager,lanky
+tails,lager,label,lapel
+tails,lager,large
+tails,lager,larva
+tails,lager,laugh
+tails,lager,layer
+tails,lager,banal,naval
+tails,lager,navel
+tails,lager,baler,paler
+tails,lager,navel,panel
+tails,lager,banal,papal
+tails,lager,carol,ralph
+tails,lager,valor
+tails,lager,halve,value
+tails,lager,halve,valve
+ 33 [0mt[1;32ma[0mi[1;33ml[0ms[0m  31   472 Some((76, 4, "lager")) ["bagel", "baler", "balmy", "banal", "cabal", "camel", "canal", "carol", "gavel", "halve", "hazel", "label", "labor", "laden", "lager", "lance", "lanky", "lapel", "large", "larva", "laugh", "layer", "naval", "navel", "paler", "panel", "papal", "ralph", "valor", "value", "valve"]
+  7 [1;33mt[1;32ma[0mi[0ml[0ms[0m  35   479 None ["batch", "bathe", "baton", "batty", "cadet", "caput", "carat", "catch", "cater", "catty", "datum", "daunt", "earth", "eaten", "eater", "facet", "fatty", "gamut", "gaunt", "hatch", "hater", "haunt", "haute", "jaunt", "match", "matey", "party", "patch", "patty", "ratty", "vaunt", "warty", "watch", "water", "yacht"]

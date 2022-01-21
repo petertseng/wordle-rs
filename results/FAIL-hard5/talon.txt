@@ -1,0 +1,302 @@
+talon,table
+ 17 [1;32mt[1;32ma[1;33ml[0mo[0mn[0m   1    26 Some((1, 1, "table")) ["table"]
+talon,tally
+ 26 [1;32mt[1;32ma[1;32ml[0mo[0mn[0m   1    18 Some((1, 1, "tally")) ["tally"]
+talon,total
+ 41 [1;32mt[1;33ma[1;33ml[1;33mo[0mn[0m   1     7 Some((1, 1, "total")) ["total"]
+talon,lasso
+ 42 [0mt[1;32ma[1;33ml[1;33mo[0mn[0m   1    31 Some((1, 1, "lasso")) ["lasso"]
+talon,salvo
+ 51 [0mt[1;32ma[1;32ml[1;33mo[0mn[0m   1    16 Some((1, 1, "salvo")) ["salvo"]
+talon,aloof
+ 66 [0mt[1;33ma[1;33ml[1;32mo[0mn[0m   1    35 Some((1, 1, "aloof")) ["aloof"]
+talon,pilot
+ 73 [1;33mt[0ma[1;32ml[1;32mo[0mn[0m   1     6 Some((1, 1, "pilot")) ["pilot"]
+talon,allot
+ 76 [1;33mt[1;33ma[1;32ml[1;32mo[0mn[0m   1     2 Some((1, 1, "allot")) ["allot"]
+talon,valor
+ 78 [0mt[1;32ma[1;32ml[1;32mo[0mn[0m   1    11 Some((1, 1, "valor")) ["valor"]
+talon,natal
+ 97 [1;33mt[1;32ma[1;33ml[0mo[1;33mn[0m   1     5 Some((1, 1, "natal")) ["natal"]
+talon,inlay
+102 [0mt[1;33ma[1;32ml[0mo[1;33mn[0m   1    20 Some((1, 1, "inlay")) ["inlay"]
+talon,atone
+112 [1;33mt[1;33ma[0ml[1;33mo[1;33mn[0m   1    27 Some((1, 1, "atone")) ["atone"]
+talon,tonga
+113 [1;32mt[1;33ma[0ml[1;33mo[1;33mn[0m   1    12 Some((1, 1, "tonga")) ["tonga"]
+talon,tango
+116 [1;32mt[1;32ma[0ml[1;33mo[1;33mn[0m   1     5 Some((1, 1, "tango")) ["tango"]
+talon,tonal
+122 [1;32mt[1;33ma[1;33ml[1;33mo[1;33mn[0m   1     3 Some((1, 1, "tonal")) ["tonal"]
+talon,ingot
+136 [1;33mt[0ma[0ml[1;32mo[1;33mn[0m   1    25 Some((1, 1, "ingot")) ["ingot"]
+talon,tenor
+137 [1;32mt[0ma[0ml[1;32mo[1;33mn[0m   1     8 Some((1, 1, "tenor")) ["tenor"]
+talon,annoy
+138 [0mt[1;33ma[0ml[1;32mo[1;33mn[0m   1    51 Some((1, 1, "annoy")) ["annoy"]
+talon,stain
+166 [1;33mt[1;33ma[0ml[0mo[1;32mn[0m   1    37 Some((1, 1, "stain")) ["stain"]
+talon,taken
+170 [1;32mt[1;32ma[0ml[0mo[1;32mn[0m   1     9 Some((1, 1, "taken")) ["taken"]
+talon,laden
+177 [0mt[1;32ma[1;33ml[0mo[1;32mn[0m   1    12 Some((1, 1, "laden")) ["laden"]
+talon,often
+190 [1;33mt[0ma[0ml[1;33mo[1;32mn[0m   1    38 Some((1, 1, "often")) ["often"]
+talon,oaken
+195 [0mt[1;32ma[0ml[1;33mo[1;32mn[0m   1    29 Some((1, 1, "oaken")) ["oaken"]
+talon,baton
+223 [1;33mt[1;32ma[0ml[1;32mo[1;32mn[0m   1     4 Some((1, 1, "baton")) ["baton"]
+talon,lemon
+225 [0mt[0ma[1;33ml[1;32mo[1;32mn[0m   1    18 Some((1, 1, "lemon")) ["lemon"]
+talon,salon
+240 [0mt[1;32ma[1;32ml[1;32mo[1;32mn[0m   1     3 Some((1, 1, "salon")) ["salon"]
+talon
+242 [1;32mt[1;32ma[1;32ml[1;32mo[1;32mn[0m   1     1 Some((1, 1, "talon")) ["talon"]
+talon,patio
+talon,patio,ratio
+ 34 [1;33mt[1;32ma[0ml[1;33mo[0mn[0m   2    49 Some((3, 2, "patio")) ["patio", "ratio"]
+talon,towel
+talon,towel,troll
+ 38 [1;32mt[0ma[1;33ml[1;33mo[0mn[0m   2    27 Some((3, 2, "towel")) ["towel", "troll"]
+talon,taboo
+talon,taboo,tarot
+ 62 [1;32mt[1;32ma[0ml[1;32mo[0mn[0m   2    13 Some((3, 2, "taboo")) ["taboo", "tarot"]
+talon,extol
+talon,extol,stool
+ 64 [1;33mt[0ma[1;33ml[1;32mo[0mn[0m   2    20 Some((3, 2, "extol")) ["extol", "stool"]
+talon,carol
+talon,carol,labor
+ 69 [0mt[1;32ma[1;33ml[1;32mo[0mn[0m   2    16 Some((3, 2, "carol")) ["carol", "labor"]
+talon,thank
+talon,thank,twang
+ 86 [1;32mt[1;33ma[0ml[0mo[1;33mn[0m   2    59 Some((3, 2, "thank")) ["thank", "twang"]
+talon,inlet
+talon,inlet,unlit
+100 [1;33mt[0ma[1;32ml[0mo[1;33mn[0m   2     6 Some((3, 2, "inlet")) ["inlet", "unlit"]
+talon,thong
+talon,thong,tonic
+110 [1;32mt[0ma[0ml[1;33mo[1;33mn[0m   2    42 Some((3, 2, "thong")) ["thong", "tonic"]
+talon,banjo
+talon,banjo,mango
+114 [0mt[1;32ma[0ml[1;33mo[1;33mn[0m   2    56 Some((3, 2, "banjo")) ["banjo", "mango"]
+talon,canoe
+talon,canoe,manor
+141 [0mt[1;32ma[0ml[1;32mo[1;33mn[0m   2    36 Some((3, 2, "canoe")) ["canoe", "manor"]
+talon,stein
+talon,stein,stern
+163 [1;33mt[0ma[0ml[0mo[1;32mn[0m   2    76 Some((3, 2, "stein")) ["stein", "stern"]
+talon,titan
+talon,titan,train
+167 [1;32mt[1;33ma[0ml[0mo[1;32mn[0m   2    16 Some((3, 2, "titan")) ["titan", "train"]
+talon,eaten
+talon,eaten,satin
+169 [1;33mt[1;32ma[0ml[0mo[1;32mn[0m   2    18 Some((3, 2, "eaten")) ["eaten", "satin"]
+talon,title
+talon,title,truly
+talon,title,twirl
+ 11 [1;32mt[0ma[1;33ml[0mo[0mn[0m   3   106 Some((5, 2, "title")) ["title", "truly", "twirl"]
+talon,tilde
+talon,tilde,tulip
+talon,tilde,tulle
+ 20 [1;32mt[0ma[1;32ml[0mo[0mn[0m   3    53 Some((5, 2, "tilde")) ["tilde", "tulip", "tulle"]
+talon,delta
+talon,delta,eclat
+talon,delta,splat
+ 22 [1;33mt[1;33ma[1;32ml[0mo[0mn[0m   3    50 Some((5, 2, "delta")) ["delta", "eclat", "splat"]
+talon,salty
+talon,salty,valet
+talon,salty,waltz
+ 25 [1;33mt[1;32ma[1;32ml[0mo[0mn[0m   3    34 Some((5, 2, "salty")) ["salty", "valet", "waltz"]
+talon,today,toast
+talon,today
+talon,today,topaz
+ 32 [1;32mt[1;33ma[0ml[1;33mo[0mn[0m   3    47 Some((5, 2, "today")) ["toast", "today", "topaz"]
+talon,color,below
+talon,color
+talon,color,igloo
+ 72 [0mt[0ma[1;32ml[1;32mo[0mn[0m   3    63 Some((5, 2, "color")) ["below", "color", "igloo"]
+talon,aglow
+talon,aglow,allow
+talon,aglow,alloy
+ 75 [0mt[1;33ma[1;32ml[1;32mo[0mn[0m   3    21 Some((5, 2, "aglow")) ["aglow", "allow", "alloy"]
+talon,plant,leant
+talon,plant
+talon,plant,slant
+ 94 [1;33mt[1;33ma[1;33ml[0mo[1;33mn[0m   3    12 Some((5, 2, "plant")) ["leant", "plant", "slant"]
+talon,alone
+talon,alone,along
+talon,alone,zonal
+120 [0mt[1;33ma[1;33ml[1;33mo[1;33mn[0m   3    27 Some((5, 2, "alone")) ["alone", "along", "zonal"]
+talon,token,thorn
+talon,token
+talon,token,toxin
+191 [1;32mt[0ma[0ml[1;33mo[1;32mn[0m   3    13 Some((5, 2, "token")) ["thorn", "token", "toxin"]
+talon,apron
+talon,apron,arson
+talon,apron,axion
+219 [0mt[1;33ma[0ml[1;32mo[1;32mn[0m   3    40 Some((5, 2, "apron")) ["apron", "arson", "axion"]
+talon,filet
+talon,filet,filth
+talon,filet,islet
+talon,filet,split
+ 19 [1;33mt[0ma[1;32ml[0mo[0mn[0m   4   141 Some((7, 2, "filet")) ["filet", "filth", "islet", "split"]
+talon,molas,molar
+talon,molas,polar
+talon,molas,polka
+talon,molas,solar
+ 48 [0mt[1;33ma[1;32ml[1;33mo[0mn[0m   4    60 Some((8, 2, "molas")) ["molar", "polar", "polka", "solar"]
+talon,sabot,abbot
+talon,sabot,actor
+talon,sabot,afoot
+talon,sabot,ascot
+ 58 [1;33mt[1;33ma[0ml[1;32mo[0mn[0m   4    39 Some((8, 2, "sabot")) ["abbot", "actor", "afoot", "ascot"]
+talon,taint
+talon,taint,tangy
+talon,taint,taunt
+talon,taint,tawny
+ 89 [1;32mt[1;32ma[0ml[0mo[1;33mn[0m   4    29 Some((7, 2, "taint")) ["taint", "tangy", "taunt", "tawny"]
+talon,liken,elfin
+talon,liken
+talon,liken,linen
+talon,liken,lumen
+171 [0mt[0ma[1;33ml[0mo[1;32mn[0m   4    90 Some((7, 2, "liken")) ["elfin", "liken", "linen", "lumen"]
+talon,felon,colon
+talon,felon
+talon,felon,melon
+talon,felon,colon,nylon
+234 [0mt[0ma[1;32ml[1;32mo[1;32mn[0m   4    14 Some((8, 3, "felon")) ["colon", "felon", "melon", "nylon"]
+talon,tidal
+talon,tidal,trail
+talon,tidal,trawl
+talon,tidal,trial
+talon,tidal,tubal
+ 14 [1;32mt[1;33ma[1;33ml[0mo[0mn[0m   5    48 Some((9, 2, "tidal")) ["tidal", "trail", "trawl", "trial", "tubal"]
+talon,torot,throb
+talon,torot,throb,throw
+talon,torot,troop
+talon,torot,tumor
+talon,torot,tutor
+ 56 [1;32mt[0ma[0ml[1;32mo[0mn[0m   5    46 Some((11, 3, "torot")) ["throb", "throw", "troop", "tumor", "tutor"]
+talon,flint,blunt
+talon,flint
+talon,flint,glint
+talon,flint,knelt
+talon,flint,until
+ 91 [1;33mt[0ma[1;33ml[0mo[1;33mn[0m   5    35 Some((9, 2, "flint")) ["blunt", "flint", "glint", "knelt", "until"]
+talon,blown
+talon,blown,clown
+talon,blown,clown,flown
+talon,blown,login
+talon,blown,olden
+198 [0mt[0ma[1;33ml[1;33mo[1;32mn[0m   5    39 Some((10, 3, "blown")) ["blown", "clown", "flown", "login", "olden"]
+talon,acorn
+talon,acorn,adorn
+talon,acorn,groan
+talon,acorn,ocean
+talon,acorn,organ
+talon,acorn,woman
+192 [0mt[1;33ma[0ml[1;33mo[1;32mn[0m   6    75 Some((11, 2, "acorn")) ["acorn", "adorn", "groan", "ocean", "organ", "woman"]
+talon,caron,bacon
+talon,caron,baron
+talon,caron,canon
+talon,caron,mason
+talon,caron,rayon
+talon,caron,mason,wagon
+222 [0mt[1;32ma[0ml[1;32mo[1;32mn[0m   6    27 Some((13, 3, "caron")) ["bacon", "baron", "canon", "mason", "rayon", "wagon"]
+talon,lathe,fatal
+talon,lathe,fault
+talon,lathe,latch
+talon,lathe,later
+talon,lathe
+talon,lathe,latte
+talon,lathe,fault,vault
+ 16 [1;33mt[1;32ma[1;33ml[0mo[0mn[0m   7    76 Some((14, 3, "lathe")) ["fatal", "fault", "latch", "later", "lathe", "latte", "vault"]
+talon,macho,cacao
+talon,macho,cameo
+talon,macho,cargo
+talon,macho
+talon,macho,macro
+talon,macho,mambo
+talon,macho,radio
+ 33 [0mt[1;32ma[0ml[1;33mo[0mn[0m   7   215 Some((13, 2, "macho")) ["cacao", "cameo", "cargo", "macho", "macro", "mambo", "radio"]
+talon,bloat,aloft
+talon,bloat,atoll
+talon,bloat
+talon,bloat,float
+talon,bloat,float,gloat
+talon,bloat,loath
+talon,bloat,octal
+ 40 [1;33mt[1;33ma[1;33ml[1;33mo[0mn[0m   7    31 Some((14, 3, "bloat")) ["aloft", "atoll", "bloat", "float", "gloat", "loath", "octal"]
+talon,among,agony
+talon,among
+talon,among,anode
+talon,among,gonad
+talon,among,nomad
+talon,among,piano
+talon,among,sonar
+111 [0mt[1;33ma[0ml[1;33mo[1;33mn[0m   7   186 Some((13, 2, "among")) ["agony", "among", "anode", "gonad", "nomad", "piano", "sonar"]
+talon,noble,blond
+talon,noble,clone
+talon,noble,knoll
+talon,noble,lingo
+talon,noble
+talon,noble,nobly
+talon,noble,novel
+117 [0mt[0ma[1;33ml[1;33mo[1;33mn[0m   7   104 Some((13, 2, "noble")) ["blond", "clone", "knoll", "lingo", "noble", "nobly", "novel"]
+talon,align,alien
+talon,align
+talon,align,clean
+talon,align,glean
+talon,align,learn
+talon,align,plain
+talon,align,plain,slain
+174 [0mt[1;33ma[1;33ml[0mo[1;32mn[0m   7    42 Some((14, 3, "align")) ["alien", "align", "clean", "glean", "learn", "plain", "slain"]
+talon,abhor
+talon,abhor,arbor
+talon,abhor,ardor
+talon,abhor,ardor,armor
+talon,abhor,arrow
+talon,abhor,axiom
+talon,abhor,chaos
+talon,abhor,cocoa
+ 57 [0mt[1;33ma[0ml[1;32mo[0mn[0m   8   199 Some((16, 3, "abhor")) ["abhor", "arbor", "ardor", "armor", "arrow", "axiom", "chaos", "cocoa"]
+talon,raven,basin
+talon,raven,basin,cabin
+talon,raven,cairn
+talon,raven,haven
+talon,raven,basin,pagan
+talon,raven,ramen
+talon,raven
+talon,raven,waxen
+168 [0mt[1;32ma[0ml[0mo[1;32mn[0m   8   101 Some((17, 3, "raven")) ["basin", "cabin", "cairn", "haven", "pagan", "ramen", "raven", "waxen"]
+talon,abort
+talon,abort,about
+talon,abort,adopt
+talon,abort,aorta
+talon,abort,boast
+talon,abort,coast
+talon,abort,ovate
+talon,abort,quota
+talon,abort,roast
+ 31 [1;33mt[1;33ma[0ml[1;33mo[0mn[0m   9   190 Some((17, 2, "abort")) ["abort", "about", "adopt", "aorta", "boast", "coast", "ovate", "quota", "roast"]
+talon,savor,bayou
+talon,savor,favor
+talon,savor,havoc
+talon,savor,major
+talon,savor,major,mayor
+talon,savor,major,razor
+talon,savor
+talon,savor,savoy
+talon,savor,vapor
+ 60 [0mt[1;32ma[0ml[1;32mo[0mn[0m   9   123 Some((19, 3, "savor")) ["bayou", "favor", "havoc", "major", "mayor", "razor", "savor", "savoy", "vapor"]
+talon,flood,blood
+talon,flood,bloom
+talon,flood,drool
+talon,flood,elbow
+talon,flood
+talon,flood,floor
+talon,flood,bloom,gloom
+talon,flood,bloom,sloop
+talon,flood,spool
+ 63 [0mt[0ma[1;33ml[1;32mo[0mn[0m   9   144 Some((19, 3, "flood")) ["blood", "bloom", "drool", "elbow", "flood", "floor", "gloom", "sloop", "spool"]
+ 88 [1;33mt[1;32ma[0ml[0mo[1;33mn[0m   9    88 None ["daunt", "faint", "gaunt", "haunt", "jaunt", "nasty", "paint", "saint", "vaunt"]

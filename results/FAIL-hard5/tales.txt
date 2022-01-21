@@ -1,0 +1,222 @@
+tales,tulip
+ 20 [1;32mt[0ma[1;32ml[0me[0ms[0m   1    53 Some((1, 1, "tulip")) ["tulip"]
+tales,allot
+ 22 [1;33mt[1;33ma[1;32ml[0me[0ms[0m   1    50 Some((1, 1, "allot")) ["allot"]
+tales,waltz
+ 25 [1;33mt[1;32ma[1;32ml[0me[0ms[0m   1    34 Some((1, 1, "waltz")) ["waltz"]
+tales,title
+ 38 [1;32mt[0ma[1;33ml[1;33me[0ms[0m   1    39 Some((1, 1, "title")) ["title"]
+tales,table
+ 44 [1;32mt[1;32ma[1;33ml[1;33me[0ms[0m   1     5 Some((1, 1, "table")) ["table"]
+tales,after
+ 58 [1;33mt[1;33ma[0ml[1;32me[0ms[0m   1   101 Some((1, 1, "after")) ["after"]
+tales,towel
+ 65 [1;32mt[0ma[1;33ml[1;32me[0ms[0m   1    15 Some((1, 1, "towel")) ["towel"]
+tales,alter
+ 67 [1;33mt[1;33ma[1;33ml[1;32me[0ms[0m   1    17 Some((1, 1, "alter")) ["alter"]
+tales,later
+ 70 [1;33mt[1;32ma[1;33ml[1;32me[0ms[0m   1    12 Some((1, 1, "later")) ["later"]
+tales,valet
+ 79 [1;33mt[1;32ma[1;32ml[1;32me[0ms[0m   1     6 Some((1, 1, "valet")) ["valet"]
+tales,tasty
+ 89 [1;32mt[1;32ma[0ml[0me[1;33ms[0m   1    68 Some((1, 1, "tasty")) ["tasty"]
+tales,split
+100 [1;33mt[0ma[1;32ml[0me[1;33ms[0m   1    60 Some((1, 1, "split")) ["split"]
+tales,solar
+102 [0mt[1;33ma[1;32ml[0me[1;33ms[0m   1   127 Some((1, 1, "solar")) ["solar"]
+tales,splat
+103 [1;33mt[1;33ma[1;32ml[0me[1;33ms[0m   1    18 Some((1, 1, "splat")) ["splat"]
+tales,salty
+106 [1;33mt[1;32ma[1;32ml[0me[1;33ms[0m   1    15 Some((1, 1, "salty")) ["salty"]
+tales,tease
+113 [1;32mt[1;33ma[0ml[1;33me[1;33ms[0m   1    32 Some((1, 1, "tease")) ["tease"]
+tales,taste
+116 [1;32mt[1;32ma[0ml[1;33me[1;33ms[0m   1    17 Some((1, 1, "taste")) ["taste"]
+tales,lapse
+123 [0mt[1;32ma[1;33ml[1;33me[1;33ms[0m   1    44 Some((1, 1, "lapse")) ["lapse"]
+tales,asset
+139 [1;33mt[1;33ma[0ml[1;32me[1;33ms[0m   1    33 Some((1, 1, "asset")) ["asset"]
+tales,easel
+150 [0mt[1;32ma[1;33ml[1;32me[1;33ms[0m   1    30 Some((1, 1, "easel")) ["easel"]
+tales,islet
+154 [1;33mt[0ma[1;32ml[1;32me[1;33ms[0m   1     7 Some((1, 1, "islet")) ["islet"]
+tales,basis
+168 [0mt[1;32ma[0ml[0me[1;32ms[0m   1   757 Some((1, 1, "basis")) ["basis"]
+tales,bless
+198 [0mt[0ma[1;33ml[1;33me[1;32ms[0m   1   298 Some((1, 1, "bless")) ["bless"]
+tales,tally
+tales,tally,talon
+ 26 [1;32mt[1;32ma[1;32ml[0me[0ms[0m   2    18 Some((3, 2, "tally")) ["tally", "talon"]
+tales,lathe
+tales,lathe,latte
+ 43 [1;33mt[1;32ma[1;33ml[1;33me[0ms[0m   2    17 Some((3, 2, "lathe")) ["lathe", "latte"]
+tales,tilde
+tales,tilde,tulle
+ 47 [1;32mt[0ma[1;32ml[1;33me[0ms[0m   2    22 Some((3, 2, "tilde")) ["tilde", "tulle"]
+tales,delta
+tales,delta,eclat
+ 49 [1;33mt[1;33ma[1;32ml[1;33me[0ms[0m   2    13 Some((3, 2, "delta")) ["delta", "eclat"]
+tales,alien
+tales,alien,angel
+ 66 [0mt[1;33ma[1;33ml[1;32me[0ms[0m   2   124 Some((3, 2, "alien")) ["alien", "angel"]
+tales,filet
+tales,filet,inlet
+ 73 [1;33mt[0ma[1;32ml[1;32me[0ms[0m   2    27 Some((3, 2, "filet")) ["filet", "inlet"]
+tales,abled
+tales,abled,alley
+ 75 [0mt[1;33ma[1;32ml[1;32me[0ms[0m   2    50 Some((3, 2, "abled")) ["abled", "alley"]
+tales,baler
+tales,baler,paler
+ 78 [0mt[1;32ma[1;32ml[1;32me[0ms[0m   2    34 Some((3, 2, "baler")) ["baler", "paler"]
+tales,toast
+tales,toast,trash
+ 86 [1;32mt[1;33ma[0ml[0me[1;33ms[0m   2   116 Some((3, 2, "toast")) ["toast", "trash"]
+tales,false
+tales,false,salve
+132 [0mt[1;32ma[1;32ml[1;33me[1;33ms[0m   2    23 Some((3, 2, "false")) ["false", "salve"]
+tales,ashen
+tales,ashen,askew
+138 [0mt[1;33ma[0ml[1;32me[1;33ms[0m   2   258 Some((3, 2, "ashen")) ["ashen", "askew"]
+tales,safer
+tales,safer,saner
+141 [0mt[1;32ma[0ml[1;32me[1;33ms[0m   2   207 Some((3, 2, "safer")) ["safer", "saner"]
+tales,sleet
+tales,sleet,steel
+145 [1;33mt[0ma[1;33ml[1;32me[1;33ms[0m   2    13 Some((3, 2, "sleet")) ["sleet", "steel"]
+tales,torus
+tales,torus,truss
+164 [1;32mt[0ma[0ml[0me[1;32ms[0m   2   263 Some((3, 2, "torus")) ["torus", "truss"]
+tales,class
+tales,class,glass
+174 [0mt[1;33ma[1;33ml[0me[1;32ms[0m   2   303 Some((3, 2, "class")) ["class", "glass"]
+tales,ethos
+tales,ethos,fetus
+190 [1;33mt[0ma[0ml[1;33me[1;32ms[0m   2   270 Some((3, 2, "ethos")) ["ethos", "fetus"]
+tales,troll
+tales,troll,truly
+tales,troll,twirl
+ 11 [1;32mt[0ma[1;33ml[0me[0ms[0m   3   106 Some((5, 2, "troll")) ["troll", "truly", "twirl"]
+tales,filth
+tales,filth,pilot
+tales,filth,unlit
+ 19 [1;33mt[0ma[1;32ml[0me[0ms[0m   3   141 Some((5, 2, "filth")) ["filth", "pilot", "unlit"]
+tales,bathe
+tales,bathe,earth
+tales,bathe,haute
+ 34 [1;33mt[1;32ma[0ml[1;33me[0ms[0m   3   120 Some((5, 2, "bathe")) ["bathe", "earth", "haute"]
+tales,halve
+tales,halve,value
+tales,halve,valve
+ 51 [0mt[1;32ma[1;32ml[1;33me[0ms[0m   3    47 Some((5, 2, "halve")) ["halve", "value", "valve"]
+tales,pulse
+tales,pulse,solve
+tales,pulse,welsh
+126 [0mt[0ma[1;32ml[1;33me[1;33ms[0m   3   136 Some((5, 2, "pulse")) ["pulse", "solve", "welsh"]
+tales,delay
+tales,delay,fella
+tales,delay,relax
+tales,delay,relay
+ 48 [0mt[1;33ma[1;32ml[1;33me[0ms[0m   4    89 Some((7, 2, "delay")) ["delay", "fella", "relax", "relay"]
+tales,taken
+tales,taken,taker
+tales,taken,tamer
+tales,taken,tamer,taper
+ 62 [1;32mt[1;32ma[0ml[1;32me[0ms[0m   4    32 Some((8, 3, "taken")) ["taken", "taker", "tamer", "taper"]
+tales,hotel,betel
+tales,hotel,fleet
+tales,hotel
+tales,hotel,motel
+ 64 [1;33mt[0ma[1;33ml[1;32me[0ms[0m   4    59 Some((7, 2, "hotel")) ["betel", "fleet", "hotel", "motel"]
+tales,slate,least
+tales,slate
+tales,slate,stale
+tales,slate,steal
+121 [1;33mt[1;33ma[1;33ml[1;33me[1;33ms[0m   4    12 Some((7, 2, "slate")) ["least", "slate", "stale", "steal"]
+tales,sleek,loser
+tales,sleek
+tales,sleek,sleep
+tales,sleek,spiel
+144 [0mt[0ma[1;33ml[1;32me[1;33ms[0m   4   177 Some((7, 2, "sleek")) ["loser", "sleek", "sleep", "spiel"]
+tales,fatal
+tales,fatal,fault
+tales,fatal,latch
+tales,fatal,natal
+tales,fatal,vault
+ 16 [1;33mt[1;32ma[1;33ml[0me[0ms[0m   5    76 Some((9, 2, "fatal")) ["fatal", "fault", "latch", "natal", "vault"]
+tales,miler,filer
+tales,miler,golem
+tales,miler,idler
+tales,miler,melee
+tales,miler,ruler
+ 72 [0mt[0ma[1;32ml[1;32me[0ms[0m   5   173 Some((10, 2, "miler")) ["filer", "golem", "idler", "melee", "ruler"]
+tales,trust,tipsy
+tales,trust,torso
+tales,trust
+tales,trust,tryst
+tales,trust,twist
+ 83 [1;32mt[0ma[0ml[0me[1;33ms[0m   5   315 Some((9, 2, "trust")) ["tipsy", "torso", "trust", "tryst", "twist"]
+tales,stalk,blast
+tales,stalk,shalt
+tales,stalk,slant
+tales,stalk
+tales,stalk,stall
+ 94 [1;33mt[1;33ma[1;33ml[0me[1;33ms[0m   5    58 Some((9, 2, "stalk")) ["blast", "shalt", "slant", "stalk", "stall"]
+tales,basal
+tales,basal,basil
+tales,basal,lasso
+tales,basal,nasal
+tales,basal,sadly
+ 96 [0mt[1;32ma[1;33ml[0me[1;33ms[0m   5   186 Some((9, 2, "basal")) ["basal", "basil", "lasso", "nasal", "sadly"]
+tales,silky
+tales,silky,silly
+tales,silky,solid
+tales,silky,sulky
+tales,silky,sully
+ 99 [0mt[0ma[1;32ml[0me[1;33ms[0m   5   382 Some((9, 2, "silky")) ["silky", "silly", "solid", "sulky", "sully"]
+tales,tense
+tales,tense,terse
+tales,tense,testy
+tales,tense,these
+tales,tense,those
+110 [1;32mt[0ma[0ml[1;33me[1;33ms[0m   5   118 Some((9, 2, "tense")) ["tense", "terse", "testy", "these", "those"]
+tales,slept
+tales,slept,smelt
+tales,slept,spelt
+tales,slept,stole
+tales,slept,stole,style
+118 [1;33mt[0ma[1;33ml[1;33me[1;33ms[0m   5    53 Some((10, 3, "slept")) ["slept", "smelt", "spelt", "stole", "style"]
+tales,floss,bliss
+tales,floss
+tales,floss,gloss
+tales,floss,locus
+tales,floss,lupus
+171 [0mt[0ma[1;33ml[0me[1;32ms[0m   5   864 Some((9, 2, "floss")) ["bliss", "floss", "gloss", "locus", "lupus"]
+tales,rally,balmy
+tales,rally,dally
+tales,rally
+tales,rally,ralph
+tales,rally,valid
+tales,rally,valor
+ 24 [0mt[1;32ma[1;32ml[0me[0ms[0m   6   186 Some((11, 2, "rally")) ["balmy", "dally", "rally", "ralph", "valid", "valor"]
+tales,still,lusty
+tales,still,sloth
+tales,still,spilt
+tales,still
+tales,still,stilt
+tales,still,stool
+ 91 [1;33mt[0ma[1;33ml[0me[1;33ms[0m   6   170 Some((11, 2, "still")) ["lusty", "sloth", "spilt", "still", "stilt", "stool"]
+tales,salal,palsy
+tales,salal,salad
+tales,salal,sally
+tales,salal,salon
+tales,salal,salsa
+tales,salal,salon,salvo
+105 [0mt[1;32ma[1;32ml[0me[1;33ms[0m   6    90 Some((13, 3, "salal")) ["palsy", "salad", "sally", "salon", "salsa", "salvo"]
+tales,parse,cause
+tales,parse,cause,masse
+tales,parse
+tales,parse,pause
+tales,parse,raise
+tales,parse,sauce
+114 [0mt[1;32ma[0ml[1;33me[1;33ms[0m   6   264 Some((12, 3, "parse")) ["cause", "masse", "parse", "pause", "raise", "sauce"]
+115 [1;33mt[1;32ma[0ml[1;33me[1;33ms[0m   6    41 None ["baste", "caste", "haste", "paste", "saute", "waste"]

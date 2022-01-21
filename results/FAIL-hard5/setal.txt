@@ -1,0 +1,219 @@
+setal,ester
+ 22 [1;33ms[1;33me[1;32mt[0ma[0ml[0m   1    88 Some((1, 1, "ester")) ["ester"]
+setal,fetus
+ 25 [1;33ms[1;32me[1;32mt[0ma[0ml[0m   1    30 Some((1, 1, "fetus")) ["fetus"]
+setal,setup
+ 26 [1;32ms[1;32me[1;32mt[0ma[0ml[0m   1     5 Some((1, 1, "setup")) ["setup"]
+setal,cease
+ 34 [1;33ms[1;32me[0mt[1;33ma[0ml[0m   1   160 Some((1, 1, "cease")) ["cease"]
+setal,sepia
+ 35 [1;32ms[1;32me[0mt[1;33ma[0ml[0m   1    33 Some((1, 1, "sepia")) ["sepia"]
+setal,assay
+ 55 [1;33ms[0me[0mt[1;32ma[0ml[0m   1   433 Some((1, 1, "assay")) ["assay"]
+setal,essay
+ 58 [1;33ms[1;33me[0mt[1;32ma[0ml[0m   1    92 Some((1, 1, "essay")) ["essay"]
+setal,sedan
+ 62 [1;32ms[1;32me[0mt[1;32ma[0ml[0m   1    13 Some((1, 1, "sedan")) ["sedan"]
+setal,begat
+ 69 [0ms[1;32me[1;33mt[1;32ma[0ml[0m   1    26 Some((1, 1, "begat")) ["begat"]
+setal,titan
+ 72 [0ms[0me[1;32mt[1;32ma[0ml[0m   1    71 Some((1, 1, "titan")) ["titan"]
+setal,welsh
+ 88 [1;33ms[1;32me[0mt[0ma[1;33ml[0m   1   141 Some((1, 1, "welsh")) ["welsh"]
+setal,lusty
+ 91 [1;33ms[0me[1;33mt[0ma[1;33ml[0m   1   170 Some((1, 1, "lusty")) ["lusty"]
+setal,islet
+ 94 [1;33ms[1;33me[1;33mt[0ma[1;33ml[0m   1    53 Some((1, 1, "islet")) ["islet"]
+setal,lefty
+ 96 [0ms[1;32me[1;33mt[0ma[1;33ml[0m   1    63 Some((1, 1, "lefty")) ["lefty"]
+setal,hotly
+ 99 [0ms[0me[1;32mt[0ma[1;33ml[0m   1    98 Some((1, 1, "hotly")) ["hotly"]
+setal,blast
+118 [1;33ms[0me[1;33mt[1;33ma[1;33ml[0m   1    58 Some((1, 1, "blast")) ["blast"]
+setal,least
+124 [1;33ms[1;32me[1;33mt[1;33ma[1;33ml[0m   1     5 Some((1, 1, "least")) ["least"]
+setal,splat
+146 [1;32ms[0me[1;33mt[1;32ma[1;33ml[0m   1     4 Some((1, 1, "splat")) ["splat"]
+setal,altar
+153 [0ms[0me[1;32mt[1;32ma[1;33ml[0m   1    25 Some((1, 1, "altar")) ["altar"]
+setal,towel
+174 [0ms[1;33me[1;33mt[0ma[1;32ml[0m   1    25 Some((1, 1, "towel")) ["towel"]
+setal,steel
+176 [1;32ms[1;33me[1;33mt[0ma[1;32ml[0m   1     5 Some((1, 1, "steel")) ["steel"]
+setal,until
+180 [0ms[0me[1;32mt[0ma[1;32ml[0m   1    36 Some((1, 1, "until")) ["until"]
+setal,betel
+186 [0ms[1;32me[1;32mt[0ma[1;32ml[0m   1     8 Some((1, 1, "betel")) ["betel"]
+setal,basil
+190 [1;33ms[0me[0mt[1;33ma[1;32ml[0m   1    41 Some((1, 1, "basil")) ["basil"]
+setal,easel
+193 [1;33ms[1;33me[0mt[1;33ma[1;32ml[0m   1    10 Some((1, 1, "easel")) ["easel"]
+setal,pearl
+195 [0ms[1;32me[0mt[1;33ma[1;32ml[0m   1    26 Some((1, 1, "pearl")) ["pearl"]
+setal,stall
+200 [1;32ms[0me[1;33mt[1;33ma[1;32ml[0m   1     3 Some((1, 1, "stall")) ["stall"]
+setal,shoal
+218 [1;32ms[0me[0mt[1;32ma[1;32ml[0m   1    16 Some((1, 1, "shoal")) ["shoal"]
+setal,steal
+230 [1;32ms[1;33me[1;33mt[1;32ma[1;32ml[0m   1     2 Some((1, 1, "steal")) ["steal"]
+setal,artsy
+setal,artsy,patsy
+ 46 [1;33ms[0me[1;32mt[1;33ma[0ml[0m   2    85 Some((3, 2, "artsy")) ["artsy", "patsy"]
+setal,satin
+setal,satin,satyr
+ 47 [1;32ms[0me[1;32mt[1;33ma[0ml[0m   2    14 Some((3, 2, "satin")) ["satin", "satyr"]
+setal,lithe
+setal,lithe,title
+102 [0ms[1;33me[1;32mt[0ma[1;33ml[0m   2    46 Some((3, 2, "lithe")) ["lithe", "title"]
+setal,lease
+setal,lease,leash
+115 [1;33ms[1;32me[0mt[1;33ma[1;33ml[0m   2    36 Some((3, 2, "lease")) ["lease", "leash"]
+setal,slate
+setal,slate,stale
+122 [1;32ms[1;33me[1;33mt[1;33ma[1;33ml[0m   2     6 Some((3, 2, "slate")) ["slate", "stale"]
+setal,salad
+setal,salad,solar
+137 [1;32ms[0me[0mt[1;32ma[1;33ml[0m   2    26 Some((3, 2, "salad")) ["salad", "solar"]
+setal,troll
+setal,troll,twirl
+171 [0ms[0me[1;33mt[0ma[1;32ml[0m   2    73 Some((3, 2, "troll")) ["troll", "twirl"]
+setal,still
+setal,still,stool
+173 [1;32ms[0me[1;33mt[0ma[1;32ml[0m   2    10 Some((3, 2, "still")) ["still", "stool"]
+setal,equal
+setal,equal,ideal
+219 [0ms[1;33me[0mt[1;32ma[1;32ml[0m   2    38 Some((3, 2, "equal")) ["equal", "ideal"]
+setal,false,aisle
+setal,false
+setal,false,lapse
+112 [1;33ms[1;33me[0mt[1;33ma[1;33ml[0m   3   114 Some((5, 2, "false")) ["aisle", "false", "lapse"]
+setal,altar,aptly
+setal,altar,latch
+setal,altar,ultra
+126 [0ms[0me[1;32mt[1;33ma[1;33ml[0m   3    51 Some((6, 2, "altar")) ["aptly", "latch", "ultra"]
+setal,delay
+setal,delay,relax
+setal,delay,relay
+141 [0ms[1;32me[0mt[1;32ma[1;33ml[0m   3    41 Some((5, 2, "delay")) ["delay", "relax", "relay"]
+setal,bloat
+setal,bloat,float
+setal,bloat,float,gloat
+144 [0ms[0me[1;33mt[1;32ma[1;33ml[0m   3    56 Some((6, 3, "bloat")) ["bloat", "float", "gloat"]
+setal,hotel,extol
+setal,hotel
+setal,hotel,motel
+183 [0ms[1;33me[1;32mt[0ma[1;32ml[0m   3    15 Some((5, 2, "hotel")) ["extol", "hotel", "motel"]
+setal,trail,atoll
+setal,trail
+setal,trail,trawl
+198 [0ms[0me[1;33mt[1;33ma[1;32ml[0m   3    36 Some((5, 2, "trail")) ["atoll", "trail", "trawl"]
+setal,basal
+setal,basal,nasal
+setal,basal,usual
+217 [1;33ms[0me[0mt[1;32ma[1;32ml[0m   3    21 Some((5, 2, "basal")) ["basal", "nasal", "usual"]
+setal,fetal
+setal,fetal,metal
+setal,fetal,metal,petal
+240 [0ms[1;32me[1;32mt[1;32ma[1;32ml[0m   3     4 Some((6, 3, "fetal")) ["fetal", "metal", "petal"]
+setal,beast
+setal,beast,feast
+setal,beast,tease
+setal,beast,feast,yeast
+ 43 [1;33ms[1;32me[1;33mt[1;33ma[0ml[0m   4    42 Some((8, 3, "beast")) ["beast", "feast", "tease", "yeast"]
+setal,today,carat
+setal,today
+setal,today,topaz
+setal,today,triad
+ 63 [0ms[0me[1;33mt[1;32ma[0ml[0m   4   206 Some((7, 2, "today")) ["carat", "today", "topaz", "triad"]
+setal,strap,squat
+setal,strap
+setal,strap,straw
+setal,strap,straw,stray
+ 65 [1;32ms[0me[1;33mt[1;32ma[0ml[0m   4    32 Some((8, 3, "strap")) ["squat", "strap", "straw", "stray"]
+setal,stead
+setal,stead,steak
+setal,stead,steak,steam
+setal,stead,sweat
+ 68 [1;32ms[1;33me[1;33mt[1;32ma[0ml[0m   4    13 Some((8, 3, "stead")) ["stead", "steak", "steam", "sweat"]
+setal,spilt,sloth
+setal,spilt
+setal,spilt,split
+setal,spilt,stilt
+ 92 [1;32ms[0me[1;33mt[0ma[1;33ml[0m   4    56 Some((7, 2, "spilt")) ["sloth", "spilt", "split", "stilt"]
+setal,scale,salve
+setal,scale
+setal,scale,shale
+setal,scale,slave
+113 [1;32ms[1;33me[0mt[1;33ma[1;33ml[0m   4    32 Some((7, 2, "scale")) ["salve", "scale", "shale", "slave"]
+setal,shalt,salty
+setal,shalt
+setal,shalt,slant
+setal,shalt,stalk
+119 [1;32ms[0me[1;33mt[1;33ma[1;33ml[0m   4    22 Some((7, 2, "shalt")) ["salty", "shalt", "slant", "stalk"]
+setal,leant,dealt
+setal,leant,delta
+setal,leant
+setal,leant,leapt
+123 [0ms[1;32me[1;33mt[1;33ma[1;33ml[0m   4    17 Some((7, 2, "leant")) ["dealt", "delta", "leant", "leapt"]
+setal,lathe,alter
+setal,lathe,later
+setal,lathe
+setal,lathe,latte
+129 [0ms[1;33me[1;32mt[1;33ma[1;33ml[0m   4    15 Some((7, 2, "lathe")) ["alter", "later", "lathe", "latte"]
+setal,bleat
+setal,bleat,cleat
+setal,bleat,eclat
+setal,bleat,cleat,pleat
+147 [0ms[1;33me[1;33mt[1;32ma[1;33ml[0m   4    12 Some((8, 3, "bleat")) ["bleat", "cleat", "eclat", "pleat"]
+setal,tidal
+setal,tidal,tonal
+setal,tidal,trial
+setal,tidal,tonal,tubal
+225 [0ms[0me[1;33mt[1;32ma[1;32ml[0m   4    29 Some((8, 3, "tidal")) ["tidal", "tonal", "trial", "tubal"]
+setal,shell
+setal,shell,smell
+setal,shell,smell,spell
+setal,shell,spiel
+setal,shell,smell,spell,swell
+167 [1;32ms[1;33me[0mt[0ma[1;32ml[0m   5    28 Some((12, 4, "shell")) ["shell", "smell", "spell", "spiel", "swell"]
+setal,shall
+setal,shall,shawl
+setal,shall,small
+setal,shall,snail
+setal,shall,snail,snarl
+191 [1;32ms[0me[0mt[1;33ma[1;32ml[0m   5    34 Some((10, 3, "shall")) ["shall", "shawl", "small", "snail", "snarl"]
+setal,notal,fatal
+setal,notal,natal
+setal,notal,octal
+setal,notal,total
+setal,notal,fatal,vital
+234 [0ms[0me[1;32mt[1;32ma[1;32ml[0m   5    19 Some((11, 3, "notal")) ["fatal", "natal", "octal", "total", "vital"]
+setal,speak,shear
+setal,speak,shear,smear
+setal,speak,sneak
+setal,speak
+setal,speak,spear
+setal,speak,shear,smear,swear
+ 59 [1;32ms[1;33me[0mt[1;32ma[0ml[0m   6    41 Some((14, 4, "speak")) ["shear", "smear", "sneak", "speak", "spear", "swear"]
+setal,great,cheat
+setal,great
+setal,great,tread
+setal,great,treat
+setal,great,tweak
+setal,great,cheat,wheat
+ 66 [0ms[1;33me[1;33mt[1;32ma[0ml[0m   6    58 Some((12, 3, "great")) ["cheat", "great", "tread", "treat", "tweak", "wheat"]
+setal,slept,sleet
+setal,slept
+setal,slept,smelt
+setal,slept,spelt
+setal,slept,stole
+setal,slept,stole,style
+ 95 [1;32ms[1;33me[1;33mt[0ma[1;33ml[0m   6    18 Some((12, 3, "slept")) ["sleet", "slept", "smelt", "spelt", "stole", "style"]
+setal,elate,alert
+setal,elate
+setal,elate,exalt
+setal,elate,plate
+setal,elate,table
+setal,elate,valet
+120 [0ms[1;33me[1;33mt[1;33ma[1;33ml[0m   6    56 Some((11, 2, "elate")) ["alert", "elate", "exalt", "plate", "table", "valet"]
+ 40 [1;33ms[1;33me[1;33mt[1;33ma[0ml[0m   7   117 None ["asset", "baste", "caste", "haste", "paste", "taste", "waste"]

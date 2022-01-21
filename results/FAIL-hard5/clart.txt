@@ -1,0 +1,372 @@
+clart,iliac
+ 16 [1;33mc[1;32ml[1;33ma[0mr[0mt[0m   1    47 Some((1, 1, "iliac")) ["iliac"]
+clart,chalk
+ 23 [1;32mc[1;33ml[1;32ma[0mr[0mt[0m   1    35 Some((1, 1, "chalk")) ["chalk"]
+clart,ulcer
+ 34 [1;33mc[1;32ml[0ma[1;33mr[0mt[0m   1     7 Some((1, 1, "ulcer")) ["ulcer"]
+clart,clear
+ 44 [1;32mc[1;32ml[1;33ma[1;33mr[0mt[0m   1     4 Some((1, 1, "clear")) ["clear"]
+clart,crawl
+ 50 [1;32mc[1;33ml[1;32ma[1;33mr[0mt[0m   1     5 Some((1, 1, "crawl")) ["crawl"]
+clart,flair
+ 51 [0mc[1;32ml[1;32ma[1;33mr[0mt[0m   1    16 Some((1, 1, "flair")) ["flair"]
+clart,clerk
+ 62 [1;32mc[1;32ml[0ma[1;32mr[0mt[0m   1     4 Some((1, 1, "clerk")) ["clerk"]
+clart,flora
+ 69 [0mc[1;32ml[1;33ma[1;32mr[0mt[0m   1    16 Some((1, 1, "flora")) ["flora"]
+clart,cloth
+ 89 [1;32mc[1;32ml[0ma[0mr[1;33mt[0m   1    17 Some((1, 1, "cloth")) ["cloth"]
+clart,actor
+118 [1;33mc[0ml[1;33ma[1;33mr[1;33mt[0m   1    25 Some((1, 1, "actor")) ["actor"]
+clart,cater
+119 [1;32mc[0ml[1;33ma[1;33mr[1;33mt[0m   1    11 Some((1, 1, "cater")) ["cater"]
+clart,crate
+128 [1;32mc[0ml[1;32ma[1;33mr[1;33mt[0m   1     4 Some((1, 1, "crate")) ["crate"]
+clart,twirl
+138 [0mc[1;33ml[0ma[1;32mr[1;33mt[0m   1    14 Some((1, 1, "twirl")) ["twirl"]
+clart,ultra
+150 [0mc[1;32ml[1;33ma[1;32mr[1;33mt[0m   1     5 Some((1, 1, "ultra")) ["ultra"]
+clart,elect
+169 [1;33mc[1;32ml[0ma[0mr[1;32mt[0m   1    13 Some((1, 1, "elect")) ["elect"]
+clart,eclat
+175 [1;33mc[1;33ml[1;33ma[0mr[1;32mt[0m   1     7 Some((1, 1, "eclat")) ["eclat"]
+clart,cleat
+179 [1;32mc[1;32ml[1;33ma[0mr[1;32mt[0m   1     5 Some((1, 1, "cleat")) ["cleat"]
+clart,carat
+200 [1;32mc[0ml[1;33ma[1;33mr[1;32mt[0m   1     6 Some((1, 1, "carat")) ["carat"]
+clart,craft
+209 [1;32mc[0ml[1;32ma[1;33mr[1;32mt[0m   1     3 Some((1, 1, "craft")) ["craft"]
+clart,court
+218 [1;32mc[0ml[0ma[1;32mr[1;32mt[0m   1     5 Some((1, 1, "court")) ["court"]
+clart,alert
+231 [0mc[1;32ml[1;33ma[1;32mr[1;32mt[0m   1     4 Some((1, 1, "alert")) ["alert"]
+clart,chart
+236 [1;32mc[0ml[1;32ma[1;32mr[1;32mt[0m   1     2 Some((1, 1, "chart")) ["chart"]
+clart,clean
+clart,clean,cloak
+ 17 [1;32mc[1;32ml[1;33ma[0mr[0mt[0m   2    33 Some((3, 2, "clean")) ["clean", "cloak"]
+clart,carol
+clart,carol,coral
+ 41 [1;32mc[1;33ml[1;33ma[1;33mr[0mt[0m   2    10 Some((3, 2, "carol")) ["carol", "coral"]
+clart,acorn
+clart,acorn,macro
+ 64 [1;33mc[0ml[1;33ma[1;32mr[0mt[0m   2    42 Some((3, 2, "acorn")) ["acorn", "macro"]
+clart,chard
+clart,chard,charm
+ 74 [1;32mc[0ml[1;32ma[1;32mr[0mt[0m   2    15 Some((3, 2, "chard")) ["chard", "charm"]
+clart,chute
+clart,chute,cutie
+ 83 [1;32mc[0ml[0ma[0mr[1;33mt[0m   2   141 Some((3, 2, "chute")) ["chute", "cutie"]
+clart,latch
+clart,latch,octal
+ 94 [1;33mc[1;33ml[1;33ma[0mr[1;33mt[0m   2    15 Some((3, 2, "latch")) ["latch", "octal"]
+clart,stack
+clart,stack,teach
+100 [1;33mc[0ml[1;32ma[0mr[1;33mt[0m   2    36 Some((3, 2, "stack")) ["stack", "teach"]
+clart,troll
+clart,troll,truly
+111 [0mc[1;33ml[0ma[1;33mr[1;33mt[0m   2    44 Some((3, 2, "troll")) ["troll", "truly"]
+clart,later
+clart,later,trial
+120 [0mc[1;33ml[1;33ma[1;33mr[1;33mt[0m   2    22 Some((3, 2, "later")) ["later", "trial"]
+clart,altar
+clart,altar,alter
+123 [0mc[1;32ml[1;33ma[1;33mr[1;33mt[0m   2     7 Some((3, 2, "altar")) ["altar", "alter"]
+clart,trace
+clart,trace,track
+127 [1;33mc[0ml[1;32ma[1;33mr[1;33mt[0m   2    11 Some((3, 2, "trace")) ["trace", "track"]
+clart,trail
+clart,trail,trawl
+129 [0mc[1;33ml[1;32ma[1;33mr[1;33mt[0m   2     7 Some((3, 2, "trail")) ["trail", "trawl"]
+clart,extra
+clart,extra,terra
+144 [0mc[0ml[1;33ma[1;32mr[1;33mt[0m   2    53 Some((3, 2, "extra")) ["extra", "terra"]
+clart,cleft
+clart,cleft,clout
+170 [1;32mc[1;32ml[0ma[0mr[1;32mt[0m   2    12 Some((3, 2, "cleft")) ["cleft", "clout"]
+clart,chant
+clart,chant,coast
+182 [1;32mc[0ml[1;32ma[0mr[1;32mt[0m   2    12 Some((3, 2, "chant")) ["chant", "coast"]
+clart,erect
+clart,erect,recut
+190 [1;33mc[0ml[0ma[1;33mr[1;32mt[0m   2    31 Some((3, 2, "erect")) ["erect", "recut"]
+clart,react
+clart,react,tract
+208 [1;33mc[0ml[1;32ma[1;33mr[1;32mt[0m   2     8 Some((3, 2, "react")) ["react", "tract"]
+clart,blurt
+clart,blurt,flirt
+222 [0mc[1;32ml[0ma[1;32mr[1;32mt[0m   2     7 Some((3, 2, "blurt")) ["blurt", "flirt"]
+clart,abort
+clart,abort,avert
+225 [0mc[0ml[1;33ma[1;32mr[1;32mt[0m   2    25 Some((3, 2, "abort")) ["abort", "avert"]
+clart,lurch
+clart,lurch,lyric
+clart,lurch,relic
+ 31 [1;33mc[1;33ml[0ma[1;33mr[0mt[0m   3    33 Some((5, 2, "lurch")) ["lurch", "lyric", "relic"]
+clart,cruel,color
+clart,cruel
+clart,cruel,curly
+ 32 [1;32mc[1;33ml[0ma[1;33mr[0mt[0m   3    23 Some((5, 2, "cruel")) ["color", "cruel", "curly"]
+clart,blurb
+clart,blurb,glory
+clart,blurb,slurp
+ 60 [0mc[1;32ml[0ma[1;32mr[0mt[0m   3    32 Some((5, 2, "blurb")) ["blurb", "glory", "slurp"]
+clart,cairn
+clart,cairn,carry
+clart,cairn,cobra
+ 65 [1;32mc[0ml[1;33ma[1;32mr[0mt[0m   3    26 Some((5, 2, "cairn")) ["cairn", "carry", "cobra"]
+clart,scare
+clart,scare,scarf
+clart,scare,scarf,scary
+ 73 [1;33mc[0ml[1;32ma[1;32mr[0mt[0m   3    22 Some((6, 3, "scare")) ["scare", "scarf", "scary"]
+clart,learn
+clart,learn,pearl
+clart,learn,snarl
+ 75 [0mc[1;33ml[1;32ma[1;32mr[0mt[0m   3    26 Some((5, 2, "learn")) ["learn", "pearl", "snarl"]
+clart,plast,elate
+clart,plast,plate
+clart,plast,slate
+105 [0mc[1;32ml[1;32ma[0mr[1;33mt[0m   3    26 Some((6, 2, "plast")) ["elate", "plate", "slate"]
+clart,cadet
+clart,cadet,caput
+clart,cadet,cheat
+173 [1;32mc[0ml[1;33ma[0mr[1;32mt[0m   3    22 Some((5, 2, "cadet")) ["cadet", "caput", "cheat"]
+clart,enact
+clart,enact,exact
+clart,enact,scant
+181 [1;33mc[0ml[1;32ma[0mr[1;32mt[0m   3    23 Some((5, 2, "enact")) ["enact", "exact", "scant"]
+clart,great
+clart,great,tarot
+clart,great,treat
+198 [0mc[0ml[1;33ma[1;33mr[1;32mt[0m   3    85 Some((5, 2, "great")) ["great", "tarot", "treat"]
+clart,black
+clart,black,flack
+clart,black,place
+clart,black,flack,slack
+ 25 [1;33mc[1;32ml[1;32ma[0mr[0mt[0m   4    35 Some((8, 3, "black")) ["black", "flack", "place", "slack"]
+clart,decry
+clart,decry,micro
+clart,decry,score
+clart,decry,scorn
+ 55 [1;33mc[0ml[0ma[1;32mr[0mt[0m   4    82 Some((7, 2, "decry")) ["decry", "micro", "score", "scorn"]
+clart,laers,leery
+clart,laers,lorry
+clart,laers,swirl
+clart,laers,whirl
+ 57 [0mc[1;33ml[0ma[1;32mr[0mt[0m   4    88 Some((8, 2, "laers")) ["leery", "lorry", "swirl", "whirl"]
+clart,blare,alarm
+clart,blare
+clart,blare,flare
+clart,blare,flare,glare
+ 78 [0mc[1;32ml[1;32ma[1;32mr[0mt[0m   4    12 Some((8, 3, "blare")) ["alarm", "blare", "flare", "glare"]
+clart,elite,blitz
+clart,elite
+clart,elite,flute
+clart,elite,sloth
+ 87 [0mc[1;32ml[0ma[0mr[1;33mt[0m   4   112 Some((7, 2, "elite")) ["blitz", "elite", "flute", "sloth"]
+clart,catch,cacti
+clart,catch,caste
+clart,catch
+clart,catch,catty
+ 92 [1;32mc[0ml[1;33ma[0mr[1;33mt[0m   4    48 Some((7, 2, "catch")) ["cacti", "caste", "catch", "catty"]
+clart,stale,loath
+clart,stale
+clart,stale,stalk
+clart,stale,stalk,stall
+102 [0mc[1;33ml[1;32ma[0mr[1;33mt[0m   4    49 Some((8, 3, "stale")) ["loath", "stale", "stalk", "stall"]
+clart,stare
+clart,stare,stark
+clart,stare,teary
+clart,stare,tiara
+153 [0mc[0ml[1;32ma[1;32mr[1;33mt[0m   4    33 Some((7, 2, "stare")) ["stare", "stark", "teary", "tiara"]
+clart,comet,chest
+clart,comet
+clart,comet,count
+clart,comet,covet
+164 [1;32mc[0ml[0ma[0mr[1;32mt[0m   4    58 Some((7, 2, "comet")) ["chest", "comet", "count", "covet"]
+clart,tacet,ascot
+clart,tacet,facet
+clart,tacet,tacit
+clart,tacet,yacht
+172 [1;33mc[0ml[1;33ma[0mr[1;32mt[0m   4    43 Some((8, 2, "tacet")) ["ascot", "facet", "tacit", "yacht"]
+clart,plant,blast
+clart,plant,plait
+clart,plant
+clart,plant,slant
+186 [0mc[1;32ml[1;32ma[0mr[1;32mt[0m   4    14 Some((7, 2, "plant")) ["blast", "plait", "plant", "slant"]
+clart,crept
+clart,crept,crest
+clart,crept,crust
+clart,crept,crypt
+191 [1;32mc[0ml[0ma[1;33mr[1;32mt[0m   4    20 Some((7, 2, "crept")) ["crept", "crest", "crust", "crypt"]
+clart,clade,leach
+clart,clade,scald
+clart,clade,scale
+clart,clade,scalp
+clart,clade,scalp,scaly
+ 22 [1;33mc[1;33ml[1;32ma[0mr[0mt[0m   5    52 Some((11, 3, "clade")) ["leach", "scald", "scale", "scalp", "scaly"]
+clart,brace
+clart,brace,grace
+clart,brace,reach
+clart,brace,roach
+clart,brace,wrack
+ 46 [1;33mc[0ml[1;32ma[1;33mr[0mt[0m   5    70 Some((9, 2, "brace")) ["brace", "grace", "reach", "roach", "wrack"]
+clart,brawl
+clart,brawl,drawl
+clart,brawl,frail
+clart,brawl,frail,grail
+clart,brawl,realm
+ 48 [0mc[1;33ml[1;32ma[1;33mr[0mt[0m   5    50 Some((10, 3, "brawl")) ["brawl", "drawl", "frail", "grail", "realm"]
+clart,courd,chirp
+clart,courd,chord
+clart,courd,chore
+clart,courd,churn
+clart,courd,curry
+ 56 [1;32mc[0ml[0ma[1;32mr[0mt[0m   5    54 Some((10, 2, "courd")) ["chirp", "chord", "chore", "churn", "curry"]
+clart,fault,adult
+clart,fault
+clart,fault,splat
+clart,fault,valet
+clart,fault,vault
+174 [0mc[1;33ml[1;33ma[0mr[1;32mt[0m   5    58 Some((9, 2, "fault")) ["adult", "fault", "splat", "valet", "vault"]
+clart,graft,draft
+clart,graft
+clart,graft,grant
+clart,graft,roast
+clart,graft,trait
+207 [0mc[0ml[1;32ma[1;33mr[1;32mt[0m   5    45 Some((9, 2, "graft")) ["draft", "graft", "grant", "roast", "trait"]
+clart,spart,apart
+clart,spart,heart
+clart,spart,heart,quart
+clart,spart,smart
+clart,spart,smart,start
+234 [0mc[0ml[1;32ma[1;32mr[1;32mt[0m   5    19 Some((12, 3, "spart")) ["apart", "heart", "quart", "smart", "start"]
+clart,cabal
+clart,cabal,cable
+clart,cabal,camel
+clart,cabal,canal
+clart,cabal,caulk
+clart,cabal,camel,cavil
+ 14 [1;32mc[1;33ml[1;33ma[0mr[0mt[0m   6    82 Some((12, 3, "cabal")) ["cabal", "cable", "camel", "canal", "caulk", "cavil"]
+clart,trice,retch
+clart,trice,torch
+clart,trice
+clart,trice,trick
+clart,trice,truce
+clart,trice,truck
+109 [1;33mc[0ml[0ma[1;33mr[1;33mt[0m   6    66 Some((11, 2, "trice")) ["retch", "torch", "trice", "trick", "truce", "truck"]
+clart,leant,dealt
+clart,leant,exalt
+clart,leant
+clart,leant,leapt
+clart,leant,leapt,least
+clart,leant,shalt
+183 [0mc[1;33ml[1;32ma[0mr[1;32mt[0m   6    25 Some((12, 3, "leant")) ["dealt", "exalt", "leant", "leapt", "least", "shalt"]
+clart,flick,block
+clart,flick,fleck
+clart,flick
+clart,flick,fleck,flock
+clart,flick,block,pluck
+clart,flick,slice
+clart,flick,slick
+  7 [1;33mc[1;32ml[0ma[0mr[0mt[0m   7   127 Some((15, 3, "flick")) ["block", "fleck", "flick", "flock", "pluck", "slice", "slick"]
+clart,fecal,decal
+clart,fecal
+clart,fecal,focal
+clart,fecal,lance
+clart,fecal,lilac
+clart,fecal,local
+clart,fecal,local,vocal
+ 13 [1;33mc[1;33ml[1;33ma[0mr[0mt[0m   7   146 Some((14, 3, "fecal")) ["decal", "fecal", "focal", "lance", "lilac", "local", "vocal"]
+clart,scent,edict
+clart,scent,eject
+clart,scent,edict,evict
+clart,scent,octet
+clart,scent
+clart,scent,scout
+clart,scent,uncut
+163 [1;33mc[0ml[0ma[0mr[1;32mt[0m   7   116 Some((14, 3, "scent")) ["edict", "eject", "evict", "octet", "scent", "scout", "uncut"]
+clart,fleet,blunt
+clart,fleet
+clart,fleet,flint
+clart,fleet,flint,flout
+clart,fleet,blunt,glint
+clart,fleet,sleet
+clart,fleet,slept
+168 [0mc[1;32ml[0ma[0mr[1;32mt[0m   7    62 Some((15, 3, "fleet")) ["blunt", "fleet", "flint", "flout", "glint", "sleet", "slept"]
+clart,bloat,allot
+clart,bloat,aloft
+clart,bloat,bleat
+clart,bloat
+clart,bloat,float
+clart,bloat,float,gloat
+clart,bloat,pleat
+177 [0mc[1;32ml[1;33ma[0mr[1;32mt[0m   7    26 Some((14, 3, "bloat")) ["allot", "aloft", "bleat", "bloat", "float", "gloat", "pleat"]
+clart,clams,clack
+clart,clams,claim
+clart,clams,clamp
+clart,clams,clack,clang
+clart,clams,clack,clank
+clart,clams,clash
+clart,clams,clash,clasp
+clart,clams,class
+ 26 [1;32mc[1;32ml[1;32ma[0mr[0mt[0m   8    28 Some((19, 3, "clams")) ["clack", "claim", "clamp", "clang", "clank", "clash", "clasp", "class"]
+clart,flour,bluer
+clart,flour,elder
+clart,flour,flier
+clart,flour,floor
+clart,flour
+clart,flour,flier,flyer
+clart,flour,older
+clart,flour,elder,plier
+ 33 [0mc[1;32ml[0ma[1;33mr[0mt[0m   8    65 Some((17, 3, "flour")) ["bluer", "elder", "flier", "floor", "flour", "flyer", "older", "plier"]
+clart,irate,grate
+clart,irate
+clart,irate,stair
+clart,irate,trade
+clart,irate,train
+clart,irate,tramp
+clart,irate,tramp,trash
+clart,irate,wrath
+126 [0mc[0ml[1;32ma[1;33mr[1;33mt[0m   8   102 Some((16, 3, "irate")) ["grate", "irate", "stair", "trade", "train", "tramp", "trash", "wrath"]
+clart,celli,cello
+clart,celli,child
+clart,celli,chili
+clart,celli,chill
+clart,celli,civil
+clart,celli,colon
+clart,celli,could
+clart,celli,could,coyly
+clart,celli,cycle
+  5 [1;32mc[1;33ml[0ma[0mr[0mt[0m   9   213 Some((19, 3, "celli")) ["cello", "child", "chili", "chill", "civil", "colon", "could", "coyly", "cycle"]
+clart,chasm,cease
+clart,chasm,chafe
+clart,chasm,chafe,chaff
+clart,chasm,chafe,chain
+clart,chasm,champ
+clart,chasm,chaos
+clart,chasm,chase
+clart,chasm
+clart,chasm,coach
+ 20 [1;32mc[0ml[1;32ma[0mr[0mt[0m   9   114 Some((19, 3, "chasm")) ["cease", "chafe", "chaff", "chain", "champ", "chaos", "chase", "chasm", "coach"]
+clart,recap,acrid
+clart,recap,farce
+clart,recap,acrid,march
+clart,recap,racer
+clart,recap,ranch
+clart,recap
+clart,recap,scram
+clart,recap,scrap
+clart,recap,vicar
+ 37 [1;33mc[0ml[1;33ma[1;33mr[0mt[0m   9   211 Some((18, 3, "recap")) ["acrid", "farce", "march", "racer", "ranch", "recap", "scram", "scrap", "vicar"]
+clart,carer,caper
+clart,carer,cargo
+clart,carer,carve
+clart,carer,cedar
+clart,carer,cigar
+clart,carer,circa
+clart,carer,creak
+clart,carer,creak,cream
+clart,carer,croak
+ 38 [1;32mc[0ml[1;33ma[1;33mr[0mt[0m   9   107 Some((19, 3, "carer")) ["caper", "cargo", "carve", "cedar", "cigar", "circa", "creak", "cream", "croak"]
+ 91 [1;33mc[0ml[1;33ma[0mr[1;33mt[0m   9   126 None ["acute", "antic", "attic", "batch", "hatch", "match", "patch", "tacky", "watch"]

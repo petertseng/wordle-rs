@@ -1,0 +1,277 @@
+snare,angst
+ 16 [1;33ms[1;32mn[1;33ma[0mr[0me[0m   1    45 Some((1, 1, "angst")) ["angst"]
+snare,knack
+ 24 [0ms[1;32mn[1;32ma[0mr[0me[0m   1    46 Some((1, 1, "knack")) ["knack"]
+snare,gnash
+ 25 [1;33ms[1;32mn[1;32ma[0mr[0me[0m   1    26 Some((1, 1, "gnash")) ["gnash"]
+snare,incur
+ 33 [0ms[1;32mn[0ma[1;33mr[0me[0m   1    64 Some((1, 1, "incur")) ["incur"]
+snare,arson
+ 40 [1;33ms[1;33mn[1;33ma[1;33mr[0me[0m   1    52 Some((1, 1, "arson")) ["arson"]
+snare,sonar
+ 41 [1;32ms[1;33mn[1;33ma[1;33mr[0me[0m   1    14 Some((1, 1, "sonar")) ["sonar"]
+snare,stair
+ 47 [1;32ms[0mn[1;32ma[1;33mr[0me[0m   1    44 Some((1, 1, "stair")) ["stair"]
+snare,usurp
+ 55 [1;33ms[0mn[0ma[1;32mr[0me[0m   1   285 Some((1, 1, "usurp")) ["usurp"]
+snare,intro
+ 60 [0ms[1;32mn[0ma[1;32mr[0me[0m   1    41 Some((1, 1, "intro")) ["intro"]
+snare,snort
+ 62 [1;32ms[1;32mn[0ma[1;32mr[0me[0m   1     9 Some((1, 1, "snort")) ["snort"]
+snare,angry
+ 69 [0ms[1;32mn[1;33ma[1;32mr[0me[0m   1    22 Some((1, 1, "angry")) ["angry"]
+snare,snarl
+ 80 [1;32ms[1;32mn[1;32ma[1;32mr[0me[0m   1     6 Some((1, 1, "snarl")) ["snarl"]
+snare,nosey
+ 85 [1;33ms[1;33mn[0ma[0mr[1;33me[0m   1   363 Some((1, 1, "nosey")) ["nosey"]
+snare,ashen
+ 94 [1;33ms[1;33mn[1;33ma[0mr[1;33me[0m   1    77 Some((1, 1, "ashen")) ["ashen"]
+snare,sedan
+ 95 [1;32ms[1;33mn[1;33ma[0mr[1;33me[0m   1    25 Some((1, 1, "sedan")) ["sedan"]
+snare,sneak
+ 98 [1;32ms[1;32mn[1;33ma[0mr[1;33me[0m   1     5 Some((1, 1, "sneak")) ["sneak"]
+snare,enact
+105 [0ms[1;32mn[1;32ma[0mr[1;33me[0m   1     8 Some((1, 1, "enact")) ["enact"]
+snare,siren
+113 [1;32ms[1;33mn[0ma[1;33mr[1;33me[0m   1    10 Some((1, 1, "siren")) ["siren"]
+snare,sneer
+116 [1;32ms[1;32mn[0ma[1;33mr[1;33me[0m   1     3 Some((1, 1, "sneer")) ["sneer"]
+snare,saner
+122 [1;32ms[1;33mn[1;33ma[1;33mr[1;33me[0m   1     2 Some((1, 1, "saner")) ["saner"]
+snare,anger
+123 [0ms[1;32mn[1;33ma[1;33mr[1;33me[0m   1     6 Some((1, 1, "anger")) ["anger"]
+snare,sperm
+137 [1;32ms[0mn[0ma[1;32mr[1;33me[0m   1    43 Some((1, 1, "sperm")) ["sperm"]
+snare,stern
+140 [1;32ms[1;33mn[0ma[1;32mr[1;33me[0m   1     3 Some((1, 1, "stern")) ["stern"]
+snare,ensue
+169 [1;33ms[1;32mn[0ma[0mr[1;32me[0m   1    10 Some((1, 1, "ensue")) ["ensue"]
+snare,plane
+183 [0ms[1;33mn[1;32ma[0mr[1;32me[0m   1    19 Some((1, 1, "plane")) ["plane"]
+snare,snake
+188 [1;32ms[1;32mn[1;32ma[0mr[1;32me[0m   1     2 Some((1, 1, "snake")) ["snake"]
+snare,range
+201 [0ms[1;33mn[1;33ma[1;33mr[1;32me[0m   1    13 Some((1, 1, "range")) ["range"]
+snare,erase
+208 [1;33ms[0mn[1;32ma[1;33mr[1;32me[0m   1    11 Some((1, 1, "erase")) ["erase"]
+snare,crane
+210 [0ms[1;33mn[1;32ma[1;33mr[1;32me[0m   1     3 Some((1, 1, "crane")) ["crane"]
+snare,genre
+219 [0ms[1;33mn[0ma[1;32mr[1;32me[0m   1     9 Some((1, 1, "genre")) ["genre"]
+snare,snore
+224 [1;32ms[1;32mn[0ma[1;32mr[1;32me[0m   1     2 Some((1, 1, "snore")) ["snore"]
+snare
+242 [1;32ms[1;32mn[1;32ma[1;32mr[1;32me[0m   1     1 Some((1, 1, "snare")) ["snare"]
+snare,onset
+snare,onset,unset
+ 88 [1;33ms[1;32mn[0ma[0mr[1;33me[0m   2    39 Some((3, 2, "onset")) ["onset", "unset"]
+snare,leant
+snare,leant,meant
+102 [0ms[1;33mn[1;32ma[0mr[1;33me[0m   2    49 Some((3, 2, "leant")) ["leant", "meant"]
+snare,resin
+snare,resin,risen
+112 [1;33ms[1;33mn[0ma[1;33mr[1;33me[0m   2    41 Some((3, 2, "resin")) ["resin", "risen"]
+snare,entry
+snare,entry,inert
+141 [0ms[1;32mn[0ma[1;32mr[1;33me[0m   2    13 Some((3, 2, "entry")) ["entry", "inert"]
+snare,learn
+snare,learn,yearn
+156 [0ms[1;33mn[1;32ma[1;32mr[1;33me[0m   2     6 Some((3, 2, "learn")) ["learn", "yearn"]
+snare,snide
+snare,snide,snipe
+170 [1;32ms[1;32mn[0ma[0mr[1;32me[0m   2     6 Some((3, 2, "snide")) ["snide", "snipe"]
+snare,inane
+snare,inane,knave
+186 [0ms[1;32mn[1;32ma[0mr[1;32me[0m   2     6 Some((3, 2, "inane")) ["inane", "knave"]
+snare,nurse
+snare,nurse,rinse
+193 [1;33ms[1;33mn[0ma[1;33mr[1;32me[0m   2     4 Some((3, 2, "nurse")) ["nurse", "rinse"]
+snare,snack
+snare,snack,snail
+snare,snack,snaky
+ 26 [1;32ms[1;32mn[1;32ma[0mr[0me[0m   3    17 Some((5, 2, "snack")) ["snack", "snail", "snaky"]
+snare,churn
+snare,churn,mourn
+snare,churn,thorn
+ 57 [0ms[1;33mn[0ma[1;32mr[0me[0m   3    79 Some((5, 2, "churn")) ["churn", "mourn", "thorn"]
+snare,acorn
+snare,acorn,adorn
+snare,acorn,cairn
+ 66 [0ms[1;33mn[1;33ma[1;32mr[0me[0m   3    38 Some((5, 2, "acorn")) ["acorn", "adorn", "cairn"]
+snare,sauce,salve
+snare,sauce
+snare,sauce,saute
+173 [1;32ms[0mn[1;33ma[0mr[1;32me[0m   3    63 Some((5, 2, "sauce")) ["salve", "sauce", "saute"]
+snare,afore,adore
+snare,afore,afire
+snare,afore,azure
+225 [0ms[0mn[1;33ma[1;32mr[1;32me[0m   3    54 Some((6, 2, "afore")) ["adore", "afire", "azure"]
+snare,harsh,artsy
+snare,harsh
+snare,harsh,marsh
+snare,harsh,raspy
+ 37 [1;33ms[0mn[1;33ma[1;33mr[0me[0m   4   541 Some((7, 2, "harsh")) ["artsy", "harsh", "marsh", "raspy"]
+snare,scorn
+snare,scorn,shorn
+snare,scorn,spurn
+snare,scorn,shorn,sworn
+ 59 [1;32ms[1;33mn[0ma[1;32mr[0me[0m   4    16 Some((8, 3, "scorn")) ["scorn", "shorn", "spurn", "sworn"]
+snare,askew
+snare,askew,asset
+snare,askew,easel
+snare,askew,essay
+ 91 [1;33ms[0mn[1;33ma[0mr[1;33me[0m   4   610 Some((7, 2, "askew")) ["askew", "asset", "easel", "essay"]
+snare,anele,angel
+snare,anele,annex
+snare,anele,enema
+snare,anele,knead
+ 96 [0ms[1;32mn[1;33ma[0mr[1;33me[0m   4    35 Some((8, 2, "anele")) ["angel", "annex", "enema", "knead"]
+snare,ramen,arena
+snare,ramen
+snare,ramen,raven
+snare,ramen,renal
+120 [0ms[1;33mn[1;33ma[1;33mr[1;33me[0m   4    49 Some((7, 2, "ramen")) ["arena", "ramen", "raven", "renal"]
+snare,reach
+snare,reach,react
+snare,reach,ready
+snare,reach,ready,realm
+126 [0ms[0mn[1;32ma[1;33mr[1;33me[0m   4   121 Some((8, 3, "reach")) ["reach", "react", "ready", "realm"]
+snare,stone,dense
+snare,stone,noise
+snare,stone,noose
+snare,stone,tense
+166 [1;33ms[1;33mn[0ma[0mr[1;32me[0m   4    49 Some((8, 2, "stone")) ["dense", "noise", "noose", "tense"]
+snare,angle
+snare,angle,anime
+snare,angle,ankle
+snare,angle,anime,anode
+177 [0ms[1;32mn[1;33ma[0mr[1;32me[0m   4    18 Some((8, 3, "angle")) ["angle", "anime", "ankle", "anode"]
+snare,scree
+snare,scree,serve
+snare,scree,spree
+snare,scree,surge
+191 [1;32ms[0mn[0ma[1;33mr[1;32me[0m   4    40 Some((7, 2, "scree")) ["scree", "serve", "spree", "surge"]
+snare,arise
+snare,arise,arose
+snare,arise,parse
+snare,arise,raise
+199 [1;33ms[0mn[1;33ma[1;33mr[1;32me[0m   4    25 Some((7, 2, "arise")) ["arise", "arose", "parse", "raise"]
+snare,blare,aware
+snare,blare
+snare,blare,flare
+snare,blare,flare,glare
+234 [0ms[0mn[1;32ma[1;32mr[1;32me[0m   4    27 Some((8, 3, "blare")) ["aware", "blare", "flare", "glare"]
+snare,scare
+snare,scare,share
+snare,scare,share,spare
+snare,scare,share,spare,stare
+236 [1;32ms[0mn[1;32ma[1;32mr[1;32me[0m   4     8 Some((10, 4, "scare")) ["scare", "share", "spare", "stare"]
+snare,bison
+snare,bison,bonus
+snare,bison,minus
+snare,bison,noisy
+snare,bison,using
+  4 [1;33ms[1;33mn[0ma[0mr[0me[0m   5  1027 Some((9, 2, "bison")) ["bison", "bonus", "minus", "noisy", "using"]
+snare,basan,basin
+snare,basan,mason
+snare,basan,nasal
+snare,basan,nasty
+snare,basan,pansy
+ 13 [1;33ms[1;33mn[1;33ma[0mr[0me[0m   5   359 Some((10, 2, "basan")) ["basin", "mason", "nasal", "nasty", "pansy"]
+snare,slant,saint
+snare,slant,salon
+snare,slant,sandy
+snare,slant,satin
+snare,slant,sauna
+ 14 [1;32ms[1;33mn[1;33ma[0mr[0me[0m   5   103 Some((10, 2, "slant")) ["saint", "salon", "sandy", "satin", "sauna"]
+snare,annul,annoy
+snare,annul
+snare,annul,antic
+snare,annul,anvil
+snare,annul,inlay
+ 15 [0ms[1;32mn[1;33ma[0mr[0me[0m   5   130 Some((9, 2, "annul")) ["annoy", "annul", "antic", "anvil", "inlay"]
+snare,beals,beast
+snare,beals,feast
+snare,beals,leash
+snare,beals,leash,least
+snare,beals,feast,yeast
+100 [1;33ms[0mn[1;32ma[0mr[1;33me[0m   5   163 Some((12, 3, "beals")) ["beast", "feast", "leash", "least", "yeast"]
+snare,inter,enter
+snare,inter,infer
+snare,inter,infer,inner
+snare,inter
+snare,inter,under
+114 [0ms[1;32mn[0ma[1;33mr[1;33me[0m   5    27 Some((10, 3, "inter")) ["enter", "infer", "inner", "inter", "under"]
+snare,shear,safer
+snare,shear
+snare,shear,smear
+snare,shear,smear,spear
+snare,shear,smear,spear,swear
+119 [1;32ms[0mn[1;33ma[1;33mr[1;33me[0m   5    37 Some((12, 4, "shear")) ["safer", "shear", "smear", "spear", "swear"]
+snare,howre,chore
+snare,howre,fibre
+snare,howre,ombre
+snare,howre,there
+snare,howre,where
+216 [0ms[0mn[0ma[1;32mr[1;32me[0m   5   118 Some((10, 2, "howre")) ["chore", "fibre", "ombre", "there", "where"]
+snare,snuff,sniff
+snare,snuff,snoop
+snare,snuff,snout
+snare,snuff,snoop,snowy
+snare,snuff,snuck
+snare,snuff
+  8 [1;32ms[1;32mn[0ma[0mr[0me[0m   6    63 Some((12, 3, "snuff")) ["sniff", "snoop", "snout", "snowy", "snuck", "snuff"]
+snare,alert
+snare,alert,avert
+snare,alert,extra
+snare,alert,opera
+snare,alert,extra,terra
+snare,alert,zebra
+144 [0ms[0mn[1;33ma[1;32mr[1;33me[0m   6   106 Some((12, 3, "alert")) ["alert", "avert", "extra", "opera", "terra", "zebra"]
+snare,unite,gnome
+snare,unite,knife
+snare,unite,uncle
+snare,unite,uncle,undue
+snare,unite
+snare,unite,untie
+168 [0ms[1;32mn[0ma[0mr[1;32me[0m   6    43 Some((12, 3, "unite")) ["gnome", "knife", "uncle", "undue", "unite", "untie"]
+snare,carle,agree
+snare,carle,argue
+snare,carle,barge
+snare,carle,carve
+snare,carle,farce
+snare,carle,large
+198 [0ms[0mn[1;33ma[1;33mr[1;32me[0m   6   169 Some((12, 2, "carle")) ["agree", "argue", "barge", "carve", "farce", "large"]
+snare,stead,sepia
+snare,stead,speak
+snare,stead
+snare,stead,steak
+snare,stead,steak,steal
+snare,stead,steak,steal,steam
+snare,stead,sweat
+ 92 [1;32ms[0mn[1;33ma[0mr[1;33me[0m   7   161 Some((16, 4, "stead")) ["sepia", "speak", "stead", "steak", "steal", "steam", "sweat"]
+snare,heard,beard
+snare,heard
+snare,heard,heart
+snare,heard,teary,pearl
+snare,heard,teary,pearl,rearm
+snare,heard,teary
+snare,heard,teary,weary
+153 [0ms[0mn[1;32ma[1;32mr[1;33me[0m   7    56 Some((17, 4, "heard")) ["beard", "heard", "heart", "pearl", "rearm", "teary", "weary"]
+snare,lance,alone
+snare,lance,atone
+snare,lance,canoe
+snare,lance,dance
+snare,lance
+snare,lance,mange
+snare,lance,naive
+174 [0ms[1;33mn[1;33ma[0mr[1;32me[0m   7    86 Some((13, 2, "lance")) ["alone", "atone", "canoe", "dance", "lance", "mange", "naive"]
+snare,cease,abase
+snare,cease
+snare,cease,chase
+snare,cease,lease
+snare,cease,abase,phase
+snare,cease,lease,tease
+snare,cease,usage
+181 [1;33ms[0mn[1;32ma[0mr[1;32me[0m   7    62 Some((15, 3, "cease")) ["abase", "cease", "chase", "lease", "phase", "tease", "usage"]
+218 [1;32ms[0mn[0ma[1;32mr[1;32me[0m   7    28 None ["score", "shire", "shore", "spire", "spore", "store", "swore"]

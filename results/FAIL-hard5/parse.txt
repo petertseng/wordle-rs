@@ -1,0 +1,294 @@
+parse,morph
+ 19 [1;33mp[0ma[1;32mr[0ms[0me[0m   1   147 Some((1, 1, "morph")) ["morph"]
+parse,porch
+ 20 [1;32mp[0ma[1;32mr[0ms[0me[0m   1    99 Some((1, 1, "porch")) ["porch"]
+parse,apron
+ 22 [1;33mp[1;33ma[1;32mr[0ms[0me[0m   1    62 Some((1, 1, "apron")) ["apron"]
+parse,harpy
+ 25 [1;33mp[1;32ma[1;32mr[0ms[0me[0m   1    43 Some((1, 1, "harpy")) ["harpy"]
+parse,psalm
+ 32 [1;32mp[1;33ma[0mr[1;33ms[0me[0m   1   114 Some((1, 1, "psalm")) ["psalm"]
+parse,sappy
+ 34 [1;33mp[1;32ma[0mr[1;33ms[0me[0m   1   128 Some((1, 1, "sappy")) ["sappy"]
+parse,raspy
+ 43 [1;33mp[1;32ma[1;33mr[1;33ms[0me[0m   1    21 Some((1, 1, "raspy")) ["raspy"]
+parse,plush
+ 56 [1;32mp[0ma[0mr[1;32ms[0me[0m   1    50 Some((1, 1, "plush")) ["plush"]
+parse,crisp
+ 64 [1;33mp[0ma[1;33mr[1;32ms[0me[0m   1    21 Some((1, 1, "crisp")) ["crisp"]
+parse,prism
+ 65 [1;32mp[0ma[1;33mr[1;32ms[0me[0m   1    19 Some((1, 1, "prism")) ["prism"]
+parse,grasp
+ 67 [1;33mp[1;33ma[1;33mr[1;32ms[0me[0m   1     4 Some((1, 1, "grasp")) ["grasp"]
+parse,lapel
+ 88 [1;33mp[1;32ma[0mr[0ms[1;33me[0m   1    93 Some((1, 1, "lapel")) ["lapel"]
+parse,panel
+ 89 [1;32mp[1;32ma[0mr[0ms[1;33me[0m   1    59 Some((1, 1, "panel")) ["panel"]
+parse,pearl
+ 95 [1;32mp[1;33ma[1;33mr[0ms[1;33me[0m   1    34 Some((1, 1, "pearl")) ["pearl"]
+parse,parer
+107 [1;32mp[1;32ma[1;32mr[0ms[1;33me[0m   1    12 Some((1, 1, "parer")) ["parer"]
+parse,easel
+114 [0mp[1;32ma[0mr[1;33ms[1;33me[0m   1   264 Some((1, 1, "easel")) ["easel"]
+parse,poser
+119 [1;32mp[0ma[1;33mr[1;33ms[1;33me[0m   1    35 Some((1, 1, "poser")) ["poser"]
+parse,spear
+121 [1;33mp[1;33ma[1;33mr[1;33ms[1;33me[0m   1    13 Some((1, 1, "spear")) ["spear"]
+parse,poesy
+137 [1;32mp[0ma[0mr[1;32ms[1;33me[0m   1    27 Some((1, 1, "poesy")) ["poesy"]
+parse,press
+146 [1;32mp[0ma[1;33mr[1;32ms[1;33me[0m   1    12 Some((1, 1, "press")) ["press"]
+parse,verso
+153 [0mp[0ma[1;32mr[1;32ms[1;33me[0m   1    26 Some((1, 1, "verso")) ["verso"]
+parse,maple
+169 [1;33mp[1;32ma[0mr[0ms[1;32me[0m   1    26 Some((1, 1, "maple")) ["maple"]
+parse,payee
+170 [1;32mp[1;32ma[0mr[0ms[1;32me[0m   1    17 Some((1, 1, "payee")) ["payee"]
+parse,range
+177 [0mp[1;32ma[1;33mr[0ms[1;32me[0m   1    68 Some((1, 1, "range")) ["range"]
+parse,agree
+183 [0mp[1;33ma[1;32mr[0ms[1;32me[0m   1    43 Some((1, 1, "agree")) ["agree"]
+parse,paste
+197 [1;32mp[1;32ma[0mr[1;33ms[1;32me[0m   1     5 Some((1, 1, "paste")) ["paste"]
+parse,spare
+202 [1;33mp[1;33ma[1;33mr[1;33ms[1;32me[0m   1     3 Some((1, 1, "spare")) ["spare"]
+parse,spree
+208 [1;33mp[0ma[1;32mr[1;33ms[1;32me[0m   1     5 Some((1, 1, "spree")) ["spree"]
+parse,copse
+217 [1;33mp[0ma[0mr[1;32ms[1;32me[0m   1    22 Some((1, 1, "copse")) ["copse"]
+parse,phase
+221 [1;32mp[1;33ma[0mr[1;32ms[1;32me[0m   1     7 Some((1, 1, "phase")) ["phase"]
+parse,lapse
+223 [1;33mp[1;32ma[0mr[1;32ms[1;32me[0m   1     5 Some((1, 1, "lapse")) ["lapse"]
+parse,pause
+224 [1;32mp[1;32ma[0mr[1;32ms[1;32me[0m   1     4 Some((1, 1, "pause")) ["pause"]
+parse,prose
+227 [1;32mp[0ma[1;33mr[1;32ms[1;32me[0m   1     8 Some((1, 1, "prose")) ["prose"]
+parse,raise
+231 [0mp[1;32ma[1;33mr[1;32ms[1;32me[0m   1     6 Some((1, 1, "raise")) ["raise"]
+parse,purse
+236 [1;32mp[0ma[1;32mr[1;32ms[1;32me[0m   1     3 Some((1, 1, "purse")) ["purse"]
+parse
+242 [1;32mp[1;32ma[1;32mr[1;32ms[1;32me[0m   1     1 Some((1, 1, "parse")) ["parse"]
+parse,posit
+parse,posit,pushy
+ 29 [1;32mp[0ma[0mr[1;33ms[0me[0m   2   332 Some((3, 2, "posit")) ["posit", "pushy"]
+parse,pasta
+parse,pasta,pasty
+ 35 [1;32mp[1;32ma[0mr[1;33ms[0me[0m   2    65 Some((3, 2, "pasta")) ["pasta", "pasty"]
+parse,sharp
+parse,sharp,spark
+ 40 [1;33mp[1;33ma[1;33mr[1;33ms[0me[0m   2    61 Some((3, 2, "sharp")) ["sharp", "spark"]
+parse,satyr
+parse,satyr,savor
+ 42 [0mp[1;32ma[1;33mr[1;33ms[0me[0m   2   224 Some((3, 2, "satyr")) ["satyr", "savor"]
+parse,clasp
+parse,clasp,spasm
+ 58 [1;33mp[1;33ma[0mr[1;32ms[0me[0m   2    23 Some((3, 2, "clasp")) ["clasp", "spasm"]
+parse,harsh
+parse,harsh,marsh
+ 78 [0mp[1;32ma[1;32mr[1;32ms[0me[0m   2    11 Some((3, 2, "harsh")) ["harsh", "marsh"]
+parse,caper
+parse,caper,taper
+ 97 [1;33mp[1;32ma[1;33mr[0ms[1;33me[0m   2    32 Some((3, 2, "caper")) ["caper", "taper"]
+parse,feral
+parse,feral,terra
+102 [0mp[1;33ma[1;32mr[0ms[1;33me[0m   2   131 Some((3, 2, "feral")) ["feral", "terra"]
+parse,pesky
+parse,pesky,pesto
+110 [1;32mp[0ma[0mr[1;33ms[1;33me[0m   2   133 Some((3, 2, "pesky")) ["pesky", "pesto"]
+parse,sepia
+parse,sepia,speak
+112 [1;33mp[1;33ma[0mr[1;33ms[1;33me[0m   2    75 Some((3, 2, "sepia")) ["sepia", "speak"]
+parse,sperm
+parse,sperm,super
+118 [1;33mp[0ma[1;33mr[1;33ms[1;33me[0m   2    64 Some((3, 2, "sperm")) ["sperm", "super"]
+parse,safer
+parse,safer,saner
+123 [0mp[1;32ma[1;33mr[1;33ms[1;33me[0m   2    56 Some((3, 2, "safer")) ["safer", "saner"]
+parse,drape
+parse,drape,grape
+175 [1;33mp[1;33ma[1;33mr[0ms[1;32me[0m   2    20 Some((3, 2, "drape")) ["drape", "grape"]
+parse,puree
+parse,puree,purge
+182 [1;32mp[0ma[1;32mr[0ms[1;32me[0m   2    13 Some((3, 2, "puree")) ["puree", "purge"]
+parse,spire
+parse,spire,spore
+199 [1;33mp[0ma[1;33mr[1;33ms[1;32me[0m   2    14 Some((3, 2, "spire")) ["spire", "spore"]
+parse,prank,polar
+parse,prank
+parse,prank,prawn
+ 14 [1;32mp[1;33ma[1;33mr[0ms[0me[0m   3    89 Some((5, 2, "prank")) ["polar", "prank", "prawn"]
+parse,parry,parka
+parse,parry
+parse,parry,party
+ 26 [1;32mp[1;32ma[1;32mr[0ms[0me[0m   3    34 Some((5, 2, "parry")) ["parka", "parry", "party"]
+parse,sprig
+parse,sprig,strip
+parse,sprig,syrup
+ 46 [1;33mp[0ma[1;32mr[1;33ms[0me[0m   3    71 Some((5, 2, "sprig")) ["sprig", "strip", "syrup"]
+parse,straw,scram
+parse,straw
+parse,straw,stray
+ 48 [0mp[1;33ma[1;32mr[1;33ms[0me[0m   3   199 Some((5, 2, "straw")) ["scram", "straw", "stray"]
+parse,scrap
+parse,scrap,spray
+parse,scrap,strap
+ 49 [1;33mp[1;33ma[1;32mr[1;33ms[0me[0m   3    22 Some((5, 2, "scrap")) ["scrap", "spray", "strap"]
+parse,gipsy
+parse,gipsy,gypsy
+parse,gipsy,tipsy
+ 55 [1;33mp[0ma[0mr[1;32ms[0me[0m   3    67 Some((5, 2, "gipsy")) ["gipsy", "gypsy", "tipsy"]
+parse,palsy
+parse,palsy,pansy
+parse,palsy,pansy,patsy
+ 62 [1;32mp[1;32ma[0mr[1;32ms[0me[0m   3    10 Some((6, 3, "palsy")) ["palsy", "pansy", "patsy"]
+parse,recap,opera
+parse,recap
+parse,recap,repay
+ 94 [1;33mp[1;33ma[1;33mr[0ms[1;33me[0m   3    68 Some((5, 2, "recap")) ["opera", "recap", "repay"]
+parse,paler
+parse,paler,paper
+parse,paler,paper,payer
+ 98 [1;32mp[1;32ma[1;33mr[0ms[1;33me[0m   3    22 Some((6, 3, "paler")) ["paler", "paper", "payer"]
+parse,shear
+parse,shear,smear
+parse,shear,smear,swear
+120 [0mp[1;33ma[1;33mr[1;33ms[1;33me[0m   3   138 Some((6, 3, "shear")) ["shear", "smear", "swear"]
+parse,ample,agape
+parse,ample
+parse,ample,apple
+166 [1;33mp[1;33ma[0mr[0ms[1;32me[0m   3    70 Some((5, 2, "ample")) ["agape", "ample", "apple"]
+parse,space,shape
+parse,space
+parse,space,spade
+193 [1;33mp[1;33ma[0mr[1;33ms[1;32me[0m   3    21 Some((5, 2, "space")) ["shape", "space", "spade"]
+parse,scree
+parse,scree,serve
+parse,scree,surge
+207 [0mp[0ma[1;32mr[1;33ms[1;32me[0m   3    34 Some((5, 2, "scree")) ["scree", "serve", "surge"]
+parse,poise
+parse,poise,posse
+parse,poise,pulse
+218 [1;32mp[0ma[0mr[1;32ms[1;32me[0m   3    20 Some((5, 2, "poise")) ["poise", "posse", "pulse"]
+parse,salse,cause
+parse,salse,false
+parse,salse,masse
+222 [0mp[1;32ma[0mr[1;32ms[1;32me[0m   3    26 Some((6, 2, "salse")) ["cause", "false", "masse"]
+parse,reuse
+parse,reuse,rinse
+parse,reuse,rouse
+225 [0mp[0ma[1;33mr[1;32ms[1;32me[0m   3    46 Some((5, 2, "reuse")) ["reuse", "rinse", "rouse"]
+parse,arise
+parse,arise,arose
+parse,arise,erase
+228 [0mp[1;33ma[1;33mr[1;32ms[1;32me[0m   3    11 Some((5, 2, "arise")) ["arise", "arose", "erase"]
+parse,calpa,caput
+parse,calpa,happy
+parse,calpa,kappa
+parse,calpa,vapid
+  7 [1;33mp[1;32ma[0mr[0ms[0me[0m   4   306 Some((8, 2, "calpa")) ["caput", "happy", "kappa", "vapid"]
+parse,cramp,apart
+parse,cramp
+parse,cramp,graph
+parse,cramp,tramp
+ 13 [1;33mp[1;33ma[1;33mr[0ms[0me[0m   4   183 Some((7, 2, "cramp")) ["apart", "cramp", "graph", "tramp"]
+parse,rapid,ralph
+parse,rapid
+parse,rapid,tapir
+parse,rapid,vapor
+ 16 [1;33mp[1;32ma[1;33mr[0ms[0me[0m   4    77 Some((7, 2, "rapid")) ["ralph", "rapid", "tapir", "vapor"]
+parse,torsi,burst
+parse,torsi,first
+parse,torsi,torso
+parse,torsi,worst
+ 72 [0mp[0ma[1;32mr[1;32ms[0me[0m   4    54 Some((8, 2, "torsi")) ["burst", "first", "torso", "worst"]
+parse,adept
+parse,adept,apnea
+parse,adept,cheap
+parse,adept,leapt
+ 85 [1;33mp[1;33ma[0mr[0ms[1;33me[0m   4   229 Some((7, 2, "adept")) ["adept", "apnea", "cheap", "leapt"]
+parse,perch
+parse,perch,peril
+parse,perch,peril,perky
+parse,perch,purer
+101 [1;32mp[0ma[1;32mr[0ms[1;33me[0m   4    49 Some((8, 3, "perch")) ["perch", "peril", "perky", "purer"]
+parse,earth,early
+parse,earth
+parse,earth,harem
+parse,earth,rarer
+105 [0mp[1;32ma[1;32mr[0ms[1;33me[0m   4    83 Some((7, 2, "earth")) ["early", "earth", "harem", "rarer"]
+parse,coupe
+parse,coupe,elope
+parse,coupe,opine
+parse,coupe,tepee
+163 [1;33mp[0ma[0mr[0ms[1;32me[0m   4   200 Some((7, 2, "coupe")) ["coupe", "elope", "opine", "tepee"]
+parse,peace
+parse,peace,place
+parse,peace,plane
+parse,peace,plane,plate
+167 [1;32mp[1;33ma[0mr[0ms[1;32me[0m   4    37 Some((8, 3, "peace")) ["peace", "place", "plane", "plate"]
+parse,carle,barge
+parse,carle,carve
+parse,carle,farce
+parse,carle,large
+186 [0mp[1;32ma[1;32mr[0ms[1;32me[0m   4    34 Some((8, 2, "carle")) ["barge", "carve", "farce", "large"]
+parse,scare
+parse,scare,share
+parse,scare,share,snare
+parse,scare,share,snare,stare
+201 [0mp[1;33ma[1;33mr[1;33ms[1;32me[0m   4    25 Some((10, 4, "scare")) ["scare", "share", "snare", "stare"]
+parse,sport,slurp
+parse,sport
+parse,sport,spurn
+parse,sport,spurt
+parse,sport,usurp
+ 37 [1;33mp[0ma[1;33mr[1;33ms[0me[0m   5   181 Some((9, 2, "sport")) ["slurp", "sport", "spurn", "spurt", "usurp"]
+parse,blase,beast
+parse,blase,feast
+parse,blase,leash
+parse,blase,leash,least
+parse,blase,feast,yeast
+138 [0mp[1;33ma[0mr[1;32ms[1;33me[0m   5    62 Some((12, 3, "blase")) ["beast", "feast", "leash", "least", "yeast"]
+parse,cress
+parse,cress,crest
+parse,cress,dress
+parse,cress,fresh
+parse,cress,fresh,wrest
+144 [0mp[0ma[1;33mr[1;32ms[1;33me[0m   5    65 Some((10, 3, "cress")) ["cress", "crest", "dress", "fresh", "wrest"]
+parse,gassy,daisy
+parse,gassy
+parse,gassy,lasso
+parse,gassy,salsa
+parse,gassy,sassy
+parse,gassy,waist
+ 60 [0mp[1;32ma[0mr[1;32ms[0me[0m   6    75 Some((11, 2, "gassy")) ["daisy", "gassy", "lasso", "salsa", "sassy", "waist"]
+parse,piety,penny
+parse,piety,petty
+parse,piety
+parse,piety,piney
+parse,piety,pixel
+parse,piety,plied
+ 83 [1;32mp[0ma[0mr[0ms[1;33me[0m   6   366 Some((11, 2, "piety")) ["penny", "petty", "piety", "piney", "pixel", "plied"]
+parse,piker,piper
+parse,piker,plier
+parse,piker,poker
+parse,piker,power
+parse,piker,preen
+parse,piker,pried
+ 92 [1;32mp[0ma[1;33mr[0ms[1;33me[0m   6   129 Some((12, 2, "piker")) ["piper", "plier", "poker", "power", "preen", "pried"]
+parse,cires,screw
+parse,cires,serif
+parse,cires,serum
+parse,cires,shrew
+parse,cires,siren
+parse,cires,shrew,surer
+126 [0mp[0ma[1;32mr[1;33ms[1;33me[0m   6   199 Some((13, 3, "cires")) ["screw", "serif", "serum", "shrew", "siren", "surer"]
+parse,gripe,crepe
+parse,gripe
+parse,gripe,grope
+parse,gripe,rupee
+parse,gripe,tripe
+parse,gripe,crepe,trope
+172 [1;33mp[0ma[1;33mr[0ms[1;32me[0m   6    60 Some((12, 3, "gripe")) ["crepe", "gripe", "grope", "rupee", "tripe", "trope"]
+198 [0mp[0ma[1;33mr[1;33ms[1;32me[0m   6    89 None ["score", "shire", "shore", "snore", "store", "swore"]

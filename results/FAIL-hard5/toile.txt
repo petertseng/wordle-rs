@@ -1,0 +1,972 @@
+toile,idiot
+ 22 [1;33mt[1;33mo[1;32mi[0ml[0me[0m   1    33 Some((1, 1, "idiot")) ["idiot"]
+toile,talon
+ 32 [1;32mt[1;33mo[0mi[1;33ml[0me[0m   1    27 Some((1, 1, "talon")) ["talon"]
+toile,pilot
+ 40 [1;33mt[1;33mo[1;33mi[1;33ml[0me[0m   1    12 Some((1, 1, "pilot")) ["pilot"]
+toile,atoll
+ 58 [1;33mt[1;33mo[0mi[1;32ml[0me[0m   1    21 Some((1, 1, "atoll")) ["atoll"]
+toile,troll
+ 59 [1;32mt[1;33mo[0mi[1;32ml[0me[0m   1     8 Some((1, 1, "troll")) ["troll"]
+toile,viola
+ 66 [0mt[1;33mo[1;33mi[1;32ml[0me[0m   1    35 Some((1, 1, "viola")) ["viola"]
+toile,voila
+ 78 [0mt[1;32mo[1;32mi[1;32ml[0me[0m   1    18 Some((1, 1, "voila")) ["voila"]
+toile,video
+ 93 [0mt[1;33mo[1;33mi[0ml[1;33me[0m   1    95 Some((1, 1, "video")) ["video"]
+toile,extol
+112 [1;33mt[1;33mo[0mi[1;33ml[1;33me[0m   1    26 Some((1, 1, "extol")) ["extol"]
+toile,towel
+116 [1;32mt[1;32mo[0mi[1;33ml[1;33me[0m   1     4 Some((1, 1, "towel")) ["towel"]
+toile,tithe
+173 [1;32mt[0mo[1;33mi[0ml[1;32me[0m   1    24 Some((1, 1, "tithe")) ["tithe"]
+toile,movie
+177 [0mt[1;32mo[1;33mi[0ml[1;32me[0m   1    46 Some((1, 1, "movie")) ["movie"]
+toile,lithe
+199 [1;33mt[0mo[1;33mi[1;33ml[1;32me[0m   1    13 Some((1, 1, "lithe")) ["lithe"]
+toile,tilde
+200 [1;32mt[0mo[1;33mi[1;33ml[1;32me[0m   1     4 Some((1, 1, "tilde")) ["tilde"]
+toile,elite
+208 [1;33mt[0mo[1;32mi[1;33ml[1;32me[0m   1     7 Some((1, 1, "elite")) ["elite"]
+toile,olive
+210 [0mt[1;33mo[1;32mi[1;33ml[1;32me[0m   1     5 Some((1, 1, "olive")) ["olive"]
+toile,whole
+219 [0mt[1;33mo[0mi[1;32ml[1;32me[0m   1    41 Some((1, 1, "whole")) ["whole"]
+toile,stole
+220 [1;33mt[1;33mo[0mi[1;32ml[1;32me[0m   1     3 Some((1, 1, "stole")) ["stole"]
+toile,title
+227 [1;32mt[0mo[1;33mi[1;32ml[1;32me[0m   1     3 Some((1, 1, "title")) ["title"]
+toile,utile
+235 [1;33mt[0mo[1;32mi[1;32ml[1;32me[0m   1     4 Some((1, 1, "utile")) ["utile"]
+toile,trawl
+toile,trawl,tubal
+ 29 [1;32mt[0mo[0mi[1;33ml[0me[0m   2   106 Some((3, 2, "trawl")) ["trawl", "tubal"]
+toile,loath
+toile,loath,lofty
+ 34 [1;33mt[1;32mo[0mi[1;33ml[0me[0m   2    61 Some((3, 2, "loath")) ["loath", "lofty"]
+toile,tonal
+toile,tonal,total
+ 35 [1;32mt[1;32mo[0mi[1;33ml[0me[0m   2    16 Some((3, 2, "tonal")) ["tonal", "total"]
+toile,trial
+toile,trial,twirl
+ 47 [1;32mt[0mo[1;32mi[1;33ml[0me[0m   2    16 Some((3, 2, "trial")) ["trial", "twirl"]
+toile,tally
+toile,tally,truly
+ 56 [1;32mt[0mo[0mi[1;32ml[0me[0m   2    41 Some((3, 2, "tally")) ["tally", "truly"]
+toile,hotly
+toile,hotly,moult
+ 61 [1;33mt[1;32mo[0mi[1;32ml[0me[0m   2    11 Some((3, 2, "hotly")) ["hotly", "moult"]
+toile,tempo
+toile,tempo,tenor
+ 86 [1;32mt[1;33mo[0mi[0ml[1;33me[0m   2    68 Some((3, 2, "tempo")) ["tempo", "tenor"]
+toile,thief
+toile,thief,tried
+101 [1;32mt[0mo[1;32mi[0ml[1;33me[0m   2    24 Some((3, 2, "thief")) ["thief", "tried"]
+toile,hotel
+toile,hotel,motel
+115 [1;33mt[1;32mo[0mi[1;33ml[1;33me[0m   2    11 Some((3, 2, "hotel")) ["hotel", "motel"]
+toile,cello
+toile,cello,hello
+138 [0mt[1;33mo[0mi[1;32ml[1;33me[0m   2    54 Some((3, 2, "cello")) ["cello", "hello"]
+toile,forte
+toile,forte,route
+169 [1;33mt[1;32mo[0mi[0ml[1;32me[0m   2    36 Some((3, 2, "forte")) ["forte", "route"]
+toile,biome
+toile,biome,diode
+174 [0mt[1;33mo[1;33mi[0ml[1;32me[0m   2    64 Some((3, 2, "biome")) ["biome", "diode"]
+toile,stale
+toile,stale,style
+217 [1;33mt[0mo[0mi[1;32ml[1;32me[0m   2    18 Some((3, 2, "stale")) ["stale", "style"]
+toile,table
+toile,table,tulle
+218 [1;32mt[0mo[0mi[1;32ml[1;32me[0m   2     8 Some((3, 2, "table")) ["table", "tulle"]
+toile,boule
+toile,boule,noble
+222 [0mt[1;32mo[0mi[1;32ml[1;32me[0m   2    27 Some((3, 2, "boule")) ["boule", "noble"]
+toile,motif
+toile,motif,posit
+toile,motif,vomit
+ 16 [1;33mt[1;32mo[1;33mi[0ml[0me[0m   3    49 Some((5, 2, "motif")) ["motif", "posit", "vomit"]
+toile,doing
+toile,doing,going
+toile,doing,noisy
+ 24 [0mt[1;32mo[1;32mi[0ml[0me[0m   3    70 Some((5, 2, "doing")) ["doing", "going", "noisy"]
+toile,tidal
+toile,tidal,trail
+toile,tidal,tulip
+ 38 [1;32mt[0mo[1;33mi[1;33ml[0me[0m   3    37 Some((5, 2, "tidal")) ["tidal", "trail", "tulip"]
+toile,comet
+toile,comet,covet
+toile,comet,voter
+ 88 [1;33mt[1;32mo[0mi[0ml[1;33me[0m   3   111 Some((5, 2, "comet")) ["comet", "covet", "voter"]
+toile,toker,token
+toile,toker,totem
+toile,toker,tower
+ 89 [1;32mt[1;32mo[0mi[0ml[1;33me[0m   3    50 Some((6, 2, "toker")) ["token", "totem", "tower"]
+toile,inlet,filet
+toile,inlet
+toile,inlet,islet
+118 [1;33mt[0mo[1;33mi[1;33ml[1;33me[0m   3    34 Some((5, 2, "inlet")) ["filet", "inlet", "islet"]
+toile,field
+toile,field,wield
+toile,field,wield,yield
+144 [0mt[0mo[1;33mi[1;32ml[1;33me[0m   3    59 Some((6, 3, "field")) ["field", "wield", "yield"]
+toile,trope,those
+toile,trope
+toile,trope,trove
+167 [1;32mt[1;33mo[0mi[0ml[1;32me[0m   3    26 Some((5, 2, "trope")) ["those", "trope", "trove"]
+toile,cutie
+toile,cutie,irate
+toile,cutie,untie
+172 [1;33mt[0mo[1;33mi[0ml[1;32me[0m   3    70 Some((5, 2, "cutie")) ["cutie", "irate", "untie"]
+toile,opine
+toile,opine,ovine
+toile,opine,oxide
+183 [0mt[1;33mo[1;32mi[0ml[1;32me[0m   3    19 Some((5, 2, "opine")) ["opine", "ovine", "oxide"]
+toile,noise
+toile,noise,poise
+toile,noise,voice
+186 [0mt[1;32mo[1;32mi[0ml[1;32me[0m   3    12 Some((5, 2, "noise")) ["noise", "poise", "voice"]
+toile,belie
+toile,belie,bilge
+toile,belie,liege
+198 [0mt[0mo[1;33mi[1;33ml[1;32me[0m   3    88 Some((5, 2, "belie")) ["belie", "bilge", "liege"]
+toile,birle,aisle
+toile,birle,bible
+toile,birle,rifle
+225 [0mt[0mo[1;33mi[1;32ml[1;32me[0m   3    38 Some((6, 2, "birle")) ["aisle", "bible", "rifle"]
+toile,toxin,tonic
+toile,toxin,topic
+toile,toxin,toxic
+toile,toxin
+ 17 [1;32mt[1;32mo[1;33mi[0ml[0me[0m   4    19 Some((7, 2, "toxin")) ["tonic", "topic", "toxic", "toxin"]
+toile,dolci,folio
+toile,dolci,logic
+toile,dolci,login
+toile,dolci,solid
+ 42 [0mt[1;32mo[1;33mi[1;33ml[0me[0m   4    53 Some((8, 2, "dolci")) ["folio", "logic", "login", "solid"]
+toile,flint,blitz
+toile,flint
+toile,flint,flirt
+toile,flint,glint
+ 46 [1;33mt[0mo[1;32mi[1;33ml[0me[0m   4    51 Some((7, 2, "flint")) ["blitz", "flint", "flirt", "glint"]
+toile,droll
+toile,droll,knoll
+toile,droll,oddly
+toile,droll,scold
+ 57 [0mt[1;33mo[0mi[1;32ml[0me[0m   4   214 Some((7, 2, "droll")) ["droll", "knoll", "oddly", "scold"]
+toile,tiger,tepid
+toile,tiger,their
+toile,tiger
+toile,tiger,timer
+ 92 [1;32mt[0mo[1;33mi[0ml[1;33me[0m   4    67 Some((7, 2, "tiger")) ["tepid", "their", "tiger", "timer"]
+toile,loose,lodge
+toile,loose
+toile,loose,louse
+toile,loose,solve
+195 [0mt[1;32mo[0mi[1;33ml[1;32me[0m   4    55 Some((7, 2, "loose")) ["lodge", "loose", "louse", "solve"]
+toile,coins,comic
+toile,coins,conic
+toile,coins,ionic
+toile,coins,robin
+toile,coins,sonic
+ 15 [0mt[1;32mo[1;33mi[0ml[0me[0m   5   232 Some((10, 2, "coins")) ["comic", "conic", "ionic", "robin", "sonic"]
+toile,limbo,broil
+toile,limbo,igloo
+toile,limbo
+toile,limbo,lingo
+toile,limbo,spoil
+ 39 [0mt[1;33mo[1;33mi[1;33ml[0me[0m   5   123 Some((9, 2, "limbo")) ["broil", "igloo", "limbo", "lingo", "spoil"]
+toile,plier,alien
+toile,plier,flier
+toile,plier,plied
+toile,plier
+toile,plier,spiel
+126 [0mt[0mo[1;32mi[1;33ml[1;33me[0m   5    74 Some((9, 2, "plier")) ["alien", "flier", "plied", "plier", "spiel"]
+toile,agile
+toile,agile,esile,exile
+toile,agile,guile
+toile,agile,esile,smile
+toile,agile,esile,while
+234 [0mt[0mo[1;32mi[1;32ml[1;32me[0m   5    21 Some((12, 3, "agile")) ["agile", "exile", "guile", "smile", "while"]
+toile,joint,foist
+toile,joint,foist,hoist
+toile,joint
+toile,joint,joist
+toile,joint,foist,hoist,moist
+toile,joint,point
+ 25 [1;33mt[1;32mo[1;32mi[0ml[0me[0m   6    19 Some((14, 4, "joint")) ["foist", "hoist", "joint", "joist", "moist", "point"]
+toile,built
+toile,built,guilt
+toile,built,guilt,quilt
+toile,built,spilt
+toile,built,still
+toile,built,spilt,stilt
+ 73 [1;33mt[0mo[1;32mi[1;32ml[0me[0m   6    22 Some((13, 3, "built")) ["built", "guilt", "quilt", "spilt", "still", "stilt"]
+toile,edits,deity
+toile,edits,edict
+toile,edits,evict
+toile,edits,exist
+toile,edits,heist
+toile,edits,quiet
+100 [1;33mt[0mo[1;32mi[0ml[1;33me[0m   6    70 Some((12, 2, "edits")) ["deity", "edict", "evict", "exist", "heist", "quiet"]
+toile,trice,tribe
+toile,trice
+toile,trice,tribe,tripe
+toile,trice,tribe,tripe,trite
+toile,trice,twice
+toile,trice,twine
+182 [1;32mt[0mo[1;32mi[0ml[1;32me[0m   6    15 Some((14, 4, "trice")) ["tribe", "trice", "tripe", "trite", "twice", "twine"]
+toile,elate
+toile,elate,flute
+toile,elate,lathe
+toile,elate,latte
+toile,elate,plate
+toile,elate,plate,slate
+190 [1;33mt[0mo[0mi[1;33ml[1;32me[0m   6    45 Some((12, 3, "elate")) ["elate", "flute", "lathe", "latte", "plate", "slate"]
+toile,adult
+toile,adult,aptly
+toile,adult,fault
+toile,adult,shalt
+toile,adult,stalk
+toile,adult,stalk,stall
+toile,adult,fault,vault
+ 55 [1;33mt[0mo[0mi[1;32ml[0me[0m   7   101 Some((15, 3, "adult")) ["adult", "aptly", "fault", "shalt", "stalk", "stall", "vault"]
+toile,felon,below
+toile,felon,elbow
+toile,felon
+toile,felon,lemon
+toile,felon,melon
+toile,felon,olden
+toile,felon,older
+111 [0mt[1;33mo[0mi[1;33ml[1;33me[0m   7   258 Some((13, 2, "felon")) ["below", "elbow", "felon", "lemon", "melon", "olden", "older"]
+toile,dwelt,dealt
+toile,dwelt
+toile,dwelt,exalt
+toile,dwelt,exalt,exult
+toile,dwelt,smelt,knelt
+toile,dwelt,smelt
+toile,dwelt,smelt,spelt
+136 [1;33mt[0mo[0mi[1;32ml[1;33me[0m   7    37 Some((16, 3, "dwelt")) ["dealt", "dwelt", "exalt", "exult", "knelt", "smelt", "spelt"]
+toile,suite,quite
+toile,suite,smite
+toile,suite,smite,spite
+toile,suite
+toile,suite,unite
+toile,suite,white
+toile,suite,white,write
+181 [1;33mt[0mo[1;32mi[0ml[1;32me[0m   7    38 Some((15, 3, "suite")) ["quite", "smite", "spite", "suite", "unite", "white", "write"]
+toile,slide,alike
+toile,slide,alike,alive
+toile,slide,elide
+toile,slide,elide,glide
+toile,slide,slice
+toile,slide
+toile,slide,slice,slime
+207 [0mt[0mo[1;32mi[1;33ml[1;32me[0m   7    43 Some((16, 3, "slide")) ["alike", "alive", "elide", "glide", "slice", "slide", "slime"]
+toile,split,filth
+toile,split,light
+toile,split,limit
+toile,split,plait
+toile,split
+toile,split,unlit
+toile,split,until
+toile,split,vital
+ 37 [1;33mt[0mo[1;33mi[1;33ml[0me[0m   8   138 Some((15, 2, "split")) ["filth", "light", "limit", "plait", "split", "unlit", "until", "vital"]
+toile,store,atone
+toile,store,ovate
+toile,store,quote
+toile,store,smote
+toile,store,stoke
+toile,store,stoke,stone
+toile,store
+toile,store,stoke,stone,stove
+toile,store,wrote
+166 [1;33mt[1;33mo[0mi[0ml[1;32me[0m   9    65 Some((20, 4, "store")) ["atone", "ovate", "quote", "smote", "stoke", "stone", "store", "stove", "wrote"]
+toile,clone,alone
+toile,clone,globe,bloke
+toile,clone
+toile,clone,close
+toile,clone,close,clove
+toile,clone,globe,elope
+toile,clone,globe
+toile,clone,globe,glove
+toile,clone,globe,elope,slope
+192 [0mt[1;33mo[0mi[1;33ml[1;32me[0m   9    97 Some((23, 4, "clone")) ["alone", "bloke", "clone", "close", "clove", "elope", "globe", "glove", "slope"]
+toile,vowel,bowel
+toile,vowel,bowel,dowel
+toile,vowel,golem
+toile,vowel,hovel
+toile,vowel,golem,loser
+toile,vowel,lover
+toile,vowel,lower
+toile,vowel,model
+toile,vowel,hovel,novel
+toile,vowel
+114 [0mt[1;32mo[0mi[1;33ml[1;33me[0m  10   146 Some((22, 3, "vowel")) ["bowel", "dowel", "golem", "hovel", "loser", "lover", "lower", "model", "novel", "vowel"]
+toile,toads,toast
+toile,toads,today
+toile,toads,toddy
+toile,toads,tonga
+toile,toads,touch,tooth
+toile,toads,tonga,topaz
+toile,toads,touch,torch
+toile,toads,torso
+toile,toads,torus
+toile,toads,touch
+toile,toads,touch,tough
+  8 [1;32mt[1;32mo[0mi[0ml[0me[0m  11   142 Some((26, 3, "toads")) ["toast", "today", "toddy", "tonga", "tooth", "topaz", "torch", "torso", "torus", "touch", "tough"]
+toile,tacit
+toile,tacit,tapir
+toile,tacit,tiara
+toile,tacit,tibia
+toile,tacit,tight
+toile,tacit,timid
+toile,tacit,tipsy
+toile,tacit,titan
+toile,tacit,tibia,train
+toile,tacit,trait
+toile,tacit,tunic
+ 11 [1;32mt[0mo[1;33mi[0ml[0me[0m  11   222 Some((22, 3, "tacit")) ["tacit", "tapir", "tiara", "tibia", "tight", "timid", "tipsy", "titan", "train", "trait", "tunic"]
+toile,think,taint
+toile,think,thick
+toile,think,thigh
+toile,think,thing
+toile,think
+toile,think,thigh,third
+toile,think,twist,triad
+toile,think,trick
+toile,think,twist
+toile,think,twist,twixt
+toile,think,taint,tying
+ 20 [1;32mt[0mo[1;32mi[0ml[0me[0m  11    79 Some((25, 3, "think")) ["taint", "thick", "thigh", "thing", "think", "third", "triad", "trick", "twist", "twixt", "tying"]
+toile,onion,axiom
+toile,onion,axion
+toile,onion,axiom,idiom
+toile,onion
+toile,onion,opium
+toile,onion,owing
+toile,onion,primo
+toile,onion,axiom,prior
+toile,onion,rhino
+toile,onion,axion,scion
+toile,onion,union
+ 21 [0mt[1;33mo[1;32mi[0ml[0me[0m  11   152 Some((24, 3, "onion")) ["axiom", "axion", "idiom", "onion", "opium", "owing", "primo", "prior", "rhino", "scion", "union"]
+toile,aloft,allot
+toile,aloft
+toile,aloft,bloat
+toile,aloft,cloth
+toile,aloft,clout
+toile,aloft,float
+toile,aloft,flout
+toile,aloft,bloat,gloat
+toile,aloft,octal
+toile,aloft,cloth,sloth
+toile,aloft,stool
+ 31 [1;33mt[1;33mo[0mi[1;33ml[0me[0m  11   121 Some((23, 3, "aloft")) ["allot", "aloft", "bloat", "cloth", "clout", "float", "flout", "gloat", "octal", "sloth", "stool"]
+toile,bield,billy
+toile,bield,dilly
+toile,bield,dilly,dimly
+toile,bield,fills,filly
+toile,bield,fills,girly
+toile,bield,fills,hilly
+toile,bield,idyll
+toile,bield,imply
+toile,bield,fills,silly
+toile,bield,fills,hilly,villa
+toile,bield,fills,hilly,willy
+ 63 [0mt[0mo[1;33mi[1;32ml[0me[0m  11   216 Some((31, 4, "bield")) ["billy", "dilly", "dimly", "filly", "girly", "hilly", "idyll", "imply", "silly", "villa", "willy"]
+toile,tarot,taboo
+toile,tarot,tango
+toile,tarot
+toile,tarot,thong
+toile,tarot,thorn
+toile,tarot,throb
+toile,tarot,throb,throw
+toile,tarot,troop
+toile,tarot,trout
+toile,tarot,troop,tumor
+toile,tarot,turbo
+toile,tarot,tutor
+  5 [1;32mt[1;33mo[0mi[0ml[0me[0m  12   227 Some((25, 3, "tarot")) ["taboo", "tango", "tarot", "thong", "thorn", "throb", "throw", "troop", "trout", "tumor", "turbo", "tutor"]
+toile,pinto,bigot
+toile,pinto,ditto
+toile,pinto,droit
+toile,pinto,ingot
+toile,pinto,intro
+toile,pinto,optic
+toile,pinto,droit,orbit
+toile,pinto,patio
+toile,pinto
+toile,pinto,pivot
+toile,pinto,ratio
+toile,pinto,droit,stoic
+ 13 [1;33mt[1;33mo[1;33mi[0ml[0me[0m  12   113 Some((25, 3, "pinto")) ["bigot", "ditto", "droit", "ingot", "intro", "optic", "orbit", "patio", "pinto", "pivot", "ratio", "stoic"]
+toile,otter,depot
+toile,otter,detox
+toile,otter,ethos
+toile,otter,metro
+toile,otter,octet
+toile,otter,often
+toile,otter,onset
+toile,otter,other
+toile,otter
+toile,otter,outer
+toile,otter,overt
+toile,otter,depot,pesto
+toile,otter,metro,retro
+ 85 [1;33mt[1;33mo[0mi[0ml[1;33me[0m  13   210 Some((27, 3, "otter")) ["depot", "detox", "ethos", "metro", "octet", "often", "onset", "other", "otter", "outer", "overt", "pesto", "retro"]
+toile,terse,taste
+toile,terse,tease
+toile,terse,tease,tense
+toile,terse,tepee
+toile,terse
+toile,terse,theme
+toile,terse,there
+toile,terse,these
+toile,terse,three
+toile,terse,thyme
+toile,terse,trace
+toile,terse,trace,trade
+toile,terse,trace,truce
+164 [1;32mt[0mo[0mi[0ml[1;32me[0m  13    98 Some((28, 3, "terse")) ["taste", "tease", "tense", "tepee", "terse", "theme", "there", "these", "three", "thyme", "trace", "trade", "truce"]
+toile,lants,altar
+toile,lants,blast
+toile,lants,blunt
+toile,lants,blurt
+toile,lants,fatal
+toile,lants,latch
+toile,lants,lusty
+toile,lants,natal
+toile,lants,plant
+toile,lants,salty
+toile,lants,slant
+toile,lants,blast,splat
+toile,lants,altar,ultra
+toile,lants,waltz
+ 28 [1;33mt[0mo[0mi[1;33ml[0me[0m  14   491 Some((30, 3, "lants")) ["altar", "blast", "blunt", "blurt", "fatal", "latch", "lusty", "natal", "plant", "salty", "slant", "splat", "ultra", "waltz"]
+toile,goold,could
+toile,goold,folly,coyly
+toile,goold,dolly
+toile,goold,folly
+toile,goold,godly
+toile,goold,golly
+toile,goold,folly,holly
+toile,goold,folly,holly,jolly
+toile,goold,folly,koala
+toile,goold,folly,lowly
+toile,goold,folly,coyly,nobly
+toile,goold,wooly
+toile,goold,could,world
+toile,goold,could,would
+ 60 [0mt[1;32mo[0mi[1;32ml[0me[0m  14   139 Some((38, 4, "goold")) ["could", "coyly", "dolly", "folly", "godly", "golly", "holly", "jolly", "koala", "lowly", "nobly", "wooly", "world", "would"]
+toile,freit,befit
+toile,freit,debit
+toile,freit,eight
+toile,freit,ethic
+toile,freit,fetid
+toile,freit,inept
+toile,freit,inert
+toile,freit,inter
+toile,freit,merit
+toile,freit,piety
+toile,freit,refit
+toile,freit,merit,remit
+toile,freit,rivet
+toile,freit,stein
+ 91 [1;33mt[0mo[1;33mi[0ml[1;33me[0m  14   228 Some((29, 3, "freit")) ["befit", "debit", "eight", "ethic", "fetid", "inept", "inert", "inter", "merit", "piety", "refit", "remit", "rivet", "stein"]
+toile,guild,build
+toile,guild,child
+toile,guild,skill,chili
+toile,guild,skill,chill
+toile,guild,daily
+toile,guild,daily,drill
+toile,guild,skill,chill,frill
+toile,guild,gaily
+toile,guild,gaily,grill
+toile,guild
+toile,guild,skill,chili,icily
+toile,guild,skill,krill
+toile,guild,quill
+toile,guild,skill
+toile,guild,skill,spill
+toile,guild,skill,spill,swill
+ 72 [0mt[0mo[1;32mi[1;32ml[0me[0m  16   104 Some((43, 4, "guild")) ["build", "child", "chili", "chill", "daily", "drill", "frill", "gaily", "grill", "guild", "icily", "krill", "quill", "skill", "spill", "swill"]
+toile,liner,devil
+toile,liner,elfin
+toile,liner,devil,email
+toile,liner,filer
+toile,liner,devil,helix
+toile,liner,devil,ideal
+toile,liner,idler
+toile,liner,impel
+toile,liner,libel
+toile,liner,liken
+toile,liner,linen
+toile,liner
+toile,liner,liver
+toile,liner,peril
+toile,liner,pixel
+toile,liner,peril,relic
+117 [0mt[0mo[1;33mi[1;33ml[1;33me[0m  16   267 Some((35, 3, "liner")) ["devil", "elfin", "email", "filer", "helix", "ideal", "idler", "impel", "libel", "liken", "linen", "liner", "liver", "peril", "pixel", "relic"]
+toile,wells,belly
+toile,wells,dwell
+toile,wells,early
+toile,wells,belly,fella
+toile,wells,belly,jelly
+toile,wells,mealy
+toile,wells,newly
+toile,wells,quell
+toile,wells,mealy,realm
+toile,wells,mealy,reply
+toile,wells,shelf
+toile,wells,shell
+toile,wells,shell,smell
+toile,wells,shell,smell,spell
+toile,wells,swell
+toile,wells,whelp
+135 [0mt[0mo[0mi[1;32ml[1;33me[0m  16   304 Some((39, 4, "wells")) ["belly", "dwell", "early", "fella", "jelly", "mealy", "newly", "quell", "realm", "reply", "shelf", "shell", "smell", "spell", "swell", "whelp"]
+toile,amble
+toile,amble,ample
+toile,amble,angle
+toile,amble,angle,ankle
+toile,amble,angle,apple
+toile,amble,belle
+toile,amble,belle,bugle
+toile,amble,cable
+toile,amble,cycle
+toile,amble,scale,eagle
+toile,amble,cable,fable
+toile,amble,scale,eagle,ladle
+toile,amble,maple
+toile,amble,scale
+toile,amble,scale,shale
+toile,amble,cycle,uncle
+toile,amble,scale,whale
+216 [0mt[0mo[0mi[1;32ml[1;32me[0m  17   151 Some((43, 4, "amble")) ["amble", "ample", "angle", "ankle", "apple", "belle", "bugle", "cable", "cycle", "eagle", "fable", "ladle", "maple", "scale", "shale", "uncle", "whale"]
+toile,shift,amity
+toile,shift,drift
+toile,shift,faint
+toile,shift,faith
+toile,shift,fritz
+toile,shift,paint
+toile,shift,paint,print
+toile,shift,saint
+toile,shift
+toile,shift,shirt
+toile,shift,saint,skirt
+toile,shift,smith
+toile,shift,stick
+toile,shift,stiff
+toile,shift,stick,sting
+toile,shift,stick,stink
+toile,shift,saint,stint
+toile,shift,swift
+toile,shift,amity,unity
+toile,shift,waist
+toile,shift,waist,wrist
+ 19 [1;33mt[0mo[1;32mi[0ml[0me[0m  21   273 Some((48, 3, "shift")) ["amity", "drift", "faint", "faith", "fritz", "paint", "print", "saint", "shift", "shirt", "skirt", "smith", "stick", "stiff", "sting", "stink", "stint", "swift", "unity", "waist", "wrist"]
+toile,slink,climb,alibi
+toile,slink,align
+toile,slink,axial
+toile,slink,climb,blimp
+toile,slink,cling,blind
+toile,slink,blink
+toile,slink,bliss
+toile,slink,click
+toile,slink,climb,cliff
+toile,slink,climb
+toile,slink,cling
+toile,slink,blink,clink
+toile,slink,click,flick
+toile,slink,cling,fling
+toile,slink,climb,iliac
+toile,slink,lying
+toile,slink,slick
+toile,slink,slimy
+toile,slink,sling
+toile,slink
+toile,slink,swirl
+toile,slink,axial,whirl
+ 45 [0mt[0mo[1;32mi[1;33ml[0me[0m  22   248 Some((52, 3, "slink")) ["alibi", "align", "axial", "blimp", "blind", "blink", "bliss", "click", "cliff", "climb", "cling", "clink", "flick", "fling", "iliac", "lying", "slick", "slimy", "sling", "slink", "swirl", "whirl"]
+toile,fried,eking,being
+toile,fried,brief
+toile,fried,chief
+toile,fried,cried
+toile,fried,crier
+toile,fried,deign
+toile,fried,cried,dried
+toile,fried,drier
+toile,fried,edify
+toile,fried,eking
+toile,fried,eking,eying
+toile,fried,feign
+toile,fried
+toile,fried,brief,grief
+toile,fried,eking,neigh
+toile,fried,cried,dried,pried
+toile,fried,reign
+toile,fried,shied
+toile,fried,skier
+toile,fried,shied,spied
+toile,fried,eking,weigh
+toile,fried,weird
+ 99 [0mt[0mo[1;32mi[0ml[1;33me[0m  22   350 Some((52, 4, "fried")) ["being", "brief", "chief", "cried", "crier", "deign", "dried", "drier", "edify", "eking", "eying", "feign", "fried", "grief", "neigh", "pried", "reign", "shied", "skier", "spied", "weigh", "weird"]
+toile,rouge,pombe,booze
+toile,rouge,horse,borne
+toile,rouge,pombe,copse
+toile,rouge,house,coupe
+toile,rouge,dodge
+toile,rouge,horse,borne,force
+toile,rouge,forge
+toile,rouge,goose
+toile,rouge,forge,gorge
+toile,rouge,gouge
+toile,rouge,horse,horde
+toile,rouge,horse
+toile,rouge,house
+toile,rouge,pombe,moose
+toile,rouge,house,mouse
+toile,rouge,pombe,noose
+toile,rouge,pombe,posse
+toile,rouge,rogue
+toile,rouge
+toile,rouge,rouse
+toile,rouge,vogue
+toile,rouge,horse,worse
+168 [0mt[1;32mo[0mi[0ml[1;32me[0m  22   237 Some((56, 4, "rouge")) ["booze", "borne", "copse", "coupe", "dodge", "force", "forge", "goose", "gorge", "gouge", "horde", "horse", "house", "moose", "mouse", "noose", "posse", "rogue", "rouge", "rouse", "vogue", "worse"]
+toile,dingo,audio
+toile,dingo,avoid
+toile,dingo,bingo
+toile,dingo,bison
+toile,dingo,choir
+toile,dingo,curio
+toile,dingo
+toile,dingo,disco
+toile,dingo,groin
+toile,dingo,hippo
+toile,dingo,inbox
+toile,dingo,inbox,irony
+toile,dingo,choir,ivory
+toile,dingo,kiosk
+toile,dingo,hippo,micro
+toile,dingo,minor
+toile,dingo,avoid,ovoid
+toile,dingo,piano
+toile,dingo,audio,radio
+toile,dingo,rigor
+toile,dingo,rigor,vigor
+toile,dingo,kiosk,visor
+toile,dingo,widow
+ 12 [0mt[1;33mo[1;33mi[0ml[0me[0m  23   594 Some((52, 3, "dingo")) ["audio", "avoid", "bingo", "bison", "choir", "curio", "dingo", "disco", "groin", "hippo", "inbox", "irony", "ivory", "kiosk", "micro", "minor", "ovoid", "piano", "radio", "rigor", "vigor", "visor", "widow"]
+toile,theta,taken
+toile,theta,taken,taker
+toile,theta,taken,tamer
+toile,theta,taken,tamer,taper
+toile,theta,teach
+toile,theta,taken,teary
+toile,theta,truer,teddy
+toile,theta,teeth
+toile,theta,tenet
+toile,theta,tenth
+toile,theta,terra
+toile,theta,testy
+toile,theta,theft
+toile,theta
+toile,theta,threw
+toile,theta,tread
+toile,theta,treat
+toile,theta,trend
+toile,theta,truer
+toile,theta,truer,tuber
+toile,theta,tread,tweak
+toile,theta,trend,tweed
+toile,theta,tweet
+ 83 [1;32mt[0mo[0mi[0ml[1;33me[0m  23   352 Some((54, 4, "theta")) ["taken", "taker", "tamer", "taper", "teach", "teary", "teddy", "teeth", "tenet", "tenth", "terra", "testy", "theft", "theta", "threw", "tread", "treat", "trend", "truer", "tuber", "tweak", "tweed", "tweet"]
+toile,bathe,abate
+toile,bathe,grate,acute
+toile,bathe,grate,agate
+toile,bathe,baste
+toile,bathe
+toile,bathe,brute
+toile,bathe,butte
+toile,bathe,caste
+toile,bathe,chute
+toile,bathe,grate,crate
+toile,bathe,etude
+toile,bathe,grate
+toile,bathe,haste
+toile,bathe,haste,haute
+toile,bathe,caste,paste
+toile,bathe,caste,saute
+toile,bathe,grate,skate
+toile,bathe,grate,stage
+toile,bathe,grate,stake
+toile,bathe,grate,stare
+toile,bathe,grate,skate,state
+toile,bathe,grate,stake,stave
+toile,bathe,caste,paste,waste
+163 [1;33mt[0mo[0mi[0ml[1;32me[0m  23   282 Some((61, 4, "bathe")) ["abate", "acute", "agate", "baste", "bathe", "brute", "butte", "caste", "chute", "crate", "etude", "grate", "haste", "haute", "paste", "saute", "skate", "stage", "stake", "stare", "state", "stave", "waste"]
+toile,molar,colon
+toile,molar,color
+toile,molar,coral
+toile,molar,local,focal
+toile,molar,loamy
+toile,molar,boils,lobby
+toile,molar,local
+toile,molar,boils,locus
+toile,molar,boils,loopy
+toile,molar,lorry
+toile,molar,boils,lousy
+toile,molar,local,loyal
+toile,molar,modal
+toile,molar,mogul
+toile,molar
+toile,molar,moldy
+toile,molar,moral
+toile,molar,polar
+toile,molar,polka
+toile,molar,colon,polyp
+toile,molar,coral,royal
+toile,molar,polar,solar
+toile,molar,local,focal,vocal
+toile,molar,local,zonal
+ 33 [0mt[1;32mo[0mi[1;33ml[0me[0m  24   470 Some((59, 4, "molar")) ["colon", "color", "coral", "focal", "loamy", "lobby", "local", "locus", "loopy", "lorry", "lousy", "loyal", "modal", "mogul", "molar", "moldy", "moral", "polar", "polka", "polyp", "royal", "solar", "vocal", "zonal"]
+toile,oncer,cameo
+toile,oncer,credo
+toile,oncer,decor
+toile,oncer,decoy
+toile,oncer,demon
+toile,oncer,demon,ebony
+toile,oncer,enjoy,endow
+toile,oncer,enjoy
+toile,oncer,enjoy,envoy
+toile,oncer,epoch
+toile,oncer,epoxy
+toile,oncer,error
+toile,oncer,decoy,gecko
+toile,oncer,heron
+toile,oncer,oaken
+toile,oncer,ocean
+toile,oncer,odder
+toile,oncer,odder,offer
+toile,oncer,omega
+toile,oncer,opera
+toile,oncer,odder,order
+toile,oncer,owner
+toile,oncer,demon,venom
+toile,oncer,verso
+ 84 [0mt[1;33mo[0mi[0ml[1;33me[0m  24  1217 Some((55, 3, "oncer")) ["cameo", "credo", "decor", "decoy", "demon", "ebony", "endow", "enjoy", "envoy", "epoch", "epoxy", "error", "gecko", "heron", "oaken", "ocean", "odder", "offer", "omega", "opera", "order", "owner", "venom", "verso"]
+toile,pleat,alert
+toile,pleat,alter
+toile,pleat,betel
+toile,pleat,bleat
+toile,pleat,bleat,cleat
+toile,pleat,cleft
+toile,pleat,delta
+toile,pleat,eclat
+toile,pleat,cleft,elect
+toile,pleat,fetal
+toile,pleat,cleft,fleet
+toile,pleat,delta,later
+toile,pleat,leant
+toile,pleat,leapt
+toile,pleat,leant,least
+toile,pleat,betel,lefty
+toile,pleat,fetal,metal
+toile,pleat,petal
+toile,pleat
+toile,pleat,cleft,sleet
+toile,pleat,slept
+toile,pleat,steal
+toile,pleat,steel
+toile,pleat,leant,valet
+109 [1;33mt[0mo[0mi[1;33ml[1;33me[0m  24   194 Some((56, 3, "pleat")) ["alert", "alter", "betel", "bleat", "cleat", "cleft", "delta", "eclat", "elect", "fetal", "fleet", "later", "leant", "leapt", "least", "lefty", "metal", "petal", "pleat", "sleet", "slept", "steal", "steel", "valet"]
+toile,singe,binge
+toile,singe,dirge
+toile,singe,eerie
+toile,singe,piece,fibre
+toile,singe,genie
+toile,singe,binge,hinge
+toile,singe,image
+toile,singe,eerie,imbue
+toile,singe,inane
+toile,singe,issue
+toile,singe,dirge,midge
+toile,singe,mince
+toile,singe,niche
+toile,singe,niche,niece
+toile,singe,piece
+toile,singe,piece,pique
+toile,singe,piece,pique,pixie
+toile,singe,dirge,ridge
+toile,singe,rinse
+toile,singe,siege
+toile,singe,sieve
+toile,singe,since
+toile,singe
+toile,singe,mince,wince
+171 [0mt[0mo[1;33mi[0ml[1;32me[0m  24   406 Some((57, 4, "singe")) ["binge", "dirge", "eerie", "fibre", "genie", "hinge", "image", "imbue", "inane", "issue", "midge", "mince", "niche", "niece", "piece", "pique", "pixie", "ridge", "rinse", "siege", "sieve", "since", "singe", "wince"]
+toile,trust,thank,tabby
+toile,trust,thank,tacky
+toile,trust,thank,tabby,taffy
+toile,trust,thank,tangy
+toile,trust,tardy
+toile,trust,tasty
+toile,trust,tatty
+toile,trust,taunt
+toile,trust,thank,tawny
+toile,trust,thank
+toile,trust,thrum
+toile,trust,thumb
+toile,trust,thumb,thump
+toile,trust,track
+toile,trust,tract
+toile,trust,track,tramp
+toile,trust,trash
+toile,trust,truck
+toile,trust,truck,trump
+toile,trust,truck,trunk
+toile,trust,truss
+toile,trust
+toile,trust,truth
+toile,trust,tryst
+toile,trust,thank,twang
+  2 [1;32mt[0mo[0mi[0ml[0me[0m  25   815 Some((60, 4, "trust")) ["tabby", "tacky", "taffy", "tangy", "tardy", "tasty", "tatty", "taunt", "tawny", "thank", "thrum", "thumb", "thump", "track", "tract", "tramp", "trash", "truck", "trump", "trunk", "truss", "trust", "truth", "tryst", "twang"]
+toile,roost,forth,aorta
+toile,roost,boast
+toile,roost,boost
+toile,roost,booth
+toile,roost,booth,booty
+toile,roost,month,botch
+toile,roost,boast,coast
+toile,roost,count
+toile,roost,court
+toile,roost,count,donut
+toile,roost,count,doubt
+toile,roost,forth
+toile,roost,forth,forty
+toile,roost,boast,joust
+toile,roost,month
+toile,roost,motor
+toile,roost,motto
+toile,roost,count,mount
+toile,roost,month,mouth
+toile,roost,forth,north
+toile,roost,month,notch
+toile,roost,month,pouty
+toile,roost,roast
+toile,roost,robot
+toile,roost
+toile,roost,rotor
+toile,roost,sooth
+toile,roost,sooth,sooty
+toile,roost,south
+toile,roost,worst
+toile,roost,forth,north,worth
+toile,roost,month,youth
+  7 [1;33mt[1;32mo[0mi[0ml[0me[0m  32   436 Some((80, 4, "roost")) ["aorta", "boast", "boost", "booth", "booty", "botch", "coast", "count", "court", "donut", "doubt", "forth", "forty", "joust", "month", "motor", "motto", "mount", "mouth", "north", "notch", "pouty", "roast", "robot", "roost", "rotor", "sooth", "sooty", "south", "worst", "worth", "youth"]
+toile,cavil,anvil
+toile,cavil,avail
+toile,cavil,basil
+toile,cavil
+toile,cavil,civil
+toile,cavil,claim
+toile,cavil,filmy
+toile,cavil,final
+toile,cavil,frail,flail
+toile,cavil,plain,flair
+toile,cavil,fluid
+toile,cavil,frail
+toile,cavil,frail,grail
+toile,cavil,inlay
+toile,cavil,lilac
+toile,cavil,fluid,lipid
+toile,cavil,livid
+toile,cavil,lucid
+toile,cavil,fluid,lurid
+toile,cavil,lucid,lyric
+toile,cavil,filmy,milky
+toile,cavil,plain,plaid
+toile,cavil,plain
+toile,cavil,pupil
+toile,cavil,frail,quail
+toile,cavil,rival
+toile,cavil,filmy,silky
+toile,cavil,plain,slain
+toile,cavil,frail,quail,snail
+toile,cavil,valid
+toile,cavil,vigil
+toile,cavil,vinyl
+toile,cavil,viral
+ 36 [0mt[0mo[1;33mi[1;33ml[0me[0m  33   853 Some((78, 4, "cavil")) ["anvil", "avail", "basil", "cavil", "civil", "claim", "filmy", "final", "flail", "flair", "fluid", "frail", "grail", "inlay", "lilac", "lipid", "livid", "lucid", "lurid", "lyric", "milky", "plaid", "plain", "pupil", "quail", "rival", "silky", "slain", "snail", "valid", "vigil", "vinyl", "viral"]
+toile,dulls,amply
+toile,dulls,amply,apply
+toile,dulls,badly
+toile,dulls,bully
+toile,dulls,burly
+toile,dulls,caulk
+toile,dulls,amply,chalk
+toile,dulls,burly,curly
+toile,dulls,dally
+toile,dulls,dryly
+toile,dulls,dully
+toile,dulls,bully,fully
+toile,dulls,amply,gayly
+toile,dulls,bully,fully,gully
+toile,dulls,badly,madly
+toile,dulls,amply,manly
+toile,dulls,psalm
+toile,dulls,burly,qualm
+toile,dulls,rally
+toile,dulls,sadly
+toile,dulls,sally
+toile,dulls,sadly,scald
+toile,dulls,psalm,scalp
+toile,dulls,psalm,scaly
+toile,dulls,shall
+toile,dulls,psalm,shyly
+toile,dulls,skulk
+toile,dulls,skull
+toile,dulls,shall,slyly
+toile,dulls,shall,small
+toile,dulls,sully
+toile,dulls,surly
+toile,dulls,amply,wryly
+ 54 [0mt[0mo[0mi[1;32ml[0me[0m  33   771 Some((83, 4, "dulls")) ["amply", "apply", "badly", "bully", "burly", "caulk", "chalk", "curly", "dally", "dryly", "dully", "fully", "gayly", "gully", "madly", "manly", "psalm", "qualm", "rally", "sadly", "sally", "scald", "scalp", "scaly", "shall", "shyly", "skulk", "skull", "slyly", "small", "sully", "surly", "wryly"]
+toile,blare,algae
+toile,blare,blade
+toile,blare,blade,blame
+toile,blare
+toile,blare,blade,blame,blaze
+toile,blare,bulge
+toile,blare,delve
+toile,blare,flume,elude
+toile,blare,salve,false
+toile,blare,plage,flake
+toile,blare,plage,flake,flame
+toile,blare,flare
+toile,blare,flume,fluke
+toile,blare,flume
+toile,blare,plage,glade
+toile,blare,flare,glare
+toile,blare,plage,glade,glaze
+toile,blare,salve,halve
+toile,blare,salve,lance
+toile,blare,salve,lapse
+toile,blare,large
+toile,blare,lease
+toile,blare,lease,leave
+toile,blare,delve,ledge
+toile,blare,delve,lunge
+toile,blare,delve,melee
+toile,blare,plage,place
+toile,blare,plage,place,plane
+toile,blare,flume,plume
+toile,blare,delve,pulse
+toile,blare,salve
+toile,blare,plage,flake,slave
+toile,blare,salve,value
+toile,blare,salve,halve,valve
+189 [0mt[0mo[0mi[1;33ml[1;32me[0m  34   359 Some((97, 4, "blare")) ["algae", "blade", "blame", "blare", "blaze", "bulge", "delve", "elude", "false", "flake", "flame", "flare", "fluke", "flume", "glade", "glare", "glaze", "halve", "lance", "lapse", "large", "lease", "leave", "ledge", "lunge", "melee", "place", "plane", "plume", "pulse", "salve", "slave", "value", "valve"]
+ 87 [0mt[1;32mo[0mi[0ml[1;33me[0m  35   703 None ["boney", "boxer", "corer", "coven", "cover", "covey", "cower", "dopey", "dozen", "foyer", "goner", "gooey", "homer", "honey", "hover", "joker", "modem", "money", "mover", "mower", "nosey", "poesy", "poker", "poser", "power", "rodeo", "roger", "rover", "rower", "sober", "sower", "woken", "women", "wooer", "woven"]

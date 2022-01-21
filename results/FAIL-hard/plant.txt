@@ -1,0 +1,348 @@
+plant,alpha
+ 16 [1;33mp[1;32ml[1;33ma[0mn[0mt[0m   1    42 Some((1, 1, "alpha")) ["alpha"]
+plant,plead
+ 17 [1;32mp[1;32ml[1;33ma[0mn[0mt[0m   1    28 Some((1, 1, "plead")) ["plead"]
+plant,scalp
+ 22 [1;33mp[1;33ml[1;32ma[0mn[0mt[0m   1    47 Some((1, 1, "scalp")) ["scalp"]
+plant,spawn
+ 46 [1;33mp[0ml[1;32ma[1;33mn[0mt[0m   1    26 Some((1, 1, "spawn")) ["spawn"]
+plant,prawn
+ 47 [1;32mp[0ml[1;32ma[1;33mn[0mt[0m   1    15 Some((1, 1, "prawn")) ["prawn"]
+plant,slain
+ 51 [0mp[1;32ml[1;32ma[1;33mn[0mt[0m   1    34 Some((1, 1, "slain")) ["slain"]
+plant,plain
+ 53 [1;32mp[1;32ml[1;32ma[1;33mn[0mt[0m   1     5 Some((1, 1, "plain")) ["plain"]
+plant,lying
+ 57 [0mp[1;33ml[0ma[1;32mn[0mt[0m   1   102 Some((1, 1, "lying")) ["lying"]
+plant,plunk
+ 62 [1;32mp[1;32ml[0ma[1;32mn[0mt[0m   1    10 Some((1, 1, "plunk")) ["plunk"]
+plant,aping
+ 64 [1;33mp[0ml[1;33ma[1;32mn[0mt[0m   1    27 Some((1, 1, "aping")) ["aping"]
+plant,spank
+ 73 [1;33mp[0ml[1;32ma[1;32mn[0mt[0m   1    17 Some((1, 1, "spank")) ["spank"]
+plant,tulip
+ 85 [1;33mp[1;33ml[0ma[0mn[1;33mt[0m   1    42 Some((1, 1, "tulip")) ["tulip"]
+plant,aptly
+ 94 [1;33mp[1;33ml[1;33ma[0mn[1;33mt[0m   1    23 Some((1, 1, "aptly")) ["aptly"]
+plant,petal
+ 95 [1;32mp[1;33ml[1;33ma[0mn[1;33mt[0m   1    13 Some((1, 1, "petal")) ["petal"]
+plant,plate
+107 [1;32mp[1;32ml[1;32ma[0mn[1;33mt[0m   1     7 Some((1, 1, "plate")) ["plate"]
+plant,pinto
+110 [1;32mp[0ml[0ma[1;33mn[1;33mt[0m   1    25 Some((1, 1, "pinto")) ["pinto"]
+plant,until
+111 [0mp[1;33ml[0ma[1;33mn[1;33mt[0m   1    35 Some((1, 1, "until")) ["until"]
+plant,pilot
+167 [1;32mp[1;33ml[0ma[0mn[1;32mt[0m   1    10 Some((1, 1, "pilot")) ["pilot"]
+plant,slept
+169 [1;33mp[1;32ml[0ma[0mn[1;32mt[0m   1    12 Some((1, 1, "slept")) ["slept"]
+plant,splat
+175 [1;33mp[1;33ml[1;33ma[0mn[1;32mt[0m   1    11 Some((1, 1, "splat")) ["splat"]
+plant,pleat
+179 [1;32mp[1;32ml[1;33ma[0mn[1;32mt[0m   1     6 Some((1, 1, "pleat")) ["pleat"]
+plant,leapt
+184 [1;33mp[1;33ml[1;32ma[0mn[1;32mt[0m   1     7 Some((1, 1, "leapt")) ["leapt"]
+plant,blast
+186 [0mp[1;32ml[1;32ma[0mn[1;32mt[0m   1    14 Some((1, 1, "blast")) ["blast"]
+plant,plait
+188 [1;32mp[1;32ml[1;32ma[0mn[1;32mt[0m   1     4 Some((1, 1, "plait")) ["plait"]
+plant,angst
+198 [0mp[0ml[1;33ma[1;33mn[1;32mt[0m   1    52 Some((1, 1, "angst")) ["angst"]
+plant,enact
+207 [0mp[0ml[1;32ma[1;33mn[1;32mt[0m   1    21 Some((1, 1, "enact")) ["enact"]
+plant,spent
+217 [1;33mp[0ml[0ma[1;32mn[1;32mt[0m   1     8 Some((1, 1, "spent")) ["spent"]
+plant,paint
+227 [1;32mp[0ml[1;33ma[1;32mn[1;32mt[0m   1     2 Some((1, 1, "paint")) ["paint"]
+plant,leant
+237 [0mp[1;33ml[1;32ma[1;32mn[1;32mt[0m   1     4 Some((1, 1, "leant")) ["leant"]
+plant,slant
+240 [0mp[1;32ml[1;32ma[1;32mn[1;32mt[0m   1     3 Some((1, 1, "slant")) ["slant"]
+plant
+242 [1;32mp[1;32ml[1;32ma[1;32mn[1;32mt[0m   1     1 Some((1, 1, "plant")) ["plant"]
+plant,pearl
+plant,pearl,psalm
+ 23 [1;32mp[1;33ml[1;32ma[0mn[0mt[0m   2    26 Some((3, 2, "pearl")) ["pearl", "psalm"]
+plant,clamp
+plant,clamp,clasp
+ 25 [1;33mp[1;32ml[1;32ma[0mn[0mt[0m   2    32 Some((3, 2, "clamp")) ["clamp", "clasp"]
+plant,apnea
+plant,apnea,apron
+ 37 [1;33mp[0ml[1;33ma[1;33mn[0mt[0m   2   102 Some((3, 2, "apnea")) ["apnea", "apron"]
+plant,panel
+plant,panel,penal
+ 41 [1;32mp[1;33ml[1;33ma[1;33mn[0mt[0m   2     8 Some((3, 2, "panel")) ["panel", "penal"]
+plant,alone
+plant,alone,along
+ 69 [0mp[1;32ml[1;33ma[1;32mn[0mt[0m   2    32 Some((3, 2, "alone")) ["alone", "along"]
+plant,piano
+plant,piano,prank
+ 74 [1;32mp[0ml[1;32ma[1;32mn[0mt[0m   2    13 Some((3, 2, "piano")) ["piano", "prank"]
+plant,plane
+plant,plane,plank
+ 80 [1;32mp[1;32ml[1;32ma[1;32mn[0mt[0m   2     4 Some((3, 2, "plane")) ["plane", "plank"]
+plant,stamp
+plant,stamp,tramp
+100 [1;33mp[0ml[1;32ma[0mn[1;33mt[0m   2    41 Some((3, 2, "stamp")) ["stamp", "tramp"]
+plant,elate
+plant,elate,slate
+105 [0mp[1;32ml[1;32ma[0mn[1;33mt[0m   2    26 Some((3, 2, "elate")) ["elate", "slate"]
+plant,stain
+plant,stain,train
+126 [0mp[0ml[1;32ma[1;33mn[1;33mt[0m   2    50 Some((3, 2, "stain")) ["stain", "train"]
+plant,atone
+plant,atone,tawny
+144 [0mp[0ml[1;33ma[1;32mn[1;33mt[0m   2    67 Some((3, 2, "atone")) ["atone", "tawny"]
+plant,pivot
+plant,pivot,posit
+164 [1;32mp[0ml[0ma[0mn[1;32mt[0m   2    35 Some((3, 2, "pivot")) ["pivot", "posit"]
+plant,adapt
+plant,adapt,apart
+181 [1;33mp[0ml[1;32ma[0mn[1;32mt[0m   2    22 Some((3, 2, "adapt")) ["adapt", "apart"]
+plant,inept
+plant,inept,input
+190 [1;33mp[0ml[0ma[1;33mn[1;32mt[0m   2    15 Some((3, 2, "inept")) ["inept", "input"]
+plant,point
+plant,point,print
+218 [1;32mp[0ml[0ma[1;32mn[1;32mt[0m   2     7 Some((3, 2, "point")) ["point", "print"]
+plant,peace
+plant,peace,peach
+plant,peace,phase
+ 20 [1;32mp[0ml[1;32ma[0mn[0mt[0m   3    71 Some((5, 2, "peace")) ["peace", "peach", "phase"]
+plant,place
+plant,place,plaid
+plant,place,plaid,plaza
+ 26 [1;32mp[1;32ml[1;32ma[0mn[0mt[0m   3    22 Some((6, 3, "place")) ["place", "plaid", "plaza"]
+plant,learn
+plant,learn,snail
+plant,learn,snarl
+ 48 [0mp[1;33ml[1;32ma[1;33mn[0mt[0m   3    48 Some((5, 2, "learn")) ["learn", "snail", "snarl"]
+plant,altar
+plant,altar,alter
+plant,altar,ultra
+ 96 [0mp[1;32ml[1;33ma[0mn[1;33mt[0m   3    44 Some((5, 2, "altar")) ["altar", "alter", "ultra"]
+plant,natal
+plant,natal,talon
+plant,natal,tonal
+120 [0mp[1;33ml[1;33ma[1;33mn[1;33mt[0m   3    12 Some((5, 2, "natal")) ["natal", "talon", "tonal"]
+plant,spelt
+plant,spelt,spilt
+plant,spelt,split
+166 [1;33mp[1;33ml[0ma[0mn[1;32mt[0m   3    22 Some((5, 2, "spelt")) ["spelt", "spilt", "split"]
+plant,adept
+plant,adept,adopt
+plant,adept,caput
+172 [1;33mp[0ml[1;33ma[0mn[1;32mt[0m   3    39 Some((5, 2, "adept")) ["adept", "adopt", "caput"]
+plant,inlet
+plant,inlet,knelt
+plant,inlet,unlit
+192 [0mp[1;33ml[0ma[1;33mn[1;32mt[0m   3    19 Some((5, 2, "inlet")) ["inlet", "knelt", "unlit"]
+plant,flint,blunt
+plant,flint
+plant,flint,glint
+222 [0mp[1;32ml[0ma[1;32mn[1;32mt[0m   3    11 Some((5, 2, "flint")) ["blunt", "flint", "glint"]
+plant,panic,pagan
+plant,panic
+plant,panic,pansy
+plant,panic,pecan
+ 38 [1;32mp[0ml[1;33ma[1;33mn[0mt[0m   4    61 Some((7, 2, "panic")) ["pagan", "panic", "pansy", "pecan"]
+plant,align,alien
+plant,align
+plant,align,clean
+plant,align,glean
+ 42 [0mp[1;32ml[1;33ma[1;33mn[0mt[0m   4    51 Some((7, 2, "align")) ["alien", "align", "clean", "glean"]
+plant,taper,strap
+plant,taper
+plant,taper,tapir
+plant,taper,topaz
+ 91 [1;33mp[0ml[1;33ma[0mn[1;33mt[0m   4   126 Some((7, 2, "taper")) ["strap", "taper", "tapir", "topaz"]
+plant,stank,stand
+plant,stank
+plant,stank,thank
+plant,stank,twang
+153 [0mp[0ml[1;32ma[1;32mn[1;33mt[0m   4    35 Some((7, 2, "stank")) ["stand", "stank", "thank", "twang"]
+plant,dealt
+plant,dealt,exalt
+plant,dealt,least
+plant,dealt,shalt
+183 [0mp[1;33ml[1;32ma[0mn[1;32mt[0m   4    25 Some((7, 2, "dealt")) ["dealt", "exalt", "least", "shalt"]
+plant,blown
+plant,blown,clown
+plant,blown,elfin
+plant,blown,clown,flown
+plant,blown,olden
+ 33 [0mp[1;32ml[0ma[1;33mn[0mt[0m   5   105 Some((10, 3, "blown")) ["blown", "clown", "elfin", "flown", "olden"]
+plant,opine
+plant,opine,spend
+plant,opine,spine
+plant,opine,spiny
+plant,opine,spunk
+ 55 [1;33mp[0ml[0ma[1;32mn[0mt[0m   5    83 Some((9, 2, "opine")) ["opine", "spend", "spine", "spiny", "spunk"]
+plant,elite,blitz
+plant,elite,cloth
+plant,elite
+plant,elite,flute
+plant,elite,cloth,sloth
+ 87 [0mp[1;32ml[0ma[0mn[1;33mt[0m   5   112 Some((10, 3, "elite")) ["blitz", "cloth", "elite", "flute", "sloth"]
+plant,fault,adult
+plant,fault,eclat
+plant,fault
+plant,fault,valet
+plant,fault,vault
+174 [0mp[1;33ml[1;33ma[0mn[1;32mt[0m   5    58 Some((9, 2, "fault")) ["adult", "eclat", "fault", "valet", "vault"]
+plant,chant
+plant,chant,giant
+plant,chant,giant,grant
+plant,chant,giant,meant
+plant,chant,scant
+234 [0mp[0ml[1;32ma[1;32mn[1;32mt[0m   5    18 Some((11, 3, "chant")) ["chant", "giant", "grant", "meant", "scant"]
+plant,piney,pence
+plant,piney,pinch
+plant,piney
+plant,piney,pinky
+plant,piney,preen
+plant,piney,punch
+ 29 [1;32mp[0ml[0ma[1;33mn[0mt[0m   6   171 Some((11, 2, "piney")) ["pence", "pinch", "piney", "pinky", "preen", "punch"]
+plant,stall,loath
+plant,stall,stale
+plant,stall,stale,stalk
+plant,stall
+plant,stall,trail
+plant,stall,trail,trawl
+102 [0mp[1;33ml[1;32ma[0mn[1;33mt[0m   6    49 Some((13, 3, "stall")) ["loath", "stale", "stalk", "stall", "trail", "trawl"]
+plant,pupil,peril
+plant,pupil,pixel
+plant,pupil,polyp
+plant,pupil,prowl
+plant,pupil,pulpy
+plant,pupil,pulse
+plant,pupil
+  5 [1;32mp[1;33ml[0ma[0mn[0mt[0m   7   200 Some((13, 2, "pupil")) ["peril", "pixel", "polyp", "prowl", "pulpy", "pulse", "pupil"]
+plant,plumb,plied
+plant,plumb,plied,plier
+plant,plumb,pluck
+plant,plumb
+plant,plumb,plume
+plant,plumb,plume,plump
+plant,plumb,pluck,plush
+  8 [1;32mp[1;32ml[0ma[0mn[0mt[0m   7    64 Some((16, 3, "plumb")) ["plied", "plier", "pluck", "plumb", "plume", "plump", "plush"]
+plant,paler
+plant,paler,palsy
+plant,paler,papal
+plant,paler,pedal
+plant,paler,polar
+plant,paler,polka
+plant,paler,pupal
+ 14 [1;32mp[1;33ml[1;33ma[0mn[0mt[0m   7    95 Some((13, 2, "paler")) ["paler", "palsy", "papal", "pedal", "polar", "polka", "pupal"]
+plant,inspo,nymph
+plant,inspo,ripen
+plant,inspo,snipe
+plant,inspo,snoop
+plant,inspo,spoon
+plant,inspo,spurn
+plant,inspo,unzip
+ 28 [1;33mp[0ml[0ma[1;33mn[0mt[0m   7   265 Some((14, 2, "inspo")) ["nymph", "ripen", "snipe", "snoop", "spoon", "spurn", "unzip"]
+plant,clang,bland
+plant,clang,bland,blank
+plant,clang
+plant,clang,clank
+plant,clang,bland,flank
+plant,clang,gland
+plant,clang,slang
+ 78 [0mp[1;32ml[1;32ma[1;32mn[0mt[0m   7    28 Some((15, 3, "clang")) ["bland", "blank", "clang", "clank", "flank", "gland", "slang"]
+plant,ample
+plant,ample,amply
+plant,ample,apple
+plant,ample,apply
+plant,ample,lapel
+plant,ample,lapse
+plant,ample,maple
+plant,ample,ralph
+ 13 [1;33mp[1;33ml[1;33ma[0mn[0mt[0m   8   172 Some((15, 2, "ample")) ["ample", "amply", "apple", "apply", "lapel", "lapse", "maple", "ralph"]
+plant,prone,penne
+plant,prone,penny
+plant,prone,phone
+plant,prone,phony
+plant,prone,pound
+plant,prone
+plant,prone,prong
+plant,prone,prune
+ 56 [1;32mp[0ml[0ma[1;32mn[0mt[0m   8    66 Some((15, 2, "prone")) ["penne", "penny", "phone", "phony", "pound", "prone", "prong", "prune"]
+plant,crank,brand
+plant,crank,crane
+plant,crank
+plant,crank,drank
+plant,crank,drank,frank
+plant,crank,brand,grand
+plant,crank,inane
+plant,crank,shank
+ 72 [0mp[0ml[1;32ma[1;32mn[0mt[0m   8   154 Some((17, 3, "crank")) ["brand", "crane", "crank", "drank", "frank", "grand", "inane", "shank"]
+plant,petty,pesto
+plant,petty
+plant,petty,photo
+plant,petty,piety
+plant,petty,pitch
+plant,petty,pithy
+plant,petty,pouty
+plant,petty,putty
+ 83 [1;32mp[0ml[0ma[0mn[1;33mt[0m   8   139 Some((15, 2, "petty")) ["pesto", "petty", "photo", "piety", "pitch", "pithy", "pouty", "putty"]
+plant,patsy,party
+plant,patsy,pasta
+plant,patsy,pasta,paste
+plant,patsy,pasty
+plant,patsy,patch
+plant,patsy,patch,patio
+plant,patsy
+plant,patsy,patty
+ 92 [1;32mp[0ml[1;33ma[0mn[1;33mt[0m   8    55 Some((17, 3, "patsy")) ["party", "pasta", "paste", "pasty", "patch", "patio", "patsy", "patty"]
+plant,cleft,blurt
+plant,cleft
+plant,cleft,clout
+plant,cleft,elect
+plant,cleft,fleet
+plant,cleft,flirt
+plant,cleft,flirt,flout
+plant,cleft,sleet
+168 [0mp[1;32ml[0ma[0mn[1;32mt[0m   8    62 Some((16, 3, "cleft")) ["blurt", "cleft", "clout", "elect", "fleet", "flirt", "flout", "sleet"]
+plant,bloat,alert
+plant,bloat,allot
+plant,bloat,aloft
+plant,bloat,bleat
+plant,bloat
+plant,bloat,cleat
+plant,bloat,float
+plant,bloat,float,gloat
+177 [0mp[1;32ml[1;33ma[0mn[1;32mt[0m   8    26 Some((16, 3, "bloat")) ["alert", "allot", "aloft", "bleat", "bloat", "cleat", "float", "gloat"]
+plant,erupt,crept
+plant,erupt,crypt
+plant,erupt,depot
+plant,erupt
+plant,erupt,sport
+plant,erupt,spout
+plant,erupt,spurt
+plant,erupt,swept
+plant,erupt,upset
+163 [1;33mp[0ml[0ma[0mn[1;32mt[0m   9   108 Some((17, 2, "erupt")) ["crept", "crypt", "depot", "erupt", "sport", "spout", "spurt", "swept", "upset"]
+plant,slope,bleep
+plant,slope,blimp
+plant,slope,blimp,clump
+plant,slope,elope
+plant,slope,glyph
+plant,slope,sleep
+plant,slope,sloop
+plant,slope
+plant,slope,slump
+plant,slope,slump,slurp
+  7 [1;33mp[1;32ml[0ma[0mn[0mt[0m  10   118 Some((21, 3, "slope")) ["bleep", "blimp", "clump", "elope", "glyph", "sleep", "sloop", "slope", "slump", "slurp"]
+plant,parer,paddy
+plant,parer,paper
+plant,parer
+plant,parer,parka
+plant,parer,parry
+plant,parer,parse
+plant,parer,pause
+plant,parer,payee
+plant,parer,paper,payer
+plant,parer,pizza
+ 11 [1;32mp[0ml[1;33ma[0mn[0mt[0m  10   331 Some((20, 3, "parer")) ["paddy", "paper", "parer", "parka", "parry", "parse", "pause", "payee", "payer", "pizza"]
+225 [0mp[0ml[1;33ma[1;32mn[1;32mt[0m  10    41 None ["agent", "daunt", "faint", "gaunt", "haunt", "jaunt", "saint", "taint", "taunt", "vaunt"]

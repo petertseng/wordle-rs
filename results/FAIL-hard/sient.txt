@@ -1,0 +1,599 @@
+sient,ideal
+ 21 [0ms[1;33mi[1;32me[0mn[0mt[0m   1   103 Some((1, 1, "ideal")) ["ideal"]
+sient,sheik
+ 23 [1;32ms[1;33mi[1;32me[0mn[0mt[0m   1    16 Some((1, 1, "sheik")) ["sheik"]
+sient,niece
+ 51 [0ms[1;32mi[1;32me[1;33mn[0mt[0m   1    11 Some((1, 1, "niece")) ["niece"]
+sient,using
+ 58 [1;33ms[1;33mi[0me[1;32mn[0mt[0m   1    90 Some((1, 1, "using")) ["using"]
+sient,fiend
+ 78 [0ms[1;32mi[1;32me[1;32mn[0mt[0m   1     8 Some((1, 1, "fiend")) ["fiend"]
+sient,these
+100 [1;33ms[0mi[1;32me[0mn[1;33mt[0m   1   121 Some((1, 1, "these")) ["these"]
+sient,their
+102 [0ms[1;33mi[1;32me[0mn[1;33mt[0m   1    22 Some((1, 1, "their")) ["their"]
+sient,piety
+105 [0ms[1;32mi[1;32me[0mn[1;33mt[0m   1    10 Some((1, 1, "piety")) ["piety"]
+sient,nasty
+109 [1;33ms[0mi[0me[1;33mn[1;33mt[0m   1   181 Some((1, 1, "nasty")) ["nasty"]
+sient,tense
+118 [1;33ms[0mi[1;33me[1;33mn[1;33mt[0m   1    59 Some((1, 1, "tense")) ["tense"]
+sient,stern
+128 [1;32ms[0mi[1;32me[1;33mn[1;33mt[0m   1    13 Some((1, 1, "stern")) ["stern"]
+sient,stein
+131 [1;32ms[1;33mi[1;32me[1;33mn[1;33mt[0m   1     2 Some((1, 1, "stein")) ["stein"]
+sient,atone
+144 [0ms[0mi[1;33me[1;32mn[1;33mt[0m   1    56 Some((1, 1, "atone")) ["atone"]
+sient,stone
+146 [1;32ms[0mi[1;33me[1;32mn[1;33mt[0m   1    11 Some((1, 1, "stone")) ["stone"]
+sient,twine
+147 [0ms[1;33mi[1;33me[1;32mn[1;33mt[0m   1    11 Some((1, 1, "twine")) ["twine"]
+sient,trend
+153 [0ms[0mi[1;32me[1;32mn[1;33mt[0m   1    32 Some((1, 1, "trend")) ["trend"]
+sient,sight
+170 [1;32ms[1;32mi[0me[0mn[1;32mt[0m   1     3 Some((1, 1, "sight")) ["sight"]
+sient,angst
+190 [1;33ms[0mi[0me[1;33mn[1;32mt[0m   1    27 Some((1, 1, "angst")) ["angst"]
+sient,night
+195 [0ms[1;32mi[0me[1;33mn[1;32mt[0m   1    12 Some((1, 1, "night")) ["night"]
+sient,inlet
+201 [0ms[1;33mi[1;33me[1;33mn[1;32mt[0m   1    13 Some((1, 1, "inlet")) ["inlet"]
+sient,knelt
+207 [0ms[0mi[1;32me[1;33mn[1;32mt[0m   1    24 Some((1, 1, "knelt")) ["knelt"]
+sient,giant
+222 [0ms[1;32mi[0me[1;32mn[1;32mt[0m   1     6 Some((1, 1, "giant")) ["giant"]
+sient,siege
+sient,siege,sieve
+ 26 [1;32ms[1;32mi[1;32me[0mn[0mt[0m   2     7 Some((3, 2, "siege")) ["siege", "sieve"]
+sient,basin
+sient,basin,noisy
+ 31 [1;33ms[1;33mi[0me[1;33mn[0mt[0m   2   283 Some((3, 2, "basin")) ["basin", "noisy"]
+sient,bison
+sient,bison,minus
+ 34 [1;33ms[1;32mi[0me[1;33mn[0mt[0m   2   132 Some((3, 2, "bison")) ["bison", "minus"]
+sient,noise
+sient,noise,resin
+ 40 [1;33ms[1;33mi[1;33me[1;33mn[0mt[0m   2    74 Some((3, 2, "noise")) ["noise", "resin"]
+sient,snide
+sient,snide,snipe
+ 41 [1;32ms[1;33mi[1;33me[1;33mn[0mt[0m   2    26 Some((3, 2, "snide")) ["snide", "snipe"]
+sient,rinse
+sient,rinse,risen
+ 43 [1;33ms[1;32mi[1;33me[1;33mn[0mt[0m   2    35 Some((3, 2, "rinse")) ["rinse", "risen"]
+sient,ninny
+sient,ninny,piano
+ 60 [0ms[1;32mi[0me[1;32mn[0mt[0m   2    58 Some((3, 2, "ninny")) ["ninny", "piano"]
+sient,scone
+sient,scone,shone
+ 65 [1;32ms[0mi[1;33me[1;32mn[0mt[0m   2    36 Some((3, 2, "scone")) ["scone", "shone"]
+sient,scene
+sient,scene,spend
+ 74 [1;32ms[0mi[1;32me[1;32mn[0mt[0m   2    18 Some((3, 2, "scene")) ["scene", "spend"]
+sient,tipsy
+sient,tipsy,vista
+ 88 [1;33ms[1;32mi[0me[0mn[1;33mt[0m   2   128 Some((3, 2, "tipsy")) ["tipsy", "vista"]
+sient,sixth
+sient,sixth,sixty
+ 89 [1;32ms[1;32mi[0me[0mn[1;33mt[0m   2    19 Some((3, 2, "sixth")) ["sixth", "sixty"]
+sient,satin
+sient,satin,stain
+113 [1;32ms[1;33mi[0me[1;33mn[1;33mt[0m   2    14 Some((3, 2, "satin")) ["satin", "stain"]
+sient,sting
+sient,sting,stink
+140 [1;32ms[1;33mi[0me[1;32mn[1;33mt[0m   2     7 Some((3, 2, "sting")) ["sting", "stink"]
+sient,donut
+sient,donut,uncut
+189 [0ms[0mi[0me[1;33mn[1;32mt[0m   2   148 Some((3, 2, "donut")) ["donut", "uncut"]
+sient,snort
+sient,snort,snout
+191 [1;32ms[0mi[0me[1;33mn[1;32mt[0m   2    20 Some((3, 2, "snort")) ["snort", "snout"]
+sient,onset
+sient,onset,unset
+199 [1;33ms[0mi[1;33me[1;33mn[1;32mt[0m   2    10 Some((3, 2, "onset")) ["onset", "unset"]
+sient,inept
+sient,inept,inert
+210 [0ms[1;33mi[1;32me[1;33mn[1;32mt[0m   2     5 Some((3, 2, "inept")) ["inept", "inert"]
+sient,saint
+sient,saint,stint
+221 [1;32ms[1;33mi[0me[1;32mn[1;32mt[0m   2     5 Some((3, 2, "saint")) ["saint", "stint"]
+sient,leant
+sient,leant,meant
+225 [0ms[0mi[1;33me[1;32mn[1;32mt[0m   2    28 Some((3, 2, "leant")) ["leant", "meant"]
+sient,agent
+sient,agent,event
+234 [0ms[0mi[1;32me[1;32mn[1;32mt[0m   2    21 Some((3, 2, "agent")) ["agent", "event"]
+sient,scent
+sient,scent,spent
+236 [1;32ms[0mi[1;32me[1;32mn[1;32mt[0m   2     6 Some((3, 2, "scent")) ["scent", "spent"]
+sient,sheen
+sient,sheen,sneak
+sient,sheen,sneer
+ 47 [1;32ms[0mi[1;32me[1;33mn[0mt[0m   3    39 Some((5, 2, "sheen")) ["sheen", "sneak", "sneer"]
+sient,shine
+sient,shine,spine
+sient,shine,spine,swine
+ 68 [1;32ms[1;33mi[1;33me[1;32mn[0mt[0m   3     8 Some((6, 3, "shine")) ["shine", "spine", "swine"]
+sient,smite
+sient,smite,spite
+sient,smite,spite,suite
+ 95 [1;32ms[1;33mi[1;33me[0mn[1;33mt[0m   3    22 Some((6, 3, "smite")) ["smite", "spite", "suite"]
+sient,inter
+sient,inter,unite
+sient,inter,untie
+120 [0ms[1;33mi[1;33me[1;33mn[1;33mt[0m   3    36 Some((5, 2, "inter")) ["inter", "unite", "untie"]
+sient,thing
+sient,thing,think
+sient,thing,tying
+138 [0ms[1;33mi[0me[1;32mn[1;33mt[0m   3    51 Some((5, 2, "thing")) ["thing", "think", "tying"]
+sient,first
+sient,first,midst
+sient,first,visit
+169 [1;33ms[1;32mi[0me[0mn[1;32mt[0m   3    10 Some((5, 2, "first")) ["first", "midst", "visit"]
+sient,exist
+sient,exist,heist
+sient,exist,islet
+175 [1;33ms[1;33mi[1;33me[0mn[1;32mt[0m   3    13 Some((5, 2, "exist")) ["exist", "heist", "islet"]
+sient,filet,eight
+sient,filet
+sient,filet,rivet
+177 [0ms[1;32mi[1;33me[0mn[1;32mt[0m   3    12 Some((5, 2, "filet")) ["eight", "filet", "rivet"]
+sient,enact
+sient,enact,tenet
+sient,enact,unmet
+198 [0ms[0mi[1;33me[1;33mn[1;32mt[0m   3    53 Some((5, 2, "enact")) ["enact", "tenet", "unmet"]
+sient,silky,sigma
+sient,silky
+sient,silky,silly
+sient,silky,sissy
+  8 [1;32ms[1;32mi[0me[0mn[0mt[0m   4   101 Some((7, 2, "silky")) ["sigma", "silky", "silly", "sissy"]
+sient,riems,aisle
+sient,riems,miser
+sient,riems,riser
+sient,riems,wiser
+ 16 [1;33ms[1;32mi[1;33me[0mn[0mt[0m   4   198 Some((8, 2, "riems")) ["aisle", "miser", "riser", "wiser"]
+sient,since
+sient,since,sinew
+sient,since,singe
+sient,since,siren
+ 44 [1;32ms[1;32mi[1;33me[1;33mn[0mt[0m   4     9 Some((7, 2, "since")) ["since", "sinew", "singe", "siren"]
+sient,amend
+sient,amend,arena
+sient,amend,blend
+sient,amend,hyena
+ 72 [0ms[0mi[1;32me[1;32mn[0mt[0m   4    86 Some((7, 2, "amend")) ["amend", "arena", "blend", "hyena"]
+sient,nifty,minty
+sient,nifty,ninth
+sient,nifty,pinto
+sient,nifty,titan
+114 [0ms[1;32mi[0me[1;33mn[1;33mt[0m   4    54 Some((8, 2, "nifty")) ["minty", "ninth", "pinto", "titan"]
+sient,unfit,ingot
+sient,unfit,input
+sient,unfit
+sient,unfit,unlit
+192 [0ms[1;33mi[0me[1;33mn[1;32mt[0m   4    56 Some((7, 2, "unfit")) ["ingot", "input", "unfit", "unlit"]
+sient,scant
+sient,scant,shunt
+sient,scant,slant
+sient,scant,shunt,stunt
+218 [1;32ms[0mi[0me[1;32mn[1;32mt[0m   4    15 Some((8, 3, "scant")) ["scant", "shunt", "slant", "stunt"]
+sient,scion
+sient,scion,slain
+sient,scion,snail
+sient,scion,sniff
+sient,scion,sonic
+ 32 [1;32ms[1;33mi[0me[1;33mn[0mt[0m   5    77 Some((9, 2, "scion")) ["scion", "slain", "snail", "sniff", "sonic"]
+sient,thank,tawny
+sient,thank
+sient,thank,thong
+sient,thank,trunk
+sient,thank,twang
+135 [0ms[0mi[0me[1;32mn[1;33mt[0m   5   171 Some((9, 2, "thank")) ["tawny", "thank", "thong", "trunk", "twang"]
+sient,stank,stand
+sient,stank
+sient,stank,stony
+sient,stank,stony,stung
+sient,stank,stunk
+137 [1;32ms[0mi[0me[1;32mn[1;33mt[0m   5    33 Some((10, 3, "stank")) ["stand", "stank", "stony", "stung", "stunk"]
+sient,crest,chest
+sient,crest
+sient,crest,guest
+sient,crest,guest,quest
+sient,crest,wrest
+181 [1;33ms[0mi[1;32me[0mn[1;32mt[0m   5    38 Some((10, 3, "crest")) ["chest", "crest", "guest", "quest", "wrest"]
+sient,aspie,arise
+sient,aspie,aside
+sient,aspie,guise
+sient,aspie,issue
+sient,aspie,poise
+sient,aspie,raise
+ 13 [1;33ms[1;33mi[1;33me[0mn[0mt[0m   6   427 Some((12, 2, "aspie")) ["arise", "aside", "guise", "issue", "poise", "raise"]
+sient,field
+sient,field,fiery
+sient,field,liege
+sient,field,piece
+sient,field,wield
+sient,field,wield,yield
+ 24 [0ms[1;32mi[1;32me[0mn[0mt[0m   6    57 Some((12, 3, "field")) ["field", "fiery", "liege", "piece", "wield", "yield"]
+sient,mason,arson
+sient,mason,bonus
+sient,mason,gnash
+sient,mason
+sient,mason,nasal
+sient,mason,pansy
+ 28 [1;33ms[0mi[0me[1;33mn[0mt[0m   6  1027 Some((11, 2, "mason")) ["arson", "bonus", "gnash", "mason", "nasal", "pansy"]
+sient,ensue,ashen
+sient,ensue,dense
+sient,ensue
+sient,ensue,noose
+sient,ensue,nosey
+sient,ensue,nurse
+ 37 [1;33ms[0mi[1;33me[1;33mn[0mt[0m   6   363 Some((11, 2, "ensue")) ["ashen", "dense", "ensue", "noose", "nosey", "nurse"]
+sient,sling,shiny
+sient,sling
+sient,sling,slink
+sient,sling,shiny,spiny
+sient,sling,suing
+sient,sling,suing,swing
+ 59 [1;32ms[1;33mi[0me[1;32mn[0mt[0m   6    30 Some((13, 3, "sling")) ["shiny", "sling", "slink", "spiny", "suing", "swing"]
+sient,lithe
+sient,lithe,tiger
+sient,lithe,tilde
+sient,lithe,tiger,timer
+sient,lithe,tithe
+sient,lithe,title
+ 96 [0ms[1;32mi[1;33me[0mn[1;33mt[0m   6    84 Some((12, 3, "lithe")) ["lithe", "tiger", "tilde", "timer", "tithe", "title"]
+sient,there,teeth
+sient,there,theme
+sient,there
+sient,there,theta
+sient,there,tread
+sient,there,tweak
+sient,there,tweed
+ 99 [0ms[0mi[1;32me[0mn[1;33mt[0m   7   228 Some((13, 2, "there")) ["teeth", "theme", "there", "theta", "tread", "tweak", "tweed"]
+sient,shift
+sient,shift,shirt
+sient,shift,spilt,skirt
+sient,shift,spilt
+sient,shift,split
+sient,shift,spilt,stilt
+sient,shift,swift
+167 [1;32ms[1;33mi[0me[0mn[1;32mt[0m   7    25 Some((15, 3, "shift")) ["shift", "shirt", "skirt", "spilt", "split", "stilt", "swift"]
+sient,snare,saner
+sient,snare,sedan
+sient,snare,semen
+sient,snare,sense
+sient,snare,semen,seven
+sient,snare,snake
+sient,snare
+sient,snare,snore
+ 38 [1;32ms[0mi[1;33me[1;33mn[0mt[0m   8   109 Some((16, 3, "snare")) ["saner", "sedan", "semen", "sense", "seven", "snake", "snare", "snore"]
+sient,stair,smith
+sient,stair,staid
+sient,stair
+sient,stair,stick
+sient,stair,stick,stiff
+sient,stair,stick,stiff,still
+sient,stair,stoic
+sient,stair,strip
+ 86 [1;32ms[1;33mi[0me[0mn[1;33mt[0m   8    99 Some((18, 4, "stair")) ["smith", "staid", "stair", "stick", "stiff", "still", "stoic", "strip"]
+sient,stead
+sient,stead,steak
+sient,stead,steak,steal
+sient,stead,steak,steal,steam
+sient,stead,steed
+sient,stead,steel
+sient,stead,steel,steep
+sient,stead,steel,steep,steer
+101 [1;32ms[0mi[1;32me[0mn[1;33mt[0m   8    60 Some((21, 4, "stead")) ["stead", "steak", "steal", "steam", "steed", "steel", "steep", "steer"]
+sient,tonic,antic
+sient,tonic,intro
+sient,tonic
+sient,tonic,toxin
+sient,tonic,train
+sient,tonic,tunic
+sient,tonic,unity
+sient,tonic,until
+111 [0ms[1;33mi[0me[1;33mn[1;33mt[0m   8   161 Some((15, 2, "tonic")) ["antic", "intro", "tonic", "toxin", "train", "tunic", "unity", "until"]
+sient,often,eaten
+sient,often,enter
+sient,often,entry
+sient,often
+sient,often,taken
+sient,often,tenor
+sient,often,tenth
+sient,often,token
+117 [0ms[0mi[1;33me[1;33mn[1;33mt[0m   8   193 Some((15, 2, "often")) ["eaten", "enter", "entry", "often", "taken", "tenor", "tenth", "token"]
+sient,swift,foist
+sient,swift,hoist
+sient,swift,hoist,joist
+sient,swift,hoist,joist,moist
+sient,swift,posit
+sient,swift,twist
+sient,swift,waist
+sient,swift,waist,wrist
+166 [1;33ms[1;33mi[0me[0mn[1;32mt[0m   8    70 Some((20, 4, "swift")) ["foist", "hoist", "joist", "moist", "posit", "twist", "waist", "wrist"]
+sient,beast,asset
+sient,beast
+sient,beast,beset
+sient,beast,feast
+sient,beast,feast,least
+sient,beast,reset
+sient,beast,upset
+sient,beast,feast,least,yeast
+172 [1;33ms[0mi[1;33me[0mn[1;32mt[0m   8    73 Some((18, 4, "beast")) ["asset", "beast", "beset", "feast", "least", "reset", "upset", "yeast"]
+sient,refit,befit
+sient,refit,debit
+sient,refit,edict
+sient,refit,edict,evict
+sient,refit,merit
+sient,refit,edict,quiet
+sient,refit
+sient,refit,remit
+174 [0ms[1;33mi[1;33me[0mn[1;32mt[0m   8    51 Some((17, 3, "refit")) ["befit", "debit", "edict", "evict", "merit", "quiet", "refit", "remit"]
+sient,slept,sheet
+sient,slept,sleet
+sient,slept
+sient,slept,smelt
+sient,slept,spelt
+sient,slept,sheet,sweat
+sient,slept,sheet,sweet
+sient,slept,swept
+182 [1;32ms[0mi[1;32me[0mn[1;32mt[0m   8    20 Some((17, 3, "slept")) ["sheet", "sleet", "slept", "smelt", "spelt", "sweat", "sweet", "swept"]
+sient,paint,faint
+sient,paint,flint
+sient,paint,flint,glint
+sient,paint,flint,joint
+sient,paint
+sient,paint,point
+sient,paint,point,print
+sient,paint,faint,taint
+219 [0ms[1;33mi[0me[1;32mn[1;32mt[0m   8    29 Some((19, 3, "paint")) ["faint", "flint", "glint", "joint", "paint", "point", "print", "taint"]
+sient,brine,being
+sient,brine
+sient,brine,eking
+sient,brine,eking,eying
+sient,brine,inane
+sient,brine,opine
+sient,brine,opine,ovine
+sient,brine,urine
+sient,brine,opine,whine
+ 66 [0ms[1;33mi[1;33me[1;32mn[0mt[0m   9    71 Some((20, 3, "brine")) ["being", "brine", "eking", "eying", "inane", "opine", "ovine", "urine", "whine"]
+sient,risps,disco
+sient,risps,ficus
+sient,risps,disco,fishy
+sient,risps,gipsy
+sient,risps,kiosk
+sient,risps,missy
+sient,risps,risky
+sient,risps,virus
+sient,risps,visor
+sient,risps,wispy
+  7 [1;33ms[1;32mi[0me[0mn[0mt[0m  10   614 Some((21, 3, "risps")) ["disco", "ficus", "fishy", "gipsy", "kiosk", "missy", "risky", "virus", "visor", "wispy"]
+sient,creps,bless
+sient,creps,chess
+sient,creps,cress
+sient,creps,dress
+sient,creps,geese,flesh
+sient,creps,fresh
+sient,creps,geese
+sient,creps,bless,guess
+sient,creps,geese,obese
+sient,creps,poesy
+sient,creps,press
+ 19 [1;33ms[0mi[1;32me[0mn[0mt[0m  11   469 Some((25, 3, "creps")) ["bless", "chess", "cress", "dress", "flesh", "fresh", "geese", "guess", "obese", "poesy", "press"]
+sient,slang,sauna
+sient,slang,shank
+sient,slang,skunk
+sient,slang
+sient,slang,slung
+sient,slang,slunk
+sient,slang,skunk,sound
+sient,slang,shank,spank
+sient,slang,skunk,spunk
+sient,slang,skunk,sunny
+sient,slang,swung
+ 56 [1;32ms[0mi[0me[1;32mn[0mt[0m  11   102 Some((25, 3, "slang")) ["sauna", "shank", "skunk", "slang", "slung", "slunk", "sound", "spank", "spunk", "sunny", "swung"]
+sient,limit,fight,bigot
+sient,limit,digit
+sient,limit,fight
+sient,limit,light
+sient,limit
+sient,limit,might
+sient,limit,pilot
+sient,limit,fight,pivot
+sient,limit,fight,right
+sient,limit,fight,right,tight
+sient,limit,fight,right,tight,wight
+168 [0ms[1;32mi[0me[0mn[1;32mt[0m  11    67 Some((29, 5, "limit")) ["bigot", "digit", "fight", "light", "limit", "might", "pilot", "pivot", "right", "tight", "wight"]
+sient,glean,clean
+sient,glean,enema
+sient,glean,enemy
+sient,glean
+sient,glean,green
+sient,glean,knead
+sient,glean,enemy,kneed
+sient,glean,kneel
+sient,glean,enemy,needy
+sient,glean,ocean
+sient,glean,preen
+sient,glean,preen,queen
+ 45 [0ms[0mi[1;32me[1;33mn[0mt[0m  12   165 Some((26, 3, "glean")) ["clean", "enema", "enemy", "glean", "green", "knead", "kneed", "kneel", "needy", "ocean", "preen", "queen"]
+sient,cribs,amiss
+sient,cribs,basic
+sient,cribs,basil
+sient,cribs,basis
+sient,cribs,bliss
+sient,cribs,brisk
+sient,cribs,crisp
+sient,cribs,daisy
+sient,cribs,frisk
+sient,cribs,music
+sient,cribs,frisk,prism
+sient,cribs,quasi
+sient,cribs,daisy,whisk
+  4 [1;33ms[1;33mi[0me[0mn[0mt[0m  13  1471 Some((28, 3, "cribs")) ["amiss", "basic", "basil", "basis", "bliss", "brisk", "crisp", "daisy", "frisk", "music", "prism", "quasi", "whisk"]
+sient,prone,alone
+sient,prone,borne
+sient,prone,alone,clone
+sient,prone,crane
+sient,prone,crone
+sient,prone,crone,drone
+sient,prone,ebony
+sient,prone,alone,ozone
+sient,prone,penne
+sient,prone,penny
+sient,prone,phone
+sient,prone,penne,plane
+sient,prone
+sient,prone,prune
+ 63 [0ms[0mi[1;33me[1;32mn[0mt[0m  14   263 Some((31, 3, "prone")) ["alone", "borne", "clone", "crane", "crone", "drone", "ebony", "ozone", "penne", "penny", "phone", "plane", "prone", "prune"]
+sient,slice,spire,seize
+sient,slice,sepia
+sient,slice,sepia,serif
+sient,slice,shied
+sient,slice,spire,shire
+sient,slice,shied,skier
+sient,slice
+sient,slice,slide
+sient,slice,slide,slime
+sient,slice,smile
+sient,slice,spice
+sient,slice,shied,spied
+sient,slice,spiel
+sient,slice,spire,spike
+sient,slice,spire
+ 14 [1;32ms[1;33mi[1;33me[0mn[0mt[0m  15   128 Some((36, 3, "slice")) ["seize", "sepia", "serif", "shied", "shire", "skier", "slice", "slide", "slime", "smile", "spice", "spied", "spiel", "spike", "spire"]
+sient,tepas,baste
+sient,tepas,baste,caste
+sient,tepas,ester
+sient,tepas,ethos
+sient,tepas,fetus
+sient,tepas,baste,caste,haste
+sient,tepas,paste
+sient,tepas,pesto
+sient,tepas,taste
+sient,tepas,tease
+sient,tepas,terse
+sient,tepas,terse,testy
+sient,tepas,those
+sient,tepas,baste,caste,haste,waste
+sient,tepas,zesty
+ 91 [1;33ms[0mi[1;33me[0mn[1;33mt[0m  15   486 Some((37, 5, "tepas")) ["baste", "caste", "ester", "ethos", "fetus", "haste", "paste", "pesto", "taste", "tease", "terse", "testy", "those", "waste", "zesty"]
+sient,tonga,aunty
+sient,tonga,baton
+sient,tonga,junta
+sient,tonga,junto
+sient,tonga,month
+sient,tonga,natal
+sient,tonga,north
+sient,tonga,north,notch
+sient,tonga,nutty
+sient,tonga,talon
+sient,tonga,tango
+sient,tonga,tangy
+sient,tonga,thorn
+sient,tonga,tonal
+sient,tonga
+108 [0ms[0mi[0me[1;33mn[1;33mt[0m  15   537 Some((30, 3, "tonga")) ["aunty", "baton", "junta", "junto", "month", "natal", "north", "notch", "nutty", "talon", "tango", "tangy", "thorn", "tonal", "tonga"]
+sient,spurt,scout
+sient,spurt,shaft
+sient,spurt,shaft,shalt
+sient,spurt,shaft,shoot
+sient,spurt,smart,short
+sient,spurt,scout,shout
+sient,spurt,smart
+sient,spurt,splat
+sient,spurt,sport
+sient,spurt,spout
+sient,spurt
+sient,spurt,squat
+sient,spurt,smart,start
+sient,spurt,scout,shout,stout
+sient,spurt,strut
+164 [1;32ms[0mi[0me[0mn[1;32mt[0m  15   104 Some((36, 4, "spurt")) ["scout", "shaft", "shalt", "shoot", "short", "shout", "smart", "splat", "sport", "spout", "spurt", "squat", "start", "stout", "strut"]
+sient,nicol,bingo
+sient,nicol,cinch
+sient,nicol,bingo,dingo
+sient,nicol,kinda,dingy
+sient,nicol,final
+sient,nicol,cinch,finch
+sient,nicol,kinda,kinky
+sient,nicol,lingo
+sient,nicol,kinda,minim
+sient,nicol,minor
+sient,nicol,ninja
+sient,nicol,cinch,finch,pinch
+sient,nicol,kinda,pinky
+sient,nicol,final,vinyl
+sient,nicol,cinch,finch,pinch,winch
+sient,nicol,kinda,windy
+ 33 [0ms[1;32mi[0me[1;33mn[0mt[0m  16   341 Some((45, 5, "nicol")) ["bingo", "cinch", "dingo", "dingy", "final", "finch", "kinky", "lingo", "minim", "minor", "ninja", "pinch", "pinky", "vinyl", "winch", "windy"]
+sient,feign,alien
+sient,feign,anime
+sient,feign,begin
+sient,feign,deign
+sient,feign,denim
+sient,feign,elfin
+sient,feign,ennui
+sient,feign
+sient,feign,genie
+sient,feign,ennui,index
+sient,feign,infer
+sient,feign,ennui,inner
+sient,feign,knife
+sient,feign,anime,naive
+sient,feign,neigh
+sient,feign,deign,reign
+ 39 [0ms[1;33mi[1;33me[1;33mn[0mt[0m  16   266 Some((35, 3, "feign")) ["alien", "anime", "begin", "deign", "denim", "elfin", "ennui", "feign", "genie", "index", "infer", "inner", "knife", "naive", "neigh", "reign"]
+sient,trash,artsy
+sient,trash,dolts,dusty
+sient,trash,dolts,gusto
+sient,trash,dolts,gusty
+sient,trash,hasty
+sient,trash,dolts,lusty
+sient,trash,dolts,gusty,musty
+sient,trash,pasta
+sient,trash,pasta,pasty
+sient,trash,patsy
+sient,trash,rusty
+sient,trash,tasty
+sient,trash,torso
+sient,trash,torus
+sient,trash
+sient,trash,truss
+ 82 [1;33ms[0mi[0me[0mn[1;33mt[0m  16  1367 Some((38, 4, "trash")) ["artsy", "dusty", "gusto", "gusty", "hasty", "lusty", "musty", "pasta", "pasty", "patsy", "rusty", "tasty", "torso", "torus", "trash", "truss"]
+sient,slate,saute
+sient,slate,setup
+sient,slate,skate
+sient,slate
+sient,slate,smote
+sient,slate,stage
+sient,slate,stage,stake
+sient,slate,stale
+sient,slate,stage,stake,stare
+sient,slate,skate,state
+sient,slate,stage,stake,stare,stave
+sient,slate,stoke
+sient,slate,stole
+sient,slate,stoke,store
+sient,slate,stoke,store,stove
+sient,slate,stole,style
+ 92 [1;32ms[0mi[1;33me[0mn[1;33mt[0m  16   135 Some((42, 5, "slate")) ["saute", "setup", "skate", "slate", "smote", "stage", "stake", "stale", "stare", "state", "stave", "stoke", "stole", "store", "stove", "style"]
+sient,crost,ascot
+sient,crost,blast
+sient,crost,boast
+sient,crost,boost
+sient,crost,burst
+sient,crost,coast
+sient,crost,crust
+sient,crost,frost
+sient,crost,boost,ghost
+sient,crost,boast,joust
+sient,crost,roast
+sient,crost,roost
+sient,crost,boast,toast
+sient,crost,trust
+sient,crost,trust,tryst
+sient,crost,roast,worst
+163 [1;33ms[0mi[0me[0mn[1;32mt[0m  16   239 Some((37, 3, "crost")) ["ascot", "blast", "boast", "boost", "burst", "coast", "crust", "frost", "ghost", "joust", "roast", "roost", "toast", "trust", "tryst", "worst"]
+216 [0ms[0mi[0me[1;32mn[1;32mt[0m  16    87 None ["blunt", "brunt", "burnt", "chant", "count", "daunt", "front", "gaunt", "grant", "grunt", "haunt", "jaunt", "mount", "plant", "taunt", "vaunt"]

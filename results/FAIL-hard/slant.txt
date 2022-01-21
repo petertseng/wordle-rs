@@ -1,0 +1,386 @@
+slant,nasal
+ 40 [1;33ms[1;33ml[1;33ma[1;33mn[0mt[0m   1    34 Some((1, 1, "nasal")) ["nasal"]
+slant,salon
+ 41 [1;32ms[1;33ml[1;33ma[1;33mn[0mt[0m   1    10 Some((1, 1, "salon")) ["salon"]
+slant,gnash
+ 46 [1;33ms[0ml[1;32ma[1;33mn[0mt[0m   1   106 Some((1, 1, "gnash")) ["gnash"]
+slant,learn
+ 48 [0ms[1;33ml[1;32ma[1;33mn[0mt[0m   1    48 Some((1, 1, "learn")) ["learn"]
+slant,plain
+ 51 [0ms[1;32ml[1;32ma[1;33mn[0mt[0m   1    34 Some((1, 1, "plain")) ["plain"]
+slant,slain
+ 53 [1;32ms[1;32ml[1;32ma[1;33mn[0mt[0m   1     5 Some((1, 1, "slain")) ["slain"]
+slant,using
+ 55 [1;33ms[0ml[0ma[1;32mn[0mt[0m   1   311 Some((1, 1, "using")) ["using"]
+slant,lying
+ 57 [0ms[1;33ml[0ma[1;32mn[0mt[0m   1   102 Some((1, 1, "lying")) ["lying"]
+slant,sauna
+ 65 [1;32ms[0ml[1;33ma[1;32mn[0mt[0m   1    34 Some((1, 1, "sauna")) ["sauna"]
+slant,slang
+ 80 [1;32ms[1;32ml[1;32ma[1;32mn[0mt[0m   1     4 Some((1, 1, "slang")) ["slang"]
+slant,lusty
+ 85 [1;33ms[1;33ml[0ma[0mn[1;33mt[0m   1   170 Some((1, 1, "lusty")) ["lusty"]
+slant,sloth
+ 89 [1;32ms[1;32ml[0ma[0mn[1;33mt[0m   1    14 Some((1, 1, "sloth")) ["sloth"]
+slant,slate
+107 [1;32ms[1;32ml[1;32ma[0mn[1;33mt[0m   1     5 Some((1, 1, "slate")) ["slate"]
+slant,tense
+109 [1;33ms[0ml[0ma[1;33mn[1;33mt[0m   1   181 Some((1, 1, "tense")) ["tense"]
+slant,until
+111 [0ms[1;33ml[0ma[1;33mn[1;33mt[0m   1    35 Some((1, 1, "until")) ["until"]
+slant,nasty
+118 [1;33ms[0ml[1;33ma[1;33mn[1;33mt[0m   1    54 Some((1, 1, "nasty")) ["nasty"]
+slant,satin
+119 [1;32ms[0ml[1;33ma[1;33mn[1;33mt[0m   1    16 Some((1, 1, "satin")) ["satin"]
+slant,train
+126 [0ms[0ml[1;32ma[1;33mn[1;33mt[0m   1    50 Some((1, 1, "train")) ["train"]
+slant,stain
+128 [1;32ms[0ml[1;32ma[1;33mn[1;33mt[0m   1    10 Some((1, 1, "stain")) ["stain"]
+slant,islet
+166 [1;33ms[1;33ml[0ma[0mn[1;32mt[0m   1    32 Some((1, 1, "islet")) ["islet"]
+slant,splat
+176 [1;32ms[1;33ml[1;33ma[0mn[1;32mt[0m   1    10 Some((1, 1, "splat")) ["splat"]
+slant,least
+184 [1;33ms[1;33ml[1;32ma[0mn[1;32mt[0m   1    10 Some((1, 1, "least")) ["least"]
+slant,shalt
+185 [1;32ms[1;33ml[1;32ma[0mn[1;32mt[0m   1     5 Some((1, 1, "shalt")) ["shalt"]
+slant,plait
+186 [0ms[1;32ml[1;32ma[0mn[1;32mt[0m   1    14 Some((1, 1, "plait")) ["plait"]
+slant,blast
+187 [1;33ms[1;32ml[1;32ma[0mn[1;32mt[0m   1     5 Some((1, 1, "blast")) ["blast"]
+slant,angst
+199 [1;33ms[0ml[1;33ma[1;33mn[1;32mt[0m   1     6 Some((1, 1, "angst")) ["angst"]
+slant,enact
+207 [0ms[0ml[1;32ma[1;33mn[1;32mt[0m   1    21 Some((1, 1, "enact")) ["enact"]
+slant,saint
+227 [1;32ms[0ml[1;33ma[1;32mn[1;32mt[0m   1     4 Some((1, 1, "saint")) ["saint"]
+slant,scant
+236 [1;32ms[0ml[1;32ma[1;32mn[1;32mt[0m   1     2 Some((1, 1, "scant")) ["scant"]
+slant,leant
+237 [0ms[1;33ml[1;32ma[1;32mn[1;32mt[0m   1     4 Some((1, 1, "leant")) ["leant"]
+slant,plant
+240 [0ms[1;32ml[1;32ma[1;32mn[1;32mt[0m   1     3 Some((1, 1, "plant")) ["plant"]
+slant
+242 [1;32ms[1;32ml[1;32ma[1;32mn[1;32mt[0m   1     1 Some((1, 1, "slant")) ["slant"]
+slant,snail
+slant,snail,snarl
+ 50 [1;32ms[1;33ml[1;32ma[1;33mn[0mt[0m   2     7 Some((3, 2, "snail")) ["snail", "snarl"]
+slant,alone
+slant,alone,along
+ 69 [0ms[1;32ml[1;33ma[1;32mn[0mt[0m   2    32 Some((3, 2, "alone")) ["alone", "along"]
+slant,shank
+slant,shank,spank
+ 74 [1;32ms[0ml[1;32ma[1;32mn[0mt[0m   2    23 Some((3, 2, "shank")) ["shank", "spank"]
+slant,salty
+slant,salty,steal
+ 95 [1;32ms[1;33ml[1;33ma[0mn[1;33mt[0m   2    22 Some((3, 2, "salty")) ["salty", "steal"]
+slant,tease
+slant,tease,trash
+100 [1;33ms[0ml[1;32ma[0mn[1;33mt[0m   2   153 Some((3, 2, "tease")) ["tease", "trash"]
+slant,elate
+slant,elate,plate
+105 [0ms[1;32ml[1;32ma[0mn[1;33mt[0m   2    26 Some((3, 2, "elate")) ["elate", "plate"]
+slant,stein
+slant,stein,stern
+110 [1;32ms[0ml[0ma[1;33mn[1;33mt[0m   2    59 Some((3, 2, "stein")) ["stein", "stern"]
+slant,atone
+slant,atone,tawny
+144 [0ms[0ml[1;33ma[1;32mn[1;33mt[0m   2    67 Some((3, 2, "atone")) ["atone", "tawny"]
+slant,thank
+slant,thank,twang
+153 [0ms[0ml[1;32ma[1;32mn[1;33mt[0m   2    35 Some((3, 2, "thank")) ["thank", "twang"]
+slant,stand
+slant,stand,stank
+155 [1;32ms[0ml[1;32ma[1;32mn[1;33mt[0m   2     6 Some((3, 2, "stand")) ["stand", "stank"]
+slant,sleet
+slant,sleet,slept
+170 [1;32ms[1;32ml[0ma[0mn[1;32mt[0m   2     7 Some((3, 2, "sleet")) ["sleet", "slept"]
+slant,squat
+slant,squat,sweat
+173 [1;32ms[0ml[1;33ma[0mn[1;32mt[0m   2    37 Some((3, 2, "squat")) ["squat", "sweat"]
+slant,onset
+slant,onset,unset
+190 [1;33ms[0ml[0ma[1;33mn[1;32mt[0m   2    27 Some((3, 2, "onset")) ["onset", "unset"]
+slant,snort
+slant,snort,snout
+191 [1;32ms[0ml[0ma[1;33mn[1;32mt[0m   2    20 Some((3, 2, "snort")) ["snort", "snout"]
+slant,lease
+slant,lease,leash
+slant,lease,psalm
+ 22 [1;33ms[1;33ml[1;32ma[0mn[0mt[0m   3   168 Some((5, 2, "lease")) ["lease", "leash", "psalm"]
+slant,slaes,slack
+slant,slaes,slash
+slant,slaes,slave
+ 26 [1;32ms[1;32ml[1;32ma[0mn[0mt[0m   3    22 Some((6, 2, "slaes")) ["slack", "slash", "slave"]
+slant,altar
+slant,altar,alter
+slant,altar,ultra
+ 96 [0ms[1;32ml[1;33ma[0mn[1;33mt[0m   3    44 Some((5, 2, "altar")) ["altar", "alter", "ultra"]
+slant,trail,loath
+slant,trail
+slant,trail,trawl
+102 [0ms[1;33ml[1;32ma[0mn[1;33mt[0m   3    49 Some((5, 2, "trail")) ["loath", "trail", "trawl"]
+slant,stale
+slant,stale,stalk
+slant,stale,stalk,stall
+104 [1;32ms[1;33ml[1;32ma[0mn[1;33mt[0m   3    11 Some((6, 3, "stale")) ["stale", "stalk", "stall"]
+slant,natal
+slant,natal,talon
+slant,natal,tonal
+120 [0ms[1;33ml[1;33ma[1;33mn[1;33mt[0m   3    12 Some((5, 2, "natal")) ["natal", "talon", "tonal"]
+slant,ascot
+slant,ascot,asset
+slant,ascot,waist
+172 [1;33ms[0ml[1;33ma[0mn[1;32mt[0m   3    76 Some((5, 2, "ascot")) ["ascot", "asset", "waist"]
+slant,smart,shaft
+slant,smart
+slant,smart,start
+182 [1;32ms[0ml[1;32ma[0mn[1;32mt[0m   3    18 Some((5, 2, "smart")) ["shaft", "smart", "start"]
+slant,dealt
+slant,dealt,exalt
+slant,dealt,leapt
+183 [0ms[1;33ml[1;32ma[0mn[1;32mt[0m   3    25 Some((5, 2, "dealt")) ["dealt", "exalt", "leapt"]
+slant,inlet
+slant,inlet,knelt
+slant,inlet,unlit
+192 [0ms[1;33ml[0ma[1;33mn[1;32mt[0m   3    19 Some((5, 2, "inlet")) ["inlet", "knelt", "unlit"]
+slant,flint,blunt
+slant,flint
+slant,flint,glint
+222 [0ms[1;32ml[0ma[1;32mn[1;32mt[0m   3    11 Some((5, 2, "flint")) ["blunt", "flint", "glint"]
+slant,align,alien
+slant,align
+slant,align,clean
+slant,align,glean
+ 42 [0ms[1;32ml[1;33ma[1;33mn[0mt[0m   4    51 Some((7, 2, "align")) ["alien", "align", "clean", "glean"]
+slant,sling
+slant,sling,slink
+slant,sling,slung
+slant,sling,slunk
+ 62 [1;32ms[1;32ml[0ma[1;32mn[0mt[0m   4     8 Some((7, 2, "sling")) ["sling", "slink", "slung", "slunk"]
+slant,elite,blitz
+slant,elite,cloth
+slant,elite
+slant,elite,flute
+ 87 [0ms[1;32ml[0ma[0mn[1;33mt[0m   4   112 Some((7, 2, "elite")) ["blitz", "cloth", "elite", "flute"]
+slant,giant,chant
+slant,giant
+slant,giant,grant
+slant,giant,chant,meant
+234 [0ms[0ml[1;32ma[1;32mn[1;32mt[0m   4    18 Some((8, 3, "giant")) ["chant", "giant", "grant", "meant"]
+slant,blown
+slant,blown,clown
+slant,blown,elfin
+slant,blown,clown,flown
+slant,blown,olden
+ 33 [0ms[1;32ml[0ma[1;33mn[0mt[0m   5   105 Some((10, 3, "blown")) ["blown", "clown", "elfin", "flown", "olden"]
+slant,arson
+slant,arson,ashen
+slant,arson,basin
+slant,arson,mason
+slant,arson,pansy
+ 37 [1;33ms[0ml[1;33ma[1;33mn[0mt[0m   5   359 Some((9, 2, "arson")) ["arson", "ashen", "basin", "mason", "pansy"]
+slant,sandy
+slant,sandy,saner
+slant,sandy,sedan
+slant,sandy,sneak
+slant,sandy,sonar
+ 38 [1;32ms[0ml[1;33ma[1;33mn[0mt[0m   5   103 Some((9, 2, "sandy")) ["sandy", "saner", "sedan", "sneak", "sonar"]
+slant,snake,snack
+slant,snake
+slant,snake,snaky
+slant,snake,snare
+slant,snake,spawn
+ 47 [1;32ms[0ml[1;32ma[1;33mn[0mt[0m   5    50 Some((9, 2, "snake")) ["snack", "snake", "snaky", "snare", "spawn"]
+slant,stole,steel
+slant,stole,still
+slant,stole
+slant,stole,stool
+slant,stole,style
+ 86 [1;32ms[1;33ml[0ma[0mn[1;33mt[0m   5    56 Some((9, 2, "stole")) ["steel", "still", "stole", "stool", "style"]
+slant,spelt,smelt
+slant,spelt
+slant,spelt,spilt
+slant,spelt,split
+slant,spelt,stilt
+167 [1;32ms[1;33ml[0ma[0mn[1;32mt[0m   5    22 Some((9, 2, "spelt")) ["smelt", "spelt", "spilt", "split", "stilt"]
+slant,fault,adult
+slant,fault,eclat
+slant,fault
+slant,fault,valet
+slant,fault,vault
+174 [0ms[1;33ml[1;33ma[0mn[1;32mt[0m   5    58 Some((9, 2, "fault")) ["adult", "eclat", "fault", "valet", "vault"]
+slant,stunt,scent
+slant,stunt,shunt
+slant,stunt,scent,spent
+slant,stunt,stint
+slant,stunt
+218 [1;32ms[0ml[0ma[1;32mn[1;32mt[0m   5    15 Some((10, 3, "stunt")) ["scent", "shunt", "spent", "stint", "stunt"]
+slant,claps,clash
+slant,claps,clasp
+slant,claps,class
+slant,claps,flash
+slant,claps,flash,flask
+slant,claps,glass
+ 25 [1;33ms[1;32ml[1;32ma[0mn[0mt[0m   6    76 Some((13, 3, "claps")) ["clash", "clasp", "class", "flash", "flask", "glass"]
+slant,sting
+slant,sting,stink
+slant,sting,stone
+slant,sting,stone,stony
+slant,sting,stung
+slant,sting,stone,stunk
+137 [1;32ms[0ml[0ma[1;32mn[1;33mt[0m   6    33 Some((13, 3, "sting")) ["sting", "stink", "stone", "stony", "stung", "stunk"]
+slant,thing
+slant,thing,think
+slant,thing,thong
+slant,thing,trend
+slant,thing,trend,trunk
+slant,thing,twine
+slant,thing,tying
+135 [0ms[0ml[0ma[1;32mn[1;33mt[0m   7   171 Some((14, 3, "thing")) ["thing", "think", "thong", "trend", "trunk", "twine", "tying"]
+slant,cleft,blurt
+slant,cleft
+slant,cleft,clout
+slant,cleft,elect
+slant,cleft,fleet
+slant,cleft,flirt
+slant,cleft,flirt,flout
+168 [0ms[1;32ml[0ma[0mn[1;32mt[0m   7    62 Some((14, 3, "cleft")) ["blurt", "cleft", "clout", "elect", "fleet", "flirt", "flout"]
+slant,beast
+slant,beast,boast
+slant,beast,coast
+slant,beast,feast
+slant,beast,coast,roast
+slant,beast,coast,roast,toast
+slant,beast,feast,yeast
+181 [1;33ms[0ml[1;32ma[0mn[1;32mt[0m   7    38 Some((17, 4, "beast")) ["beast", "boast", "coast", "feast", "roast", "toast", "yeast"]
+slant,loose,locus
+slant,loose
+slant,loose,loser
+slant,loose,louse
+slant,loose,lousy
+slant,loose,lupus
+slant,loose,pulse
+slant,loose,welsh
+  4 [1;33ms[1;33ml[0ma[0mn[0mt[0m   8  1237 Some((15, 2, "loose")) ["locus", "loose", "loser", "louse", "lousy", "lupus", "pulse", "welsh"]
+slant,salal,sadly
+slant,salal,salad
+slant,salal,sally
+slant,salal,salsa
+slant,salal,salve
+slant,salal,salve,salvo
+slant,salal,shoal
+slant,salal,solar
+ 14 [1;32ms[1;33ml[1;33ma[0mn[0mt[0m   8   122 Some((17, 3, "salal")) ["sadly", "salad", "sally", "salsa", "salve", "salvo", "shoal", "solar"]
+slant,scale,scald
+slant,scale
+slant,scale,scald,scalp
+slant,scale,scald,scalp,scaly
+slant,scale,shale
+slant,scale,shall
+slant,scale,shawl
+slant,scale,shall,small
+ 23 [1;32ms[1;33ml[1;32ma[0mn[0mt[0m   8    59 Some((19, 4, "scale")) ["scald", "scale", "scalp", "scaly", "shale", "shall", "shawl", "small"]
+slant,blank,bland
+slant,blank
+slant,blank,clang
+slant,blank,clank
+slant,blank,clank,flank
+slant,blank,clang,gland
+slant,blank,clang,plane
+slant,blank,clank,flank,plank
+ 78 [0ms[1;32ml[1;32ma[1;32mn[0mt[0m   8    28 Some((20, 4, "blank")) ["bland", "blank", "clang", "clank", "flank", "gland", "plane", "plank"]
+slant,satyr
+slant,satyr,saute
+slant,satyr,stead
+slant,satyr,stead,steak
+slant,satyr,stead,steak,steam
+slant,satyr,strap
+slant,satyr,strap,straw
+slant,satyr,stray
+ 92 [1;32ms[0ml[1;33ma[0mn[1;33mt[0m   8   134 Some((19, 4, "satyr")) ["satyr", "saute", "stead", "steak", "steam", "strap", "straw", "stray"]
+slant,flegs,bless
+slant,flegs,bliss
+slant,flegs,blush
+slant,flegs,close
+slant,flegs,flesh
+slant,flegs,floss
+slant,flegs,flush
+slant,flegs,gloss
+slant,flegs,blush,plush
+  7 [1;33ms[1;32ml[0ma[0mn[0mt[0m   9   275 Some((19, 3, "flegs")) ["bless", "bliss", "blush", "close", "flesh", "floss", "flush", "gloss", "plush"]
+slant,false,aisle
+slant,false,basal
+slant,false,basal,basil
+slant,false,easel
+slant,false
+slant,false,lapse
+slant,false,lasso
+slant,false,palsy
+slant,false,usual
+ 13 [1;33ms[1;33ml[1;33ma[0mn[0mt[0m   9   455 Some((18, 3, "false")) ["aisle", "basal", "basil", "easel", "false", "lapse", "lasso", "palsy", "usual"]
+slant,diane,brand
+slant,diane,crane
+slant,diane,franc,crank
+slant,diane,drank
+slant,diane,franc,frank
+slant,diane,brand,grand
+slant,diane,inane
+slant,diane,piano
+slant,diane,franc,prank
+ 72 [0ms[0ml[1;32ma[1;32mn[0mt[0m   9   154 Some((22, 3, "diane")) ["brand", "crane", "crank", "drank", "frank", "grand", "inane", "piano", "prank"]
+slant,bloat,alert
+slant,bloat,allot
+slant,bloat,aloft
+slant,bloat,bleat
+slant,bloat
+slant,bloat,cleat
+slant,bloat,float
+slant,bloat,float,gloat
+slant,bloat,cleat,pleat
+177 [0ms[1;32ml[1;33ma[0mn[1;32mt[0m   9    26 Some((19, 3, "bloat")) ["alert", "allot", "aloft", "bleat", "bloat", "cleat", "float", "gloat", "pleat"]
+slant,baton,antic
+slant,baton,aunty
+slant,baton
+slant,baton,eaten
+slant,baton,aunty,junta
+slant,baton,taken
+slant,baton,tango
+slant,baton,tangy
+slant,baton,titan
+slant,baton,tonga
+117 [0ms[0ml[1;33ma[1;33mn[1;33mt[0m  10   195 Some((20, 3, "baton")) ["antic", "aunty", "baton", "eaten", "junta", "taken", "tango", "tangy", "titan", "tonga"]
+slant,gulet,built
+slant,gulet,dwelt
+slant,gulet,exult
+slant,gulet,filet
+slant,gulet,guilt
+slant,gulet,light
+slant,gulet,limit
+slant,gulet,moult
+slant,gulet,pilot
+slant,gulet,built,quilt
+165 [0ms[1;33ml[0ma[0mn[1;32mt[0m  10   140 Some((21, 3, "gulet")) ["built", "dwelt", "exult", "filet", "guilt", "light", "limit", "moult", "pilot", "quilt"]
+slant,inept,donut
+slant,inept
+slant,inept,inert
+slant,inept,ingot
+slant,inept,input
+slant,inept,night
+slant,inept,tenet
+slant,inept,uncut
+slant,inept,unfit
+slant,inept,unmet
+189 [0ms[0ml[0ma[1;33mn[1;32mt[0m  10   148 Some((19, 2, "inept")) ["donut", "inept", "inert", "ingot", "input", "night", "tenet", "uncut", "unfit", "unmet"]
+slant,count,brunt
+slant,count,burnt
+slant,count
+slant,count,event
+slant,count,front
+slant,count,brunt,grunt
+slant,count,joint
+slant,count,mount
+slant,count,joint,point
+slant,count,event,print
+216 [0ms[0ml[0ma[1;32mn[1;32mt[0m  10    87 Some((22, 3, "count")) ["brunt", "burnt", "count", "event", "front", "grunt", "joint", "mount", "point", "print"]
+225 [0ms[0ml[1;33ma[1;32mn[1;32mt[0m  10    41 None ["agent", "daunt", "faint", "gaunt", "haunt", "jaunt", "paint", "taint", "taunt", "vaunt"]

@@ -1,0 +1,533 @@
+ronte,rainy
+ 11 [1;32mr[0mo[1;33mn[0mt[0me[0m   1   116 Some((1, 1, "rainy")) ["rainy"]
+ronte,lunar
+ 19 [1;33mr[0mo[1;32mn[0mt[0me[0m   1    96 Some((1, 1, "lunar")) ["lunar"]
+ronte,right
+ 29 [1;32mr[0mo[0mn[1;33mt[0me[0m   1   120 Some((1, 1, "right")) ["right"]
+ronte,ratio
+ 32 [1;32mr[1;33mo[0mn[1;33mt[0me[0m   1    46 Some((1, 1, "ratio")) ["ratio"]
+ronte,tango
+ 48 [0mr[1;33mo[1;32mn[1;33mt[0me[0m   1    47 Some((1, 1, "tango")) ["tango"]
+ronte,north
+ 70 [1;33mr[1;32mo[1;33mn[1;32mt[0me[0m   1     3 Some((1, 1, "north")) ["north"]
+ronte,month
+ 78 [0mr[1;32mo[1;32mn[1;32mt[0me[0m   1    13 Some((1, 1, "month")) ["month"]
+ronte,heron
+ 94 [1;33mr[1;33mo[1;33mn[0mt[1;33me[0m   1    51 Some((1, 1, "heron")) ["heron"]
+ronte,venom
+102 [0mr[1;33mo[1;32mn[0mt[1;33me[0m   1    82 Some((1, 1, "venom")) ["venom"]
+ronte,owner
+103 [1;33mr[1;33mo[1;32mn[0mt[1;33me[0m   1    18 Some((1, 1, "owner")) ["owner"]
+ronte,goner
+106 [1;33mr[1;32mo[1;32mn[0mt[1;33me[0m   1    13 Some((1, 1, "goner")) ["goner"]
+ronte,retro
+113 [1;32mr[1;33mo[0mn[1;33mt[1;33me[0m   1    13 Some((1, 1, "retro")) ["retro"]
+ronte,token
+123 [0mr[1;32mo[1;33mn[1;33mt[1;33me[0m   1    15 Some((1, 1, "token")) ["token"]
+ronte,tenet
+126 [0mr[0mo[1;32mn[1;33mt[1;33me[0m   1    70 Some((1, 1, "tenet")) ["tenet"]
+ronte,tenor
+130 [1;33mr[1;33mo[1;32mn[1;33mt[1;33me[0m   1     3 Some((1, 1, "tenor")) ["tenor"]
+ronte,pesto
+138 [0mr[1;33mo[0mn[1;32mt[1;33me[0m   1    46 Some((1, 1, "pesto")) ["pesto"]
+ronte,tenth
+153 [0mr[0mo[1;32mn[1;32mt[1;33me[0m   1    34 Some((1, 1, "tenth")) ["tenth"]
+ronte,borne
+178 [1;33mr[1;32mo[1;33mn[0mt[1;32me[0m   1     6 Some((1, 1, "borne")) ["borne"]
+ronte,genre
+181 [1;33mr[0mo[1;32mn[0mt[1;32me[0m   1    11 Some((1, 1, "genre")) ["genre"]
+ronte,tense
+207 [0mr[0mo[1;32mn[1;33mt[1;32me[0m   1    15 Some((1, 1, "tense")) ["tense"]
+ronte,wrote
+220 [1;33mr[1;33mo[0mn[1;32mt[1;32me[0m   1     8 Some((1, 1, "wrote")) ["wrote"]
+ronte,forte
+223 [1;33mr[1;32mo[0mn[1;32mt[1;32me[0m   1     6 Some((1, 1, "forte")) ["forte"]
+ronte,route
+224 [1;32mr[1;32mo[0mn[1;32mt[1;32me[0m   1     4 Some((1, 1, "route")) ["route"]
+ronte,unite
+225 [0mr[0mo[1;33mn[1;32mt[1;32me[0m   1    10 Some((1, 1, "unite")) ["unite"]
+ronte,rayon
+ronte,rayon,rhino
+ 14 [1;32mr[1;33mo[1;33mn[0mt[0me[0m   2    33 Some((3, 2, "rayon")) ["rayon", "rhino"]
+ronte,robin
+ronte,robin,round
+ 17 [1;32mr[1;32mo[1;33mn[0mt[0me[0m   2    23 Some((3, 2, "robin")) ["robin", "round"]
+ronte,ranch
+ronte,ranch,randy
+ 20 [1;32mr[0mo[1;32mn[0mt[0me[0m   2    52 Some((3, 2, "ranch")) ["ranch", "randy"]
+ronte,manor
+ronte,manor,minor
+ 22 [1;33mr[1;33mo[1;32mn[0mt[0me[0m   2    27 Some((3, 2, "manor")) ["manor", "minor"]
+ronte,tangy
+ronte,tangy,tunic
+ 45 [0mr[0mo[1;32mn[1;33mt[0me[0m   2   184 Some((3, 2, "tangy")) ["tangy", "tunic"]
+ronte,ratty
+ronte,ratty,rusty
+ 56 [1;32mr[0mo[0mn[1;32mt[0me[0m   2    45 Some((3, 2, "ratty")) ["ratty", "rusty"]
+ronte,broth
+ronte,broth,froth
+ 58 [1;33mr[1;33mo[0mn[1;32mt[0me[0m   2    51 Some((3, 2, "broth")) ["broth", "froth"]
+ronte,junto
+ronte,junto,pinto
+ 75 [0mr[1;33mo[1;32mn[1;32mt[0me[0m   2    26 Some((3, 2, "junto")) ["junto", "pinto"]
+ronte,renal
+ronte,renal,renew
+101 [1;32mr[0mo[1;32mn[0mt[1;33me[0m   2    25 Some((3, 2, "renal")) ["renal", "renew"]
+ronte,tower
+ronte,tower,voter
+115 [1;33mr[1;32mo[0mn[1;33mt[1;33me[0m   2    21 Some((3, 2, "tower")) ["tower", "voter"]
+ronte,often
+ronte,often,onset
+120 [0mr[1;33mo[1;33mn[1;33mt[1;33me[0m   2    35 Some((3, 2, "often")) ["often", "onset"]
+ronte,berth
+ronte,berth,earth
+136 [1;33mr[0mo[0mn[1;32mt[1;33me[0m   2    49 Some((3, 2, "berth")) ["berth", "earth"]
+ronte,range
+ronte,range,rinse
+182 [1;32mr[0mo[1;32mn[0mt[1;32me[0m   2    10 Some((3, 2, "range")) ["range", "rinse"]
+ronte,canoe
+ronte,canoe,ounce
+183 [0mr[1;33mo[1;32mn[0mt[1;32me[0m   2    26 Some((3, 2, "canoe")) ["canoe", "ounce"]
+ronte,twine
+ronte,twine,untie
+198 [0mr[0mo[1;33mn[1;33mt[1;32me[0m   2    33 Some((3, 2, "twine")) ["twine", "untie"]
+ronte,atone
+ronte,atone,stone
+201 [0mr[1;33mo[1;33mn[1;33mt[1;32me[0m   2     7 Some((3, 2, "atone")) ["atone", "stone"]
+ronte,donor
+ronte,donor,honor
+ronte,donor,sonar
+ 25 [1;33mr[1;32mo[1;32mn[0mt[0me[0m   3    19 Some((5, 2, "donor")) ["donor", "honor", "sonar"]
+ronte,nasty
+ronte,nasty,nutty
+ronte,nasty,unity
+ 63 [0mr[0mo[1;33mn[1;32mt[0me[0m   3   135 Some((5, 2, "nasty")) ["nasty", "nutty", "unity"]
+ronte,boney
+ronte,boney,honey
+ronte,boney,honey,money
+105 [0mr[1;32mo[1;32mn[0mt[1;33me[0m   3    57 Some((6, 3, "boney")) ["boney", "honey", "money"]
+ronte,rogue
+ronte,rogue,rouge
+ronte,rogue,rouse
+170 [1;32mr[1;32mo[0mn[0mt[1;32me[0m   3    17 Some((5, 2, "rogue")) ["rogue", "rouge", "rouse"]
+ronte,noise,noble
+ronte,noise
+ronte,noise,noose
+177 [0mr[1;32mo[1;33mn[0mt[1;32me[0m   3    37 Some((5, 2, "noise")) ["noble", "noise", "noose"]
+ronte,trope,store
+ronte,trope
+ronte,trope,trove
+193 [1;33mr[1;33mo[0mn[1;33mt[1;32me[0m   3    17 Some((5, 2, "trope")) ["store", "trope", "trove"]
+ronte,quote,ovate
+ronte,quote
+ronte,quote,smote
+219 [0mr[1;33mo[0mn[1;32mt[1;32me[0m   3    29 Some((5, 2, "quote")) ["ovate", "quote", "smote"]
+ronte,radio
+ronte,radio,razor
+ronte,radio,rigor
+ronte,radio,rumor
+  5 [1;32mr[1;33mo[0mn[0mt[0me[0m   4   177 Some((7, 2, "radio")) ["radio", "razor", "rigor", "rumor"]
+ronte,corny
+ronte,corny,horny
+ronte,corny,moron
+ronte,corny,mourn
+ 16 [1;33mr[1;32mo[1;33mn[0mt[0me[0m   4    68 Some((7, 2, "corny")) ["corny", "horny", "moron", "mourn"]
+ronte,roast
+ronte,roast,robot
+ronte,roast,roost
+ronte,roast,rotor
+ 35 [1;32mr[1;32mo[0mn[1;33mt[0me[0m   4    36 Some((7, 2, "roast")) ["roast", "robot", "roost", "rotor"]
+ronte,front
+ronte,front,intro
+ronte,front,snort
+ronte,front,thorn
+ 40 [1;33mr[1;33mo[1;33mn[1;33mt[0me[0m   4    20 Some((7, 2, "front")) ["front", "intro", "snort", "thorn"]
+ronte,tonal,donut
+ronte,tonal
+ronte,tonal,tonga
+ronte,tonal,tonic
+ 51 [0mr[1;32mo[1;32mn[1;33mt[0me[0m   4    29 Some((7, 2, "tonal")) ["donut", "tonal", "tonga", "tonic"]
+ronte,forth,aorta
+ronte,forth
+ronte,forth,forty
+ronte,forth,worth
+ 61 [1;33mr[1;32mo[0mn[1;32mt[0me[0m   4    37 Some((7, 2, "forth")) ["aorta", "forth", "forty", "worth"]
+ronte,aunty
+ronte,aunty,junta
+ronte,aunty,minty
+ronte,aunty,ninth
+ 72 [0mr[0mo[1;32mn[1;32mt[0me[0m   4   104 Some((7, 2, "aunty")) ["aunty", "junta", "minty", "ninth"]
+ronte,roger,rodeo
+ronte,roger
+ronte,roger,rover
+ronte,roger,rover,rower
+ 89 [1;32mr[1;32mo[0mn[0mt[1;33me[0m   4    52 Some((8, 3, "roger")) ["rodeo", "roger", "rover", "rower"]
+ronte,crone
+ronte,crone,drone
+ronte,crone,drone,prone
+ronte,crone,snore
+175 [1;33mr[1;33mo[1;33mn[0mt[1;32me[0m   4    15 Some((8, 3, "crone")) ["crone", "drone", "prone", "snore"]
+ronte,stoke
+ronte,stoke,stole
+ronte,stoke,stole,stove
+ronte,stoke,those
+192 [0mr[1;33mo[0mn[1;33mt[1;32me[0m   4    65 Some((8, 3, "stoke")) ["stoke", "stole", "stove", "those"]
+ronte,other,metro
+ronte,other
+ronte,other,otter
+ronte,other,outer
+ronte,other,overt
+112 [1;33mr[1;33mo[0mn[1;33mt[1;33me[0m   5    50 Some((9, 2, "other")) ["metro", "other", "otter", "outer", "overt"]
+ronte,roach
+ronte,roach,rocky
+ronte,roach,roomy
+ronte,roach,rough
+ronte,roach,roomy,rowdy
+ronte,roach,royal
+  8 [1;32mr[1;32mo[0mn[0mt[0me[0m   6   130 Some((12, 3, "roach")) ["roach", "rocky", "roomy", "rough", "rowdy", "royal"]
+ronte,torso,court
+ronte,torso,motor
+ronte,torso,torch
+ronte,torso
+ronte,torso,torus
+ronte,torso,worst
+ 34 [1;33mr[1;32mo[0mn[1;33mt[0me[0m   6    94 Some((11, 2, "torso")) ["court", "motor", "torch", "torso", "torus", "worst"]
+ronte,thong,baton
+ronte,thong,ingot
+ronte,thong,snout
+ronte,thong,stony
+ronte,thong,talon
+ronte,thong
+ 39 [0mr[1;33mo[1;33mn[1;33mt[0me[0m   6   140 Some((11, 2, "thong")) ["baton", "ingot", "snout", "stony", "talon", "thong"]
+ronte,count
+ronte,count,joint
+ronte,count,mount
+ronte,count,notch
+ronte,count,joint,point
+ronte,count,toxin
+ 42 [0mr[1;32mo[1;33mn[1;33mt[0me[0m   6    64 Some((12, 3, "count")) ["count", "joint", "mount", "notch", "point", "toxin"]
+ronte,diner
+ronte,diner,finer
+ronte,diner,inner
+ronte,diner,finer,liner
+ronte,diner,finer,liner,miner
+ronte,diner,saner
+100 [1;33mr[0mo[1;32mn[0mt[1;33me[0m   6    56 Some((14, 4, "diner")) ["diner", "finer", "inner", "liner", "miner", "saner"]
+ronte,detox,depot
+ronte,detox
+ronte,detox,ethos
+ronte,detox,extol
+ronte,detox,octet
+ronte,detox,tempo
+111 [0mr[1;33mo[0mn[1;33mt[1;33me[0m   6   210 Some((11, 2, "detox")) ["depot", "detox", "ethos", "extol", "octet", "tempo"]
+ronte,motel,comet
+ronte,motel,covet
+ronte,motel,hotel
+ronte,motel
+ronte,motel,totem
+ronte,motel,towel
+114 [0mr[1;32mo[0mn[1;33mt[1;33me[0m   6   111 Some((11, 2, "motel")) ["comet", "covet", "hotel", "motel", "totem", "towel"]
+ronte,entry,enter
+ronte,entry
+ronte,entry,inert
+ronte,entry,inter
+ronte,entry,stern
+ronte,entry,trend
+118 [1;33mr[0mo[1;33mn[1;33mt[1;33me[0m   6    29 Some((11, 2, "entry")) ["enter", "entry", "inert", "inter", "stern", "trend"]
+ronte,forge,force
+ronte,forge
+ronte,forge,gorge
+ronte,forge,horde
+ronte,forge,horde,horse
+ronte,forge,horde,worse
+169 [1;33mr[1;32mo[0mn[0mt[1;32me[0m   6    50 Some((13, 3, "forge")) ["force", "forge", "gorge", "horde", "horse", "worse"]
+ronte,irate,brute
+ronte,irate,crate
+ronte,irate,crate,grate
+ronte,irate
+ronte,irate,trite
+ronte,irate,trite,write
+217 [1;33mr[0mo[0mn[1;32mt[1;32me[0m   6    24 Some((13, 3, "irate")) ["brute", "crate", "grate", "irate", "trite", "write"]
+ronte,grunt,brunt
+ronte,grunt,burnt
+ronte,grunt,grant
+ronte,grunt
+ronte,grunt,print
+ronte,grunt,train
+ronte,grunt,trunk
+ 37 [1;33mr[0mo[1;33mn[1;33mt[0me[0m   7    77 Some((13, 2, "grunt")) ["brunt", "burnt", "grant", "grunt", "print", "train", "trunk"]
+ronte,sloth,cloth
+ronte,sloth,ditto
+ronte,sloth,gusto
+ronte,sloth,photo
+ronte,sloth,quota
+ronte,sloth,quoth
+ronte,sloth
+ 57 [0mr[1;33mo[0mn[1;32mt[0me[0m   7   247 Some((13, 2, "sloth")) ["cloth", "ditto", "gusto", "photo", "quota", "quoth", "sloth"]
+ronte,resin,ramen
+ronte,resin,ramen,raven
+ronte,resin,reign
+ronte,resin,rerun
+ronte,resin
+ronte,resin,ripen
+ronte,resin,risen
+ 92 [1;32mr[0mo[1;33mn[0mt[1;33me[0m   7    59 Some((14, 3, "resin")) ["ramen", "raven", "reign", "rerun", "resin", "ripen", "risen"]
+ronte,woven,coven
+ronte,woven,dozen
+ronte,woven,nosey
+ronte,woven,novel
+ronte,woven,woken
+ronte,woven,woken,women
+ronte,woven
+ 96 [0mr[1;32mo[1;33mn[0mt[1;33me[0m   7   116 Some((14, 3, "woven")) ["coven", "dozen", "nosey", "novel", "woken", "women", "woven"]
+ronte,reive,raise
+ronte,reive,reuse
+ronte,reive,revue
+ronte,reive,rhyme
+ronte,reive,ridge
+ronte,reive,ridge,rifle
+ronte,reive,rupee
+164 [1;32mr[0mo[0mn[0mt[1;32me[0m   7    78 Some((15, 3, "reive")) ["raise", "reuse", "revue", "rhyme", "ridge", "rifle", "rupee"]
+ronte,urine,brine
+ronte,urine,crane
+ronte,urine,nerve
+ronte,urine,nurse
+ronte,urine,prune
+ronte,urine,nerve,snare
+ronte,urine
+172 [1;33mr[0mo[1;33mn[0mt[1;32me[0m   7    48 Some((14, 3, "urine")) ["brine", "crane", "nerve", "nurse", "prune", "snare", "urine"]
+ronte,banjo,annoy
+ronte,banjo
+ronte,banjo,bingo
+ronte,banjo,canon
+ronte,banjo,dingo
+ronte,banjo,dingo,lingo
+ronte,banjo,mango
+ronte,banjo,synod
+ 21 [0mr[1;33mo[1;32mn[0mt[0me[0m   8   258 Some((16, 3, "banjo")) ["annoy", "banjo", "bingo", "canon", "dingo", "lingo", "mango", "synod"]
+ronte,condo,bongo
+ronte,condo,bonus
+ronte,condo,conch
+ronte,condo
+ronte,condo,conch,conic
+ronte,condo,gonad
+ronte,condo,ionic
+ronte,condo,ionic,sonic
+ronte,condo,bonus,zonal
+ 24 [0mr[1;32mo[1;32mn[0mt[0me[0m   9   175 Some((20, 3, "condo")) ["bongo", "bonus", "conch", "condo", "conic", "gonad", "ionic", "sonic", "zonal"]
+ronte,garth,birth
+ronte,garth,dirty
+ronte,garth,fritz
+ronte,garth,girth
+ronte,garth,birth,mirth
+ronte,garth,party
+ronte,garth,truth
+ronte,garth,party,warty
+ronte,garth,wrath
+ 55 [1;33mr[0mo[0mn[1;32mt[0me[0m   9   168 Some((20, 3, "garth")) ["birth", "dirty", "fritz", "girth", "mirth", "party", "truth", "warty", "wrath"]
+ronte,credo
+ronte,credo,decor
+ronte,credo,error
+ronte,credo,odder
+ronte,credo,offer
+ronte,credo,odder,older
+ronte,credo,opera
+ronte,credo,order
+ronte,credo,verso
+ 85 [1;33mr[1;33mo[0mn[0mt[1;33me[0m   9   362 Some((18, 3, "credo")) ["credo", "decor", "error", "odder", "offer", "older", "opera", "order", "verso"]
+ronte,recut,react
+ronte,recut,rebut
+ronte,recut
+ronte,recut,refit
+ronte,recut,refit,remit
+ronte,recut,refit,reset
+ronte,recut,retch
+ronte,recut,retry
+ronte,recut,rivet
+110 [1;32mr[0mo[0mn[1;33mt[1;33me[0m   9    56 Some((19, 3, "recut")) ["react", "rebut", "recut", "refit", "remit", "reset", "retch", "retry", "rivet"]
+ronte,clone,alone
+ronte,clone,anode
+ronte,clone
+ronte,clone,anode,gnome
+ronte,clone,opine
+ronte,clone,opine,ovine
+ronte,clone,phone,ozone
+ronte,clone,phone
+ronte,clone,scone
+ronte,clone,phone,shone
+174 [0mr[1;33mo[1;33mn[0mt[1;32me[0m  10    67 Some((23, 3, "clone")) ["alone", "anode", "clone", "gnome", "opine", "ovine", "ozone", "phone", "scone", "shone"]
+ronte,trace,stare
+ronte,trace,terse
+ronte,trace,terse,there
+ronte,trace,terse,three
+ronte,trace
+ronte,trace,trade
+ronte,trace,tribe
+ronte,trace,trice
+ronte,trace,tribe,tripe
+ronte,trace,trice,truce
+190 [1;33mr[0mo[0mn[1;33mt[1;32me[0m  10    71 Some((23, 3, "trace")) ["stare", "terse", "there", "three", "trace", "trade", "tribe", "trice", "tripe", "truce"]
+ronte,cello,below
+ronte,cello,cameo
+ronte,cello
+ronte,cello,decoy
+ronte,cello,elbow
+ronte,cello,epoch
+ronte,cello,epoxy
+ronte,cello,gecko
+ronte,cello,hello
+ronte,cello,epoxy,omega
+ronte,cello,video
+ 84 [0mr[1;33mo[0mn[0mt[1;33me[0m  11  1217 Some((22, 3, "cello")) ["below", "cameo", "cello", "decoy", "elbow", "epoch", "epoxy", "gecko", "hello", "omega", "video"]
+ronte,dowel,bowel
+ronte,dowel,covey
+ronte,dowel,dopey
+ronte,dowel
+ronte,dowel,golem
+ronte,dowel,covey,gooey
+ronte,dowel,hovel
+ronte,dowel,model
+ronte,dowel,modem
+ronte,dowel,poesy
+ronte,dowel,bowel,vowel
+ 87 [0mr[1;32mo[0mn[0mt[1;33me[0m  11   703 Some((23, 3, "dowel")) ["bowel", "covey", "dopey", "dowel", "golem", "gooey", "hovel", "model", "modem", "poesy", "vowel"]
+ronte,demon
+ronte,demon,ebony
+ronte,demon,endow
+ronte,demon,enjoy
+ronte,demon,enjoy,envoy
+ronte,demon,felon
+ronte,demon,lemon
+ronte,demon,melon
+ronte,demon,oaken
+ronte,demon,oaken,ocean
+ronte,demon,olden
+ 93 [0mr[1;33mo[1;33mn[0mt[1;33me[0m  11   241 Some((23, 3, "demon")) ["demon", "ebony", "endow", "enjoy", "envoy", "felon", "lemon", "melon", "oaken", "ocean", "olden"]
+ronte,sooty,booth
+ronte,sooty,booty
+ronte,sooty,loath
+ronte,sooty,lofty
+ronte,sooty,motto
+ronte,sooty,loath,mouth
+ronte,sooty,lofty,pouty
+ronte,sooty,sooth
+ronte,sooty
+ronte,sooty,south
+ronte,sooty,booth,tooth
+ronte,sooty,youth
+ 60 [0mr[1;32mo[0mn[1;32mt[0me[0m  12   160 Some((26, 3, "sooty")) ["booth", "booty", "loath", "lofty", "motto", "mouth", "pouty", "sooth", "sooty", "south", "tooth", "youth"]
+ronte,penni,annex
+ronte,penni,apnea
+ronte,penni,bench
+ronte,penni,denim
+ronte,penni,ennui
+ronte,penni,linen
+ronte,penni,panel
+ronte,penni,penal
+ronte,penni,penny
+ronte,penni,piney
+ronte,penni,sinew
+ronte,penni,bench,wench
+ 99 [0mr[0mo[1;32mn[0mt[1;33me[0m  12   388 Some((25, 3, "penni")) ["annex", "apnea", "bench", "denim", "ennui", "linen", "panel", "penal", "penny", "piney", "sinew", "wench"]
+ronte,green,anger
+ronte,green,arena
+ronte,green
+ronte,green,infer
+ronte,green,learn
+ronte,green,nerdy
+ronte,green,never
+ronte,green,never,newer
+ronte,green,infer,nicer
+ronte,green,preen
+ronte,green,siren
+ronte,green,sneer
+ronte,green,infer,under
+ronte,green,learn,yearn
+ 91 [1;33mr[0mo[1;33mn[0mt[1;33me[0m  14   211 Some((31, 3, "green")) ["anger", "arena", "green", "infer", "learn", "nerdy", "never", "newer", "nicer", "preen", "siren", "sneer", "under", "yearn"]
+ronte,scent,agent
+ronte,scent,eaten
+ronte,scent,enact
+ronte,scent,agent,event
+ronte,scent,inept
+ronte,scent,inlet
+ronte,scent,inept,knelt
+ronte,scent,leant
+ronte,scent,leant,meant
+ronte,scent
+ronte,scent,spent
+ronte,scent,stein
+ronte,scent,eaten,taken
+ronte,scent,inlet,unmet
+ronte,scent,unset
+117 [0mr[0mo[1;33mn[1;33mt[1;33me[0m  15   193 Some((34, 3, "scent")) ["agent", "eaten", "enact", "event", "inept", "inlet", "knelt", "leant", "meant", "scent", "spent", "stein", "taken", "unmet", "unset"]
+ronte,rapid,rabbi
+ronte,rapid,rabid
+ronte,rapid,radar
+ronte,rapid,radii
+ronte,rapid,rajah
+ronte,rapid,rajah,rally
+ronte,rapid,ralph
+ronte,rapid
+ronte,rapid,ralph,raspy
+ronte,rapid,rigid
+ronte,rapid,risky
+ronte,rapid,rival
+ronte,rapid,ruddy
+ronte,rapid,rugby
+ronte,rapid,rumba
+ronte,rapid,rumba,rural
+  2 [1;32mr[0mo[0mn[0mt[0me[0m  16   628 Some((34, 3, "rapid")) ["rabbi", "rabid", "radar", "radii", "rajah", "rally", "ralph", "rapid", "raspy", "rigid", "risky", "rival", "ruddy", "rugby", "rumba", "rural"]
+ronte,death
+ronte,death,deity
+ronte,death,delta
+ronte,death,depth
+ronte,death,empty
+ronte,death,heath
+ronte,death,hefty
+ronte,death,jetty
+ronte,death,jetty,lefty
+ronte,death,meaty
+ronte,death,jetty,petty
+ronte,death,empty,piety
+ronte,death,teeth
+ronte,death,jetty,testy
+ronte,death,theta
+ronte,death,jetty,lefty,zesty
+135 [0mr[0mo[0mn[1;32mt[1;33me[0m  16   308 Some((37, 4, "death")) ["death", "deity", "delta", "depth", "empty", "heath", "hefty", "jetty", "lefty", "meaty", "petty", "piety", "teeth", "testy", "theta", "zesty"]
+ronte,goban,bound
+ronte,goban,colon
+ronte,goban,doing
+ronte,goban,powns,downy
+ronte,goban,powns,fohns,found
+ronte,goban,going
+ronte,goban,powns,fohns,hound
+ronte,goban,login
+ronte,goban,powns,fohns,mound
+ronte,goban,nobly
+ronte,goban,powns,noisy
+ronte,goban,nomad
+ronte,goban,powns,pound
+ronte,goban,powns,sound
+ronte,goban,woman
+ronte,goban,powns,wound
+ronte,goban,doing,young
+ 15 [0mr[1;32mo[1;33mn[0mt[0me[0m  17   422 Some((46, 4, "goban")) ["bound", "colon", "doing", "downy", "found", "going", "hound", "login", "mound", "nobly", "noisy", "nomad", "pound", "sound", "woman", "wound", "young"]
+ronte,prose,adore
+ronte,prose,arose
+ronte,prose,drove,broke
+ronte,prose,adore,chore
+ronte,prose,drove
+ronte,prose,drove,erode
+ronte,prose,drove,broke,froze
+ronte,prose,grope
+ronte,prose,drove,grove
+ronte,prose,ombre
+ronte,prose,probe
+ronte,prose
+ronte,prose,probe,prove
+ronte,prose,score
+ronte,prose,score,shore
+ronte,prose,spore
+ronte,prose,score,shore,swore
+166 [1;33mr[1;33mo[0mn[0mt[1;32me[0m  17   110 Some((43, 4, "prose")) ["adore", "arose", "broke", "chore", "drove", "erode", "froze", "grope", "grove", "ombre", "probe", "prose", "prove", "score", "shore", "spore", "swore"]
+ 88 [1;33mr[1;32mo[0mn[0mt[1;33me[0m  19   182 None ["boxer", "corer", "cover", "cower", "foyer", "homer", "hover", "joker", "loser", "lover", "lower", "mover", "mower", "poker", "poser", "power", "sober", "sower", "wooer"]

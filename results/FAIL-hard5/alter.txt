@@ -1,0 +1,543 @@
+alter,aptly
+ 23 [1;32ma[1;33ml[1;32mt[0me[0mr[0m   1     7 Some((1, 1, "aptly")) ["aptly"]
+alter,bathe
+ 46 [1;33ma[0ml[1;32mt[1;33me[0mr[0m   1    87 Some((1, 1, "bathe")) ["bathe"]
+alter,asset
+ 65 [1;32ma[0ml[1;33mt[1;32me[0mr[0m   1    15 Some((1, 1, "asset")) ["asset"]
+alter,valet
+ 67 [1;33ma[1;33ml[1;33mt[1;32me[0mr[0m   1    17 Some((1, 1, "valet")) ["valet"]
+alter,flora
+ 88 [1;33ma[1;32ml[0mt[0me[1;33mr[0m   1    28 Some((1, 1, "flora")) ["flora"]
+alter,alarm
+ 89 [1;32ma[1;32ml[0mt[0me[1;33mr[0m   1     9 Some((1, 1, "alarm")) ["alarm"]
+alter,intro
+ 99 [0ma[0ml[1;32mt[0me[1;33mr[0m   1   131 Some((1, 1, "intro")) ["intro"]
+alter,artsy
+101 [1;32ma[0ml[1;32mt[0me[1;33mr[0m   1    16 Some((1, 1, "artsy")) ["artsy"]
+alter,ultra
+106 [1;33ma[1;32ml[1;32mt[0me[1;33mr[0m   1     3 Some((1, 1, "ultra")) ["ultra"]
+alter,clerk
+114 [0ma[1;32ml[0mt[1;33me[1;33mr[0m   1    30 Some((1, 1, "clerk")) ["clerk"]
+alter,avert
+119 [1;32ma[0ml[1;33mt[1;33me[1;33mr[0m   1    14 Some((1, 1, "avert")) ["avert"]
+alter,alert
+125 [1;32ma[1;32ml[1;33mt[1;33me[1;33mr[0m   1     2 Some((1, 1, "alert")) ["alert"]
+alter,extra
+127 [1;33ma[0ml[1;32mt[1;33me[1;33mr[0m   1    28 Some((1, 1, "extra")) ["extra"]
+alter,agree
+137 [1;32ma[0ml[0mt[1;32me[1;33mr[0m   1    46 Some((1, 1, "agree")) ["agree"]
+alter,color
+165 [0ma[1;33ml[0mt[0me[1;32mr[0m   1   114 Some((1, 1, "color")) ["color"]
+alter,flair
+169 [1;33ma[1;32ml[0mt[0me[1;32mr[0m   1    12 Some((1, 1, "flair")) ["flair"]
+alter,tumor
+171 [0ma[0ml[1;33mt[0me[1;32mr[0m   1   108 Some((1, 1, "tumor")) ["tumor"]
+alter,satyr
+181 [1;33ma[0ml[1;32mt[0me[1;32mr[0m   1    28 Some((1, 1, "satyr")) ["satyr"]
+alter,actor
+182 [1;32ma[0ml[1;32mt[0me[1;32mr[0m   1     9 Some((1, 1, "actor")) ["actor"]
+alter,altar
+188 [1;32ma[1;32ml[1;32mt[0me[1;32mr[0m   1     2 Some((1, 1, "altar")) ["altar"]
+alter,lemur
+192 [0ma[1;33ml[0mt[1;33me[1;32mr[0m   1    78 Some((1, 1, "lemur")) ["lemur"]
+alter,clear
+196 [1;33ma[1;32ml[0mt[1;33me[1;32mr[0m   1     5 Some((1, 1, "clear")) ["clear"]
+alter,after
+236 [1;32ma[0ml[1;32mt[1;32me[1;32mr[0m   1     4 Some((1, 1, "after")) ["after"]
+alter,later
+238 [1;33ma[1;33ml[1;32mt[1;32me[1;32mr[0m   1     2 Some((1, 1, "later")) ["later"]
+alter
+242 [1;32ma[1;32ml[1;32mt[1;32me[1;32mr[0m   1     1 Some((1, 1, "alter")) ["alter"]
+alter,adult
+alter,adult,atoll
+ 14 [1;32ma[1;33ml[1;33mt[0me[0mr[0m   2    20 Some((3, 2, "adult")) ["adult", "atoll"]
+alter,allot
+alter,allot,aloft
+ 17 [1;32ma[1;32ml[1;33mt[0me[0mr[0m   2    11 Some((3, 2, "allot")) ["allot", "aloft"]
+alter,antic
+alter,antic,attic
+ 20 [1;32ma[0ml[1;32mt[0me[0mr[0m   2    36 Some((3, 2, "antic")) ["antic", "attic"]
+alter,hotly
+alter,hotly,until
+ 21 [0ma[1;33ml[1;32mt[0me[0mr[0m   2    98 Some((3, 2, "hotly")) ["hotly", "until"]
+alter,abled
+alter,abled,angel
+ 59 [1;32ma[1;33ml[0mt[1;32me[0mr[0m   2    29 Some((3, 2, "abled")) ["abled", "angel"]
+alter,alien
+alter,alien,alley
+ 62 [1;32ma[1;32ml[0mt[1;32me[0mr[0m   2    12 Some((3, 2, "alien")) ["alien", "alley"]
+alter,fleet
+alter,fleet,sleet
+ 69 [0ma[1;32ml[1;33mt[1;32me[0mr[0m   2     5 Some((3, 2, "fleet")) ["fleet", "sleet"]
+alter,eaten
+alter,eaten,matey
+ 73 [1;33ma[0ml[1;32mt[1;32me[0mr[0m   2    53 Some((3, 2, "eaten")) ["eaten", "matey"]
+alter,blurt
+alter,blurt,flirt
+ 96 [0ma[1;32ml[1;33mt[0me[1;33mr[0m   2    10 Some((3, 2, "blurt")) ["blurt", "flirt"]
+alter,ratio
+alter,ratio,ratty
+100 [1;33ma[0ml[1;32mt[0me[1;33mr[0m   2    61 Some((3, 2, "ratio")) ["ratio", "ratty"]
+alter,floor
+alter,floor,flour
+168 [0ma[1;32ml[0mt[0me[1;32mr[0m   2    34 Some((3, 2, "floor")) ["floor", "flour"]
+alter,stair
+alter,stair,tapir
+172 [1;33ma[0ml[1;33mt[0me[1;32mr[0m   2    47 Some((3, 2, "stair")) ["stair", "tapir"]
+alter,tenor
+alter,tenor,their
+198 [0ma[0ml[1;33mt[1;33me[1;32mr[0m   2    80 Some((3, 2, "tenor")) ["tenor", "their"]
+alter,lithe,extol
+alter,lithe
+alter,lithe,title
+ 48 [0ma[1;33ml[1;32mt[1;33me[0mr[0m   3    46 Some((5, 2, "lithe")) ["extol", "lithe", "title"]
+alter,cadet
+alter,cadet,facet
+alter,cadet,taken
+ 64 [1;33ma[0ml[1;33mt[1;32me[0mr[0m   3   101 Some((5, 2, "cadet")) ["cadet", "facet", "taken"]
+alter,octet
+alter,octet,often
+alter,octet,totem
+ 72 [0ma[0ml[1;32mt[1;32me[0mr[0m   3   162 Some((5, 2, "octet")) ["octet", "often", "totem"]
+alter,hotel,betel
+alter,hotel
+alter,hotel,motel
+ 75 [0ma[1;33ml[1;32mt[1;32me[0mr[0m   3    22 Some((5, 2, "hotel")) ["betel", "hotel", "motel"]
+alter,blurb
+alter,blurb,glory
+alter,blurb,slurp
+ 87 [0ma[1;32ml[0mt[0me[1;33mr[0m   3    65 Some((5, 2, "blurb")) ["blurb", "glory", "slurp"]
+alter,abort
+alter,abort,aorta
+alter,abort,apart
+ 92 [1;32ma[0ml[1;33mt[0me[1;33mr[0m   3    40 Some((5, 2, "abort")) ["abort", "aorta", "apart"]
+alter,troll
+alter,troll,truly
+alter,troll,twirl
+ 93 [0ma[1;33ml[1;33mt[0me[1;33mr[0m   3    44 Some((5, 2, "troll")) ["troll", "truly", "twirl"]
+alter,trail
+alter,trail,trawl
+alter,trail,trial
+ 94 [1;33ma[1;33ml[1;33mt[0me[1;33mr[0m   3    22 Some((5, 2, "trail")) ["trail", "trawl", "trial"]
+alter,blare
+alter,blare,flare
+alter,blare,flare,glare
+115 [1;33ma[1;32ml[0mt[1;33me[1;33mr[0m   3    10 Some((6, 3, "blare")) ["blare", "flare", "glare"]
+alter,harem
+alter,harem,ramen
+alter,harem,raven
+136 [1;33ma[0ml[0mt[1;32me[1;33mr[0m   3   231 Some((5, 2, "harem")) ["harem", "ramen", "raven"]
+alter,motor
+alter,motor,rotor
+alter,motor,tutor
+180 [0ma[0ml[1;32mt[0me[1;32mr[0m   3    60 Some((5, 2, "motor")) ["motor", "rotor", "tutor"]
+alter,aimer,aider
+alter,aimer,amber
+alter,aimer,anger
+218 [1;32ma[0ml[0mt[1;32me[1;32mr[0m   3    22 Some((6, 2, "aimer")) ["aider", "amber", "anger"]
+alter,taker
+alter,taker,tamer
+alter,taker,tamer,taper
+226 [1;33ma[0ml[1;33mt[1;32me[1;32mr[0m   3    25 Some((6, 3, "taker")) ["taker", "tamer", "taper"]
+alter,alike,algae
+alter,alike
+alter,alike,alive
+alter,alike,algae,alone
+ 35 [1;32ma[1;32ml[0mt[1;33me[0mr[0m   4    30 Some((8, 3, "alike")) ["algae", "alike", "alive", "alone"]
+alter,baler
+alter,baler,lager
+alter,baler,lager,layer
+alter,baler,paler
+220 [1;33ma[1;33ml[0mt[1;32me[1;32mr[0m   4    20 Some((8, 3, "baler")) ["baler", "lager", "layer", "paler"]
+alter,cater
+alter,cater,eater
+alter,cater,eater,hater
+alter,cater,eater,hater,water
+235 [1;33ma[0ml[1;32mt[1;32me[1;32mr[0m   4    16 Some((10, 4, "cater")) ["cater", "eater", "hater", "water"]
+alter,cleft
+alter,cleft,elect
+alter,cleft,elite
+alter,cleft,flute
+alter,cleft,slept
+ 42 [0ma[1;32ml[1;33mt[1;33me[0mr[0m   5    37 Some((9, 2, "cleft")) ["cleft", "elect", "elite", "flute", "slept"]
+alter,fetal
+alter,fetal,lathe
+alter,fetal,lathe,latte
+alter,fetal,metal
+alter,fetal,metal,petal
+ 49 [1;33ma[1;33ml[1;32mt[1;33me[0mr[0m   5    15 Some((11, 3, "fetal")) ["fetal", "lathe", "latte", "metal", "petal"]
+alter,antes,abbey
+alter,antes,annex
+alter,antes,apnea
+alter,antes,ashen
+alter,antes,askew
+ 56 [1;32ma[0ml[0mt[1;32me[0mr[0m   5   122 Some((10, 2, "antes")) ["abbey", "annex", "apnea", "ashen", "askew"]
+alter,islet,filet
+alter,islet,inlet
+alter,islet
+alter,islet,steel
+alter,islet,towel
+ 66 [0ma[1;33ml[1;33mt[1;32me[0mr[0m   5    59 Some((9, 2, "islet")) ["filet", "inlet", "islet", "steel", "towel"]
+alter,peril,leery
+alter,peril
+alter,peril,relic
+alter,peril,reply
+alter,peril,rifle
+111 [0ma[1;33ml[0mt[1;33me[1;33mr[0m   5   204 Some((9, 2, "peril")) ["leery", "peril", "relic", "reply", "rifle"]
+alter,metro,entry
+alter,metro
+alter,metro,retch
+alter,metro,retro
+alter,metro,retry
+126 [0ma[0ml[1;32mt[1;33me[1;33mr[0m   5    78 Some((9, 2, "metro")) ["entry", "metro", "retch", "retro", "retry"]
+alter,rebel,cruel
+alter,rebel,cruel,gruel
+alter,rebel
+alter,rebel,repel
+alter,rebel,repel,revel
+138 [0ma[1;33ml[0mt[1;32me[1;33mr[0m   5   114 Some((11, 3, "rebel")) ["cruel", "gruel", "rebel", "repel", "revel"]
+alter,abhor
+alter,abhor,arbor
+alter,abhor,ardor
+alter,abhor,ardor,armor
+alter,abhor,augur
+164 [1;32ma[0ml[0mt[0me[1;32mr[0m   5    43 Some((10, 3, "abhor")) ["abhor", "arbor", "ardor", "armor", "augur"]
+alter,decor
+alter,decor,demur
+alter,decor,error
+alter,decor,femur
+alter,decor,recur
+189 [0ma[0ml[0mt[1;33me[1;32mr[0m   5   502 Some((9, 2, "decor")) ["decor", "demur", "error", "femur", "recur"]
+alter,notal,fatal
+alter,notal,latch
+alter,notal,natal
+alter,notal,octal
+alter,notal,total
+alter,notal,fatal,vital
+ 22 [1;33ma[1;33ml[1;32mt[0me[0mr[0m   6    51 Some((13, 3, "notal")) ["fatal", "latch", "natal", "octal", "total", "vital"]
+alter,agate,abate
+alter,agate,acute
+alter,agate,adept
+alter,agate
+alter,agate,agent
+alter,agate,atone
+ 38 [1;32ma[0ml[1;33mt[1;33me[0mr[0m   6    41 Some((11, 2, "agate")) ["abate", "acute", "adept", "agate", "agent", "atone"]
+alter,plate,bleat
+alter,plate,bleat,cleat
+alter,plate,elate
+alter,plate
+alter,plate,pleat
+alter,plate,elate,slate
+ 43 [1;33ma[1;32ml[1;33mt[1;33me[0mr[0m   6    11 Some((13, 3, "plate")) ["bleat", "cleat", "elate", "plate", "pleat", "slate"]
+alter,cakey,cagey
+alter,cakey,cameo
+alter,cakey,haven
+alter,cakey,oaken
+alter,cakey,payee
+alter,cakey,haven,waxen
+ 55 [1;33ma[0ml[0mt[1;32me[0mr[0m   6   653 Some((13, 3, "cakey")) ["cagey", "cameo", "haven", "oaken", "payee", "waxen"]
+alter,molar,labor
+alter,molar,lunar
+alter,molar
+alter,molar,polar
+alter,molar,polar,solar
+alter,molar,valor
+166 [1;33ma[1;33ml[0mt[0me[1;32mr[0m   6    52 Some((12, 3, "molar")) ["labor", "lunar", "molar", "polar", "solar", "valor"]
+alter,blast
+alter,blast,bloat
+alter,blast,float
+alter,blast,float,gloat
+alter,blast,plait
+alter,blast,plait,plant
+alter,blast,slant
+ 16 [1;33ma[1;32ml[1;33mt[0me[0mr[0m   7    44 Some((15, 3, "blast")) ["blast", "bloat", "float", "gloat", "plait", "plant", "slant"]
+alter,agile
+alter,agile,aisle
+alter,agile,ample,amble
+alter,agile,ample
+alter,agile,angle
+alter,agile,ample,ankle
+alter,agile,ample,apple
+ 32 [1;32ma[1;33ml[0mt[1;33me[0mr[0m   7    71 Some((16, 3, "agile")) ["agile", "aisle", "amble", "ample", "angle", "ankle", "apple"]
+alter,bleep,bleed
+alter,bleep
+alter,bleep,clued
+alter,bleep,clued,olden
+alter,bleep,plied
+alter,bleep,sleek
+alter,bleep,sleep
+ 60 [0ma[1;32ml[0mt[1;32me[0mr[0m   7    81 Some((14, 3, "bleep")) ["bleed", "bleep", "clued", "olden", "plied", "sleek", "sleep"]
+alter,dewar,cedar
+alter,dewar,debar
+alter,dewar,rebar
+alter,dewar,hepar,shear
+alter,dewar,hepar,smear
+alter,dewar,hepar,spear
+alter,dewar,swear
+190 [1;33ma[0ml[0mt[1;33me[1;32mr[0m   7   169 Some((17, 3, "dewar")) ["cedar", "debar", "rebar", "shear", "smear", "spear", "swear"]
+alter,flier,bluer
+alter,flier,bluer,elder
+alter,flier
+alter,flier,flyer
+alter,flier,bluer,elder,older
+alter,flier,plier
+alter,flier,bluer,ulcer
+222 [0ma[1;32ml[0mt[1;32me[1;32mr[0m   7    19 Some((17, 4, "flier")) ["bluer", "elder", "flier", "flyer", "older", "plier", "ulcer"]
+alter,clift,blitz
+alter,clift,blunt
+alter,clift,cloth
+alter,clift,clout
+alter,clift,flint
+alter,clift,flout
+alter,clift,glint
+alter,clift,sloth
+ 15 [0ma[1;32ml[1;33mt[0me[0mr[0m   8   112 Some((16, 2, "clift")) ["blitz", "blunt", "cloth", "clout", "flint", "flout", "glint", "sloth"]
+alter,afore,adore
+alter,afore,afire
+alter,afore,arena
+alter,afore,argue
+alter,afore,argue,arise
+alter,afore,arose
+alter,afore,aware
+alter,afore,aware,azure
+110 [1;32ma[0ml[0mt[1;33me[1;33mr[0m   8    97 Some((18, 3, "afore")) ["adore", "afire", "arena", "argue", "arise", "arose", "aware", "azure"]
+alter,beret
+alter,beret,egret
+alter,beret,greet
+alter,beret,reset
+alter,beret,rivet
+alter,beret,three
+alter,beret,threw
+alter,beret,tried
+144 [0ma[0ml[1;33mt[1;32me[1;33mr[0m   8   123 Some((15, 2, "beret")) ["beret", "egret", "greet", "reset", "rivet", "three", "threw", "tried"]
+alter,other,ether
+alter,other
+alter,other,steer
+alter,other,muter,tiger
+alter,other,muter,timer
+alter,other,tower
+alter,other,muter,truer
+alter,other,muter,tuber
+225 [0ma[0ml[1;33mt[1;32me[1;32mr[0m   8    75 Some((19, 3, "other")) ["ether", "other", "steer", "tiger", "timer", "tower", "truer", "tuber"]
+alter,apiol,afoul
+alter,apiol,aglow
+alter,apiol,amply
+alter,apiol,annul
+alter,apiol,anvil
+alter,apiol,apply
+alter,apiol,anvil,avail
+alter,apiol,annul,awful
+alter,apiol,axial
+  5 [1;32ma[1;33ml[0mt[0me[0mr[0m   9   186 Some((20, 3, "apiol")) ["afoul", "aglow", "amply", "annul", "anvil", "apply", "avail", "awful", "axial"]
+alter,enter,deter
+alter,enter
+alter,enter,ester
+alter,enter,inter
+alter,enter,deter,meter
+alter,enter,otter
+alter,enter,otter,outer
+alter,enter,otter,utter
+alter,enter,otter,voter
+234 [0ma[0ml[1;32mt[1;32me[1;32mr[0m   9    43 Some((21, 3, "enter")) ["deter", "enter", "ester", "inter", "meter", "otter", "outer", "utter", "voter"]
+alter,allow,alibi,album
+alter,allow,alibi
+alter,allow,alibi,align
+alter,allow,allay
+alter,allow
+alter,allow,alloy
+alter,allow,along
+alter,allow,aloof
+alter,allow,along,aloud
+alter,allow,alibi,alpha
+  8 [1;32ma[1;32ml[0mt[0me[0mr[0m  10    90 Some((23, 3, "allow")) ["album", "alibi", "align", "allay", "allow", "alloy", "along", "aloof", "aloud", "alpha"]
+alter,least,dealt
+alter,least,delta
+alter,least,eclat
+alter,least,exalt
+alter,least,leant
+alter,least,leant,leapt
+alter,least
+alter,least,stale
+alter,least,steal
+alter,least,table
+ 40 [1;33ma[1;33ml[1;33mt[1;33me[0mr[0m  10    56 Some((20, 3, "least")) ["dealt", "delta", "eclat", "exalt", "leant", "leapt", "least", "stale", "steal", "table"]
+alter,lanes,bagel
+alter,lanes,bagel,camel
+alter,lanes,easel
+alter,lanes,bagel,gavel
+alter,lanes,bagel,camel,hazel
+alter,lanes,label
+alter,lanes,laden
+alter,lanes,label,lapel
+alter,lanes,navel
+alter,lanes,panel
+ 58 [1;33ma[1;33ml[0mt[1;32me[0mr[0m  10   124 Some((25, 4, "lanes")) ["bagel", "camel", "easel", "gavel", "hazel", "label", "laden", "lapel", "navel", "panel"]
+alter,regal,early
+alter,regal,feral
+alter,regal,large
+alter,regal,learn
+alter,regal,pearl
+alter,regal,realm
+alter,regal
+alter,regal,relax
+alter,regal,relax,relay
+alter,regal,renal
+112 [1;33ma[1;33ml[0mt[1;33me[1;33mr[0m  10    71 Some((20, 3, "regal")) ["early", "feral", "large", "learn", "pearl", "realm", "regal", "relax", "relay", "renal"]
+alter,liver,filer
+alter,liver,idler
+alter,liver,loser,leper
+alter,liver,lever
+alter,liver,liner
+alter,liver
+alter,liver,loser
+alter,liver,lever,lover
+alter,liver,loser,lower
+alter,liver,ruler
+219 [0ma[1;33ml[0mt[1;32me[1;32mr[0m  10    71 Some((22, 3, "liver")) ["filer", "idler", "leper", "lever", "liner", "liver", "loser", "lover", "lower", "ruler"]
+alter,stole,dwelt
+alter,stole,dwelt,exult
+alter,stole,dwelt,knelt
+alter,stole,lefty
+alter,stole,smelt
+alter,stole,smelt,spelt
+alter,stole
+alter,stole,style
+alter,stole,tilde
+alter,stole,tulle
+alter,stole,utile
+ 39 [0ma[1;33ml[1;33mt[1;33me[0mr[0m  11   194 Some((24, 3, "stole")) ["dwelt", "exult", "knelt", "lefty", "smelt", "spelt", "stole", "style", "tilde", "tulle", "utile"]
+alter,cutie,butte
+alter,cutie
+alter,cutie,jetty,detox
+alter,cutie,fetch
+alter,cutie,fetid
+alter,cutie,fetus
+alter,cutie,jetty
+alter,cutie,jetty,petty
+alter,cutie,fetus,setup
+alter,cutie,tithe
+alter,cutie,untie
+ 45 [0ma[0ml[1;32mt[1;33me[0mr[0m  11   286 Some((24, 3, "cutie")) ["butte", "cutie", "detox", "fetch", "fetid", "fetus", "jetty", "petty", "setup", "tithe", "untie"]
+alter,acorn
+alter,acorn,acrid
+alter,acorn,adorn
+alter,acorn,agora
+alter,acorn,angry
+alter,acorn,apron
+alter,acorn,aroma
+alter,acorn,array
+alter,acorn,arrow
+alter,acorn,apron,arson
+alter,acorn,award
+ 83 [1;32ma[0ml[0mt[0me[1;33mr[0m  11   219 Some((22, 3, "acorn")) ["acorn", "acrid", "adorn", "agora", "angry", "apron", "aroma", "array", "arrow", "arson", "award"]
+alter,adopt,abbot
+alter,adopt,about
+alter,adopt,adapt
+alter,adopt,admit
+alter,adopt
+alter,adopt,about,afoot
+alter,adopt,amity
+alter,adopt,angst
+alter,adopt,abbot,ascot
+alter,adopt,audit
+alter,adopt,amity,aunty
+alter,adopt,angst,await
+ 11 [1;32ma[0ml[1;33mt[0me[0mr[0m  12   143 Some((27, 3, "adopt")) ["abbot", "about", "adapt", "admit", "adopt", "afoot", "amity", "angst", "ascot", "audit", "aunty", "await"]
+alter,tally,fault
+alter,tally,loath
+alter,tally,salty
+alter,tally,shalt
+alter,tally,splat
+alter,tally,shalt,stalk
+alter,tally,stall
+alter,tally
+alter,tally,talon
+alter,tally,tauld,tidal
+alter,tally,tauld,tonal
+alter,tally,tauld,tubal
+alter,tally,fault,vault
+alter,tally,waltz
+ 13 [1;33ma[1;33ml[1;33mt[0me[0mr[0m  14   197 Some((32, 3, "tally")) ["fault", "loath", "salty", "shalt", "splat", "stalk", "stall", "tally", "talon", "tidal", "tonal", "tubal", "vault", "waltz"]
+alter,trace,crate
+alter,trace,earth
+alter,trace,grate
+alter,trace,great
+alter,trace,heart
+alter,trace,grate,irate
+alter,trace,react
+alter,trace,stare
+alter,trace,teary
+alter,trace,terra
+alter,trace
+alter,trace,trade
+alter,trace,tread
+alter,trace,tread,treat
+118 [1;33ma[0ml[1;33mt[1;33me[1;33mr[0m  14    93 Some((29, 3, "trace")) ["crate", "earth", "grate", "great", "heart", "irate", "react", "stare", "teary", "terra", "trace", "trade", "tread", "treat"]
+alter,blade
+alter,blade,blame
+alter,blade,blame,blaze
+alter,blade,bleak
+alter,blade,clean
+alter,blade,plage,flake
+alter,blade,plage,flake,flame
+alter,blade,glade
+alter,blade,plage,glaze
+alter,blade,clean,gleam
+alter,blade,clean,glean
+alter,blade,plage,place
+alter,blade,plage,place,plane
+alter,blade,plead
+alter,blade,plage,flake,slave
+ 34 [1;33ma[1;32ml[0mt[1;33me[0mr[0m  15    86 Some((41, 4, "blade")) ["blade", "blame", "blaze", "bleak", "clean", "flake", "flame", "glade", "glaze", "gleam", "glean", "place", "plane", "plead", "slave"]
+alter,rigor,choir
+alter,rigor,donor
+alter,rigor,furor
+alter,rigor,donor,honor
+alter,rigor,donor,humor
+alter,rigor,incur
+alter,rigor,furor,juror
+alter,rigor,minor
+alter,rigor,occur
+alter,rigor,prior
+alter,rigor
+alter,rigor,rumor
+alter,rigor,occur,scour
+alter,rigor,vigor
+alter,rigor,minor,visor
+162 [0ma[0ml[0mt[0me[1;32mr[0m  15   673 Some((34, 3, "rigor")) ["choir", "donor", "furor", "honor", "humor", "incur", "juror", "minor", "occur", "prior", "rigor", "rumor", "scour", "vigor", "visor"]
+alter,invar,briar
+alter,invar,chair
+alter,invar,briar,cigar
+alter,invar,favor
+alter,invar,briar,friar
+alter,invar,major
+alter,invar,manor
+alter,invar,major,mayor
+alter,invar,nadir
+alter,invar,radar
+alter,invar,major,razor
+alter,invar,favor,savor
+alter,invar,sonar
+alter,invar,radar,sugar
+alter,invar,vapor
+alter,invar,vicar
+163 [1;33ma[0ml[0mt[0me[1;32mr[0m  16   282 Some((38, 3, "invar")) ["briar", "chair", "cigar", "favor", "friar", "major", "manor", "mayor", "nadir", "radar", "razor", "savor", "sonar", "sugar", "vapor", "vicar"]
+alter,split,built
+alter,split,filth
+alter,split,built,guilt
+alter,split,built,light
+alter,split,limit
+alter,split,lofty
+alter,split,lusty
+alter,split,moult
+alter,split,pilot
+alter,split,built,guilt,quilt
+alter,split,spilt
+alter,split
+alter,split,still
+alter,split,stilt
+alter,split,stool
+alter,split,tulip
+alter,split,unlit
+ 12 [0ma[1;33ml[1;33mt[0me[0mr[0m  17   491 Some((37, 4, "split")) ["built", "filth", "guilt", "light", "limit", "lofty", "lusty", "moult", "pilot", "quilt", "spilt", "split", "still", "stilt", "stool", "tulip", "unlit"]
+ 19 [1;33ma[0ml[1;32mt[0me[0mr[0m  17   250 None ["batch", "baton", "batty", "catch", "catty", "datum", "fatty", "hatch", "match", "patch", "patio", "patsy", "patty", "satin", "tatty", "titan", "watch"]

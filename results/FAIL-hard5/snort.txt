@@ -1,0 +1,618 @@
+snort,noose
+ 22 [1;33ms[1;33mn[1;32mo[0mr[0mt[0m   1    89 Some((1, 1, "noose")) ["noose"]
+snort,sneer
+ 35 [1;32ms[1;32mn[0mo[1;33mr[0mt[0m   1    10 Some((1, 1, "sneer")) ["sneer"]
+snort,arson
+ 40 [1;33ms[1;33mn[1;33mo[1;33mr[0mt[0m   1    33 Some((1, 1, "arson")) ["arson"]
+snort,sonar
+ 41 [1;32ms[1;33mn[1;33mo[1;33mr[0mt[0m   1     9 Some((1, 1, "sonar")) ["sonar"]
+snort,scour
+ 47 [1;32ms[0mn[1;32mo[1;33mr[0mt[0m   1    28 Some((1, 1, "scour")) ["scour"]
+snort,usurp
+ 55 [1;33ms[0mn[0mo[1;32mr[0mt[0m   1   285 Some((1, 1, "usurp")) ["usurp"]
+snort,spurn
+ 59 [1;32ms[1;33mn[0mo[1;32mr[0mt[0m   1    16 Some((1, 1, "spurn")) ["spurn"]
+snort,angry
+ 60 [0ms[1;32mn[0mo[1;32mr[0mt[0m   1    41 Some((1, 1, "angry")) ["angry"]
+snort,sorry
+ 65 [1;32ms[0mn[1;33mo[1;32mr[0mt[0m   1    29 Some((1, 1, "sorry")) ["sorry"]
+snort,mourn
+ 66 [0ms[1;33mn[1;33mo[1;32mr[0mt[0m   1    23 Some((1, 1, "mourn")) ["mourn"]
+snort,snore
+ 80 [1;32ms[1;32mn[1;32mo[1;32mr[0mt[0m   1     2 Some((1, 1, "snore")) ["snore"]
+snort,south
+ 92 [1;32ms[0mn[1;33mo[0mr[1;33mt[0m   1    99 Some((1, 1, "south")) ["south"]
+snort,those
+100 [1;33ms[0mn[1;32mo[0mr[1;33mt[0m   1   120 Some((1, 1, "those")) ["those"]
+snort,stern
+140 [1;32ms[1;33mn[0mo[1;32mr[1;33mt[0m   1     4 Some((1, 1, "stern")) ["stern"]
+snort,entry
+141 [0ms[1;32mn[0mo[1;32mr[1;33mt[0m   1     8 Some((1, 1, "entry")) ["entry"]
+snort,intro
+150 [0ms[1;32mn[1;33mo[1;32mr[1;33mt[0m   1     2 Some((1, 1, "intro")) ["intro"]
+snort,thorn
+156 [0ms[1;33mn[1;32mo[1;32mr[1;33mt[0m   1     2 Some((1, 1, "thorn")) ["thorn"]
+snort,ingot
+177 [0ms[1;32mn[1;33mo[0mr[1;32mt[0m   1     8 Some((1, 1, "ingot")) ["ingot"]
+snort,onset
+178 [1;33ms[1;32mn[1;33mo[0mr[1;32mt[0m   1     4 Some((1, 1, "onset")) ["onset"]
+snort,snout
+188 [1;32ms[1;32mn[1;32mo[0mr[1;32mt[0m   1     3 Some((1, 1, "snout")) ["snout"]
+snort,strut
+191 [1;32ms[0mn[0mo[1;33mr[1;32mt[0m   1    22 Some((1, 1, "strut")) ["strut"]
+snort,front
+210 [0ms[1;33mn[1;32mo[1;33mr[1;32mt[0m   1     2 Some((1, 1, "front")) ["front"]
+snort,inert
+222 [0ms[1;32mn[0mo[1;32mr[1;32mt[0m   1     3 Some((1, 1, "inert")) ["inert"]
+snort,abort
+234 [0ms[0mn[1;32mo[1;32mr[1;32mt[0m   1     9 Some((1, 1, "abort")) ["abort"]
+snort
+242 [1;32ms[1;32mn[1;32mo[1;32mr[1;32mt[0m   1     1 Some((1, 1, "snort")) ["snort"]
+snort,ensue
+snort,ensue,gnash
+  7 [1;33ms[1;32mn[0mo[0mr[0mt[0m   2   127 Some((3, 2, "ensue")) ["ensue", "gnash"]
+snort,snoop
+snort,snoop,snowy
+ 26 [1;32ms[1;32mn[1;32mo[0mr[0mt[0m   2    18 Some((3, 2, "snoop")) ["snoop", "snowy"]
+snort,saner
+snort,saner,siren
+ 32 [1;32ms[1;33mn[0mo[1;33mr[0mt[0m   2    29 Some((3, 2, "saner")) ["saner", "siren"]
+snort,snare
+snort,snare,snarl
+ 62 [1;32ms[1;32mn[0mo[1;32mr[0mt[0m   2     9 Some((3, 2, "snare")) ["snare", "snarl"]
+snort,acorn
+snort,acorn,adorn
+ 75 [0ms[1;33mn[1;32mo[1;32mr[0mt[0m   2    12 Some((3, 2, "acorn")) ["acorn", "adorn"]
+snort,nasty
+snort,nasty,tense
+ 85 [1;33ms[1;33mn[0mo[0mr[1;33mt[0m   2   181 Some((3, 2, "nasty")) ["nasty", "tense"]
+snort,atone
+snort,atone,thong
+102 [0ms[1;33mn[1;32mo[0mr[1;33mt[0m   2    29 Some((3, 2, "atone")) ["atone", "thong"]
+snort,stone
+snort,stone,stony
+104 [1;32ms[1;33mn[1;32mo[0mr[1;33mt[0m   2    13 Some((3, 2, "stone")) ["stone", "stony"]
+snort,enter
+snort,enter,inter
+114 [0ms[1;32mn[0mo[1;33mr[1;33mt[0m   2    11 Some((3, 2, "enter")) ["enter", "inter"]
+snort,torso
+snort,torso,torus
+118 [1;33ms[0mn[1;33mo[1;33mr[1;33mt[0m   2    75 Some((3, 2, "torso")) ["torso", "torus"]
+snort,north
+snort,north,tenor
+120 [0ms[1;33mn[1;33mo[1;33mr[1;33mt[0m   2    20 Some((3, 2, "north")) ["north", "tenor"]
+snort,stare
+snort,stare,stark
+137 [1;32ms[0mn[0mo[1;32mr[1;33mt[0m   2    35 Some((3, 2, "stare")) ["stare", "stark"]
+snort,metro
+snort,metro,retro
+144 [0ms[0mn[1;33mo[1;32mr[1;33mt[0m   2    31 Some((3, 2, "metro")) ["metro", "retro"]
+snort,angst
+snort,angst,unset
+169 [1;33ms[1;32mn[0mo[0mr[1;32mt[0m   2    10 Some((3, 2, "angst")) ["angst", "unset"]
+snort,boost
+snort,boost,ghost
+181 [1;33ms[0mn[1;32mo[0mr[1;32mt[0m   2    34 Some((3, 2, "boost")) ["boost", "ghost"]
+snort,roast
+snort,roast,worst
+199 [1;33ms[0mn[1;33mo[1;33mr[1;32mt[0m   2    16 Some((3, 2, "roast")) ["roast", "worst"]
+snort,frost
+snort,frost,roost
+208 [1;33ms[0mn[1;32mo[1;33mr[1;32mt[0m   2     8 Some((3, 2, "frost")) ["frost", "roost"]
+snort,court
+snort,court,overt
+225 [0ms[0mn[1;33mo[1;32mr[1;32mt[0m   2    13 Some((3, 2, "court")) ["court", "overt"]
+snort,short
+snort,short,sport
+236 [1;32ms[0mn[1;32mo[1;32mr[1;32mt[0m   2     4 Some((3, 2, "short")) ["short", "sport"]
+snort,scorn
+snort,scorn,shorn
+snort,scorn,shorn,sworn
+ 77 [1;32ms[1;33mn[1;32mo[1;32mr[0mt[0m   3     5 Some((6, 3, "scorn")) ["scorn", "shorn", "sworn"]
+snort,ethos
+snort,ethos,gusto
+snort,ethos,pesto
+ 91 [1;33ms[0mn[1;33mo[0mr[1;33mt[0m   3   356 Some((5, 2, "ethos")) ["ethos", "gusto", "pesto"]
+snort,trend,train
+snort,trend
+snort,trend,trunk
+111 [0ms[1;33mn[0mo[1;33mr[1;33mt[0m   3    77 Some((5, 2, "trend")) ["train", "trend", "trunk"]
+snort,orbit
+snort,orbit,robot
+snort,orbit,tarot
+198 [0ms[0mn[1;33mo[1;33mr[1;32mt[0m   3    50 Some((5, 2, "orbit")) ["orbit", "robot", "tarot"]
+snort,grout,droit
+snort,grout
+snort,grout,trout
+207 [0ms[0mn[1;32mo[1;33mr[1;32mt[0m   3    23 Some((5, 2, "grout")) ["droit", "grout", "trout"]
+snort,resin,nurse
+snort,resin
+snort,resin,rinse
+snort,resin,risen
+ 31 [1;33ms[1;33mn[0mo[1;33mr[0mt[0m   4   137 Some((7, 2, "resin")) ["nurse", "resin", "rinse", "risen"]
+snort,sober,savor
+snort,sober
+snort,sober,solar
+snort,sober,sower
+ 38 [1;32ms[0mn[1;33mo[1;33mr[0mt[0m   4    85 Some((7, 2, "sober")) ["savor", "sober", "solar", "sower"]
+snort,store
+snort,store,stork
+snort,store,stork,storm
+snort,store,stork,storm,story
+155 [1;32ms[0mn[1;32mo[1;32mr[1;33mt[0m   4     8 Some((10, 4, "store")) ["store", "stork", "storm", "story"]
+snort,scion,salon
+snort,scion
+snort,scion,sonic
+snort,scion,sound
+snort,scion,synod
+ 14 [1;32ms[1;33mn[1;33mo[0mr[0mt[0m   5    72 Some((9, 2, "scion")) ["salon", "scion", "sonic", "sound", "synod"]
+snort,shown,scone
+snort,shown,shone
+snort,shown
+snort,shown,spoon
+snort,shown,swoon
+ 23 [1;32ms[1;33mn[1;32mo[0mr[0mt[0m   5    39 Some((9, 2, "shown")) ["scone", "shone", "shown", "spoon", "swoon"]
+snort,anole,anode
+snort,anole,gnome
+snort,anole,knock
+snort,anole,knoll
+snort,anole,knock,known
+ 24 [0ms[1;32mn[1;32mo[0mr[0mt[0m   5    39 Some((11, 3, "anole")) ["anode", "gnome", "knock", "knoll", "known"]
+snort,inrun,anger
+snort,inrun,incur
+snort,inrun,infer
+snort,inrun,inner
+snort,inrun,under
+ 33 [0ms[1;32mn[0mo[1;33mr[0mt[0m   5    64 Some((10, 2, "inrun")) ["anger", "incur", "infer", "inner", "under"]
+snort,crogs,arose
+snort,crogs,cross
+snort,crogs,dross
+snort,crogs,gross
+snort,crogs,arose,prose
+ 46 [1;33ms[0mn[1;32mo[1;33mr[0mt[0m   5   102 Some((11, 3, "crogs")) ["arose", "cross", "dross", "gross", "prose"]
+snort,learn,cairn
+snort,learn,churn
+snort,learn,genre
+snort,learn
+snort,learn,yearn
+ 57 [0ms[1;33mn[0mo[1;32mr[0mt[0m   5    79 Some((9, 2, "learn")) ["cairn", "churn", "genre", "learn", "yearn"]
+snort,score
+snort,score,shore
+snort,score,shore,spore
+snort,score,sword
+snort,score,shore,spore,swore
+ 74 [1;32ms[0mn[1;32mo[1;32mr[0mt[0m   5    22 Some((12, 4, "score")) ["score", "shore", "spore", "sword", "swore"]
+snort,unite,antic
+snort,unite
+snort,unite,unity
+snort,unite,untie
+snort,unite,until
+ 87 [0ms[1;32mn[0mo[0mr[1;33mt[0m   5    75 Some((9, 2, "unite")) ["antic", "unite", "unity", "untie", "until"]
+snort,count
+snort,count,donut
+snort,count,joint
+snort,count,mount
+snort,count,joint,point
+174 [0ms[1;33mn[1;33mo[0mr[1;32mt[0m   5    24 Some((10, 3, "count")) ["count", "donut", "joint", "mount", "point"]
+snort,shott,scout
+snort,shott,shoot
+snort,shott,shoot,shout
+snort,shott,scout,spout
+snort,shott,stout
+182 [1;32ms[0mn[1;32mo[0mr[1;32mt[0m   5    25 Some((12, 3, "shott")) ["scout", "shoot", "shout", "spout", "stout"]
+snort,grunt,brunt
+snort,grunt,burnt
+snort,grunt,grant
+snort,grunt
+snort,grunt,print
+192 [0ms[1;33mn[0mo[1;33mr[1;32mt[0m   5    24 Some((9, 2, "grunt")) ["brunt", "burnt", "grant", "grunt", "print"]
+snort,shirt
+snort,shirt,skirt
+snort,shirt,smart
+snort,shirt,smart,spurt
+snort,shirt,smart,start
+218 [1;32ms[0mn[0mo[1;32mr[1;32mt[0m   5    17 Some((11, 3, "shirt")) ["shirt", "skirt", "smart", "spurt", "start"]
+snort,salvo
+snort,salvo,savoy
+snort,salvo,soapy
+snort,salvo,soggy
+snort,salvo,solid
+snort,salvo,solve
+ 11 [1;32ms[0mn[1;33mo[0mr[0mt[0m   6   394 Some((11, 2, "salvo")) ["salvo", "savoy", "soapy", "soggy", "solid", "solve"]
+snort,noise,bison
+snort,noise,bonus
+snort,noise,mason
+snort,noise
+snort,noise,noisy
+snort,noise,nosey
+ 13 [1;33ms[1;33mn[1;33mo[0mr[0mt[0m   6   281 Some((11, 2, "noise")) ["bison", "bonus", "mason", "noise", "noisy", "nosey"]
+snort,artsy
+snort,artsy,ester
+snort,artsy,rusty
+snort,artsy,terse
+snort,artsy,trash
+snort,artsy,truss
+109 [1;33ms[0mn[0mo[1;33mr[1;33mt[0m   6   272 Some((11, 2, "artsy")) ["artsy", "ester", "rusty", "terse", "trash", "truss"]
+snort,anils,ashen
+snort,anils,basin
+snort,anils,dense
+snort,anils,minus
+snort,anils,nasal
+snort,anils,pansy
+snort,anils,using
+  4 [1;33ms[1;33mn[0mo[0mr[0mt[0m   7  1027 Some((14, 2, "anils")) ["ashen", "basin", "dense", "minus", "nasal", "pansy", "using"]
+snort,onned,annoy
+snort,onned,endow
+snort,onned,enjoy
+snort,onned,enjoy,envoy
+snort,onned,inbox
+snort,onned,onion
+snort,onned,union
+ 15 [0ms[1;32mn[1;33mo[0mr[0mt[0m   7    84 Some((15, 3, "onned")) ["annoy", "endow", "enjoy", "envoy", "inbox", "onion", "union"]
+snort,horse
+snort,horse,loser
+snort,horse,loser,poser
+snort,horse,rouse
+snort,horse,verso
+snort,horse,visor
+snort,horse,worse
+ 37 [1;33ms[0mn[1;33mo[1;33mr[0mt[0m   7   379 Some((14, 3, "horse")) ["horse", "loser", "poser", "rouse", "verso", "visor", "worse"]
+snort,satyr
+snort,satyr,stair
+snort,satyr,steer
+snort,satyr,strap
+snort,satyr,strap,straw
+snort,satyr,stray
+snort,satyr,strip
+110 [1;32ms[0mn[0mo[1;33mr[1;33mt[0m   7    67 Some((14, 3, "satyr")) ["satyr", "stair", "steer", "strap", "straw", "stray", "strip"]
+snort,trope,broth
+snort,trope,broth,froth
+snort,trope,troll
+snort,trope,troop
+snort,trope
+snort,trope,trove
+snort,trope,wrote
+126 [0ms[0mn[1;32mo[1;33mr[1;33mt[0m   7    66 Some((14, 3, "trope")) ["broth", "froth", "troll", "troop", "trope", "trove", "wrote"]
+snort,adore
+snort,adore,agora
+snort,adore,chord
+snort,adore,chore
+snort,adore,chord,fjord
+snort,adore,flora
+snort,adore,glory
+snort,adore,glory,ivory
+ 72 [0ms[0mn[1;32mo[1;32mr[0mt[0m   8    79 Some((17, 3, "adore")) ["adore", "agora", "chord", "chore", "fjord", "flora", "glory", "ivory"]
+snort,scant,saint
+snort,scant
+snort,scant,scent
+snort,scant,stunt,shunt
+snort,scant,slant
+snort,scant,stunt,spent
+snort,scant,stunt,stint
+snort,scant,stunt
+167 [1;32ms[1;33mn[0mo[0mr[1;32mt[0m   8    20 Some((18, 3, "scant")) ["saint", "scant", "scent", "shunt", "slant", "spent", "stint", "stunt"]
+snort,loose,chose
+snort,loose,close
+snort,loose,floss
+snort,loose,floss,gloss
+snort,loose,goose
+snort,loose,kiosk
+snort,loose
+snort,loose,goose,moose
+snort,loose,chose,whose
+ 19 [1;33ms[0mn[1;32mo[0mr[0mt[0m   9   474 Some((20, 3, "loose")) ["chose", "close", "floss", "gloss", "goose", "kiosk", "loose", "moose", "whose"]
+snort,stank,satin
+snort,stank,stain
+snort,stank,stand
+snort,stank
+snort,stank,stein
+snort,stank,sting
+snort,stank,stink
+snort,stank,sting,stung
+snort,stank,stink,stunk
+ 86 [1;32ms[1;33mn[0mo[0mr[1;33mt[0m   9    59 Some((19, 3, "stank")) ["satin", "stain", "stand", "stank", "stein", "sting", "stink", "stung", "stunk"]
+snort,booth,atoll
+snort,booth
+snort,booth,booty
+snort,booth,cloth
+snort,booth,photo
+snort,booth,quota
+snort,booth,quota,quote
+snort,booth,cloth,quoth
+snort,booth,tooth
+ 99 [0ms[0mn[1;32mo[0mr[1;33mt[0m   9   222 Some((19, 3, "booth")) ["atoll", "booth", "booty", "cloth", "photo", "quota", "quote", "quoth", "tooth"]
+snort,heart,extra
+snort,heart,retry
+snort,heart,teary
+snort,heart,terra
+snort,heart,there
+snort,heart,third
+snort,heart,tiara
+snort,heart,twirl
+snort,heart,ultra
+135 [0ms[0mn[0mo[1;32mr[1;33mt[0m   9   132 Some((18, 2, "heart")) ["extra", "retry", "teary", "terra", "there", "third", "tiara", "twirl", "ultra"]
+snort,inlet,enact
+snort,inlet,inept
+snort,inlet
+snort,inlet,input
+snort,inlet,knelt
+snort,inlet,uncut
+snort,inlet,unfit
+snort,inlet,unlit
+snort,inlet,unmet
+168 [0ms[1;32mn[0mo[0mr[1;32mt[0m   9    38 Some((17, 2, "inlet")) ["enact", "inept", "inlet", "input", "knelt", "uncut", "unfit", "unlit", "unmet"]
+snort,flout,about
+snort,flout,adopt
+snort,flout,afoot
+snort,flout,aloft
+snort,flout,bloat
+snort,flout,clout
+snort,flout,float
+snort,flout
+snort,flout,bloat,gloat
+180 [0ms[0mn[1;32mo[0mr[1;32mt[0m   9    75 Some((18, 3, "flout")) ["about", "adopt", "afoot", "aloft", "bloat", "clout", "float", "flout", "gloat"]
+snort,crust,burst
+snort,crust,crest
+snort,crust
+snort,crust,first
+snort,crust,reset
+snort,crust,trust
+snort,crust,wrest,tryst
+snort,crust,wrest
+snort,crust,wrest,wrist
+190 [1;33ms[0mn[0mo[1;33mr[1;32mt[0m   9    67 Some((19, 3, "crust")) ["burst", "crest", "crust", "first", "reset", "trust", "tryst", "wrest", "wrist"]
+snort,alert
+snort,alert,apart
+snort,alert,avert
+snort,alert,blurt
+snort,alert,chart
+snort,alert,exert
+snort,alert,blurt,flirt
+snort,alert,heart
+snort,alert,chart,quart
+216 [0ms[0mn[0mo[1;32mr[1;32mt[0m   9    50 Some((19, 3, "alert")) ["alert", "apart", "avert", "blurt", "chart", "exert", "flirt", "heart", "quart"]
+snort,snake,snack
+snort,snake,snail
+snort,snake
+snort,snake,snaky
+snort,snake,sneak
+snort,snake,snide
+snort,snake,sniff
+snort,snake,snide,snipe
+snort,snake,snuck
+snort,snake,sniff,snuff
+  8 [1;32ms[1;32mn[0mo[0mr[0mt[0m  10    63 Some((21, 3, "snake")) ["snack", "snail", "snake", "snaky", "sneak", "snide", "sniff", "snipe", "snuck", "snuff"]
+snort,joist,ascot
+snort,joist,boast
+snort,joist,boast,coast
+snort,joist,foist
+snort,joist,foist,hoist
+snort,joist
+snort,joist,joust
+snort,joist,foist,hoist,moist
+snort,joist,posit
+snort,joist,boast,coast,toast
+172 [1;33ms[0mn[1;33mo[0mr[1;32mt[0m  10    68 Some((25, 4, "joist")) ["ascot", "boast", "coast", "foist", "hoist", "joist", "joust", "moist", "posit", "toast"]
+snort,alone,agony
+snort,alone
+snort,alone,along
+snort,alone,agony,among
+snort,alone,blond
+snort,alone,blown
+snort,alone,clone
+snort,alone,blown,clown
+snort,alone,ebony
+snort,alone,blown,clown,flown
+snort,alone,ozone
+snort,alone,ozone,phone
+snort,alone,phony
+ 21 [0ms[1;33mn[1;32mo[0mr[0mt[0m  13   188 Some((30, 4, "alone")) ["agony", "alone", "along", "among", "blond", "blown", "clone", "clown", "ebony", "flown", "ozone", "phone", "phony"]
+snort,board
+snort,board,cobra
+snort,board,dowry
+snort,board,gourd
+snort,board,hoard
+snort,board,hydro
+snort,board,lorry
+snort,board,macro
+snort,board,micro
+snort,board,ombre
+snort,board,macro,opera
+snort,board,ovary
+snort,board,lorry,worry
+ 63 [0ms[0mn[1;33mo[1;32mr[0mt[0m  13   194 Some((27, 3, "board")) ["board", "cobra", "dowry", "gourd", "hoard", "hydro", "lorry", "macro", "micro", "ombre", "opera", "ovary", "worry"]
+snort,tonka,baton
+snort,tonka,junto
+snort,tonka,month
+snort,tonka,notch
+snort,tonka,often
+snort,tonka,junto,pinto
+snort,tonka,talon
+snort,tonka,tango
+snort,tonka,token
+snort,tonka,tonal
+snort,tonka,tonga
+snort,tonka,tonic
+snort,tonka,toxin
+ 93 [0ms[1;33mn[1;33mo[0mr[1;33mt[0m  13   140 Some((27, 3, "tonka")) ["baton", "junto", "month", "notch", "often", "pinto", "talon", "tango", "token", "tonal", "tonga", "tonic", "toxin"]
+snort,stole,sloth
+snort,stole,smote
+snort,stole,sooth
+snort,stole,sooth,sooty
+snort,stole,stoop,stock
+snort,stole,stoop,stock,stoic
+snort,stole,stoke
+snort,stole
+snort,stole,stoop,stomp
+snort,stole,stoop,stood
+snort,stole,stool
+snort,stole,stoop
+snort,stole,stoke,stove
+101 [1;32ms[0mn[1;32mo[0mr[1;33mt[0m  13    77 Some((32, 4, "stole")) ["sloth", "smote", "sooth", "sooty", "stock", "stoic", "stoke", "stole", "stomp", "stood", "stool", "stoop", "stove"]
+snort,pilot,abbot
+snort,pilot,allot
+snort,pilot,bigot
+snort,pilot,comet
+snort,pilot,comet,covet
+snort,pilot,depot
+snort,pilot,comet,doubt
+snort,pilot,idiot
+snort,pilot,moult
+snort,pilot,comet,octet
+snort,pilot,comet,ought
+snort,pilot
+snort,pilot,pivot
+snort,pilot,vomit
+171 [0ms[0mn[1;33mo[0mr[1;32mt[0m  14   198 Some((31, 3, "pilot")) ["abbot", "allot", "bigot", "comet", "covet", "depot", "doubt", "idiot", "moult", "octet", "ought", "pilot", "pivot", "vomit"]
+snort,prong,bronc,brown
+snort,prong,crone
+snort,prong,crone,crony
+snort,prong,bronc,crown
+snort,prong,crone,drone
+snort,prong,bronc,drown
+snort,prong,crone,frond
+snort,prong,bronc,drown,frown
+snort,prong,groan
+snort,prong,groan,groin
+snort,prong,groan,groin,grown
+snort,prong,crone,frond,irony
+snort,prong,prone
+snort,prong
+snort,prong,wrong
+ 48 [0ms[1;33mn[1;32mo[1;33mr[0mt[0m  15    51 Some((42, 4, "prong")) ["brown", "crone", "crony", "crown", "drone", "drown", "frond", "frown", "groan", "groin", "grown", "irony", "prone", "prong", "wrong"]
+snort,posse,bosom
+snort,posse,bossy
+snort,posse,chaos
+snort,posse,copse
+snort,posse,disco
+snort,posse,focus
+snort,posse,house
+snort,posse,lasso
+snort,posse,focus,locus
+snort,posse,house,louse
+snort,posse,lousy
+snort,posse,bossy,mossy
+snort,posse,house,louse,mouse
+snort,posse,obese
+snort,posse,poesy
+snort,posse,poise
+snort,posse
+ 10 [1;33ms[0mn[1;33mo[0mr[0mt[0m  17  1658 Some((38, 4, "posse")) ["bosom", "bossy", "chaos", "copse", "disco", "focus", "house", "lasso", "locus", "louse", "lousy", "mossy", "mouse", "obese", "poesy", "poise", "posse"]
+snort,spare,scare
+snort,spare,scarf
+snort,spare,scarf,scary
+snort,spare,scarf,shard
+snort,spare,scare,share
+snort,spare,scarf,shard,shark
+snort,spare,sharp
+snort,spare,shire
+snort,spare,shirk
+snort,spare,slurp
+snort,spare,shirk,smirk
+snort,spare
+snort,spare,spark
+snort,spare,sperm
+snort,spare,spire
+snort,spare,scarf,shard,swarm
+snort,spare,shirk,swirl
+ 56 [1;32ms[0mn[0mo[1;32mr[0mt[0m  17   131 Some((42, 4, "spare")) ["scare", "scarf", "scary", "shard", "share", "shark", "sharp", "shire", "shirk", "slurp", "smirk", "spare", "spark", "sperm", "spire", "swarm", "swirl"]
+snort,borne,apron
+snort,borne,baron
+snort,borne
+snort,borne,corny
+snort,borne,donor
+snort,borne,goner
+snort,borne,heron
+snort,borne,donor,honor
+snort,borne,corny,horny
+snort,borne,manor
+snort,borne,manor,minor
+snort,borne,moron
+snort,borne,manor,organ
+snort,borne,owner
+snort,borne,manor,rayon
+snort,borne,rhino
+snort,borne,robin
+snort,borne,round
+ 39 [0ms[1;33mn[1;33mo[1;33mr[0mt[0m  18   166 Some((40, 3, "borne")) ["apron", "baron", "borne", "corny", "donor", "goner", "heron", "honor", "horny", "manor", "minor", "moron", "organ", "owner", "rayon", "rhino", "robin", "round"]
+snort,least,asset
+snort,least,beast
+snort,least,beset
+snort,least,blast
+snort,least,guest,chest
+snort,least,guest,exist
+snort,least,beast,feast
+snort,least,guest
+snort,least,heist
+snort,least,islet
+snort,least
+snort,least,midst
+snort,least,guest,quest
+snort,least,midst,twist
+snort,least,upset
+snort,least,visit
+snort,least,waist
+snort,least,beast,feast,yeast
+163 [1;33ms[0mn[0mo[0mr[1;32mt[0m  18   239 Some((42, 4, "least")) ["asset", "beast", "beset", "blast", "chest", "exist", "feast", "guest", "heist", "islet", "least", "midst", "quest", "twist", "upset", "visit", "waist", "yeast"]
+snort,spilt,sheet,shaft
+snort,spilt,shalt
+snort,spilt,sheet
+snort,spilt,shift
+snort,spilt,sight
+snort,spilt,sleet
+snort,spilt,slept
+snort,spilt,shalt,smelt
+snort,spilt,spelt
+snort,spilt
+snort,spilt,splat
+snort,spilt,split
+snort,spilt,sheet,squat
+snort,spilt,stilt
+snort,spilt,sheet,sweat
+snort,spilt,sheet,sweet
+snort,spilt,swept
+snort,spilt,shift,swift
+164 [1;32ms[0mn[0mo[0mr[1;32mt[0m  18   104 Some((41, 3, "spilt")) ["shaft", "shalt", "sheet", "shift", "sight", "sleet", "slept", "smelt", "spelt", "spilt", "splat", "split", "squat", "stilt", "sweat", "sweet", "swept", "swift"]
+snort,tangy,aunty
+snort,tangy,eaten
+snort,tangy,junta
+snort,tangy,minty
+snort,tangy,eaten,natal
+snort,tangy,ninth
+snort,tangy,nutty
+snort,tangy,taken
+snort,tangy
+snort,tangy,tawny
+snort,tangy,tenth
+snort,tangy,thank
+snort,tangy,thing
+snort,tangy,think
+snort,tangy,thank,titan
+snort,tangy,tenth,tunic
+snort,tangy,twang
+snort,tangy,think,twine
+snort,tangy,tying
+ 84 [0ms[1;33mn[0mo[0mr[1;33mt[0m  19   537 Some((41, 3, "tangy")) ["aunty", "eaten", "junta", "minty", "natal", "ninth", "nutty", "taken", "tangy", "tawny", "tenth", "thank", "thing", "think", "titan", "tunic", "twang", "twine", "tying"]
+snort,rotte,actor
+snort,rotte,forth,aorta
+snort,rotte,forte
+snort,rotte,forth
+snort,rotte,forth,forty
+snort,rotte,motor
+snort,rotte,other
+snort,rotte,otter
+snort,rotte,outer
+snort,rotte,ratio
+snort,rotte,rotor
+snort,rotte,route
+snort,rotte,throb
+snort,rotte,throb,throw
+snort,rotte,torch
+snort,rotte,tower
+snort,rotte,throb,tumor
+snort,rotte,throb,turbo
+snort,rotte,tutor
+snort,rotte,voter
+snort,rotte,forth,worth
+117 [0ms[0mn[1;33mo[1;33mr[1;33mt[0m  21   219 Some((48, 3, "rotte")) ["actor", "aorta", "forte", "forth", "forty", "motor", "other", "otter", "outer", "ratio", "rotor", "route", "throb", "throw", "torch", "tower", "tumor", "turbo", "tutor", "voter", "worth"]
+165 [0ms[1;33mn[0mo[0mr[1;32mt[0m  21   148 None ["agent", "blunt", "chant", "daunt", "event", "faint", "flint", "gaunt", "giant", "glint", "haunt", "jaunt", "leant", "meant", "night", "paint", "plant", "taint", "taunt", "tenet", "vaunt"]

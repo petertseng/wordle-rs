@@ -1,0 +1,640 @@
+ancle,acorn
+ 14 [1;32ma[1;33mn[1;33mc[0ml[0me[0m   1    14 Some((1, 1, "acorn")) ["acorn"]
+ancle,antic
+ 17 [1;32ma[1;32mn[1;33mc[0ml[0me[0m   1     4 Some((1, 1, "antic")) ["antic"]
+ancle,ascot
+ 20 [1;32ma[0mn[1;32mc[0ml[0me[0m   1    16 Some((1, 1, "ascot")) ["ascot"]
+ancle,bacon
+ 22 [1;33ma[1;33mn[1;32mc[0ml[0me[0m   1    18 Some((1, 1, "bacon")) ["bacon"]
+ancle,nobly
+ 57 [0ma[1;33mn[0mc[1;32ml[0me[0m   1    52 Some((1, 1, "nobly")) ["nobly"]
+ancle,manly
+ 58 [1;33ma[1;33mn[0mc[1;32ml[0me[0m   1    18 Some((1, 1, "manly")) ["manly"]
+ancle,knoll
+ 60 [0ma[1;32mn[0mc[1;32ml[0me[0m   1    19 Some((1, 1, "knoll")) ["knoll"]
+ancle,ocean
+ 94 [1;33ma[1;33mn[1;33mc[0ml[1;33me[0m   1    25 Some((1, 1, "ocean")) ["ocean"]
+ancle,enact
+ 97 [1;33ma[1;32mn[1;33mc[0ml[1;33me[0m   1     3 Some((1, 1, "enact")) ["enact"]
+ancle,nicer
+102 [0ma[1;33mn[1;32mc[0ml[1;33me[0m   1    16 Some((1, 1, "nicer")) ["nicer"]
+ancle,pecan
+103 [1;33ma[1;33mn[1;32mc[0ml[1;33me[0m   1     5 Some((1, 1, "pecan")) ["pecan"]
+ancle,alien
+113 [1;32ma[1;33mn[0mc[1;33ml[1;33me[0m   1    11 Some((1, 1, "alien")) ["alien"]
+ancle,angel
+116 [1;32ma[1;32mn[0mc[1;33ml[1;33me[0m   1     7 Some((1, 1, "angel")) ["angel"]
+ancle,clean
+121 [1;33ma[1;33mn[1;33mc[1;33ml[1;33me[0m   1     3 Some((1, 1, "clean")) ["clean"]
+ancle,newly
+138 [0ma[1;33mn[0mc[1;32ml[1;33me[0m   1    24 Some((1, 1, "newly")) ["newly"]
+ancle,knelt
+141 [0ma[1;32mn[0mc[1;32ml[1;33me[0m   1    15 Some((1, 1, "knelt")) ["knelt"]
+ancle,cello
+144 [0ma[0mn[1;33mc[1;32ml[1;33me[0m   1    23 Some((1, 1, "cello")) ["cello"]
+ancle,atone
+167 [1;32ma[1;33mn[0mc[0ml[1;32me[0m   1    27 Some((1, 1, "atone")) ["atone"]
+ancle,acute
+173 [1;32ma[0mn[1;33mc[0ml[1;32me[0m   1     6 Some((1, 1, "acute")) ["acute"]
+ancle,emcee
+180 [0ma[0mn[1;32mc[0ml[1;32me[0m   1    31 Some((1, 1, "emcee")) ["emcee"]
+ancle,cache
+181 [1;33ma[0mn[1;32mc[0ml[1;32me[0m   1    10 Some((1, 1, "cache")) ["cache"]
+ancle,niche
+183 [0ma[1;33mn[1;32mc[0ml[1;32me[0m   1     6 Some((1, 1, "niche")) ["niche"]
+ancle,lunge
+192 [0ma[1;33mn[0mc[1;33ml[1;32me[0m   1    32 Some((1, 1, "lunge")) ["lunge"]
+ancle,plane
+193 [1;33ma[1;33mn[0mc[1;33ml[1;32me[0m   1    17 Some((1, 1, "plane")) ["plane"]
+ancle,alone
+194 [1;32ma[1;33mn[0mc[1;33ml[1;32me[0m   1     9 Some((1, 1, "alone")) ["alone"]
+ancle,place
+199 [1;33ma[0mn[1;33mc[1;33ml[1;32me[0m   1    13 Some((1, 1, "place")) ["place"]
+ancle,clone
+201 [0ma[1;33mn[1;33mc[1;33ml[1;32me[0m   1     6 Some((1, 1, "clone")) ["clone"]
+ancle,lance
+202 [1;33ma[1;33mn[1;33mc[1;33ml[1;32me[0m   1     2 Some((1, 1, "lance")) ["lance"]
+ancle,noble
+219 [0ma[1;33mn[0mc[1;32ml[1;32me[0m   1    14 Some((1, 1, "noble")) ["noble"]
+ancle,cycle
+234 [0ma[0mn[1;32mc[1;32ml[1;32me[0m   1     6 Some((1, 1, "cycle")) ["cycle"]
+ancle,uncle
+240 [0ma[1;32mn[1;32mc[1;32ml[1;32me[0m   1     3 Some((1, 1, "uncle")) ["uncle"]
+ancle,gnash
+ancle,gnash,snaky
+  7 [1;33ma[1;32mn[0mc[0ml[0me[0m   2   130 Some((3, 2, "gnash")) ["gnash", "snaky"]
+ancle,knock
+ancle,knock,snuck
+ 15 [0ma[1;32mn[1;33mc[0ml[0me[0m   2    33 Some((3, 2, "knock")) ["knock", "snuck"]
+ancle,knack
+ancle,knack,snack
+ 16 [1;33ma[1;32mn[1;33mc[0ml[0me[0m   2    12 Some((3, 2, "knack")) ["knack", "snack"]
+ancle,incur
+ancle,incur,uncut
+ 24 [0ma[1;32mn[1;32mc[0ml[0me[0m   2    21 Some((3, 2, "incur")) ["incur", "uncut"]
+ancle,align
+ancle,align,along
+ 32 [1;32ma[1;33mn[0mc[1;33ml[0me[0m   2    26 Some((3, 2, "align")) ["align", "along"]
+ancle,unlit
+ancle,unlit,until
+ 33 [0ma[1;32mn[0mc[1;33ml[0me[0m   2    47 Some((3, 2, "unlit")) ["unlit", "until"]
+ancle,annul
+ancle,annul,anvil
+ 35 [1;32ma[1;32mn[0mc[1;33ml[0me[0m   2    13 Some((3, 2, "annul")) ["annul", "anvil"]
+ancle,anger
+ancle,anger,annex
+ 89 [1;32ma[1;32mn[0mc[0ml[1;33me[0m   2    20 Some((3, 2, "anger")) ["anger", "annex"]
+ancle,inlet
+ancle,inlet,kneel
+114 [0ma[1;32mn[0mc[1;33ml[1;33me[0m   2    24 Some((3, 2, "inlet")) ["inlet", "kneel"]
+ancle,excel
+ancle,excel,ulcer
+126 [0ma[0mn[1;32mc[1;33ml[1;33me[0m   2    26 Some((3, 2, "excel")) ["excel", "ulcer"]
+ancle,decal
+ancle,decal,fecal
+127 [1;33ma[0mn[1;32mc[1;33ml[1;33me[0m   2    12 Some((3, 2, "decal")) ["decal", "fecal"]
+ancle,anime
+ancle,anime,anode
+170 [1;32ma[1;32mn[0mc[0ml[1;32me[0m   2    12 Some((3, 2, "anime")) ["anime", "anode"]
+ancle,angle
+ancle,angle,ankle
+224 [1;32ma[1;32mn[0mc[1;32ml[1;32me[0m   2     6 Some((3, 2, "angle")) ["angle", "ankle"]
+ancle,cable
+ancle,cable,scale
+226 [1;33ma[0mn[1;33mc[1;32ml[1;32me[0m   2     6 Some((3, 2, "cable")) ["cable", "scale"]
+ancle,angry
+ancle,angry,angst
+ancle,angry,annoy
+  8 [1;32ma[1;32mn[0mc[0ml[0me[0m   3    53 Some((5, 2, "angry")) ["angry", "angst", "annoy"]
+ancle,inlay
+ancle,inlay,snail
+ancle,inlay,snarl
+ 34 [1;33ma[1;32mn[0mc[1;33ml[0me[0m   3    22 Some((5, 2, "inlay")) ["inlay", "snail", "snarl"]
+ancle,clang,canal
+ancle,clang
+ancle,clang,clank
+ 40 [1;33ma[1;33mn[1;33mc[1;33ml[0me[0m   3     9 Some((5, 2, "clang")) ["canal", "clang", "clank"]
+ancle,lucid,locus
+ancle,lucid
+ancle,lucid,lucky
+ 45 [0ma[0mn[1;32mc[1;33ml[0me[0m   3    53 Some((5, 2, "lucid")) ["locus", "lucid", "lucky"]
+ancle,focal
+ancle,focal,local
+ancle,focal,local,vocal
+ 46 [1;33ma[0mn[1;32mc[1;33ml[0me[0m   3    23 Some((6, 3, "focal")) ["focal", "local", "vocal"]
+ancle,knead,enema
+ancle,knead
+ancle,knead,sneak
+ 88 [1;33ma[1;32mn[0mc[0ml[1;33me[0m   3    35 Some((5, 2, "knead")) ["enema", "knead", "sneak"]
+ancle,mange
+ancle,mange,naive
+ancle,mange,range
+166 [1;33ma[1;33mn[0mc[0ml[1;32me[0m   3    86 Some((5, 2, "mange")) ["mange", "naive", "range"]
+ancle,canoe
+ancle,canoe,crane
+ancle,canoe,dance
+175 [1;33ma[1;33mn[1;33mc[0ml[1;32me[0m   3    11 Some((5, 2, "canoe")) ["canoe", "crane", "dance"]
+ancle,alike,algae
+ancle,alike
+ancle,alike,alive
+191 [1;32ma[0mn[0mc[1;33ml[1;32me[0m   3    33 Some((5, 2, "alike")) ["algae", "alike", "alive"]
+ancle,close
+ancle,close,clove
+ancle,close,slice
+198 [0ma[0mn[1;33mc[1;33ml[1;32me[0m   3    41 Some((5, 2, "close")) ["close", "clove", "slice"]
+ancle,acrid,aback
+ancle,acrid
+ancle,acrid,actor
+ancle,acrid,attic
+ 11 [1;32ma[0mn[1;33mc[0ml[0me[0m   4    73 Some((7, 2, "acrid")) ["aback", "acrid", "actor", "attic"]
+ancle,bonce,bench
+ancle,bonce,coven
+ancle,bonce,scent
+ancle,bonce,wench
+ 93 [0ma[1;33mn[1;33mc[0ml[1;33me[0m   4    89 Some((8, 2, "bonce")) ["bench", "coven", "scent", "wench"]
+ancle,abled
+ancle,abled,alert
+ancle,abled,alley
+ancle,abled,alter
+110 [1;32ma[0mn[0mc[1;33ml[1;33me[0m   4    71 Some((7, 2, "abled")) ["abled", "alert", "alley", "alter"]
+ancle,snake,inane
+ancle,snake,knave
+ancle,snake
+ancle,snake,snare
+169 [1;33ma[1;32mn[0mc[0ml[1;32me[0m   4    18 Some((7, 2, "snake")) ["inane", "knave", "snake", "snare"]
+ancle,amply,adult
+ancle,amply
+ancle,amply,apply
+ancle,amply,aptly
+ancle,amply,adult,atoll
+ 56 [1;32ma[0mn[0mc[1;32ml[0me[0m   5    46 Some((10, 3, "amply")) ["adult", "amply", "apply", "aptly", "atoll"]
+ancle,scald,caulk
+ancle,scald,chalk
+ancle,scald
+ancle,scald,scalp
+ancle,scald,scalp,scaly
+ 64 [1;33ma[0mn[1;33mc[1;32ml[0me[0m   5    27 Some((10, 3, "scald")) ["caulk", "chalk", "scald", "scalp", "scaly"]
+ancle,apnea,agent
+ancle,apnea,agent,amend
+ancle,apnea
+ancle,apnea,arena
+ancle,apnea,ashen
+ 86 [1;32ma[1;33mn[0mc[0ml[1;33me[0m   5    55 Some((10, 3, "apnea")) ["agent", "amend", "apnea", "arena", "ashen"]
+ancle,recap,decay
+ancle,recap,facet
+ancle,recap,mecca
+ancle,recap,racer
+ancle,recap
+100 [1;33ma[0mn[1;32mc[0ml[1;33me[0m   5    51 Some((9, 2, "recap")) ["decay", "facet", "mecca", "racer", "recap"]
+ancle,clear,camel
+ancle,clear
+ancle,clear,cleat
+ancle,clear,eclat
+ancle,clear,leach
+118 [1;33ma[0mn[1;33mc[1;33ml[1;33me[0m   5    36 Some((9, 2, "clear")) ["camel", "clear", "cleat", "eclat", "leach"]
+ancle,ample,agile
+ancle,ample,agile,aisle
+ancle,ample,amble
+ancle,ample
+ancle,ample,apple
+218 [1;32ma[0mn[0mc[1;32ml[1;32me[0m   5    19 Some((10, 3, "ample")) ["agile", "aisle", "amble", "ample", "apple"]
+ancle,mealy,dealt
+ancle,mealy,early
+ancle,mealy,exalt
+ancle,mealy,fella
+ancle,mealy
+ancle,mealy,realm
+136 [1;33ma[0mn[0mc[1;32ml[1;33me[0m   6    97 Some((11, 2, "mealy")) ["dealt", "early", "exalt", "fella", "mealy", "realm"]
+ancle,clung,cling
+ancle,clung,clink
+ancle,clung,clown
+ancle,clung
+ancle,clung,colon
+ancle,clung,lunch
+ancle,clung,lynch
+ 39 [0ma[1;33mn[1;33mc[1;33ml[0me[0m   7    28 Some((13, 2, "clung")) ["cling", "clink", "clown", "clung", "colon", "lunch", "lynch"]
+ancle,could,child
+ancle,could,chili
+ancle,could,chili,chill
+ancle,could
+ancle,could,coyly
+ancle,could,curly
+ancle,could,icily
+ancle,could,scold
+ 63 [0ma[0mn[1;33mc[1;32ml[0me[0m   8    70 Some((16, 3, "could")) ["child", "chili", "chill", "could", "coyly", "curly", "icily", "scold"]
+ancle,decor,bicep
+ancle,decor
+ancle,decor,decoy
+ancle,decor,decry
+ancle,decor,dicey
+ancle,decor,gecko
+ancle,decor,recur
+ancle,decor,recut
+ 99 [0ma[0mn[1;32mc[0ml[1;33me[0m   8   148 Some((15, 2, "decor")) ["bicep", "decor", "decoy", "decry", "dicey", "gecko", "recur", "recut"]
+ancle,renal,glean
+ancle,renal,laden
+ancle,renal,leant
+ancle,renal,learn
+ancle,renal,navel
+ancle,renal,panel
+ancle,renal,penal
+ancle,renal
+112 [1;33ma[1;33mn[0mc[1;33ml[1;33me[0m   8    43 Some((15, 2, "renal")) ["glean", "laden", "leant", "learn", "navel", "panel", "penal", "renal"]
+ancle,table,padle,eagle
+ancle,table,fable
+ancle,table,padle,ladle
+ancle,table,padle,maple
+ancle,table,shale
+ancle,table,stale
+ancle,table
+ancle,table,shale,whale
+217 [1;33ma[0mn[0mc[1;32ml[1;32me[0m   8    57 Some((19, 3, "table")) ["eagle", "fable", "ladle", "maple", "shale", "stale", "table", "whale"]
+ancle,abets,abbey
+ancle,abets,adept
+ancle,abets,after
+ancle,abets,ahead
+ancle,abets,aider
+ancle,abets,amber
+ancle,abets,askew
+ancle,abets,asset
+ancle,abets,adept,avert
+ 83 [1;32ma[0mn[0mc[0ml[1;33me[0m   9   284 Some((19, 3, "abets")) ["abbey", "adept", "after", "ahead", "aider", "amber", "askew", "asset", "avert"]
+ancle,snide,ensue
+ancle,snide,gnome
+ancle,snide,knife
+ancle,snide
+ancle,snide,snipe
+ancle,snide,snore
+ancle,snide,undue
+ancle,snide,knife,unite
+ancle,snide,untie
+168 [0ma[1;32mn[0mc[0ml[1;32me[0m   9    43 Some((18, 3, "snide")) ["ensue", "gnome", "knife", "snide", "snipe", "snore", "undue", "unite", "untie"]
+ancle,sicko,duchy
+ancle,sicko,ficus
+ancle,sicko,focus
+ancle,sicko,itchy
+ancle,sicko,micro
+ancle,sicko,mucky
+ancle,sicko,mucus
+ancle,sicko,occur
+ancle,sicko,picky
+ancle,sicko,rocky
+ 18 [0ma[0mn[1;32mc[0ml[0me[0m  10   392 Some((20, 2, "sicko")) ["duchy", "ficus", "focus", "itchy", "micro", "mucky", "mucus", "occur", "picky", "rocky"]
+ancle,clerk,belch
+ancle,clerk,cleft
+ancle,clerk
+ancle,clerk,clued
+ancle,clerk,cruel
+ancle,clerk,elect
+ancle,clerk,fleck
+ancle,clerk,leech
+ancle,clerk,relic
+ancle,clerk,belch,welch
+117 [0ma[0mn[1;33mc[1;33ml[1;33me[0m  10   123 Some((20, 3, "clerk")) ["belch", "cleft", "clerk", "clued", "cruel", "elect", "fleck", "leech", "relic", "welch"]
+ancle,lemon,blend
+ancle,lemon,elfin
+ancle,lemon,felon
+ancle,lemon
+ancle,lemon,liken
+ancle,lemon,liken,linen
+ancle,lemon,liner
+ancle,lemon,lumen
+ancle,lemon,melon
+ancle,lemon,novel
+ancle,lemon,olden
+111 [0ma[1;33mn[0mc[1;33ml[1;33me[0m  11   130 Some((22, 3, "lemon")) ["blend", "elfin", "felon", "lemon", "liken", "linen", "liner", "lumen", "melon", "novel", "olden"]
+ancle,again,admin
+ancle,again,apron,adorn
+ancle,again
+ancle,again,aging
+ancle,again,agony
+ancle,again,among
+ancle,again,aping
+ancle,again,apron
+ancle,again,apron,arson
+ancle,again,aunty
+ancle,again,avian
+ancle,again,axion
+  5 [1;32ma[1;33mn[0mc[0ml[0me[0m  12   165 Some((25, 3, "again")) ["admin", "adorn", "again", "aging", "agony", "among", "aping", "apron", "arson", "aunty", "avian", "axion"]
+ancle,yacht,cacao
+ancle,yacht,cacti
+ancle,yacht,cocoa
+ancle,yacht,cacao,macaw
+ancle,yacht,macho
+ancle,yacht,cacao,macro
+ancle,yacht,mocha
+ancle,yacht,tacit
+ancle,yacht,tacky
+ancle,yacht,cocoa,vicar
+ancle,yacht,wacky
+ancle,yacht
+ 19 [1;33ma[0mn[1;32mc[0ml[0me[0m  12   158 Some((26, 3, "yacht")) ["cacao", "cacti", "cocoa", "macaw", "macho", "macro", "mocha", "tacit", "tacky", "vicar", "wacky", "yacht"]
+ancle,scene,crone
+ancle,scene,dunce
+ancle,scene,fence
+ancle,scene,fence,hence
+ancle,scene,dunce,mince
+ancle,scene,niece
+ancle,scene,dunce,ounce
+ancle,scene,fence,hence,pence
+ancle,scene
+ancle,scene,scone
+ancle,scene,since
+ancle,scene,dunce,mince,wince
+174 [0ma[1;33mn[1;33mc[0ml[1;32me[0m  12    43 Some((30, 4, "scene")) ["crone", "dunce", "fence", "hence", "mince", "niece", "ounce", "pence", "scene", "scone", "since", "wince"]
+ancle,cairn,cabin
+ancle,cairn
+ancle,cairn,candy
+ancle,cairn,candy,canny
+ancle,cairn,canon
+ancle,cairn,chain
+ancle,cairn,chant
+ancle,cairn,china
+ancle,cairn,crank
+ancle,cairn,fancy
+ancle,cairn,manic
+ancle,cairn,manic,panic
+ancle,cairn,ranch
+ancle,cairn,scant
+ 13 [1;33ma[1;33mn[1;33mc[0ml[0me[0m  14   116 Some((29, 3, "cairn")) ["cabin", "cairn", "candy", "canny", "canon", "chain", "chant", "china", "crank", "fancy", "manic", "panic", "ranch", "scant"]
+ancle,raven,began
+ancle,raven,taken,eaten
+ancle,raven,haven
+ancle,raven,hyena
+ancle,raven,hyena,meant
+ancle,raven,taken,oaken
+ancle,raven,ramen
+ancle,raven
+ancle,raven,saner
+ancle,raven,began,sedan
+ancle,raven,taken
+ancle,raven,vegan
+ancle,raven,taken,waxen
+ancle,raven,yearn
+ 85 [1;33ma[1;33mn[0mc[0ml[1;33me[0m  14   288 Some((32, 3, "raven")) ["began", "eaten", "haven", "hyena", "meant", "oaken", "ramen", "raven", "saner", "sedan", "taken", "vegan", "waxen", "yearn"]
+ancle,tuile,belle
+ancle,tuile,bible
+ancle,tuile,boule
+ancle,tuile,bugle
+ancle,tuile,esile,exile
+ancle,tuile,guile
+ancle,tuile,bible,rifle
+ancle,tuile,esile,smile
+ancle,tuile,stole
+ancle,tuile,stole,style
+ancle,tuile,title
+ancle,tuile,tulle
+ancle,tuile,utile
+ancle,tuile,esile,while
+ancle,tuile,belle,whole
+216 [0ma[0mn[0mc[1;32ml[1;32me[0m  15   151 Some((36, 3, "tuile")) ["belle", "bible", "boule", "bugle", "exile", "guile", "rifle", "smile", "stole", "style", "title", "tulle", "utile", "while", "whole"]
+ancle,cater,beach
+ancle,cater,cadet
+ancle,cater,cagey
+ancle,cater,cagey,cameo
+ancle,cater,caper
+ancle,cater
+ancle,cater,cedar
+ancle,cater,cheap
+ancle,cater,cheat
+ancle,cater,creak
+ancle,cater,creak,cream
+ancle,cater,exact
+ancle,cater,beach,peach
+ancle,cater,reach
+ancle,cater,react
+ancle,cater,exact,teach
+ 91 [1;33ma[0mn[1;33mc[0ml[1;33me[0m  16   207 Some((35, 3, "cater")) ["beach", "cadet", "cagey", "cameo", "caper", "cater", "cedar", "cheap", "cheat", "creak", "cream", "exact", "peach", "reach", "react", "teach"]
+ancle,allot,afoul
+ancle,allot,aglow
+ancle,allot,alarm
+ancle,allot,alarm,album
+ancle,allot,alarm,alibi
+ancle,allot,allay
+ancle,allot
+ancle,allot,allow
+ancle,allot,allow,alloy
+ancle,allot,aloft
+ancle,allot,aloof
+ancle,allot,aloud
+ancle,allot,alarm,alpha
+ancle,allot,altar
+ancle,allot,avail
+ancle,allot,avail,awful
+ancle,allot,avail,axial
+ 29 [1;32ma[0mn[0mc[1;33ml[0me[0m  17   186 Some((39, 3, "allot")) ["afoul", "aglow", "alarm", "album", "alibi", "allay", "allot", "allow", "alloy", "aloft", "aloof", "aloud", "alpha", "altar", "avail", "awful", "axial"]
+ancle,crate,brace
+ancle,crate,carve
+ancle,crate,caste
+ancle,crate,cause
+ancle,crate,cease
+ancle,crate,cease,chafe
+ancle,crate,cease,chase
+ancle,crate
+ancle,crate,crave
+ancle,crate,crave,craze
+ancle,crate,farce
+ancle,crate,brace,grace
+ancle,crate,peace
+ancle,crate,sauce
+ancle,crate,scare
+ancle,crate,peace,space
+ancle,crate,trace
+172 [1;33ma[0mn[1;33mc[0ml[1;32me[0m  17    74 Some((38, 3, "crate")) ["brace", "carve", "caste", "cause", "cease", "chafe", "chase", "crate", "crave", "craze", "farce", "grace", "peace", "sauce", "scare", "space", "trace"]
+ancle,untin,inbox
+ancle,untin,ingot
+ancle,untin,input
+ancle,untin,intro
+ancle,untin,known
+ancle,untin,onion
+ancle,untin,inbox,sniff
+ancle,untin,snoop
+ancle,untin,snort
+ancle,untin,snout
+ancle,untin,snoop,snowy
+ancle,untin,snuff
+ancle,untin,undid
+ancle,untin,unfit
+ancle,untin,unify
+ancle,untin,union
+ancle,untin,unity
+ancle,untin,undid,unzip
+  6 [0ma[1;32mn[0mc[0ml[0me[0m  18   345 Some((39, 3, "untin")) ["inbox", "ingot", "input", "intro", "known", "onion", "sniff", "snoop", "snort", "snout", "snowy", "snuff", "undid", "unfit", "unify", "union", "unity", "unzip"]
+ancle,clams,black
+ancle,clams,coral,cabal
+ancle,clams,coral,carol
+ancle,clams,coral,cavil
+ancle,clams,clack
+ancle,clams,claim
+ancle,clams,clamp
+ancle,clams,clash
+ancle,clams,clash,clasp
+ancle,clams,class
+ancle,clams,cloak
+ancle,clams,coral
+ancle,clams,crawl
+ancle,clams,black,flack
+ancle,clams,iliac
+ancle,clams,latch
+ancle,clams,latch,lilac
+ancle,clams,latch,octal
+ancle,clams,slack
+ 37 [1;33ma[0mn[1;33mc[1;33ml[0me[0m  19   146 Some((45, 3, "clams")) ["black", "cabal", "carol", "cavil", "clack", "claim", "clamp", "clash", "clasp", "class", "cloak", "coral", "crawl", "flack", "iliac", "latch", "lilac", "octal", "slack"]
+ancle,swell,belly
+ancle,swell,dwell
+ancle,swell,dwelt
+ancle,swell,exult
+ancle,swell,field
+ancle,swell,belly,hello
+ancle,swell,belly,jelly
+ancle,swell,quell
+ancle,swell,exult,reply
+ancle,swell,smelt,shelf
+ancle,swell,shell
+ancle,swell,shell,smell
+ancle,swell,smelt
+ancle,swell,shell,smell,spell
+ancle,swell,smelt,spelt
+ancle,swell
+ancle,swell,whelp
+ancle,swell,whelp,wield
+ancle,swell,field,yield
+135 [0ma[0mn[0mc[1;32ml[1;33me[0m  19   304 Some((47, 4, "swell")) ["belly", "dwell", "dwelt", "exult", "field", "hello", "jelly", "quell", "reply", "shelf", "shell", "smell", "smelt", "spell", "spelt", "swell", "whelp", "wield", "yield"]
+ancle,fling,blind
+ancle,fling,blind,blink
+ancle,fling,plunk,blond
+ancle,fling,blown
+ancle,fling,plunk,blunt
+ancle,fling
+ancle,fling,flint
+ancle,fling,flown
+ancle,fling,flung
+ancle,fling,flunk
+ancle,fling,glint
+ancle,fling,lingo
+ancle,fling,lingo,login
+ancle,fling,lying
+ancle,fling,nylon
+ancle,fling,plunk
+ancle,fling,sling
+ancle,fling,blind,slink
+ancle,fling,slung
+ancle,fling,plunk,slunk
+ancle,fling,vinyl
+ 30 [0ma[1;33mn[0mc[1;33ml[0me[0m  21   369 Some((47, 3, "fling")) ["blind", "blink", "blond", "blown", "blunt", "fling", "flint", "flown", "flung", "flunk", "glint", "lingo", "login", "lying", "nylon", "plunk", "sling", "slink", "slung", "slunk", "vinyl"]
+ancle,lants,banal
+ancle,lants,bland
+ancle,lants,bland,blank
+ancle,lants,final
+ancle,lants,bland,flank
+ancle,lants,bland,gland
+ancle,lants,lanky
+ancle,lants,lunar
+ancle,lants,nasal
+ancle,lants,natal
+ancle,lants,naval
+ancle,lants,bland,plain
+ancle,lants,bland,flank,plank
+ancle,lants,plant
+ancle,lants,nasal,salon
+ancle,lants,slain
+ancle,lants,slain,slang
+ancle,lants,slant
+ancle,lants,natal,talon
+ancle,lants,tonal
+ancle,lants,final,zonal
+ 31 [1;33ma[1;33mn[0mc[1;33ml[0me[0m  21   166 Some((52, 4, "lants")) ["banal", "bland", "blank", "final", "flank", "gland", "lanky", "lunar", "nasal", "natal", "naval", "plain", "plank", "plant", "salon", "slain", "slang", "slant", "talon", "tonal", "zonal"]
+ancle,ender,endow
+ancle,ender,enemy
+ancle,ender,enjoy
+ancle,ender,enjoy,ennui
+ancle,ender,enter
+ancle,ender,entry
+ancle,ender,enjoy,envoy
+ancle,ender,index
+ancle,ender,inept
+ancle,ender,inert
+ancle,ender,infer
+ancle,ender,infer,inner
+ancle,ender,infer,inner,inter
+ancle,ender,kneed
+ancle,ender,onset
+ancle,ender,sneer
+ancle,ender,under
+ancle,ender,unfed
+ancle,ender,onset,unmet
+ancle,ender,onset,unset
+ancle,ender,unfed,unwed
+ 87 [0ma[1;32mn[0mc[0ml[1;33me[0m  21   144 Some((50, 4, "ender")) ["endow", "enemy", "enjoy", "ennui", "enter", "entry", "envoy", "index", "inept", "inert", "infer", "inner", "inter", "kneed", "onset", "sneer", "under", "unfed", "unmet", "unset", "unwed"]
+ancle,clout,block
+ancle,clout,civil
+ancle,clout,click
+ancle,clout,click,cliff
+ancle,clout,click,cliff,climb
+ancle,clout,clock
+ancle,clout,cloth
+ancle,clout,cloud
+ancle,clout
+ancle,clout,cluck
+ancle,clout,cluck,clump
+ancle,clout,color
+ancle,clout,flick
+ancle,clout,block,flock
+ancle,clout,gulch
+ancle,clout,logic
+ancle,clout,gulch,lurch
+ancle,clout,lyric
+ancle,clout,gulch,mulch
+ancle,clout,pluck
+ancle,clout,scowl
+ancle,clout,flick,slick
+ 36 [0ma[0mn[1;33mc[1;33ml[0me[0m  22   369 Some((51, 4, "clout")) ["block", "civil", "click", "cliff", "climb", "clock", "cloth", "cloud", "clout", "cluck", "clump", "color", "flick", "flock", "gulch", "logic", "lurch", "lyric", "mulch", "pluck", "scowl", "slick"]
+ancle,stall,daily,badly
+ancle,stall,daily
+ancle,stall,dally
+ancle,stall,fault
+ancle,stall,daily,gaily
+ancle,stall,daily,gayly
+ancle,stall,koala
+ancle,stall,daily,badly,madly
+ancle,stall,psalm
+ancle,stall,koala,qualm
+ancle,stall,dally,rally
+ancle,stall,sadly
+ancle,stall,sally
+ancle,stall,shall
+ancle,stall,shalt
+ancle,stall,shall,small
+ancle,stall,stalk
+ancle,stall
+ancle,stall,tally
+ancle,stall,fault,vault
+ancle,stall,dally,villa
+ancle,stall,daily,viola
+ancle,stall,daily,voila
+ 55 [1;33ma[0mn[0mc[1;32ml[0me[0m  23   292 Some((57, 4, "stall")) ["badly", "daily", "dally", "fault", "gaily", "gayly", "koala", "madly", "psalm", "qualm", "rally", "sadly", "sally", "shall", "shalt", "small", "stalk", "stall", "tally", "vault", "villa", "viola", "voila"]
+ancle,arose,abase
+ancle,arose,agate,abate
+ancle,arose,agate,abide
+ancle,arose,abode
+ancle,arose,abode,above
+ancle,arose,abase,abuse
+ancle,arose,agate,adage
+ancle,arose,abode,adobe
+ancle,arose,adore
+ancle,arose,aurae,afire
+ancle,arose,agate,agape
+ancle,arose,agate
+ancle,arose,aurae,agree
+ancle,arose,agate,amaze
+ancle,arose,abase,amuse
+ancle,arose,argue
+ancle,arose,arise
+ancle,arose
+ancle,arose,aside
+ancle,arose,agate,amaze,awake
+ancle,arose,aurae,aware
+ancle,arose,abode,awoke
+ancle,arose,aurae,azure
+164 [1;32ma[0mn[0mc[0ml[1;32me[0m  23   114 Some((61, 4, "arose")) ["abase", "abate", "abide", "abode", "above", "abuse", "adage", "adobe", "adore", "afire", "agape", "agate", "agree", "amaze", "amuse", "argue", "arise", "arose", "aside", "awake", "aware", "awoke", "azure"]
+190 [1;33ma[0mn[0mc[1;33ml[1;32me[0m  25   130 None ["blade", "blame", "blare", "blaze", "elate", "false", "flake", "flame", "flare", "glade", "glare", "glaze", "halve", "lapse", "large", "lathe", "latte", "lease", "leave", "plate", "salve", "slate", "slave", "value", "valve"]

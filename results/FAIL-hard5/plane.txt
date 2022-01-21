@@ -1,0 +1,1002 @@
+plane,alpha
+ 16 [1;33mp[1;32ml[1;33ma[0mn[0me[0m   1    42 Some((1, 1, "alpha")) ["alpha"]
+plane,scalp
+ 22 [1;33mp[1;33ml[1;32ma[0mn[0me[0m   1    47 Some((1, 1, "scalp")) ["scalp"]
+plane,psalm
+ 23 [1;32mp[1;33ml[1;32ma[0mn[0me[0m   1    26 Some((1, 1, "psalm")) ["psalm"]
+plane,apron
+ 37 [1;33mp[0ml[1;33ma[1;33mn[0me[0m   1   102 Some((1, 1, "apron")) ["apron"]
+plane,align
+ 42 [0mp[1;32ml[1;33ma[1;33mn[0me[0m   1    51 Some((1, 1, "align")) ["align"]
+plane,spawn
+ 46 [1;33mp[0ml[1;32ma[1;33mn[0me[0m   1    26 Some((1, 1, "spawn")) ["spawn"]
+plane,prawn
+ 47 [1;32mp[0ml[1;32ma[1;33mn[0me[0m   1    15 Some((1, 1, "prawn")) ["prawn"]
+plane,slain
+ 51 [0mp[1;32ml[1;32ma[1;33mn[0me[0m   1    34 Some((1, 1, "slain")) ["slain"]
+plane,plain
+ 53 [1;32mp[1;32ml[1;32ma[1;33mn[0me[0m   1     5 Some((1, 1, "plain")) ["plain"]
+plane,lying
+ 57 [0mp[1;33ml[0ma[1;32mn[0me[0m   1   102 Some((1, 1, "lying")) ["lying"]
+plane,plunk
+ 62 [1;32mp[1;32ml[0ma[1;32mn[0me[0m   1    10 Some((1, 1, "plunk")) ["plunk"]
+plane,aping
+ 64 [1;33mp[0ml[1;33ma[1;32mn[0me[0m   1    27 Some((1, 1, "aping")) ["aping"]
+plane,paint
+ 65 [1;32mp[0ml[1;33ma[1;32mn[0me[0m   1    21 Some((1, 1, "paint")) ["paint"]
+plane,along
+ 69 [0mp[1;32ml[1;33ma[1;32mn[0me[0m   1    32 Some((1, 1, "along")) ["along"]
+plane,spank
+ 73 [1;33mp[0ml[1;32ma[1;32mn[0me[0m   1    17 Some((1, 1, "spank")) ["spank"]
+plane,lapel
+ 94 [1;33mp[1;33ml[1;33ma[0mn[1;33me[0m   1    50 Some((1, 1, "lapel")) ["lapel"]
+plane,peach
+101 [1;32mp[0ml[1;32ma[0mn[1;33me[0m   1    27 Some((1, 1, "peach")) ["peach"]
+plane,leapt
+103 [1;33mp[1;33ml[1;32ma[0mn[1;33me[0m   1     9 Some((1, 1, "leapt")) ["leapt"]
+plane,pearl
+104 [1;32mp[1;33ml[1;32ma[0mn[1;33me[0m   1     6 Some((1, 1, "pearl")) ["pearl"]
+plane,apnea
+118 [1;33mp[0ml[1;33ma[1;33mn[1;33me[0m   1    28 Some((1, 1, "apnea")) ["apnea"]
+plane,pecan
+119 [1;32mp[0ml[1;33ma[1;33mn[1;33me[0m   1    17 Some((1, 1, "pecan")) ["pecan"]
+plane,learn
+129 [0mp[1;33ml[1;32ma[1;33mn[1;33me[0m   1    13 Some((1, 1, "learn")) ["learn"]
+plane,penny
+137 [1;32mp[0ml[0ma[1;32mn[1;33me[0m   1    19 Some((1, 1, "penny")) ["penny"]
+plane,blend
+141 [0mp[1;32ml[0ma[1;32mn[1;33me[0m   1    17 Some((1, 1, "blend")) ["blend"]
+plane,meant
+153 [0mp[0ml[1;32ma[1;32mn[1;33me[0m   1    32 Some((1, 1, "meant")) ["meant"]
+plane,leant
+156 [0mp[1;33ml[1;32ma[1;32mn[1;33me[0m   1    10 Some((1, 1, "leant")) ["leant"]
+plane,pulse
+167 [1;32mp[1;33ml[0ma[0mn[1;32me[0m   1    17 Some((1, 1, "pulse")) ["pulse"]
+plane,plume
+170 [1;32mp[1;32ml[0ma[0mn[1;32me[0m   1     7 Some((1, 1, "plume")) ["plume"]
+plane,snipe
+190 [1;33mp[0ml[0ma[1;33mn[1;32me[0m   1    17 Some((1, 1, "snipe")) ["snipe"]
+plane,pence
+191 [1;32mp[0ml[0ma[1;33mn[1;32me[0m   1    12 Some((1, 1, "pence")) ["pence"]
+plane,clone
+222 [0mp[1;32ml[0ma[1;32mn[1;32me[0m   1     8 Some((1, 1, "clone")) ["clone"]
+plane,atone
+225 [0mp[0ml[1;33ma[1;32mn[1;32me[0m   1    34 Some((1, 1, "atone")) ["atone"]
+plane,alone
+231 [0mp[1;32ml[1;33ma[1;32mn[1;32me[0m   1     6 Some((1, 1, "alone")) ["alone"]
+plane
+242 [1;32mp[1;32ml[1;32ma[1;32mn[1;32me[0m   1     1 Some((1, 1, "plane")) ["plane"]
+plane,clamp
+plane,clamp,clasp
+ 25 [1;33mp[1;32ml[1;32ma[0mn[0me[0m   2    32 Some((3, 2, "clamp")) ["clamp", "clasp"]
+plane,snail
+plane,snail,snarl
+ 48 [0mp[1;33ml[1;32ma[1;33mn[0me[0m   2    48 Some((3, 2, "snail")) ["snail", "snarl"]
+plane,spiny
+plane,spiny,spunk
+ 55 [1;33mp[0ml[0ma[1;32mn[0me[0m   2    83 Some((3, 2, "spiny")) ["spiny", "spunk"]
+plane,piano
+plane,piano,prank
+ 74 [1;32mp[0ml[1;32ma[1;32mn[0me[0m   2    13 Some((3, 2, "piano")) ["piano", "prank"]
+plane,plank
+plane,plank,plant
+ 80 [1;32mp[1;32ml[1;32ma[1;32mn[0me[0m   2     4 Some((3, 2, "plank")) ["plank", "plant"]
+plane,peril
+plane,peril,pixel
+ 86 [1;32mp[1;33ml[0ma[0mn[1;33me[0m   2    67 Some((3, 2, "peril")) ["peril", "pixel"]
+plane,plied
+plane,plied,plier
+ 89 [1;32mp[1;32ml[0ma[0mn[1;33me[0m   2    20 Some((3, 2, "plied")) ["plied", "plier"]
+plane,plead
+plane,plead,pleat
+ 98 [1;32mp[1;32ml[1;33ma[0mn[1;33me[0m   2     8 Some((3, 2, "plead")) ["plead", "pleat"]
+plane,inept
+plane,inept,ripen
+109 [1;33mp[0ml[0ma[1;33mn[1;33me[0m   2    88 Some((3, 2, "inept")) ["inept", "ripen"]
+plane,piney
+plane,piney,preen
+110 [1;32mp[0ml[0ma[1;33mn[1;33me[0m   2    57 Some((3, 2, "piney")) ["piney", "preen"]
+plane,elfin
+plane,elfin,olden
+114 [0mp[1;32ml[0ma[1;33mn[1;33me[0m   2    32 Some((3, 2, "elfin")) ["elfin", "olden"]
+plane,panel
+plane,panel,penal
+122 [1;32mp[1;33ml[1;33ma[1;33mn[1;33me[0m   2     4 Some((3, 2, "panel")) ["panel", "penal"]
+plane,enact
+plane,enact,yearn
+126 [0mp[0ml[1;32ma[1;33mn[1;33me[0m   2    49 Some((3, 2, "enact")) ["enact", "yearn"]
+plane,spend
+plane,spend,spent
+136 [1;33mp[0ml[0ma[1;32mn[1;33me[0m   2    26 Some((3, 2, "spend")) ["spend", "spent"]
+plane,elope
+plane,elope,slope
+169 [1;33mp[1;32ml[0ma[0mn[1;32me[0m   2    18 Some((3, 2, "elope")) ["elope", "slope"]
+plane,peace
+plane,peace,phase
+182 [1;32mp[0ml[1;32ma[0mn[1;32me[0m   2    15 Some((3, 2, "peace")) ["peace", "phase"]
+plane,place
+plane,place,plate
+188 [1;32mp[1;32ml[1;32ma[0mn[1;32me[0m   2     4 Some((3, 2, "place")) ["place", "plate"]
+plane,opine
+plane,opine,spine
+217 [1;33mp[0ml[0ma[1;32mn[1;32me[0m   2    10 Some((3, 2, "opine")) ["opine", "spine"]
+plane,crane
+plane,crane,inane
+234 [0mp[0ml[1;32ma[1;32mn[1;32me[0m   2    13 Some((3, 2, "crane")) ["crane", "inane"]
+plane,plaid
+plane,plaid,plait
+plane,plaid,plaza
+ 26 [1;32mp[1;32ml[1;32ma[0mn[0me[0m   3    22 Some((5, 2, "plaid")) ["plaid", "plait", "plaza"]
+plane,blown
+plane,blown,clown
+plane,blown,clown,flown
+ 33 [0mp[1;32ml[0ma[1;33mn[0me[0m   3   105 Some((6, 3, "blown")) ["blown", "clown", "flown"]
+plane,panic,pagan
+plane,panic
+plane,panic,pansy
+ 38 [1;32mp[0ml[1;33ma[1;33mn[0me[0m   3    61 Some((5, 2, "panic")) ["pagan", "panic", "pansy"]
+plane,bleep
+plane,bleep,sleep
+plane,bleep,slept
+ 88 [1;33mp[1;32ml[0ma[0mn[1;33me[0m   3    39 Some((5, 2, "bleep")) ["bleep", "sleep", "slept"]
+plane,paper
+plane,paper,parer
+plane,paper,parer,payer
+ 92 [1;32mp[0ml[1;33ma[0mn[1;33me[0m   3   113 Some((6, 3, "paper")) ["paper", "parer", "payer"]
+plane,pedal,paler
+plane,pedal
+plane,pedal,petal
+ 95 [1;32mp[1;33ml[1;33ma[0mn[1;33me[0m   3    29 Some((5, 2, "pedal")) ["paler", "pedal", "petal"]
+plane,clean,alien
+plane,clean
+plane,clean,glean
+123 [0mp[1;32ml[1;33ma[1;33mn[1;33me[0m   3    15 Some((5, 2, "clean")) ["alien", "clean", "glean"]
+plane,alike,algae
+plane,alike
+plane,alike,alive
+177 [0mp[1;32ml[1;33ma[0mn[1;32me[0m   3    42 Some((5, 2, "alike")) ["algae", "alike", "alive"]
+plane,lunge
+plane,lunge,noble
+plane,lunge,uncle
+192 [0mp[1;33ml[0ma[1;33mn[1;32me[0m   3    32 Some((5, 2, "lunge")) ["lunge", "noble", "uncle"]
+plane,angle
+plane,angle,ankle
+plane,angle,lance
+201 [0mp[1;33ml[1;33ma[1;33mn[1;32me[0m   3    17 Some((5, 2, "angle")) ["angle", "ankle", "lance"]
+plane,knave
+plane,knave,snake
+plane,knave,snare
+207 [0mp[0ml[1;32ma[1;33mn[1;32me[0m   3    19 Some((5, 2, "knave")) ["knave", "snake", "snare"]
+plane,plumb,pluck
+plane,plumb
+plane,plumb,plump
+plane,plumb,pluck,plush
+  8 [1;32mp[1;32ml[0ma[0mn[0me[0m   4    64 Some((8, 3, "plumb")) ["pluck", "plumb", "plump", "plush"]
+plane,pinko,pinch
+plane,pinko,pinky
+plane,pinko,pinto
+plane,pinko,punch
+ 29 [1;32mp[0ml[0ma[1;33mn[0me[0m   4   171 Some((8, 2, "pinko")) ["pinch", "pinky", "pinto", "punch"]
+plane,angel
+plane,angel,laden
+plane,angel,navel
+plane,angel,renal
+120 [0mp[1;33ml[1;33ma[1;33mn[1;33me[0m   4    43 Some((7, 2, "angel")) ["angel", "laden", "navel", "renal"]
+plane,ament,agent
+plane,ament,amend
+plane,ament,arena
+plane,ament,hyena
+144 [0mp[0ml[1;33ma[1;32mn[1;33me[0m   4    77 Some((8, 2, "ament")) ["agent", "amend", "arena", "hyena"]
+plane,parse
+plane,parse,paste
+plane,parse,pause
+plane,parse,payee
+173 [1;32mp[0ml[1;33ma[0mn[1;32me[0m   4    37 Some((7, 2, "parse")) ["parse", "paste", "pause", "payee"]
+plane,ample
+plane,ample,apple
+plane,ample,lapse
+plane,ample,maple
+175 [1;33mp[1;33ml[1;33ma[0mn[1;32me[0m   4    16 Some((7, 2, "ample")) ["ample", "apple", "lapse", "maple"]
+plane,prone,penne
+plane,prone,phone
+plane,prone
+plane,prone,prune
+218 [1;32mp[0ml[0ma[1;32mn[1;32me[0m   4     7 Some((7, 2, "prone")) ["penne", "phone", "prone", "prune"]
+plane,pilot
+plane,pilot,polyp
+plane,pilot,prowl
+plane,pilot,pulpy
+plane,pilot,pupil
+  5 [1;32mp[1;33ml[0ma[0mn[0me[0m   5   200 Some((9, 2, "pilot")) ["pilot", "polyp", "prowl", "pulpy", "pupil"]
+plane,apply,amply
+plane,apply
+plane,apply,aptly
+plane,apply,ralph
+plane,apply,splat
+ 13 [1;33mp[1;33ml[1;33ma[0mn[0me[0m   5   172 Some((9, 2, "apply")) ["amply", "apply", "aptly", "ralph", "splat"]
+plane,papal,palsy
+plane,papal
+plane,papal,polar
+plane,papal,polka
+plane,papal,pupal
+ 14 [1;32mp[1;33ml[1;33ma[0mn[0me[0m   5    95 Some((9, 2, "papal")) ["palsy", "papal", "polar", "polka", "pupal"]
+plane,piony,phony
+plane,piony,point
+plane,piony,pound
+plane,piony,print
+plane,piony,prong
+ 56 [1;32mp[0ml[0ma[1;32mn[0me[0m   5    66 Some((10, 2, "piony")) ["phony", "point", "pound", "print", "prong"]
+plane,clump,blimp
+plane,clump
+plane,clump,glyph
+plane,clump,sloop
+plane,clump,slump
+plane,clump,slurp
+  7 [1;33mp[1;32ml[0ma[0mn[0me[0m   6   118 Some((11, 2, "clump")) ["blimp", "clump", "glyph", "sloop", "slump", "slurp"]
+plane,snoop,input
+plane,snoop,nymph
+plane,snoop
+plane,snoop,spoon
+plane,snoop,spurn
+plane,snoop,unzip
+ 28 [1;33mp[0ml[0ma[1;33mn[0me[0m   6   265 Some((11, 2, "snoop")) ["input", "nymph", "snoop", "spoon", "spurn", "unzip"]
+plane,scale,lease
+plane,scale,leave
+plane,scale
+plane,scale,shale
+plane,scale,shale,stale
+plane,scale,whale
+183 [0mp[1;33ml[1;32ma[0mn[1;32me[0m   6    47 Some((12, 3, "scale")) ["lease", "leave", "scale", "shale", "stale", "whale"]
+plane,drape,agape
+plane,drape
+plane,drape,grape
+plane,drape,agape,shape
+plane,drape,space
+plane,drape,spade
+plane,drape,spare
+181 [1;33mp[0ml[1;32ma[0mn[1;32me[0m   7    34 Some((14, 3, "drape")) ["agape", "drape", "grape", "shape", "space", "spade", "spare"]
+plane,canoe,anime
+plane,canoe,anode
+plane,canoe
+plane,canoe,dance
+plane,canoe,mange
+plane,canoe,naive
+plane,canoe,mange,range
+198 [0mp[0ml[1;33ma[1;33mn[1;32me[0m   7    86 Some((14, 3, "canoe")) ["anime", "anode", "canoe", "dance", "mange", "naive", "range"]
+plane,clang,blank,bland
+plane,clang,blank
+plane,clang
+plane,clang,clank
+plane,clang,blank,flank
+plane,clang,gland
+plane,clang,slang
+plane,clang,blank,slant
+ 78 [0mp[1;32ml[1;32ma[1;32mn[0me[0m   8    28 Some((18, 3, "clang")) ["bland", "blank", "clang", "clank", "flank", "gland", "slang", "slant"]
+plane,bleat,alert
+plane,bleat,alley
+plane,bleat,alter
+plane,bleat,bleak
+plane,bleat
+plane,bleat,clear
+plane,bleat,cleat
+plane,bleat,clear,gleam
+ 96 [0mp[1;32ml[1;33ma[0mn[1;33me[0m   8    86 Some((16, 3, "bleat")) ["alert", "alley", "alter", "bleak", "bleat", "clear", "cleat", "gleam"]
+plane,teeny,being
+plane,teeny,ebony
+plane,teeny,eking
+plane,teeny,event
+plane,teeny,eying
+plane,teeny,fiend
+plane,teeny,scent
+plane,teeny,trend
+135 [0mp[0ml[0ma[1;32mn[1;33me[0m   8   263 Some((16, 2, "teeny")) ["being", "ebony", "eking", "event", "eying", "fiend", "scent", "trend"]
+plane,expel
+plane,expel,impel
+plane,expel,leper
+plane,expel,repel
+plane,expel,reply
+plane,expel,spell
+plane,expel,spelt
+plane,expel,spiel
+plane,expel,spelt,whelp
+ 85 [1;33mp[1;33ml[0ma[0mn[1;33me[0m   9   145 Some((18, 3, "expel")) ["expel", "impel", "leper", "repel", "reply", "spell", "spelt", "spiel", "whelp"]
+plane,caper,adept
+plane,caper
+plane,caper,cheap
+plane,caper,opera
+plane,caper,recap
+plane,caper,repay
+plane,caper,sepia
+plane,caper,adept,speak
+plane,caper,spear
+plane,caper,taper
+ 91 [1;33mp[0ml[1;33ma[0mn[1;33me[0m  10   229 Some((20, 3, "caper")) ["adept", "caper", "cheap", "opera", "recap", "repay", "sepia", "speak", "spear", "taper"]
+plane,least,dealt
+plane,least,email
+plane,least,exalt
+plane,least,leafy,leach
+plane,least,leafy
+plane,least,leafy,leaky
+plane,least,leash
+plane,least
+plane,least,mealy
+plane,least,mealy,realm
+102 [0mp[1;33ml[1;32ma[0mn[1;33me[0m  10    99 Some((22, 3, "least")) ["dealt", "email", "exalt", "leach", "leafy", "leaky", "leash", "least", "mealy", "realm"]
+plane,party,paddy
+plane,party,parka
+plane,party,parry
+plane,party
+plane,party,pasta
+plane,party,pasty
+plane,party,patch
+plane,party,patch,patio
+plane,party,patsy
+plane,party,pasty,patty
+plane,party,pizza
+ 11 [1;32mp[0ml[1;33ma[0mn[0me[0m  11   331 Some((23, 3, "party")) ["paddy", "parka", "parry", "party", "pasta", "pasty", "patch", "patio", "patsy", "patty", "pizza"]
+plane,kylin,colon
+plane,kylin,knoll
+plane,kylin,lingo
+plane,kylin,login
+plane,kylin,lunch
+plane,kylin,lynch
+plane,kylin,nobly
+plane,kylin,nylon
+plane,kylin,unlit
+plane,kylin,until
+plane,kylin,vinyl
+ 30 [0mp[1;33ml[0ma[1;33mn[0me[0m  11   369 Some((22, 2, "kylin")) ["colon", "knoll", "lingo", "login", "lunch", "lynch", "nobly", "nylon", "unlit", "until", "vinyl"]
+plane,pupil,imply
+plane,pupil,lipid
+plane,pupil,loopy
+plane,pupil,lumpy
+plane,pupil,lupus
+plane,pupil,loopy,lymph
+plane,pupil,spill
+plane,pupil,spilt
+plane,pupil,split
+plane,pupil,spoil
+plane,pupil,spool
+plane,pupil,tulip
+  4 [1;33mp[1;33ml[0ma[0mn[0me[0m  12   395 Some((25, 3, "pupil")) ["imply", "lipid", "loopy", "lumpy", "lupus", "lymph", "spill", "spilt", "split", "spoil", "spool", "tulip"]
+plane,liken,felon
+plane,liken,inlet
+plane,liken,kneel
+plane,liken,knelt
+plane,liken,lemon
+plane,liken
+plane,liken,linen
+plane,liken,liner
+plane,liken,lumen
+plane,liken,felon,melon
+plane,liken,newly
+plane,liken,novel
+111 [0mp[1;33ml[0ma[1;33mn[1;33me[0m  12   130 Some((24, 3, "liken")) ["felon", "inlet", "kneel", "knelt", "lemon", "liken", "linen", "liner", "lumen", "melon", "newly", "novel"]
+plane,gnash,again
+plane,gnash,idant,brain
+plane,gnash,idant,brawn
+plane,gnash,chain
+plane,gnash,idant,drain
+plane,gnash,idant,drawn
+plane,gnash
+plane,gnash,grain
+plane,gnash,knack
+plane,gnash,snack
+plane,gnash,snack,snaky
+plane,gnash,stain
+plane,gnash,idant,train
+ 45 [0mp[0ml[1;32ma[1;33mn[0me[0m  13   239 Some((31, 3, "gnash")) ["again", "brain", "brawn", "chain", "drain", "drawn", "gnash", "grain", "knack", "snack", "snaky", "stain", "train"]
+plane,flare,blade
+plane,flare,blade,blame
+plane,flare,blare
+plane,flare,blade,blame,blaze
+plane,flare,blade,slate,elate
+plane,flare,flake
+plane,flare,flake,flame
+plane,flare
+plane,flare,blade,glade
+plane,flare,blare,glare
+plane,flare,blade,slate,glaze
+plane,flare,blade,slate
+plane,flare,blade,slate,slave
+186 [0mp[1;32ml[1;32ma[0mn[1;32me[0m  13    29 Some((38, 4, "flare")) ["blade", "blame", "blare", "blaze", "elate", "flake", "flame", "flare", "glade", "glare", "glaze", "slate", "slave"]
+plane,tramp,adapt
+plane,tramp,apart
+plane,tramp,champ
+plane,tramp,cramp
+plane,tramp,graph
+plane,tramp,grasp
+plane,tramp,champ,scamp
+plane,tramp,sharp
+plane,tramp,soapy
+plane,tramp,spark
+plane,tramp,spasm
+plane,tramp,stamp
+plane,tramp,champ,swamp
+plane,tramp
+ 19 [1;33mp[0ml[1;32ma[0mn[0me[0m  14   194 Some((29, 3, "tramp")) ["adapt", "apart", "champ", "cramp", "graph", "grasp", "scamp", "sharp", "soapy", "spark", "spasm", "stamp", "swamp", "tramp"]
+plane,grand,brand
+plane,grand,chant
+plane,grand,crank
+plane,grand,drank
+plane,grand,crank,frank
+plane,grand,giant
+plane,grand
+plane,grand,grant
+plane,grand,chant,scant
+plane,grand,chant,shank
+plane,grand,stand
+plane,grand,chant,stank
+plane,grand,chant,thank
+plane,grand,twang
+ 72 [0mp[0ml[1;32ma[1;32mn[0me[0m  14   154 Some((32, 3, "grand")) ["brand", "chant", "crank", "drank", "frank", "giant", "grand", "grant", "scant", "shank", "stand", "stank", "thank", "twang"]
+plane,perks,perch
+plane,perks,perky
+plane,perks,pesky
+plane,perks,pesto
+plane,perks,petty
+plane,perks,piety
+plane,perks,piper
+plane,perks,poesy
+plane,perks,poker
+plane,perks,poser
+plane,perks,piper,power
+plane,perks,press
+plane,perks,piper,pried
+plane,perks,purer
+ 83 [1;32mp[0ml[0ma[0mn[1;33me[0m  14   366 Some((30, 3, "perks")) ["perch", "perky", "pesky", "pesto", "petty", "piety", "piper", "poesy", "poker", "poser", "power", "press", "pried", "purer"]
+plane,crone,borne
+plane,crone,brine
+plane,crone
+plane,crone,drone
+plane,crone,ovine
+plane,crone,shone,ozone
+plane,crone,scene
+plane,crone,scone
+plane,crone,shine
+plane,crone,shone
+plane,crone,shone,stone
+plane,crone,shine,swine
+plane,crone,shine,twine
+plane,crone,brine,urine
+plane,crone,shine,whine
+216 [0mp[0ml[0ma[1;32mn[1;32me[0m  15   109 Some((35, 3, "crone")) ["borne", "brine", "crone", "drone", "ovine", "ozone", "scene", "scone", "shine", "shone", "stone", "swine", "twine", "urine", "whine"]
+plane,tarps,adopt
+plane,tarps,aphid
+plane,tarps,caput
+plane,tarps,happy
+plane,tarps,harpy
+plane,tarps,happy,kappa
+plane,tarps,rapid
+plane,tarps,raspy
+plane,tarps,sappy
+plane,tarps,scrap
+plane,tarps,scrap,spray
+plane,tarps,strap
+plane,tarps,tapir
+plane,tarps,topaz
+plane,tarps,vapid
+plane,tarps,rapid,vapor
+ 10 [1;33mp[0ml[1;33ma[0mn[0me[0m  16   726 Some((35, 3, "tarps")) ["adopt", "aphid", "caput", "happy", "harpy", "kappa", "rapid", "raspy", "sappy", "scrap", "spray", "strap", "tapir", "topaz", "vapid", "vapor"]
+plane,tonal,annul
+plane,tonal,anvil
+plane,tonal,banal
+plane,tonal,banal,canal
+plane,tonal,banal,final
+plane,tonal,inlay
+plane,tonal,lanky
+plane,tonal,lunar
+plane,tonal,lanky,manly
+plane,tonal,nasal
+plane,tonal,natal
+plane,tonal,nasal,naval
+plane,tonal,salon
+plane,tonal,talon
+plane,tonal
+plane,tonal,zonal
+ 39 [0mp[1;33ml[1;33ma[1;33mn[0me[0m  16   166 Some((35, 3, "tonal")) ["annul", "anvil", "banal", "canal", "final", "inlay", "lanky", "lunar", "manly", "nasal", "natal", "naval", "salon", "talon", "tonal", "zonal"]
+plane,sling,blink,blind
+plane,sling,blink
+plane,sling,blond
+plane,sling,blond,blunt
+plane,sling,cling
+plane,sling,blink,clink
+plane,sling,clung
+plane,sling,cling,fling
+plane,sling,blink,flint
+plane,sling,clung,flung
+plane,sling,blond,flunk
+plane,sling,glint
+plane,sling
+plane,sling,slink
+plane,sling,slung
+plane,sling,slunk
+ 60 [0mp[1;32ml[0ma[1;32mn[0me[0m  16    72 Some((38, 3, "sling")) ["blind", "blink", "blond", "blunt", "cling", "clink", "clung", "fling", "flint", "flung", "flunk", "glint", "sling", "slink", "slung", "slunk"]
+plane,price,piece
+plane,price,pique
+plane,price,pique,pixie
+plane,price,poise
+plane,price,posse
+plane,price
+plane,price,pride
+plane,price,pride,prime
+plane,price,pride,prime,prize
+plane,price,probe
+plane,price,probe,prose
+plane,price,probe,prose,prove
+plane,price,probe,prude
+plane,price,perse,puree
+plane,price,perse,purge
+plane,price,perse,purse
+164 [1;32mp[0ml[0ma[0mn[1;32me[0m  16   106 Some((42, 4, "price")) ["piece", "pique", "pixie", "poise", "posse", "price", "pride", "prime", "prize", "probe", "prose", "prove", "prude", "puree", "purge", "purse"]
+plane,close,bloke
+plane,close
+plane,close,clove
+plane,close,elite,elide
+plane,close,elite
+plane,close,elite,elude
+plane,close,elite,fluke
+plane,close,elite,fluke,flume
+plane,close,elite,flute
+plane,close,elite,glide
+plane,close,bloke,globe
+plane,close,bloke,glove
+plane,close,olive
+plane,close,slice
+plane,close,slide
+plane,close,slide,slime
+168 [0mp[1;32ml[0ma[0mn[1;32me[0m  16   108 Some((41, 4, "close")) ["bloke", "close", "clove", "elide", "elite", "elude", "fluke", "flume", "flute", "glide", "globe", "glove", "olive", "slice", "slide", "slime"]
+plane,salle,agile
+plane,salle,aisle
+plane,salle,agile,amble
+plane,salle,cable
+plane,salle,cable,eagle
+plane,salle,cable,fable
+plane,salle,false
+plane,salle,halve
+plane,salle,ladle
+plane,salle,lathe,large
+plane,salle,lathe
+plane,salle,lathe,latte
+plane,salle,salve
+plane,salle,cable,fable,table
+plane,salle,halve,value
+plane,salle,halve,valve
+174 [0mp[1;33ml[1;33ma[0mn[1;32me[0m  16   130 Some((41, 4, "salle")) ["agile", "aisle", "amble", "cable", "eagle", "fable", "false", "halve", "ladle", "large", "lathe", "latte", "salve", "table", "value", "valve"]
+plane,float,album
+plane,float,album,alibi
+plane,float,allay
+plane,float,allot
+plane,float,allow
+plane,float,allow,alloy
+plane,float,aloft
+plane,float,aloof
+plane,float,aloud
+plane,float,altar
+plane,float,bloat
+plane,float,cloak
+plane,float
+plane,float,flora
+plane,float,bloat,gloat
+plane,float,allay,iliac
+plane,float,ultra
+ 15 [0mp[1;32ml[1;33ma[0mn[0me[0m  17   290 Some((37, 3, "float")) ["album", "alibi", "allay", "allot", "allow", "alloy", "aloft", "aloof", "aloud", "altar", "bloat", "cloak", "float", "flora", "gloat", "iliac", "ultra"]
+plane,clams,alarm
+plane,clams,black
+plane,clams,flash,blast
+plane,clams,clack
+plane,clams,claim
+plane,clams,clash
+plane,clams,class
+plane,clams,black,flack
+plane,clams,flail
+plane,clams,flail,flair
+plane,clams,flail,flaky
+plane,clams,flash
+plane,clams,flash,flask
+plane,clams,glass
+plane,clams,llama
+plane,clams,slack
+plane,clams,flash,slash
+ 24 [0mp[1;32ml[1;32ma[0mn[0me[0m  17   168 Some((40, 3, "clams")) ["alarm", "black", "blast", "clack", "claim", "clash", "class", "flack", "flail", "flair", "flaky", "flash", "flask", "glass", "llama", "slack", "slash"]
+plane,trope,copse
+plane,trope,coupe
+plane,trope,crepe
+plane,trope,crepe,gripe
+plane,trope,grope
+plane,trope,rupee
+plane,trope,scope
+plane,trope,spice
+plane,trope,spice,spike
+plane,trope,rupee,spire
+plane,trope,spite
+plane,trope,spoke
+plane,trope,spore
+plane,trope,rupee,spree
+plane,trope,tepee
+plane,trope,tripe
+plane,trope
+163 [1;33mp[0ml[0ma[0mn[1;32me[0m  17   200 Some((37, 3, "trope")) ["copse", "coupe", "crepe", "gripe", "grope", "rupee", "scope", "spice", "spike", "spire", "spite", "spoke", "spore", "spree", "tepee", "tripe", "trope"]
+plane,raven,anger
+plane,raven,annex
+plane,raven,ashen
+plane,raven,began
+plane,raven,taken,eaten
+plane,raven,knead,enema
+plane,raven,haven
+plane,raven,knead
+plane,raven,taken,oaken
+plane,raven,began,ocean
+plane,raven,ramen
+plane,raven
+plane,raven,saner
+plane,raven,began,sedan
+plane,raven,knead,sneak
+plane,raven,taken
+plane,raven,vegan
+plane,raven,taken,waxen
+117 [0mp[0ml[1;33ma[1;33mn[1;33me[0m  18   288 Some((42, 3, "raven")) ["anger", "annex", "ashen", "began", "eaten", "enema", "haven", "knead", "oaken", "ocean", "ramen", "raven", "saner", "sedan", "sneak", "taken", "vegan", "waxen"]
+plane,clefs,bleed
+plane,clefs,bless
+plane,clefs,elbow,bluer
+plane,clefs,cleft
+plane,clefs,clerk
+plane,clefs,clued
+plane,clefs,elbow
+plane,clefs,elbow,elder
+plane,clefs,elect
+plane,clefs,bleed,elegy
+plane,clefs,fleck
+plane,clefs,fleet
+plane,clefs,flesh
+plane,clefs,flier
+plane,clefs,flier,flyer
+plane,clefs,elbow,older
+plane,clefs,sleek
+plane,clefs,sleek,sleet
+plane,clefs,ulcer
+ 87 [0mp[1;32ml[0ma[0mn[1;33me[0m  19   279 Some((44, 3, "clefs")) ["bleed", "bless", "bluer", "cleft", "clerk", "clued", "elbow", "elder", "elect", "elegy", "fleck", "fleet", "flesh", "flier", "flyer", "older", "sleek", "sleet", "ulcer"]
+plane,thang,aging
+plane,thang,agony
+plane,thang,aging,among
+plane,thang,fanny,canny
+plane,thang,china
+plane,thang,daunt
+plane,thang,daunt,faint
+plane,thang,fanny
+plane,thang,fanny,fauna
+plane,thang,gaunt
+plane,thang,haunt
+plane,thang,daunt,jaunt
+plane,thang,fanny,canny,nanny
+plane,thang,fanny,rainy
+plane,thang,daunt,faint,saint
+plane,thang,fanny,sauna
+plane,thang,taint
+plane,thang,taint,taunt
+plane,thang,taint,tawny
+plane,thang,daunt,jaunt,vaunt
+ 63 [0mp[0ml[1;33ma[1;32mn[0me[0m  20   321 Some((55, 4, "thang")) ["aging", "agony", "among", "canny", "china", "daunt", "faint", "fanny", "fauna", "gaunt", "haunt", "jaunt", "nanny", "rainy", "saint", "sauna", "taint", "taunt", "tawny", "vaunt"]
+plane,heart,beach
+plane,heart,beady
+plane,heart,deary,beard
+plane,heart,beast
+plane,heart,death
+plane,heart,exact
+plane,heart,beast,feast
+plane,heart,heady
+plane,heart,heard
+plane,heart
+plane,heart,heath
+plane,heart,heady,heavy
+plane,heart,meaty
+plane,heart,reach
+plane,heart,react
+plane,heart,ready
+plane,heart,deary,rearm
+plane,heart,death,teach
+plane,heart,teary
+plane,heart,deary,weary
+plane,heart,beast,feast,yeast
+ 99 [0mp[0ml[1;32ma[0mn[1;33me[0m  21   381 Some((49, 4, "heart")) ["beach", "beady", "beard", "beast", "death", "exact", "feast", "heady", "heard", "heart", "heath", "heavy", "meaty", "reach", "react", "ready", "rearm", "teach", "teary", "weary", "yeast"]
+plane,stall,brawl,avail
+plane,stall,brawl
+plane,stall,chalk
+plane,stall,brawl,crawl
+plane,stall,brawl,crawl,drawl
+plane,stall,brawl,frail
+plane,stall,brawl,frail,grail
+plane,stall,chalk,koala
+plane,stall,loamy
+plane,stall,loath
+plane,stall,brawl,avail,quail
+plane,stall,chalk,qualm
+plane,stall,scald
+plane,stall,scald,scaly
+plane,stall,shall
+plane,stall,shalt
+plane,stall,shawl
+plane,stall,shall,small
+plane,stall,stalk
+plane,stall
+plane,stall,trail
+plane,stall,trail,trawl
+ 21 [0mp[1;33ml[1;32ma[0mn[0me[0m  22   338 Some((57, 4, "stall")) ["avail", "brawl", "chalk", "crawl", "drawl", "frail", "grail", "koala", "loamy", "loath", "quail", "qualm", "scald", "scaly", "shall", "shalt", "shawl", "small", "stalk", "stall", "trail", "trawl"]
+plane,pouty,photo
+plane,pouty,picky
+plane,pouty,picky,piggy
+plane,pouty,pitch
+plane,pouty,pithy
+plane,pouty,pivot
+plane,pouty,pooch
+plane,pouty,poppy
+plane,pouty,pooch,porch
+plane,pouty,posit
+plane,pouty,pouch
+plane,pouty
+plane,pouty,prick
+plane,pouty,primo
+plane,pouty,primo,prior
+plane,pouty,prick,prism
+plane,pouty,picky,privy
+plane,pouty,primo,proof
+plane,pouty,proud
+plane,pouty,proxy
+plane,pouty,pubic
+plane,pouty,pudsy,pudgy
+plane,pouty,pudsy,puffy
+plane,pouty,pudsy,puffy,puppy
+plane,pouty,pudsy,pushy
+plane,pouty,putty
+plane,pouty,picky,pygmy
+  2 [1;32mp[0ml[0ma[0mn[0me[0m  27   859 Some((65, 4, "pouty")) ["photo", "picky", "piggy", "pitch", "pithy", "pivot", "pooch", "poppy", "porch", "posit", "pouch", "pouty", "prick", "primo", "prior", "prism", "privy", "proof", "proud", "proxy", "pubic", "pudgy", "puffy", "puppy", "pushy", "putty", "pygmy"]
+plane,spier,bicep
+plane,spier,creep
+plane,spier,crept
+plane,spier,depot
+plane,spier,depot,depth
+plane,spier,dopey
+plane,spier,depot,empty
+plane,spier,epoch
+plane,spier,epoch,epoxy
+plane,spier,equip
+plane,spier,crept,erupt
+plane,spier,hyper
+plane,spier,riper
+plane,spier,setup
+plane,spier,sheep
+plane,spier,speck
+plane,spier,speed
+plane,spier,sperm
+plane,spier,spied
+plane,spier,sheep,steep
+plane,spier,super
+plane,spier,sheep,steep,sweep
+plane,spier,setup,swept
+plane,spier,depot,tempo
+plane,spier,equip,tepid
+plane,spier,upper
+plane,spier,upset
+plane,spier,riper,viper
+ 82 [1;33mp[0ml[0ma[0mn[1;33me[0m  28   763 Some((67, 4, "spier")) ["bicep", "creep", "crept", "depot", "depth", "dopey", "empty", "epoch", "epoxy", "equip", "erupt", "hyper", "riper", "setup", "sheep", "speck", "speed", "sperm", "spied", "steep", "super", "sweep", "swept", "tempo", "tepid", "upper", "upset", "viper"]
+plane,tuile,belie
+plane,tuile,bayle,belle
+plane,tuile,bible
+plane,tuile,belie,bilge
+plane,tuile,boule
+plane,tuile,bugle
+plane,tuile,bulge
+plane,tuile,bayle,cycle
+plane,tuile,delve
+plane,tuile,esile,exile
+plane,tuile,guile
+plane,tuile,delve,ledge
+plane,tuile,belie,liege
+plane,tuile,lithe
+plane,tuile,delve,lodge
+plane,tuile,delve,loose
+plane,tuile,louse
+plane,tuile,delve,melee
+plane,tuile,bible,rifle
+plane,tuile,esile,smile
+plane,tuile,delve,solve
+plane,tuile,stole
+plane,tuile,stole,style
+plane,tuile,tilde
+plane,tuile,title
+plane,tuile,tulle
+plane,tuile,utile
+plane,tuile,esile,while
+plane,tuile,bayle,whole
+165 [0mp[1;33ml[0ma[0mn[1;32me[0m  29   359 Some((73, 3, "tuile")) ["belie", "belle", "bible", "bilge", "boule", "bugle", "bulge", "cycle", "delve", "exile", "guile", "ledge", "liege", "lithe", "lodge", "loose", "louse", "melee", "rifle", "smile", "solve", "stole", "style", "tilde", "title", "tulle", "utile", "while", "whole"]
+plane,metal,lager,abled
+plane,metal,bagel
+plane,metal,lager,baler
+plane,metal,camel
+plane,metal,fecal,decal
+plane,metal,delay
+plane,metal,delta
+plane,metal,lager,early
+plane,metal,bagel,easel
+plane,metal,eclat
+plane,metal,equal
+plane,metal,fecal
+plane,metal,fella
+plane,metal,fecal,feral
+plane,metal,fetal
+plane,metal,bagel,gavel
+plane,metal,bagel,easel,hazel
+plane,metal,equal,ideal
+plane,metal,bagel,label
+plane,metal,lager
+plane,metal,later
+plane,metal,lager,layer
+plane,metal,fecal,legal
+plane,metal,medal
+plane,metal
+plane,metal,fecal,legal,regal
+plane,metal,delay,relax
+plane,metal,delay,relay
+plane,metal,steal
+plane,metal,valet
+ 93 [0mp[1;33ml[1;33ma[0mn[1;33me[0m  30   410 Some((76, 4, "metal")) ["abled", "bagel", "baler", "camel", "decal", "delay", "delta", "early", "easel", "eclat", "equal", "fecal", "fella", "feral", "fetal", "gavel", "hazel", "ideal", "label", "lager", "later", "layer", "legal", "medal", "metal", "regal", "relax", "relay", "steal", "valet"]
+plane,singe,binge
+plane,singe,dense
+plane,singe,dunce
+plane,singe,ensue
+plane,singe,dunce,fence
+plane,singe,genie
+plane,singe,genre
+plane,singe,gnome
+plane,singe,dunce,fence,hence
+plane,singe,binge,hinge
+plane,singe,knife
+plane,singe,mince
+plane,singe,nerve
+plane,singe,niche
+plane,singe,niche,niece
+plane,singe,noise
+plane,singe,ensue,noose
+plane,singe,nudge
+plane,singe,ensue,nurse
+plane,singe,dunce,ounce
+plane,singe,rinse
+plane,singe,sense
+plane,singe,since
+plane,singe
+plane,singe,snide
+plane,singe,snore
+plane,singe,dense,tense
+plane,singe,nerve,undue
+plane,singe,knife,unite
+plane,singe,knife,untie
+plane,singe,dunce,venue
+plane,singe,mince,wince
+189 [0mp[0ml[0ma[1;33mn[1;32me[0m  32   276 Some((77, 4, "singe")) ["binge", "dense", "dunce", "ensue", "fence", "genie", "genre", "gnome", "hence", "hinge", "knife", "mince", "nerve", "niche", "niece", "noise", "noose", "nudge", "nurse", "ounce", "rinse", "sense", "since", "singe", "snide", "snore", "tense", "undue", "unite", "untie", "venue", "wince"]
+plane,flocs,bliss
+plane,flocs,blitz
+plane,flocs,block
+plane,flocs,blood
+plane,flocs,blood,bloom
+plane,flocs,bluff
+plane,flocs,blitz,blurb
+plane,flocs,blitz,blurt
+plane,flocs,slimy,blush
+plane,flocs,click
+plane,flocs,cliff
+plane,flocs,climb
+plane,flocs,block,clock
+plane,flocs,cloth
+plane,flocs,cloth,cloud
+plane,flocs,cloth,clout
+plane,flocs,click,cluck
+plane,flocs,flick
+plane,flocs,flirt
+plane,flocs,flock
+plane,flocs,floor,flood
+plane,flocs,floor
+plane,flocs,floss
+plane,flocs,floor,flour
+plane,flocs,floor,flout
+plane,flocs,flirt,fluff
+plane,flocs,flirt,fluid
+plane,flocs,flush
+plane,flocs,blood,gloom
+plane,flocs,blood,glory
+plane,flocs,gloss
+plane,flocs,slick
+plane,flocs,slimy
+plane,flocs,slosh
+plane,flocs,slosh,sloth
+plane,flocs,slimy,slush
+plane,flocs,slimy,slyly
+  6 [0mp[1;32ml[0ma[0mn[0me[0m  37   699 Some((92, 3, "flocs")) ["bliss", "blitz", "block", "blood", "bloom", "bluff", "blurb", "blurt", "blush", "click", "cliff", "climb", "clock", "cloth", "cloud", "clout", "cluck", "flick", "flirt", "flock", "flood", "floor", "floss", "flour", "flout", "fluff", "fluid", "flush", "gloom", "glory", "gloss", "slick", "slimy", "slosh", "sloth", "slush", "slyly"]
+plane,abuse,abide
+plane,abuse,abide,abode
+plane,abuse,abide,above
+plane,abuse
+plane,abuse,acute
+plane,abuse,adobe
+plane,abuse,adore
+plane,abuse,adore,afire
+plane,abuse,adore,agree
+plane,abuse,amuse
+plane,abuse,argue
+plane,abuse,arise
+plane,abuse,arise,arose
+plane,abuse,aside
+plane,abuse,adore,awoke
+plane,abuse,acute,azure
+plane,abuse,badge
+plane,abuse,badge,barge
+plane,abuse,baste
+plane,abuse,badge,bathe
+plane,abuse,cavie,cache
+plane,abuse,cavie,carve
+plane,abuse,chase,caste
+plane,abuse,cause
+plane,abuse,cavie,farce
+plane,abuse,cavie,gaffe
+plane,abuse,gauge
+plane,abuse,gauge,gauze
+plane,abuse,chase,haste
+plane,abuse,gauge,haute
+plane,abuse,cavie,maize
+plane,abuse,masse
+plane,abuse,gauge,haute,mauve
+plane,abuse,badge,maybe
+plane,abuse,masse,raise
+plane,abuse,sauce
+plane,abuse,sauce,saute
+plane,abuse,chase,taste
+plane,abuse,vague
+plane,abuse,cavie,waive
+plane,abuse,chase,taste,waste
+171 [0mp[0ml[1;33ma[0mn[1;32me[0m  41   535 Some((108, 4, "abuse")) ["abide", "abode", "above", "abuse", "acute", "adobe", "adore", "afire", "agree", "amuse", "argue", "arise", "arose", "aside", "awoke", "azure", "badge", "barge", "baste", "bathe", "cache", "carve", "caste", "cause", "farce", "gaffe", "gauge", "gauze", "haste", "haute", "maize", "masse", "mauve", "maybe", "raise", "sauce", "saute", "taste", "vague", "waive", "waste"]
+plane,sport,chirp
+plane,sport,dumpy,chump
+plane,sport,crimp
+plane,sport,crisp
+plane,sport,croup
+plane,sport,crimp,crump
+plane,sport,crypt
+plane,sport,croup,droop
+plane,sport,dumpy
+plane,sport,gipsy
+plane,sport,croup,group
+plane,sport,dumpy,guppy
+plane,sport,gipsy,gypsy
+plane,sport,hippo
+plane,sport,dumpy,hippy
+plane,sport,dumpy,humph
+plane,sport,dumpy,jumpy
+plane,sport,morph
+plane,sport,opium
+plane,sport,optic
+plane,sport,scoop
+plane,sport,skimp
+plane,sport,spicy
+plane,sport,spicy,spiky
+plane,sport,spoof
+plane,sport,spoof,spook
+plane,sport
+plane,sport,spout
+plane,sport,sprig
+plane,sport,spurt
+plane,sport,stomp
+plane,sport,stomp,stoop
+plane,sport,strip
+plane,sport,stump
+plane,sport,scoop,swoop
+plane,sport,syrup
+plane,sport,thump
+plane,sport,tipsy
+plane,sport,topic
+plane,sport,troop
+plane,sport,trump
+plane,sport,usurp
+plane,sport,whoop
+plane,sport,dumpy,wimpy
+plane,sport,gipsy,wispy
+  1 [1;33mp[0ml[0ma[0mn[0me[0m  45  1885 Some((104, 3, "sport")) ["chirp", "chump", "crimp", "crisp", "croup", "crump", "crypt", "droop", "dumpy", "gipsy", "group", "guppy", "gypsy", "hippo", "hippy", "humph", "jumpy", "morph", "opium", "optic", "scoop", "skimp", "spicy", "spiky", "spoof", "spook", "sport", "spout", "sprig", "spurt", "stomp", "stoop", "strip", "stump", "swoop", "syrup", "thump", "tipsy", "topic", "troop", "trump", "usurp", "whoop", "wimpy", "wispy"]
+180 [0mp[0ml[1;32ma[0mn[1;32me[0m  48   199 None ["abase", "abate", "adage", "agate", "amaze", "awake", "aware", "brace", "brake", "brave", "cease", "chafe", "chase", "crate", "crave", "craze", "drake", "erase", "evade", "frame", "grace", "grade", "grate", "grave", "graze", "heave", "image", "irate", "ovate", "quake", "scare", "shade", "shake", "shame", "share", "shave", "skate", "stage", "stake", "stare", "state", "stave", "suave", "tease", "trace", "trade", "usage", "weave"]

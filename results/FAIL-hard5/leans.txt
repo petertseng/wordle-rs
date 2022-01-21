@@ -1,0 +1,624 @@
+leans,legal
+ 17 [1;32ml[1;32me[1;33ma[0mn[0ms[0m   1    33 Some((1, 1, "legal")) ["legal"]
+leans,lemon
+ 35 [1;32ml[1;32me[0ma[1;33mn[0ms[0m   1    17 Some((1, 1, "lemon")) ["lemon"]
+leans,plain
+ 46 [1;33ml[0me[1;32ma[1;33mn[0ms[0m   1    48 Some((1, 1, "plain")) ["plain"]
+leans,yearn
+ 51 [0ml[1;32me[1;32ma[1;33mn[0ms[0m   1    27 Some((1, 1, "yearn")) ["yearn"]
+leans,learn
+ 53 [1;32ml[1;32me[1;32ma[1;33mn[0ms[0m   1     4 Some((1, 1, "learn")) ["learn"]
+leans,lying
+ 56 [1;32ml[0me[0ma[1;32mn[0ms[0m   1    29 Some((1, 1, "lying")) ["lying"]
+leans,along
+ 64 [1;33ml[0me[1;33ma[1;32mn[0ms[0m   1    44 Some((1, 1, "along")) ["along"]
+leans,alone
+ 67 [1;33ml[1;33me[1;33ma[1;32mn[0ms[0m   1    13 Some((1, 1, "alone")) ["alone"]
+leans,plane
+ 76 [1;33ml[1;33me[1;32ma[1;32mn[0ms[0m   1    10 Some((1, 1, "plane")) ["plane"]
+leans,meant
+ 78 [0ml[1;32me[1;32ma[1;32mn[0ms[0m   1    18 Some((1, 1, "meant")) ["meant"]
+leans,leant
+ 80 [1;32ml[1;32me[1;32ma[1;32mn[0ms[0m   1     3 Some((1, 1, "leant")) ["leant"]
+leans,welsh
+ 88 [1;33ml[1;32me[0ma[0mn[1;33ms[0m   1   141 Some((1, 1, "welsh")) ["welsh"]
+leans,lasso
+ 92 [1;32ml[0me[1;33ma[0mn[1;33ms[0m   1    79 Some((1, 1, "lasso")) ["lasso"]
+leans,lapse
+ 95 [1;32ml[1;33me[1;33ma[0mn[1;33ms[0m   1    27 Some((1, 1, "lapse")) ["lapse"]
+leans,sepia
+ 96 [0ml[1;32me[1;33ma[0mn[1;33ms[0m   1   160 Some((1, 1, "sepia")) ["sepia"]
+leans,sedan
+123 [0ml[1;32me[1;33ma[1;33mn[1;33ms[0m   1    25 Some((1, 1, "sedan")) ["sedan"]
+leans,bless
+166 [1;33ml[1;33me[0ma[0mn[1;32ms[0m   1   298 Some((1, 1, "bless")) ["bless"]
+leans,lanky
+leans,lanky,lunar
+ 38 [1;32ml[0me[1;33ma[1;33mn[0ms[0m   2    44 Some((3, 2, "lanky")) ["lanky", "lunar"]
+leans,laden
+leans,laden,lance
+ 41 [1;32ml[1;33me[1;33ma[1;33mn[0ms[0m   2    11 Some((3, 2, "laden")) ["laden", "lance"]
+leans,penal
+leans,penal,renal
+ 43 [1;33ml[1;32me[1;33ma[1;33mn[0ms[0m   2    11 Some((3, 2, "penal")) ["penal", "renal"]
+leans,enact
+leans,enact,knave
+ 48 [0ml[1;33me[1;32ma[1;33mn[0ms[0m   2    49 Some((3, 2, "enact")) ["enact", "knave"]
+leans,blend
+leans,blend,clone
+ 58 [1;33ml[1;33me[0ma[1;32mn[0ms[0m   2    25 Some((3, 2, "blend")) ["blend", "clone"]
+leans,crane
+leans,crane,inane
+ 75 [0ml[1;33me[1;32ma[1;32mn[0ms[0m   2    32 Some((3, 2, "crane")) ["crane", "inane"]
+leans,lousy
+leans,lousy,lusty
+ 83 [1;32ml[0me[0ma[0mn[1;33ms[0m   2   233 Some((3, 2, "lousy")) ["lousy", "lusty"]
+leans,nasal
+leans,nasal,salon
+118 [1;33ml[0me[1;33ma[1;33mn[1;33ms[0m   2    34 Some((3, 2, "nasal")) ["nasal", "salon"]
+leans,snake
+leans,snake,snare
+129 [0ml[1;33me[1;32ma[1;33mn[1;33ms[0m   2    21 Some((3, 2, "snake")) ["snake", "snare"]
+leans,saint
+leans,saint,sauna
+144 [0ml[0me[1;33ma[1;32mn[1;33ms[0m   2   120 Some((3, 2, "saint")) ["saint", "sauna"]
+leans,slang
+leans,slang,slant
+154 [1;33ml[0me[1;32ma[1;32mn[1;33ms[0m   2    13 Some((3, 2, "slang")) ["slang", "slant"]
+leans,locus
+leans,locus,lupus
+164 [1;32ml[0me[0ma[0mn[1;32ms[0m   2   198 Some((3, 2, "locus")) ["locus", "lupus"]
+leans,fetus
+leans,fetus,rebus
+168 [0ml[1;32me[0ma[0mn[1;32ms[0m   2   544 Some((3, 2, "fetus")) ["fetus", "rebus"]
+leans,class
+leans,class,glass
+181 [1;33ml[0me[1;32ma[0mn[1;32ms[0m   2   102 Some((3, 2, "class")) ["class", "glass"]
+leans,bonus
+leans,bonus,minus
+189 [0ml[0me[0ma[1;33mn[1;32ms[0m   2   703 Some((3, 2, "bonus")) ["bonus", "minus"]
+leans,llama
+leans,llama,loamy
+leans,llama,loath
+ 20 [1;32ml[0me[1;32ma[0mn[0ms[0m   3    48 Some((5, 2, "llama")) ["llama", "loamy", "loath"]
+leans,felon
+leans,felon,melon
+leans,felon,newly
+ 34 [1;33ml[1;32me[0ma[1;33mn[0ms[0m   3    36 Some((5, 2, "felon")) ["felon", "melon", "newly"]
+leans,began
+leans,began,pecan
+leans,began,vegan
+ 42 [0ml[1;32me[1;33ma[1;33mn[0ms[0m   3    74 Some((5, 2, "began")) ["began", "pecan", "vegan"]
+leans,penne,being
+leans,penne
+leans,penne,penny
+ 60 [0ml[1;32me[0ma[1;32mn[0ms[0m   3    90 Some((5, 2, "penne")) ["being", "penne", "penny"]
+leans,loose
+leans,loose,loser
+leans,loose,louse
+ 86 [1;32ml[1;33me[0ma[0mn[1;33ms[0m   3   105 Some((5, 2, "loose")) ["loose", "loser", "louse"]
+leans,lease
+leans,lease,leash
+leans,lease,leash,least
+107 [1;32ml[1;32me[1;32ma[0mn[1;33ms[0m   3    11 Some((6, 3, "lease")) ["lease", "leash", "least"]
+leans,ashen
+leans,ashen,saner
+leans,ashen,sneak
+120 [0ml[1;33me[1;33ma[1;33mn[1;33ms[0m   3    77 Some((5, 2, "ashen")) ["ashen", "saner", "sneak"]
+leans,slain
+leans,slain,snail
+leans,slain,snarl
+127 [1;33ml[0me[1;32ma[1;33mn[1;33ms[0m   3    17 Some((5, 2, "slain")) ["slain", "snail", "snarl"]
+leans,floss,bliss
+leans,floss
+leans,floss,gloss
+163 [1;33ml[0me[0ma[0mn[1;32ms[0m   3   864 Some((5, 2, "floss")) ["bliss", "floss", "gloss"]
+leans,abyss
+leans,abyss,amiss
+leans,abyss,basis
+171 [0ml[0me[1;33ma[0mn[1;32ms[0m   3  1479 Some((5, 2, "abyss")) ["abyss", "amiss", "basis"]
+leans,mealy,dealt
+leans,mealy
+leans,mealy,pearl
+leans,mealy,realm
+ 25 [1;33ml[1;32me[1;32ma[0mn[0ms[0m   4    48 Some((7, 2, "mealy")) ["dealt", "mealy", "pearl", "realm"]
+leans,lunch,lingo
+leans,lunch,login
+leans,lunch
+leans,lunch,lynch
+ 29 [1;32ml[0me[0ma[1;33mn[0ms[0m   4   116 Some((7, 2, "lunch")) ["lingo", "login", "lunch", "lynch"]
+leans,sling
+leans,sling,slink
+leans,sling,slung
+leans,sling,slunk
+136 [1;33ml[0me[0ma[1;32mn[1;33ms[0m   4    32 Some((7, 2, "sling")) ["sling", "slink", "slung", "slunk"]
+leans,leavy,leach
+leans,leavy,leafy
+leans,leavy,leafy,leaky
+leans,leavy,leach,leapt
+leans,leavy,leave
+ 26 [1;32ml[1;32me[1;32ma[0mn[0ms[0m   5    24 Some((12, 3, "leavy")) ["leach", "leafy", "leaky", "leapt", "leave"]
+leans,liken
+leans,liken,linen
+leans,liken,liner
+leans,liken,lumen
+leans,liken,lunge
+ 32 [1;32ml[1;33me[0ma[1;33mn[0ms[0m   5    44 Some((9, 2, "liken")) ["liken", "linen", "liner", "lumen", "lunge"]
+leans,ament,agent
+leans,ament,amend
+leans,ament,arena
+leans,ament,atone
+leans,ament,hyena
+ 66 [0ml[1;33me[1;33ma[1;32mn[0ms[0m   5    77 Some((10, 2, "ament")) ["agent", "amend", "arena", "atone", "hyena"]
+leans,false,aisle
+leans,false,easel
+leans,false
+leans,false,salve
+leans,false,steal
+ 94 [1;33ml[1;33me[1;33ma[0mn[1;33ms[0m   5   114 Some((9, 2, "false")) ["aisle", "easel", "false", "salve", "steal"]
+leans,slate,scale
+leans,slate,scale,shale
+leans,slate
+leans,slate,slave
+leans,slate,stale
+103 [1;33ml[1;33me[1;32ma[0mn[1;33ms[0m   5    41 Some((10, 3, "slate")) ["scale", "shale", "slate", "slave", "stale"]
+leans,beast
+leans,beast,cease
+leans,beast,feast
+leans,beast,tease
+leans,beast,feast,yeast
+105 [0ml[1;32me[1;32ma[0mn[1;33ms[0m   5    96 Some((10, 3, "beast")) ["beast", "cease", "feast", "tease", "yeast"]
+leans,spank,gnash
+leans,spank,snack
+leans,spank,snaky
+leans,spank,spawn
+leans,spank,stain
+126 [0ml[0me[1;32ma[1;33mn[1;33ms[0m   5   106 Some((10, 2, "spank")) ["gnash", "snack", "snaky", "spawn", "stain"]
+leans,stand,scant
+leans,stand,shank
+leans,stand,shank,spank
+leans,stand
+leans,stand,stank
+153 [0ml[0me[1;32ma[1;32mn[1;33ms[0m   5    64 Some((10, 3, "stand")) ["scant", "shank", "spank", "stand", "stank"]
+leans,crabs,amass
+leans,crabs,brass
+leans,crabs,chaos
+leans,crabs,crass
+leans,crabs,grass
+180 [0ml[0me[1;32ma[0mn[1;32ms[0m   5   398 Some((10, 2, "crabs")) ["amass", "brass", "chaos", "crass", "grass"]
+leans,semen,dense
+leans,semen,resin
+leans,semen
+leans,semen,sense
+leans,semen,seven
+leans,semen,dense,tense
+114 [0ml[1;32me[0ma[1;33mn[1;33ms[0m   6   150 Some((12, 3, "semen")) ["dense", "resin", "semen", "sense", "seven", "tense"]
+leans,creds,chess
+leans,creds,cress
+leans,creds,dress
+leans,creds,ethos
+leans,creds,guess
+leans,creds,press
+165 [0ml[1;33me[0ma[0mn[1;32ms[0m   6  1440 Some((12, 2, "creds")) ["chess", "cress", "dress", "ethos", "guess", "press"]
+leans,lieve,libel
+leans,lieve,liege
+leans,lieve,lithe
+leans,lieve,liver
+leans,lieve,lodge
+leans,lieve,lover
+leans,lieve,lower
+  5 [1;32ml[1;33me[0ma[0mn[0ms[0m   7   279 Some((14, 2, "lieve")) ["libel", "liege", "lithe", "liver", "lodge", "lover", "lower"]
+leans,lacer,labor
+leans,lacer,larva
+leans,lacer,latch
+leans,lacer,laugh
+leans,lacer,lilac
+leans,lacer,local
+leans,lacer,loyal
+ 11 [1;32ml[0me[1;33ma[0mn[0ms[0m   7   237 Some((14, 2, "lacer")) ["labor", "larva", "latch", "laugh", "lilac", "local", "loyal"]
+leans,incel,elfin
+leans,incel,inlet
+leans,incel,kneel
+leans,incel,knelt
+leans,incel,noble
+leans,incel,novel
+leans,incel,olden
+leans,incel,uncle
+ 31 [1;33ml[1;33me[0ma[1;33mn[0ms[0m   8   130 Some((16, 2, "incel")) ["elfin", "inlet", "kneel", "knelt", "noble", "novel", "olden", "uncle"]
+leans,angel,alien
+leans,angel
+leans,angel,angle
+leans,angel,ankle
+leans,angel,clean
+leans,angel,glean
+leans,angel,navel
+leans,angel,navel,panel
+ 40 [1;33ml[1;33me[1;33ma[1;33mn[0ms[0m   8    43 Some((16, 3, "angel")) ["alien", "angel", "angle", "ankle", "clean", "glean", "navel", "panel"]
+leans,blank,bland
+leans,blank
+leans,blank,clang
+leans,blank,clank
+leans,blank,clank,flank
+leans,blank,clang,gland
+leans,blank,clank,flank,plank
+leans,blank,clang,plant
+ 73 [1;33ml[0me[1;32ma[1;32mn[0ms[0m   8    35 Some((20, 4, "blank")) ["bland", "blank", "clang", "clank", "flank", "gland", "plank", "plant"]
+leans,leger,ledge
+leans,leger,leech
+leans,leger,leery
+leans,leger,lefty
+leans,leger,leggy
+leans,leger,lemur
+leans,leger,leper
+leans,leger,level
+leans,leger,leper,lever
+  8 [1;32ml[1;32me[0ma[0mn[0ms[0m   9   100 Some((19, 3, "leger")) ["ledge", "leech", "leery", "lefty", "leggy", "lemur", "leper", "level", "lever"]
+leans,later,label
+leans,later,ladle
+leans,later,lager
+leans,later,label,lapel
+leans,later,large
+leans,later
+leans,later,lathe
+leans,later,lathe,latte
+leans,later,lager,layer
+ 14 [1;32ml[1;33me[1;33ma[0mn[0ms[0m   9    89 Some((20, 3, "later")) ["label", "ladle", "lager", "lapel", "large", "later", "lathe", "latte", "layer"]
+leans,satin,angst
+leans,satin,arson
+leans,satin,basin
+leans,satin,mason
+leans,satin,nasty
+leans,satin,pansy
+leans,satin,sandy
+leans,satin
+leans,satin,sonar
+117 [0ml[0me[1;33ma[1;33mn[1;33ms[0m   9   359 Some((17, 2, "satin")) ["angst", "arson", "basin", "mason", "nasty", "pansy", "sandy", "satin", "sonar"]
+leans,colin,blown
+leans,colin,clown
+leans,colin,colon
+leans,colin,blown,flown
+leans,colin,knoll
+leans,colin,nobly
+leans,colin,nylon
+leans,colin,unlit
+leans,colin,until
+leans,colin,vinyl
+ 28 [1;33ml[0me[0ma[1;33mn[0ms[0m  10   369 Some((21, 3, "colin")) ["blown", "clown", "colon", "flown", "knoll", "nobly", "nylon", "unlit", "until", "vinyl"]
+leans,brain,again
+leans,brain
+leans,brain,brawn
+leans,brain,again,chain
+leans,brain,drain
+leans,brain,drawn
+leans,brain,drain,grain
+leans,brain,knack
+leans,brain,drawn,prawn
+leans,brain,drain,grain,train
+ 45 [0ml[0me[1;32ma[1;33mn[0ms[0m  10   239 Some((24, 4, "brain")) ["again", "brain", "brawn", "chain", "drain", "drawn", "grain", "knack", "prawn", "train"]
+leans,spent,scene
+leans,spent,scent
+leans,spent,shine,scone
+leans,spent,shine
+leans,spent,shine,shone
+leans,spent,spend
+leans,spent
+leans,spent,spine
+leans,spent,stone
+leans,spent,shine,swine
+138 [0ml[1;33me[0ma[1;32mn[1;33ms[0m  10    95 Some((22, 3, "spent")) ["scene", "scent", "scone", "shine", "shone", "spend", "spent", "spine", "stone", "swine"]
+leans,coirs,cross
+leans,coirs,dross
+leans,coirs,ficus
+leans,coirs,focus
+leans,coirs,dross,gross
+leans,coirs,humus
+leans,coirs,mucus
+leans,coirs,torus
+leans,coirs,truss
+leans,coirs,virus
+162 [0ml[0me[0ma[0mn[1;32ms[0m  10  3958 Some((21, 3, "coirs")) ["cross", "dross", "ficus", "focus", "gross", "humus", "mucus", "torus", "truss", "virus"]
+leans,grand,brand
+leans,grand,chant
+leans,grand,franc,crank
+leans,grand,drank
+leans,grand,franc,frank
+leans,grand,giant
+leans,grand
+leans,grand,grant
+leans,grand,chant,piano
+leans,grand,franc,prank
+leans,grand,chant,thank
+leans,grand,twang
+ 72 [0ml[0me[1;32ma[1;32mn[0ms[0m  12   154 Some((28, 3, "grand")) ["brand", "chant", "crank", "drank", "frank", "giant", "grand", "grant", "piano", "prank", "thank", "twang"]
+leans,debar,begat
+leans,debar,cedar
+leans,debar
+leans,debar,decay
+leans,debar,kebab
+leans,debar,mecca
+leans,debar,media
+leans,debar,rebar
+leans,debar,recap
+leans,debar,rehab
+leans,debar,recap,repay
+leans,debar,terra
+leans,debar,zebra
+ 15 [0ml[1;32me[1;33ma[0mn[0ms[0m  13   405 Some((26, 3, "debar")) ["begat", "cedar", "debar", "decay", "kebab", "mecca", "media", "rebar", "recap", "rehab", "repay", "terra", "zebra"]
+leans,tonal,align
+leans,tonal,annul
+leans,tonal,anvil
+leans,tonal,banal
+leans,tonal,banal,canal
+leans,tonal,banal,final
+leans,tonal,inlay
+leans,tonal,manly
+leans,tonal,natal
+leans,tonal,naval
+leans,tonal,talon
+leans,tonal
+leans,tonal,zonal
+ 37 [1;33ml[0me[1;33ma[1;33mn[0ms[0m  13   166 Some((27, 3, "tonal")) ["align", "annul", "anvil", "banal", "canal", "final", "inlay", "manly", "natal", "naval", "talon", "tonal", "zonal"]
+leans,fling,blind
+leans,fling,blind,blink
+leans,fling,blond
+leans,fling,blond,blunt
+leans,fling,cling
+leans,fling,blind,clink
+leans,fling,clung
+leans,fling
+leans,fling,flint
+leans,fling,flung
+leans,fling,flunk
+leans,fling,glint
+leans,fling,blond,plunk
+ 55 [1;33ml[0me[0ma[1;32mn[0ms[0m  13   102 Some((29, 3, "fling")) ["blind", "blink", "blond", "blunt", "cling", "clink", "clung", "fling", "flint", "flung", "flunk", "glint", "plunk"]
+leans,salat,basal
+leans,salat,basil
+leans,salat,palsy
+leans,salat,sadly
+leans,salat,salad
+leans,salat,sally
+leans,salat,salsa
+leans,salat,salty
+leans,salat,sally,salvo
+leans,salat,shoal
+leans,salat,solar
+leans,salat,splat
+leans,salat,usual
+ 91 [1;33ml[0me[1;33ma[0mn[1;33ms[0m  13   455 Some((27, 3, "salat")) ["basal", "basil", "palsy", "sadly", "salad", "sally", "salsa", "salty", "salvo", "shoal", "solar", "splat", "usual"]
+leans,medal,decal
+leans,medal,delay
+leans,medal,delta
+leans,medal,feral,fecal
+leans,medal,fella
+leans,medal,feral
+leans,medal,feral,fecal,fetal
+leans,medal
+leans,medal,metal
+leans,medal,pedal
+leans,medal,feral,petal
+leans,medal,feral,regal
+leans,medal,relax
+leans,medal,relax,relay
+ 16 [1;33ml[1;32me[1;33ma[0mn[0ms[0m  14   107 Some((33, 4, "medal")) ["decal", "delay", "delta", "fecal", "fella", "feral", "fetal", "medal", "metal", "pedal", "petal", "regal", "relax", "relay"]
+leans,blame,blade
+leans,blame
+leans,blame,blade,blare
+leans,blame,blade,blare,blaze
+leans,blame,glare,plate,elate
+leans,blame,email
+leans,blame,exalt
+leans,blame,glare,plate,flake
+leans,blame,flame
+leans,blame,glare,flare
+leans,blame,glare,glade
+leans,blame,glare
+leans,blame,glare,glade,glaze
+leans,blame,glare,plate,place
+leans,blame,glare,plate
+leans,blame,whale
+ 22 [1;33ml[1;33me[1;32ma[0mn[0ms[0m  16    99 Some((45, 4, "blame")) ["blade", "blame", "blare", "blaze", "elate", "email", "exalt", "flake", "flame", "flare", "glade", "glare", "glaze", "place", "plate", "whale"]
+leans,shalt,blast
+leans,shalt,clash
+leans,shalt,clasp
+leans,shalt,clash,flash
+leans,shalt,clasp,flask
+leans,shalt,psalm
+leans,shalt,scald
+leans,shalt,scald,scalp
+leans,shalt,scald,scalp,scaly
+leans,shalt,shall
+leans,shalt
+leans,shalt,shawl
+leans,shalt,slack
+leans,shalt,slash
+leans,shalt,scald,small
+leans,shalt,stalk
+leans,shalt,stalk,stall
+100 [1;33ml[0me[1;32ma[0mn[1;33ms[0m  17   168 Some((40, 4, "shalt")) ["blast", "clash", "clasp", "flash", "flask", "psalm", "scald", "scalp", "scaly", "shall", "shalt", "shawl", "slack", "slash", "small", "stalk", "stall"]
+leans,lirot,light
+leans,lirot,limbo
+leans,lirot,light,limit
+leans,lirot,lipid
+leans,lirot,lipid,livid
+leans,lirot,lobos,lobby
+leans,lirot,lofty
+leans,lirot,logic
+leans,lirot,lobos,loopy
+leans,lirot,lorry
+leans,lirot,lobos,lowly
+leans,lirot,lucid
+leans,lirot,lucky
+leans,lirot,lucky,lumpy
+leans,lirot,lurch
+leans,lirot,lurid
+leans,lirot,lucky,lymph
+leans,lirot,lurid,lyric
+  2 [1;32ml[0me[0ma[0mn[0ms[0m  18   577 Some((44, 3, "lirot")) ["light", "limbo", "limit", "lipid", "livid", "lobby", "lofty", "logic", "loopy", "lorry", "lowly", "lucid", "lucky", "lumpy", "lurch", "lurid", "lymph", "lyric"]
+leans,stung,shiny
+leans,stung,shunt
+leans,stung,skunk
+leans,stung,skunk,sound
+leans,stung,shiny,spiny
+leans,stung,skunk,spunk
+leans,stung,sting
+leans,stung,stink
+leans,stung,stink,stint
+leans,stung,stink,stony
+leans,stung
+leans,stung,stunk
+leans,stung,stunk,stunt
+leans,stung,suing
+leans,stung,sunny
+leans,stung,swing
+leans,stung,swung
+leans,stung,using
+135 [0ml[0me[0ma[1;32mn[1;33ms[0m  18   311 Some((41, 3, "stung")) ["shiny", "shunt", "skunk", "sound", "spiny", "spunk", "sting", "stink", "stint", "stony", "stung", "stunk", "stunt", "suing", "sunny", "swing", "swung", "using"]
+leans,prone,borne
+leans,prone,brine
+leans,prone,crone
+leans,prone,crone,drone
+leans,prone,ebony
+leans,prone,eking
+leans,prone,eking,event
+leans,prone,eking,eying
+leans,prone,eking,fiend
+leans,prone,opine
+leans,prone,ovine
+leans,prone,ozone
+leans,prone,phone
+leans,prone
+leans,prone,prune
+leans,prone,trend
+leans,prone,twine
+leans,prone,brine,urine
+leans,prone,twine,whine
+ 57 [0ml[1;33me[0ma[1;32mn[0ms[0m  19   263 Some((43, 3, "prone")) ["borne", "brine", "crone", "drone", "ebony", "eking", "event", "eying", "fiend", "opine", "ovine", "ozone", "phone", "prone", "prune", "trend", "twine", "urine", "whine"]
+leans,swoon,bison
+leans,swoon,noisy
+leans,swoon,scion
+leans,swoon,scorn
+leans,swoon,scorn,shorn
+leans,swoon,shown
+leans,swoon,sniff
+leans,swoon,snoop
+leans,swoon,snort
+leans,swoon,snort,snout
+leans,swoon,snowy
+leans,swoon,sniff,snuck
+leans,swoon,sniff,snuff
+leans,swoon,sonic
+leans,swoon,spoon
+leans,swoon,spurn
+leans,swoon
+leans,swoon,sworn
+leans,swoon,synod
+108 [0ml[0me[0ma[1;33mn[1;33ms[0m  19  1027 Some((41, 3, "swoon")) ["bison", "noisy", "scion", "scorn", "shorn", "shown", "sniff", "snoop", "snort", "snout", "snowy", "snuck", "snuff", "sonic", "spoon", "spurn", "swoon", "sworn", "synod"]
+leans,raven,anger
+leans,raven,anime
+leans,raven,annex
+leans,raven,anime,anode
+leans,raven,annex,apnea
+leans,raven,canoe
+leans,raven,canoe,dance
+leans,raven,taken,eaten
+leans,raven,anime,enema
+leans,raven,haven
+leans,raven,anime,knead
+leans,raven,canoe,mange
+leans,raven,naive
+leans,raven,taken,oaken
+leans,raven,ocean
+leans,raven,ramen
+leans,raven,range
+leans,raven
+leans,raven,taken
+leans,raven,taken,waxen
+ 39 [0ml[1;33me[1;33ma[1;33mn[0ms[0m  20   288 Some((48, 3, "raven")) ["anger", "anime", "annex", "anode", "apnea", "canoe", "dance", "eaten", "enema", "haven", "knead", "mange", "naive", "oaken", "ocean", "ramen", "range", "raven", "taken", "waxen"]
+leans,thang,aging
+leans,thang,agony
+leans,thang,aging,among
+leans,thang,aging,aping
+leans,thang,canny
+leans,thang,china
+leans,thang,daunt
+leans,thang,daunt,faint
+leans,thang,canny,fanny
+leans,thang,canny,fauna
+leans,thang,gaunt
+leans,thang,haunt
+leans,thang,daunt,jaunt
+leans,thang,canny,fanny,nanny
+leans,thang,daunt,faint,paint
+leans,thang,canny,rainy
+leans,thang,taint
+leans,thang,taint,taunt
+leans,thang,taint,tawny
+leans,thang,daunt,jaunt,vaunt
+ 63 [0ml[0me[1;33ma[1;32mn[0ms[0m  20   321 Some((55, 4, "thang")) ["aging", "agony", "among", "aping", "canny", "china", "daunt", "faint", "fanny", "fauna", "gaunt", "haunt", "jaunt", "nanny", "paint", "rainy", "taint", "taunt", "tawny", "vaunt"]
+leans,sneer,ensue
+leans,sneer,noise
+leans,sneer,noise,noose
+leans,sneer,nosey
+leans,sneer,nurse
+leans,sneer,onset
+leans,sneer,nurse,rinse
+leans,sneer,risen
+leans,sneer,sheen
+leans,sneer,since
+leans,sneer,sinew
+leans,sneer,since,singe
+leans,sneer,siren
+leans,sneer
+leans,sneer,snide
+leans,sneer,snide,snipe
+leans,sneer,snore
+leans,sneer,stein
+leans,sneer,stern
+leans,sneer,onset,unset
+111 [0ml[1;33me[0ma[1;33mn[1;33ms[0m  20   363 Some((44, 3, "sneer")) ["ensue", "noise", "noose", "nosey", "nurse", "onset", "rinse", "risen", "sheen", "since", "sinew", "singe", "siren", "sneer", "snide", "snipe", "snore", "stein", "stern", "unset"]
+leans,heart,beach
+leans,heart,peace,beady
+leans,heart,deary,beard
+leans,heart,death
+leans,heart,heady
+leans,heart,heard
+leans,heart
+leans,heart,heath
+leans,heart,heady,heave
+leans,heart,heady,heavy
+leans,heart,meaty
+leans,heart,peace
+leans,heart,beach,peach
+leans,heart,reach
+leans,heart,react
+leans,heart,ready
+leans,heart,deary,rearm
+leans,heart,death,teach
+leans,heart,teary
+leans,heart,deary,weary
+leans,heart,peace,weave
+ 24 [0ml[1;32me[1;32ma[0mn[0ms[0m  21   189 Some((50, 3, "heart")) ["beach", "beady", "beard", "death", "heady", "heard", "heart", "heath", "heave", "heavy", "meaty", "peace", "peach", "reach", "react", "ready", "rearm", "teach", "teary", "weary", "weave"]
+leans,terse,beset
+leans,terse,geese
+leans,terse,heist
+leans,terse,pesky
+leans,terse,pesto
+leans,terse,reset
+leans,terse,reuse
+leans,terse,seedy
+leans,terse,segue
+leans,terse,segue,seize
+leans,terse,serif
+leans,terse,serif,serum
+leans,terse,serve
+leans,terse,pesto,setup
+leans,terse,sever
+leans,terse,sever,sewer
+leans,terse
+leans,terse,testy
+leans,terse,verse
+leans,terse,verso
+leans,terse,pesto,zesty
+ 87 [0ml[1;32me[0ma[0mn[1;33ms[0m  21   744 Some((46, 3, "terse")) ["beset", "geese", "heist", "pesky", "pesto", "reset", "reuse", "seedy", "segue", "seize", "serif", "serum", "serve", "setup", "sever", "sewer", "terse", "testy", "verse", "verso", "zesty"]
+102 [0ml[1;33me[1;32ma[0mn[1;33ms[0m  22   163 None ["abase", "chase", "erase", "phase", "scare", "shade", "shake", "shame", "shape", "share", "shave", "skate", "space", "spade", "spare", "stage", "stake", "stare", "state", "stave", "suave", "usage"]

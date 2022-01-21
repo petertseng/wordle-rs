@@ -1,0 +1,512 @@
+ratel,roast
+ 14 [1;32mr[1;33ma[1;33mt[0me[0ml[0m   1    41 Some((1, 1, "roast")) ["roast"]
+ratel,rotor
+ 20 [1;32mr[0ma[1;32mt[0me[0ml[0m   1    43 Some((1, 1, "rotor")) ["rotor"]
+ratel,satyr
+ 25 [1;33mr[1;32ma[1;32mt[0me[0ml[0m   1    30 Some((1, 1, "satyr")) ["satyr"]
+ratel,react
+ 41 [1;32mr[1;33ma[1;33mt[1;33me[0ml[0m   1    16 Some((1, 1, "react")) ["react"]
+ratel,earth
+ 43 [1;33mr[1;32ma[1;33mt[1;33me[0ml[0m   1    35 Some((1, 1, "earth")) ["earth"]
+ratel,extra
+ 49 [1;33mr[1;33ma[1;32mt[1;33me[0ml[0m   1    28 Some((1, 1, "extra")) ["extra"]
+ratel,bathe
+ 51 [0mr[1;32ma[1;32mt[1;33me[0ml[0m   1    52 Some((1, 1, "bathe")) ["bathe"]
+ratel,asset
+ 66 [0mr[1;33ma[1;33mt[1;32me[0ml[0m   1   101 Some((1, 1, "asset")) ["asset"]
+ratel,after
+ 76 [1;33mr[1;33ma[1;32mt[1;32me[0ml[0m   1    20 Some((1, 1, "after")) ["after"]
+ratel,hotly
+ 99 [0mr[0ma[1;32mt[0me[1;33ml[0m   1    98 Some((1, 1, "hotly")) ["hotly"]
+ratel,aptly
+102 [0mr[1;33ma[1;32mt[0me[1;33ml[0m   1    51 Some((1, 1, "aptly")) ["aptly"]
+ratel,latch
+105 [0mr[1;32ma[1;32mt[0me[1;33ml[0m   1    22 Some((1, 1, "latch")) ["latch"]
+ratel,alert
+121 [1;33mr[1;33ma[1;33mt[1;33me[1;33ml[0m   1     6 Some((1, 1, "alert")) ["alert"]
+ratel,table
+123 [0mr[1;32ma[1;33mt[1;33me[1;33ml[0m   1    17 Some((1, 1, "table")) ["table"]
+ratel,ruler
+137 [1;32mr[0ma[0mt[1;32me[1;33ml[0m   1    18 Some((1, 1, "ruler")) ["ruler"]
+ratel,laden
+141 [0mr[1;32ma[0mt[1;32me[1;33ml[0m   1    88 Some((1, 1, "laden")) ["laden"]
+ratel,valet
+150 [0mr[1;32ma[1;33mt[1;32me[1;33ml[0m   1    12 Some((1, 1, "valet")) ["valet"]
+ratel,alter
+157 [1;33mr[1;33ma[1;32mt[1;32me[1;33ml[0m   1     4 Some((1, 1, "alter")) ["alter"]
+ratel,later
+160 [1;33mr[1;32ma[1;32mt[1;32me[1;33ml[0m   1     2 Some((1, 1, "later")) ["later"]
+ratel,carol
+169 [1;33mr[1;32ma[0mt[0me[1;32ml[0m   1     8 Some((1, 1, "carol")) ["carol"]
+ratel,until
+180 [0mr[0ma[1;32mt[0me[1;32ml[0m   1    36 Some((1, 1, "until")) ["until"]
+ratel,peril
+190 [1;33mr[0ma[0mt[1;33me[1;32ml[0m   1    41 Some((1, 1, "peril")) ["peril"]
+ratel,steal
+201 [0mr[1;33ma[1;33mt[1;33me[1;32ml[0m   1     9 Some((1, 1, "steal")) ["steal"]
+ratel,extol
+207 [0mr[0ma[1;32mt[1;33me[1;32ml[0m   1    15 Some((1, 1, "extol")) ["extol"]
+ratel,angel
+219 [0mr[1;33ma[0mt[1;32me[1;32ml[0m   1    22 Some((1, 1, "angel")) ["angel"]
+ratel,roach
+ratel,roach,rumba
+  5 [1;32mr[1;33ma[0mt[0me[0ml[0m   2   240 Some((3, 2, "roach")) ["roach", "rumba"]
+ratel,actor
+ratel,actor,artsy
+ 22 [1;33mr[1;33ma[1;32mt[0me[0ml[0m   2    61 Some((3, 2, "actor")) ["actor", "artsy"]
+ratel,ratio
+ratel,ratio,ratty
+ 26 [1;32mr[1;32ma[1;32mt[0me[0ml[0m   2    16 Some((3, 2, "ratio")) ["ratio", "ratty"]
+ratel,raise
+ratel,raise,range
+ 35 [1;32mr[1;32ma[0mt[1;33me[0ml[0m   2    62 Some((3, 2, "raise")) ["raise", "range"]
+ratel,entry
+ratel,entry,metro
+ 46 [1;33mr[0ma[1;32mt[1;33me[0ml[0m   2    78 Some((3, 2, "entry")) ["entry", "metro"]
+ratel,reset
+ratel,reset,rivet
+ 65 [1;32mr[0ma[1;33mt[1;32me[0ml[0m   2    17 Some((3, 2, "reset")) ["reset", "rivet"]
+ratel,eaten
+ratel,eaten,matey
+ 78 [0mr[1;32ma[1;32mt[1;32me[0ml[0m   2    43 Some((3, 2, "eaten")) ["eaten", "matey"]
+ratel,rally
+ratel,rally,ralph
+ 89 [1;32mr[1;32ma[0mt[0me[1;33ml[0m   2    11 Some((3, 2, "rally")) ["rally", "ralph"]
+ratel,altar
+ratel,altar,ultra
+103 [1;33mr[1;33ma[1;32mt[0me[1;33ml[0m   2     9 Some((3, 2, "altar")) ["altar", "ultra"]
+ratel,early
+ratel,early,large
+115 [1;33mr[1;32ma[0mt[1;33me[1;33ml[0m   2    32 Some((3, 2, "early")) ["early", "large"]
+ratel,lithe
+ratel,lithe,title
+126 [0mr[0ma[1;32mt[1;33me[1;33ml[0m   2    46 Some((3, 2, "lithe")) ["lithe", "title"]
+ratel,lathe
+ratel,lathe,latte
+132 [0mr[1;32ma[1;32mt[1;33me[1;33ml[0m   2     8 Some((3, 2, "lathe")) ["lathe", "latte"]
+ratel,still
+ratel,still,stool
+171 [0mr[0ma[1;33mt[0me[1;32ml[0m   2    73 Some((3, 2, "still")) ["still", "stool"]
+ratel,troll
+ratel,troll,twirl
+172 [1;33mr[0ma[1;33mt[0me[1;32ml[0m   2    15 Some((3, 2, "troll")) ["troll", "twirl"]
+ratel,fatal
+ratel,fatal,natal
+186 [0mr[1;32ma[1;32mt[0me[1;32ml[0m   2     6 Some((3, 2, "fatal")) ["fatal", "natal"]
+ratel,feral
+ratel,feral,pearl
+193 [1;33mr[1;33ma[0mt[1;33me[1;32ml[0m   2    14 Some((3, 2, "feral")) ["feral", "pearl"]
+ratel,regal
+ratel,regal,renal
+194 [1;32mr[1;33ma[0mt[1;33me[1;32ml[0m   2     5 Some((3, 2, "regal")) ["regal", "renal"]
+ratel,cruel
+ratel,cruel,gruel
+217 [1;33mr[0ma[0mt[1;32me[1;32ml[0m   2    23 Some((3, 2, "cruel")) ["cruel", "gruel"]
+ratel,steel
+ratel,steel,towel
+225 [0mr[0ma[1;33mt[1;32me[1;32ml[0m   2    11 Some((3, 2, "steel")) ["steel", "towel"]
+ratel,motor,intro
+ratel,motor
+ratel,motor,tutor
+ 19 [1;33mr[0ma[1;32mt[0me[0ml[0m   3   131 Some((5, 2, "motor")) ["intro", "motor", "tutor"]
+ratel,antic
+ratel,antic,attic
+ratel,antic,titan
+ 21 [0mr[1;33ma[1;32mt[0me[0ml[0m   3   250 Some((5, 2, "antic")) ["antic", "attic", "titan"]
+ratel,retro,retch
+ratel,retro
+ratel,retro,retry
+ 47 [1;32mr[0ma[1;32mt[1;33me[0ml[0m   3    18 Some((5, 2, "retro")) ["retch", "retro", "retry"]
+ratel,cadet
+ratel,cadet,facet
+ratel,cadet,taken
+ 69 [0mr[1;32ma[1;33mt[1;32me[0ml[0m   3    82 Some((5, 2, "cadet")) ["cadet", "facet", "taken"]
+ratel,taker
+ratel,taker,tamer
+ratel,taker,tamer,taper
+ 70 [1;33mr[1;32ma[1;33mt[1;32me[0ml[0m   3    28 Some((6, 3, "taker")) ["taker", "tamer", "taper"]
+ratel,octet
+ratel,octet,often
+ratel,octet,totem
+ 72 [0mr[0ma[1;32mt[1;32me[0ml[0m   3   162 Some((5, 2, "octet")) ["octet", "often", "totem"]
+ratel,labor
+ratel,labor,larva
+ratel,labor,valor
+ 88 [1;33mr[1;32ma[0mt[0me[1;33ml[0m   3    72 Some((5, 2, "labor")) ["labor", "larva", "valor"]
+ratel,blurt
+ratel,blurt,flirt
+ratel,blurt,truly
+ 91 [1;33mr[0ma[1;33mt[0me[1;33ml[0m   3    44 Some((5, 2, "blurt")) ["blurt", "flirt", "truly"]
+ratel,clerk
+ratel,clerk,leery
+ratel,clerk,lemur
+109 [1;33mr[0ma[0mt[1;33me[1;33ml[0m   3   204 Some((5, 2, "clerk")) ["clerk", "leery", "lemur"]
+ratel,relic
+ratel,relic,reply
+ratel,relic,rifle
+110 [1;32mr[0ma[0mt[1;33me[1;33ml[0m   3    44 Some((5, 2, "relic")) ["relic", "reply", "rifle"]
+ratel,relax,realm
+ratel,relax
+ratel,relax,relay
+113 [1;32mr[1;33ma[0mt[1;33me[1;33ml[0m   3    14 Some((5, 2, "relax")) ["realm", "relax", "relay"]
+ratel,abled
+ratel,abled,alien
+ratel,abled,alley
+138 [0mr[1;33ma[0mt[1;32me[1;33ml[0m   3   124 Some((5, 2, "abled")) ["abled", "alien", "alley"]
+ratel,riyal,rival
+ratel,riyal,royal
+ratel,riyal,rural
+167 [1;32mr[1;33ma[0mt[0me[1;32ml[0m   3    16 Some((6, 2, "riyal")) ["rival", "royal", "rural"]
+ratel,trail
+ratel,trail,trawl
+ratel,trail,trial
+175 [1;33mr[1;33ma[1;33mt[0me[1;32ml[0m   3     8 Some((5, 2, "trail")) ["trail", "trawl", "trial"]
+ratel,octal
+ratel,octal,total
+ratel,octal,vital
+183 [0mr[1;33ma[1;32mt[0me[1;32ml[0m   3    21 Some((5, 2, "octal")) ["octal", "total", "vital"]
+ratel,fetal
+ratel,fetal,metal
+ratel,fetal,metal,petal
+210 [0mr[1;33ma[1;32mt[1;33me[1;32ml[0m   3     6 Some((6, 3, "fetal")) ["fetal", "metal", "petal"]
+ratel,rebel
+ratel,rebel,repel
+ratel,rebel,repel,revel
+218 [1;32mr[0ma[0mt[1;32me[1;32ml[0m   3     9 Some((6, 3, "rebel")) ["rebel", "repel", "revel"]
+ratel,hotel,betel
+ratel,hotel
+ratel,hotel,motel
+234 [0mr[0ma[1;32mt[1;32me[1;32ml[0m   3     7 Some((5, 2, "hotel")) ["betel", "hotel", "motel"]
+ratel,robot,right
+ratel,robot
+ratel,robot,roost
+ratel,robot,rusty
+ 11 [1;32mr[0ma[1;33mt[0me[0ml[0m   4   120 Some((7, 2, "robot")) ["right", "robot", "roost", "rusty"]
+ratel,caber,barge
+ratel,caber,carve
+ratel,caber,farce
+ratel,caber,parse
+ 34 [1;33mr[1;32ma[0mt[1;33me[0ml[0m   4   249 Some((8, 2, "caber")) ["barge", "carve", "farce", "parse"]
+ratel,aimer,agree
+ratel,aimer,aider
+ratel,aimer,amber
+ratel,aimer,anger
+ 58 [1;33mr[1;33ma[0mt[1;32me[0ml[0m   4   231 Some((8, 2, "aimer")) ["agree", "aider", "amber", "anger"]
+ratel,racer
+ratel,racer,ramen
+ratel,racer,rarer
+ratel,racer,ramen,raven
+ 62 [1;32mr[1;32ma[0mt[1;32me[0ml[0m   4    46 Some((8, 3, "racer")) ["racer", "ramen", "rarer", "raven"]
+ratel,cater
+ratel,cater,eater
+ratel,cater,eater,hater
+ratel,cater,eater,hater,water
+ 79 [1;33mr[1;32ma[1;32mt[1;32me[0ml[0m   4    15 Some((10, 4, "cater")) ["cater", "eater", "hater", "water"]
+ratel,baler
+ratel,baler,lager
+ratel,baler,lager,layer
+ratel,baler,paler
+142 [1;33mr[1;32ma[0mt[1;32me[1;33ml[0m   4    21 Some((8, 3, "baler")) ["baler", "lager", "layer", "paler"]
+ratel,rebut
+ratel,rebut,recut
+ratel,rebut,refit
+ratel,rebut,refit,remit
+ratel,rebut,route
+ 38 [1;32mr[0ma[1;33mt[1;33me[0ml[0m   5    56 Some((10, 3, "rebut")) ["rebut", "recut", "refit", "remit", "route"]
+ratel,antes,abbey
+ratel,antes,annex
+ratel,antes,apnea
+ratel,antes,ashen
+ratel,antes,askew
+ 57 [0mr[1;33ma[0mt[1;32me[0ml[0m   5   653 Some((10, 2, "antes")) ["abbey", "annex", "apnea", "ashen", "askew"]
+ratel,blare
+ratel,blare,clear
+ratel,blare,flare
+ratel,blare,flare,glare
+ratel,blare,learn
+112 [1;33mr[1;33ma[0mt[1;33me[1;33ml[0m   5    71 Some((10, 3, "blare")) ["blare", "clear", "flare", "glare", "learn"]
+ratel,islet,filet
+ratel,islet,fleet
+ratel,islet,inlet
+ratel,islet
+ratel,islet,sleet
+144 [0mr[0ma[1;33mt[1;32me[1;33ml[0m   5    59 Some((9, 2, "islet")) ["filet", "fleet", "inlet", "islet", "sleet"]
+ratel,dotal,atoll
+ratel,dotal,stall
+ratel,dotal,tidal
+ratel,dotal,tonal
+ratel,dotal,tubal
+174 [0mr[1;33ma[1;33mt[0me[1;32ml[0m   5    36 Some((10, 2, "dotal")) ["atoll", "stall", "tidal", "tonal", "tubal"]
+ratel,party,carat
+ratel,party
+ratel,party,tapir
+ratel,party,tardy
+ratel,party,carat,tarot
+ratel,party,warty
+ 16 [1;33mr[1;32ma[1;33mt[0me[0ml[0m   6    99 Some((12, 3, "party")) ["carat", "party", "tapir", "tardy", "tarot", "warty"]
+ratel,cakey,cagey
+ratel,cakey,cameo
+ratel,cakey,haven
+ratel,cakey,oaken
+ratel,cakey,payee
+ratel,cakey,haven,waxen
+ 60 [0mr[1;32ma[0mt[1;32me[0ml[0m   6   507 Some((13, 3, "cakey")) ["cagey", "cameo", "haven", "oaken", "payee", "waxen"]
+ratel,salty,fault
+ratel,salty
+ratel,salty,tally
+ratel,salty,talon
+ratel,salty,fault,vault
+ratel,salty,waltz
+ 96 [0mr[1;32ma[1;33mt[0me[1;33ml[0m   6    76 Some((12, 3, "salty")) ["fault", "salty", "tally", "talon", "vault", "waltz"]
+ratel,reach
+ratel,reach,ready
+ratel,reach,ready,rearm
+ratel,reach,rebar
+ratel,reach,recap
+ratel,reach,rehab
+ratel,reach,rebar,repay
+ 32 [1;32mr[1;33ma[0mt[1;33me[0ml[0m   7   117 Some((15, 3, "reach")) ["reach", "ready", "rearm", "rebar", "recap", "rehab", "repay"]
+ratel,molar,alarm
+ratel,molar,flair
+ratel,molar,flora
+ratel,molar,lunar
+ratel,molar
+ratel,molar,polar
+ratel,molar,polar,solar
+ 85 [1;33mr[1;33ma[0mt[0me[1;33ml[0m   7   213 Some((14, 3, "molar")) ["alarm", "flair", "flora", "lunar", "molar", "polar", "solar"]
+ratel,swell,devil
+ratel,swell,dwell
+ratel,swell,quell
+ratel,swell,shell
+ratel,swell,shell,smell
+ratel,swell,shell,smell,spell
+ratel,swell
+189 [0mr[0ma[0mt[1;33me[1;32ml[0m   7   184 Some((16, 4, "swell")) ["devil", "dwell", "quell", "shell", "smell", "spell", "swell"]
+ratel,tache,baste
+ratel,tache,caste
+ratel,tache,haste
+ratel,tache,haste,haute
+ratel,tache,baste,paste
+ratel,tache,baste,saute
+ratel,tache,taste
+ratel,tache,baste,paste,waste
+ 42 [0mr[1;32ma[1;33mt[1;33me[0ml[0m   8   120 Some((21, 4, "tache")) ["baste", "caste", "haste", "haute", "paste", "saute", "taste", "waste"]
+ratel,enter,deter
+ratel,enter
+ratel,enter,ester
+ratel,enter,inter
+ratel,enter,deter,meter
+ratel,enter,otter
+ratel,enter,otter,outer
+ratel,enter,otter,utter
+ratel,enter,otter,voter
+ 73 [1;33mr[0ma[1;32mt[1;32me[0ml[0m   9    51 Some((21, 3, "enter")) ["deter", "enter", "ester", "inter", "meter", "otter", "outer", "utter", "voter"]
+ratel,banal
+ratel,banal,basal
+ratel,banal,basil
+ratel,banal,cabal
+ratel,banal,canal
+ratel,banal,cavil
+ratel,banal,nasal
+ratel,banal,nasal,naval
+ratel,banal,papal
+168 [0mr[1;32ma[0mt[0me[1;32ml[0m   9    59 Some((18, 3, "banal")) ["banal", "basal", "basil", "cabal", "canal", "cavil", "nasal", "naval", "papal"]
+ratel,pedal,decal
+ratel,pedal,email
+ratel,pedal,equal
+ratel,pedal,fecal
+ratel,pedal,ideal
+ratel,pedal,fecal,legal
+ratel,pedal,medal
+ratel,pedal
+ratel,pedal,penal
+192 [0mr[1;33ma[0mt[1;33me[1;32ml[0m   9    63 Some((18, 3, "pedal")) ["decal", "email", "equal", "fecal", "ideal", "legal", "medal", "pedal", "penal"]
+ratel,bagel
+ratel,bagel,panel,samel,camel
+ratel,bagel,panel,samel,easel
+ratel,bagel,gavel
+ratel,bagel,panel,samel,hazel
+ratel,bagel,label
+ratel,bagel,panel,lapel
+ratel,bagel,panel,navel
+ratel,bagel,panel
+222 [0mr[1;32ma[0mt[1;32me[1;32ml[0m   9    16 Some((25, 4, "bagel")) ["bagel", "camel", "easel", "gavel", "hazel", "label", "lapel", "navel", "panel"]
+ratel,crawl,brawl
+ratel,crawl,coral
+ratel,crawl
+ratel,crawl,brawl,drawl
+ratel,crawl,frail
+ratel,crawl,frail,grail
+ratel,crawl,moral
+ratel,crawl,moral,mural
+ratel,crawl,snarl
+ratel,crawl,moral,viral
+166 [1;33mr[1;33ma[0mt[0me[1;32ml[0m  10    72 Some((23, 3, "crawl")) ["brawl", "coral", "crawl", "drawl", "frail", "grail", "moral", "mural", "snarl", "viral"]
+ratel,cutie,butte
+ratel,cutie
+ratel,cutie,jetty,detox
+ratel,cutie,fetch
+ratel,cutie,fetid
+ratel,cutie,fetus
+ratel,cutie,jetty
+ratel,cutie,jetty,petty
+ratel,cutie,fetus,setup
+ratel,cutie,tithe
+ratel,cutie,untie
+ 45 [0mr[0ma[1;32mt[1;33me[0ml[0m  11   286 Some((24, 3, "cutie")) ["butte", "cutie", "detox", "fetch", "fetid", "fetus", "jetty", "petty", "setup", "tithe", "untie"]
+ratel,drill,broil
+ratel,drill
+ratel,drill,droll
+ratel,drill,drool
+ratel,drill,frill
+ratel,drill,frill,grill
+ratel,drill,growl
+ratel,drill,frill,grill,krill
+ratel,drill,growl,prowl
+ratel,drill,swirl
+ratel,drill,swirl,whirl
+163 [1;33mr[0ma[0mt[0me[1;32ml[0m  11   134 Some((26, 4, "drill")) ["broil", "drill", "droll", "drool", "frill", "grill", "growl", "krill", "prowl", "swirl", "whirl"]
+ratel,salle,cable
+ratel,salle,cable,eagle
+ratel,salle,cable,fable
+ratel,salle,false
+ratel,salle,halve
+ratel,salle,ladle
+ratel,salle,lance
+ratel,salle,lapse
+ratel,salle,cable,eagle,maple
+ratel,salle,salve
+ratel,salle,halve,value
+ratel,salle,halve,valve
+114 [0mr[1;32ma[0mt[1;33me[1;33ml[0m  12   142 Some((30, 4, "salle")) ["cable", "eagle", "fable", "false", "halve", "ladle", "lance", "lapse", "maple", "salve", "value", "valve"]
+ratel,bleep,bleed
+ratel,bleep
+ratel,bleep,clued
+ratel,bleep,liken,golem
+ratel,bleep,liken
+ratel,bleep,liken,linen
+ratel,bleep,liken,lumen
+ratel,bleep,melee
+ratel,bleep,clued,olden
+ratel,bleep,plied
+ratel,bleep,sleek
+ratel,bleep,sleep
+135 [0mr[0ma[0mt[1;32me[1;33ml[0m  12   497 Some((27, 3, "bleep")) ["bleed", "bleep", "clued", "golem", "liken", "linen", "lumen", "melee", "olden", "plied", "sleek", "sleep"]
+ratel,round,rhino
+ratel,round,rigid
+ratel,round,rigor
+ratel,round,risky
+ratel,round,robin
+ratel,round,rocky
+ratel,round,rocky,roomy
+ratel,round,rough
+ratel,round
+ratel,round,rowdy
+ratel,round,ruddy
+ratel,round,rugby
+ratel,round,rumor
+  2 [1;32mr[0ma[0mt[0me[0ml[0m  13   628 Some((26, 3, "round")) ["rhino", "rigid", "rigor", "risky", "robin", "rocky", "roomy", "rough", "round", "rowdy", "ruddy", "rugby", "rumor"]
+ratel,radio,rabbi
+ratel,radio,rabid
+ratel,radio,radar
+ratel,radio,radii
+ratel,radio
+ratel,radio,rabbi,rainy
+ratel,radio,rajah
+ratel,radio,rajah,ranch
+ratel,radio,randy
+ratel,radio,rabid,rapid
+ratel,radio,rajah,raspy
+ratel,radio,rayon
+ratel,radio,rayon,razor
+  8 [1;32mr[1;32ma[0mt[0me[0ml[0m  13   144 Some((30, 3, "radio")) ["rabbi", "rabid", "radar", "radii", "radio", "rainy", "rajah", "ranch", "randy", "rapid", "raspy", "rayon", "razor"]
+ratel,trace,avert
+ratel,trace,crate
+ratel,trace,grate
+ratel,trace,great
+ratel,trace,heart
+ratel,trace,grate,irate
+ratel,trace,stare
+ratel,trace,teary
+ratel,trace,terra
+ratel,trace
+ratel,trace,trade
+ratel,trace,tread
+ratel,trace,tread,treat
+ 40 [1;33mr[1;33ma[1;33mt[1;33me[0ml[0m  13    93 Some((27, 3, "trace")) ["avert", "crate", "grate", "great", "heart", "irate", "stare", "teary", "terra", "trace", "trade", "tread", "treat"]
+ratel,reuse,rebus
+ratel,reuse,recur
+ratel,reuse,reedy
+ratel,reuse,reign
+ratel,reuse,recur,rerun
+ratel,reuse,resin
+ratel,reuse
+ratel,reuse,revue
+ratel,reuse,rhyme
+ratel,reuse,rhyme,ridge
+ratel,reuse,rinse
+ratel,reuse,rogue
+ratel,reuse,rouge
+ratel,reuse,rouse
+ 29 [1;32mr[0ma[0mt[1;33me[0ml[0m  14   373 Some((29, 3, "reuse")) ["rebus", "recur", "reedy", "reign", "rerun", "resin", "reuse", "revue", "rhyme", "ridge", "rinse", "rogue", "rouge", "rouse"]
+ratel,rider,roger,refer
+ratel,rider,renew
+ratel,rider
+ratel,rider,ripen
+ratel,rider,riper
+ratel,rider,ripen,risen
+ratel,rider,riper,riser
+ratel,rider,riper,riser,river
+ratel,rider,rodeo
+ratel,rider,roger
+ratel,rider,roger,rover
+ratel,rider,roger,rover,rower
+ratel,rider,ruder
+ratel,rider,renew,rupee
+ 56 [1;32mr[0ma[0mt[1;32me[0ml[0m  14   158 Some((36, 4, "rider")) ["refer", "renew", "rider", "ripen", "riper", "risen", "riser", "river", "rodeo", "roger", "rover", "rower", "ruder", "rupee"]
+ratel,tweer,beret
+ratel,tweer,beret,egret
+ratel,tweer,ether
+ratel,tweer,greet
+ratel,tweer,other
+ratel,tweer,steer
+ratel,tweer,three
+ratel,tweer,threw
+ratel,tweer,tiger
+ratel,tweer,tiger,timer
+ratel,tweer,tower
+ratel,tweer,tried
+ratel,tweer,tiger,truer
+ratel,tweer,tiger,truer,tuber
+ 64 [1;33mr[0ma[1;33mt[1;32me[0ml[0m  14   123 Some((33, 4, "tweer")) ["beret", "egret", "ether", "greet", "other", "steer", "three", "threw", "tiger", "timer", "tower", "tried", "truer", "tuber"]
+ratel,bloat,adult
+ratel,bloat,allot
+ratel,bloat,aloft
+ratel,bloat,blast
+ratel,bloat
+ratel,bloat,float
+ratel,bloat,float,gloat
+ratel,bloat,loath
+ratel,bloat,plait
+ratel,bloat,plait,plant
+ratel,bloat,adult,shalt
+ratel,bloat,plait,slant
+ratel,bloat,splat
+ratel,bloat,stalk
+ 93 [0mr[1;33ma[1;33mt[0me[1;33ml[0m  14   197 Some((31, 3, "bloat")) ["adult", "allot", "aloft", "blast", "bloat", "float", "gloat", "loath", "plait", "plant", "shalt", "slant", "splat", "stalk"]
+ratel,leapt,bleat
+ratel,leapt,bleat,cleat
+ratel,leapt,dealt
+ratel,leapt,delta
+ratel,leapt,bleat,eclat
+ratel,leapt,elate
+ratel,leapt,exalt
+ratel,leapt,leant
+ratel,leapt
+ratel,leapt,leant,least
+ratel,leapt,plate
+ratel,leapt,pleat
+ratel,leapt,elate,slate
+ratel,leapt,elate,stale
+120 [0mr[1;33ma[1;33mt[1;33me[1;33ml[0m  14    56 Some((32, 3, "leapt")) ["bleat", "cleat", "dealt", "delta", "eclat", "elate", "exalt", "leant", "leapt", "least", "plate", "pleat", "slate", "stale"]
+ 24 [0mr[1;32ma[1;32mt[0me[0ml[0m  16   137 None ["batch", "baton", "batty", "catch", "catty", "datum", "fatty", "hatch", "match", "patch", "patio", "patsy", "patty", "satin", "tatty", "watch"]

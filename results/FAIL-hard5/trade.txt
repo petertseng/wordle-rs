@@ -1,0 +1,983 @@
+trade,artsy
+ 16 [1;33mt[1;32mr[1;33ma[0md[0me[0m   1    89 Some((1, 1, "artsy")) ["artsy"]
+trade,trial
+ 17 [1;32mt[1;32mr[1;33ma[0md[0me[0m   1    40 Some((1, 1, "trial")) ["trial"]
+trade,tiara
+ 23 [1;32mt[1;33mr[1;32ma[0md[0me[0m   1    37 Some((1, 1, "tiara")) ["tiara"]
+trade,timid
+ 29 [1;32mt[0mr[0ma[1;33md[0me[0m   1    81 Some((1, 1, "timid")) ["timid"]
+trade,dirty
+ 31 [1;33mt[1;33mr[0ma[1;33md[0me[0m   1    44 Some((1, 1, "dirty")) ["dirty"]
+trade,third
+ 32 [1;32mt[1;33mr[0ma[1;33md[0me[0m   1    21 Some((1, 1, "third")) ["third"]
+trade,triad
+ 44 [1;32mt[1;32mr[1;33ma[1;33md[0me[0m   1     5 Some((1, 1, "triad")) ["triad"]
+trade,draft
+ 52 [1;33mt[1;32mr[1;32ma[1;33md[0me[0m   1     5 Some((1, 1, "draft")) ["draft"]
+trade,toddy
+ 56 [1;32mt[0mr[0ma[1;32md[0me[0m   1    27 Some((1, 1, "toddy")) ["toddy"]
+trade,tardy
+ 68 [1;32mt[1;33mr[1;33ma[1;32md[0me[0m   1     4 Some((1, 1, "tardy")) ["tardy"]
+trade,shady
+ 72 [0mt[0mr[1;32ma[1;32md[0me[0m   1    57 Some((1, 1, "shady")) ["shady"]
+trade,truer
+ 89 [1;32mt[1;32mr[0ma[0md[1;33me[0m   1    43 Some((1, 1, "truer")) ["truer"]
+trade,great
+ 97 [1;33mt[1;32mr[1;33ma[0md[1;33me[0m   1    23 Some((1, 1, "great")) ["great"]
+trade,treat
+ 98 [1;32mt[1;32mr[1;33ma[0md[1;33me[0m   1     8 Some((1, 1, "treat")) ["treat"]
+trade,teach
+101 [1;32mt[0mr[1;32ma[0md[1;33me[0m   1    21 Some((1, 1, "teach")) ["teach"]
+trade,teary
+104 [1;32mt[1;33mr[1;32ma[0md[1;33me[0m   1     6 Some((1, 1, "teary")) ["teary"]
+trade,deter
+112 [1;33mt[1;33mr[0ma[1;33md[1;33me[0m   1    20 Some((1, 1, "deter")) ["deter"]
+trade,tread
+125 [1;32mt[1;32mr[1;33ma[1;33md[1;33me[0m   1     2 Some((1, 1, "tread")) ["tread"]
+trade,teddy
+137 [1;32mt[0mr[0ma[1;32md[1;33me[0m   1    12 Some((1, 1, "teddy")) ["teddy"]
+trade,credo
+141 [0mt[1;32mr[0ma[1;32md[1;33me[0m   1    20 Some((1, 1, "credo")) ["credo"]
+trade,ready
+156 [0mt[1;33mr[1;32ma[1;32md[1;33me[0m   1     6 Some((1, 1, "ready")) ["ready"]
+trade,tease
+182 [1;32mt[0mr[1;32ma[0md[1;32me[0m   1    11 Some((1, 1, "tease")) ["tease"]
+trade,stare
+184 [1;33mt[1;33mr[1;32ma[0md[1;32me[0m   1    15 Some((1, 1, "stare")) ["stare"]
+trade,trace
+188 [1;32mt[1;32mr[1;32ma[0md[1;32me[0m   1     4 Some((1, 1, "trace")) ["trace"]
+trade,adore
+201 [0mt[1;33mr[1;33ma[1;33md[1;32me[0m   1    16 Some((1, 1, "adore")) ["adore"]
+trade,adage
+207 [0mt[0mr[1;32ma[1;33md[1;32me[0m   1    21 Some((1, 1, "adage")) ["adage"]
+trade,etude
+217 [1;33mt[0mr[0ma[1;32md[1;32me[0m   1    12 Some((1, 1, "etude")) ["etude"]
+trade,tilde
+218 [1;32mt[0mr[0ma[1;32md[1;32me[0m   1     8 Some((1, 1, "tilde")) ["tilde"]
+trade,horde
+219 [0mt[1;33mr[0ma[1;32md[1;32me[0m   1    21 Some((1, 1, "horde")) ["horde"]
+trade,grade
+240 [0mt[1;32mr[1;32ma[1;32md[1;32me[0m   1     3 Some((1, 1, "grade")) ["grade"]
+trade
+242 [1;32mt[1;32mr[1;32ma[1;32md[1;32me[0m   1     1 Some((1, 1, "trade")) ["trade"]
+trade,tapir
+trade,tapir,tarot
+ 14 [1;32mt[1;33mr[1;33ma[0md[0me[0m   2   101 Some((3, 2, "tapir")) ["tapir", "tarot"]
+trade,drift
+trade,drift,droit
+ 34 [1;33mt[1;32mr[0ma[1;33md[0me[0m   2    22 Some((3, 2, "drift")) ["drift", "droit"]
+trade,tidal
+trade,tidal,today
+ 38 [1;32mt[0mr[1;33ma[1;33md[0me[0m   2    24 Some((3, 2, "tidal")) ["tidal", "today"]
+trade,ardor
+trade,ardor,broad
+ 42 [0mt[1;32mr[1;33ma[1;33md[0me[0m   2    55 Some((3, 2, "ardor")) ["ardor", "broad"]
+trade,outdo
+trade,outdo,study
+ 55 [1;33mt[0mr[0ma[1;32md[0me[0m   2    38 Some((3, 2, "outdo")) ["outdo", "study"]
+trade,hardy
+trade,hardy,randy
+ 66 [0mt[1;33mr[1;33ma[1;32md[0me[0m   2    47 Some((3, 2, "hardy")) ["hardy", "randy"]
+trade,heart
+trade,heart,react
+103 [1;33mt[1;33mr[1;32ma[0md[1;33me[0m   2    23 Some((3, 2, "heart")) ["heart", "react"]
+trade,tepid
+trade,tepid,tweed
+110 [1;32mt[0mr[0ma[1;33md[1;33me[0m   2    55 Some((3, 2, "tepid")) ["tepid", "tweed"]
+trade,trend
+trade,trend,tried
+116 [1;32mt[1;32mr[0ma[1;33md[1;33me[0m   2     8 Some((3, 2, "trend")) ["trend", "tried"]
+trade,dealt
+trade,dealt,death
+127 [1;33mt[0mr[1;32ma[1;33md[1;33me[0m   2     8 Some((3, 2, "dealt")) ["dealt", "death"]
+trade,beard
+trade,beard,heard
+129 [0mt[1;33mr[1;32ma[1;33md[1;33me[0m   2    17 Some((3, 2, "beard")) ["beard", "heard"]
+trade,nerdy
+trade,nerdy,reedy
+138 [0mt[1;33mr[0ma[1;32md[1;33me[0m   2    44 Some((3, 2, "nerdy")) ["nerdy", "reedy"]
+trade,beady
+trade,beady,heady
+153 [0mt[0mr[1;32ma[1;32md[1;33me[0m   2    28 Some((3, 2, "beady")) ["beady", "heady"]
+trade,table
+trade,table,taste
+173 [1;32mt[0mr[1;33ma[0md[1;32me[0m   2    27 Some((3, 2, "table")) ["table", "taste"]
+trade,dirge
+trade,dirge,ridge
+192 [0mt[1;33mr[0ma[1;33md[1;32me[0m   2    50 Some((3, 2, "dirge")) ["dirge", "ridge"]
+trade,drake
+trade,drake,drape
+213 [0mt[1;32mr[1;32ma[1;33md[1;32me[0m   2     6 Some((3, 2, "drake")) ["drake", "drape"]
+trade,thank
+trade,thank,toast
+trade,thank,twang
+ 20 [1;32mt[0mr[1;32ma[0md[0me[0m   3    78 Some((5, 2, "thank")) ["thank", "toast", "twang"]
+trade,staid,adapt
+trade,staid
+trade,staid,stand
+ 46 [1;33mt[0mr[1;32ma[1;33md[0me[0m   3    21 Some((5, 2, "staid")) ["adapt", "staid", "stand"]
+trade,rowdy
+trade,rowdy,ruddy
+trade,rowdy,wordy
+ 57 [0mt[1;33mr[0ma[1;32md[0me[0m   3   122 Some((5, 2, "rowdy")) ["rowdy", "ruddy", "wordy"]
+trade,taken
+trade,taken,theta
+trade,taken,tweak
+ 92 [1;32mt[0mr[1;33ma[0md[1;33me[0m   3    94 Some((5, 2, "taken")) ["taken", "theta", "tweak"]
+trade,aider
+trade,aider,cedar
+trade,aider,debar
+120 [0mt[1;33mr[1;33ma[1;33md[1;33me[0m   3    89 Some((5, 2, "aider")) ["aider", "cedar", "debar"]
+trade,bread
+trade,bread,dread
+trade,bread,dream
+123 [0mt[1;32mr[1;33ma[1;33md[1;33me[0m   3    21 Some((5, 2, "bread")) ["bread", "dread", "dream"]
+trade,bends,needy
+trade,bends,seedy
+trade,bends,weedy
+135 [0mt[0mr[0ma[1;32md[1;33me[0m   3   169 Some((6, 2, "bends")) ["needy", "seedy", "weedy"]
+trade,forte
+trade,forte,route
+trade,forte,store
+166 [1;33mt[1;33mr[0ma[0md[1;32me[0m   3    71 Some((5, 2, "forte")) ["forte", "route", "store"]
+trade,terse
+trade,terse,there
+trade,terse,three
+167 [1;32mt[1;33mr[0ma[0md[1;32me[0m   3    33 Some((5, 2, "terse")) ["terse", "there", "three"]
+trade,write,brute
+trade,write
+trade,write,wrote
+169 [1;33mt[1;32mr[0ma[0md[1;32me[0m   3    31 Some((5, 2, "write")) ["brute", "write", "wrote"]
+trade,arise,argue
+trade,arise
+trade,arise,arose
+177 [0mt[1;32mr[1;33ma[0md[1;32me[0m   3    54 Some((5, 2, "arise")) ["argue", "arise", "arose"]
+trade,crate
+trade,crate,grate
+trade,crate,grate,irate
+187 [1;33mt[1;32mr[1;32ma[0md[1;32me[0m   3    12 Some((6, 3, "crate")) ["crate", "grate", "irate"]
+trade,drive
+trade,drive,drone
+trade,drive,drove
+195 [0mt[1;32mr[0ma[1;33md[1;32me[0m   3    28 Some((5, 2, "drive")) ["drive", "drone", "drove"]
+trade,craft
+trade,craft,graft
+trade,craft,grant
+trade,craft,wrath
+ 25 [1;33mt[1;32mr[1;32ma[0md[0me[0m   4    60 Some((7, 2, "craft")) ["craft", "graft", "grant", "wrath"]
+trade,bland
+trade,bland,gland
+trade,bland,plaid
+trade,bland,scald
+ 45 [0mt[0mr[1;32ma[1;33md[0me[0m   4   170 Some((7, 2, "bland")) ["bland", "gland", "plaid", "scald"]
+trade,taker
+trade,taker,tamer
+trade,taker,tamer,taper
+trade,taker,terra
+ 95 [1;32mt[1;33mr[1;33ma[0md[1;33me[0m   4    30 Some((8, 3, "taker")) ["taker", "tamer", "taper", "terra"]
+trade,adept
+trade,adept,cadet
+trade,adept,delta
+trade,adept,stead
+118 [1;33mt[0mr[1;33ma[1;33md[1;33me[0m   4    36 Some((7, 2, "adept")) ["adept", "cadet", "delta", "stead"]
+trade,badge,adobe
+trade,badge
+trade,badge,dance
+trade,badge,ladle
+198 [0mt[0mr[1;33ma[1;33md[1;32me[0m   4    59 Some((7, 2, "badge")) ["adobe", "badge", "dance", "ladle"]
+trade,abide
+trade,abide,abode
+trade,abide,anode
+trade,abide,aside
+225 [0mt[0mr[1;33ma[1;32md[1;32me[0m   4    25 Some((7, 2, "abide")) ["abide", "abode", "anode", "aside"]
+trade,pride,bride
+trade,pride,crude
+trade,pride,crude,erode
+trade,pride
+trade,pride,prude
+222 [0mt[1;32mr[0ma[1;32md[1;32me[0m   5    14 Some((10, 3, "pride")) ["bride", "crude", "erode", "pride", "prude"]
+trade,blade
+trade,blade,shade,evade
+trade,blade,glade
+trade,blade,shade
+trade,blade,shade,spade
+234 [0mt[0mr[1;32ma[1;32md[1;32me[0m   5    13 Some((11, 3, "blade")) ["blade", "evade", "glade", "shade", "spade"]
+trade,audit,admit
+trade,audit,adopt
+trade,audit,adult
+trade,audit
+trade,audit,datum
+trade,audit,daunt
+ 37 [1;33mt[0mr[1;33ma[1;33md[0me[0m   6    89 Some((11, 2, "audit")) ["admit", "adopt", "adult", "audit", "datum", "daunt"]
+trade,crest,crept
+trade,crest
+trade,crest,erect
+trade,crest,erupt
+trade,crest,greet
+trade,crest,wrest
+ 88 [1;33mt[1;32mr[0ma[0md[1;33me[0m   6    81 Some((11, 2, "crest")) ["crept", "crest", "erect", "erupt", "greet", "wrest"]
+trade,break,arena
+trade,break
+trade,break,creak
+trade,break,cream
+trade,break,creak,freak
+trade,break,creak,freak,wreak
+ 96 [0mt[1;32mr[1;33ma[0md[1;33me[0m   6   107 Some((14, 4, "break")) ["arena", "break", "creak", "cream", "freak", "wreak"]
+trade,tiger,tenor
+trade,tiger,their
+trade,tiger,threw
+trade,tiger
+trade,tiger,timer
+trade,tiger,tower
+trade,tiger,tower,tuber
+ 86 [1;32mt[1;33mr[0ma[0md[1;33me[0m   7   118 Some((14, 3, "tiger")) ["tenor", "their", "threw", "tiger", "timer", "tower", "tuber"]
+trade,leary,learn
+trade,leary,pearl
+trade,leary,reach
+trade,leary,realm
+trade,leary,rearm
+trade,leary,weary
+trade,leary,yearn
+102 [0mt[1;33mr[1;32ma[0md[1;33me[0m   7   121 Some((14, 2, "leary")) ["learn", "pearl", "reach", "realm", "rearm", "weary", "yearn"]
+trade,trice,tribe
+trade,trice
+trade,trice,tribe,tripe
+trade,trice,tribe,tripe,trite
+trade,trice,trope
+trade,trice,trope,trove
+trade,trice,truce
+170 [1;32mt[1;32mr[0ma[0md[1;32me[0m   7    18 Some((17, 4, "trice")) ["tribe", "trice", "tripe", "trite", "trope", "trove", "truce"]
+trade,scart,apart
+trade,scart,chart
+trade,scart,apart,quart
+trade,scart,roast
+trade,scart,smart
+trade,scart,stair
+trade,scart,stark
+trade,scart,smart,start
+ 22 [1;33mt[1;33mr[1;32ma[0md[0me[0m   8   102 Some((18, 3, "scart")) ["apart", "chart", "quart", "roast", "smart", "stair", "stark", "start"]
+trade,trail,track
+trade,trail,track,tract
+trade,trail
+trade,trail,train
+trade,trail,train,trait
+trade,trail,track,tramp
+trade,trail,track,tramp,trash
+trade,trail,trawl
+ 26 [1;32mt[1;32mr[1;32ma[0md[0me[0m   8    28 Some((20, 4, "trail")) ["track", "tract", "trail", "train", "trait", "tramp", "trash", "trawl"]
+trade,hoard,award
+trade,hoard,board
+trade,hoard,chard
+trade,hoard,diary
+trade,hoard,diary,dwarf
+trade,hoard,award,guard
+trade,hoard
+trade,hoard,chard,shard
+ 48 [0mt[1;33mr[1;32ma[1;33md[0me[0m   8    59 Some((18, 3, "hoard")) ["award", "board", "chard", "diary", "dwarf", "guard", "hoard", "shard"]
+trade,scare,blare,aware
+trade,scare,blare
+trade,scare,blare,flare
+trade,scare,blare,flare,glare
+trade,scare
+trade,scare,share
+trade,scare,share,snare
+trade,scare,share,snare,spare
+183 [0mt[1;33mr[1;32ma[0md[1;32me[0m   8    71 Some((22, 4, "scare")) ["aware", "blare", "flare", "glare", "scare", "share", "snare", "spare"]
+trade,rabid,acrid
+trade,rabid,adorn
+trade,rabid,dairy
+trade,rabid,nadir
+trade,rabid
+trade,rabid,radar
+trade,rabid,radii
+trade,rabid,radii,radio
+trade,rabid,rapid
+ 39 [0mt[1;33mr[1;33ma[1;33md[0me[0m   9   224 Some((18, 3, "rabid")) ["acrid", "adorn", "dairy", "nadir", "rabid", "radar", "radii", "radio", "rapid"]
+trade,brand,braid
+trade,brand
+trade,brand,drain
+trade,brand,drama
+trade,brand,drank
+trade,brand,drama,drawl
+trade,brand,drain,drawn
+trade,brand,fraud
+trade,brand,grand
+ 51 [0mt[1;32mr[1;32ma[1;33md[0me[0m   9    32 Some((19, 3, "brand")) ["braid", "brand", "drain", "drama", "drank", "drawl", "drawn", "fraud", "grand"]
+trade,dandy,bawdy
+trade,dandy,caddy
+trade,dandy,candy
+trade,dandy,daddy
+trade,dandy
+trade,dandy,bawdy,gaudy
+trade,dandy,candy,handy
+trade,dandy,caddy,paddy
+trade,dandy,candy,handy,sandy
+ 63 [0mt[0mr[1;33ma[1;32md[0me[0m   9   177 Some((22, 4, "dandy")) ["bawdy", "caddy", "candy", "daddy", "dandy", "gaudy", "handy", "paddy", "sandy"]
+trade,leach,beach
+trade,leach,email
+trade,leach,heavy
+trade,leach
+trade,leach,leafy
+trade,leach,leafy,leaky
+trade,leach,leash
+trade,leach,mealy
+trade,leach,beach,peach
+ 99 [0mt[0mr[1;32ma[0md[1;33me[0m   9   381 Some((19, 3, "leach")) ["beach", "email", "heavy", "leach", "leafy", "leaky", "leash", "mealy", "peach"]
+trade,glide,chide
+trade,glide,diode
+trade,glide,elide
+trade,glide,elude
+trade,glide
+trade,glide,guide
+trade,glide,chide,oxide
+trade,glide,elide,slide
+trade,glide,chide,oxide,snide
+216 [0mt[0mr[0ma[1;32md[1;32me[0m   9    77 Some((21, 4, "glide")) ["chide", "diode", "elide", "elude", "glide", "guide", "oxide", "slide", "snide"]
+trade,carse,afire
+trade,carse,agree
+trade,carse,afire,azure
+trade,carse,barge
+trade,carse,carve
+trade,carse,farce
+trade,carse,barge,large
+trade,carse,parse
+trade,carse,raise
+trade,carse,range
+174 [0mt[1;33mr[1;33ma[0md[1;32me[0m  10   169 Some((22, 3, "carse")) ["afire", "agree", "azure", "barge", "carve", "farce", "large", "parse", "raise", "range"]
+trade,thrum,thorn
+trade,thrum,throb
+trade,thrum,throb,throw
+trade,thrum
+trade,thrum,torch
+trade,thrum,torso
+trade,thrum,torus
+trade,thrum,tumor
+trade,thrum,turbo
+trade,thrum,tutor
+trade,thrum,twirl
+  5 [1;32mt[1;33mr[0ma[0md[0me[0m  11   273 Some((22, 3, "thrum")) ["thorn", "throb", "throw", "thrum", "torch", "torso", "torus", "tumor", "turbo", "tutor", "twirl"]
+trade,courd,chord
+trade,courd,donor
+trade,courd,dowry
+trade,courd,fjord
+trade,courd,gourd
+trade,courd,hydro
+trade,courd,lurid
+trade,courd,rigid
+trade,courd,round
+trade,courd,fjord,sword
+trade,courd,world
+ 30 [0mt[1;33mr[0ma[1;33md[0me[0m  11   596 Some((23, 3, "courd")) ["chord", "donor", "dowry", "fjord", "gourd", "hydro", "lurid", "rigid", "round", "sword", "world"]
+trade,teeth
+trade,teeth,tempo
+trade,teeth,tenet
+trade,teeth,tenth
+trade,teeth,testy
+trade,teeth,theft
+trade,teeth,thief
+trade,teeth,token
+trade,teeth,totem
+trade,teeth,token,towel
+trade,teeth,tweet
+ 83 [1;32mt[0mr[0ma[0md[1;33me[0m  11   352 Some((22, 3, "teeth")) ["teeth", "tempo", "tenet", "tenth", "testy", "theft", "thief", "token", "totem", "towel", "tweet"]
+trade,alert,after
+trade,alert
+trade,alert,alter
+trade,alert,avert
+trade,alert,earth,cater
+trade,alert,earth
+trade,alert,earth,eater
+trade,alert,extra
+trade,alert,earth,hater
+trade,alert,later
+trade,alert,earth,cater,water
+ 94 [1;33mt[1;33mr[1;33ma[0md[1;33me[0m  11    93 Some((26, 4, "alert")) ["after", "alert", "alter", "avert", "cater", "earth", "eater", "extra", "hater", "later", "water"]
+trade,debit
+trade,debit,debut
+trade,debit,deity
+trade,debit,depot
+trade,debit,depth
+trade,debit,depth,detox
+trade,debit,duvet
+trade,debit,duvet,dwelt
+trade,debit,edict
+trade,debit,fetid
+trade,debit,steed
+109 [1;33mt[0mr[0ma[1;33md[1;33me[0m  11   149 Some((23, 3, "debit")) ["debit", "debut", "deity", "depot", "depth", "detox", "duvet", "dwelt", "edict", "fetid", "steed"]
+trade,these,tense
+trade,these,tepee
+trade,these,theme
+trade,these
+trade,these,those
+trade,these,thyme
+trade,these,tithe
+trade,these,twice,title
+trade,these,twice,tulle
+trade,these,twice
+trade,these,twice,twine
+164 [1;32mt[0mr[0ma[0md[1;32me[0m  11    98 Some((24, 3, "these")) ["tense", "tepee", "theme", "these", "those", "thyme", "tithe", "title", "tulle", "twice", "twine"]
+trade,trust,troll,trick
+trade,trust,troll
+trade,trust,troll,troop
+trade,trust,trout
+trade,trust,truck
+trade,trust,truck,truly
+trade,trust,truck,truly,trump
+trade,trust,truck,trunk
+trade,trust,truss
+trade,trust
+trade,trust,truth
+trade,trust,tryst
+  8 [1;32mt[1;32mr[0ma[0md[0me[0m  12   117 Some((29, 4, "trust")) ["trick", "troll", "troop", "trout", "truck", "truly", "trump", "trunk", "truss", "trust", "truth", "tryst"]
+trade,arbor
+trade,arbor,armor
+trade,arbor,aroma
+trade,arbor,array
+trade,arbor,arrow
+trade,arbor,arson
+trade,arbor,briar
+trade,arbor,croak
+trade,arbor,friar
+trade,arbor,croak,groan
+trade,arbor,croak,organ
+trade,arbor,urban
+ 15 [0mt[1;32mr[1;33ma[0md[0me[0m  12   358 Some((25, 3, "arbor")) ["arbor", "armor", "aroma", "array", "arrow", "arson", "briar", "croak", "friar", "groan", "organ", "urban"]
+trade,ditto,digit
+trade,ditto,ditch
+trade,ditto
+trade,ditto,ditty
+trade,ditto,donut
+trade,ditto,donut,doubt
+trade,ditto,dusty
+trade,ditto,dutch
+trade,ditto,idiot
+trade,ditto,midst
+trade,ditto,stood
+trade,ditto,width
+ 28 [1;33mt[0mr[0ma[1;33md[0me[0m  12   272 Some((24, 3, "ditto")) ["digit", "ditch", "ditto", "ditty", "donut", "doubt", "dusty", "dutch", "idiot", "midst", "stood", "width"]
+trade,giddy,biddy
+trade,giddy,buddy
+trade,giddy,condo
+trade,giddy,dowdy
+trade,giddy
+trade,giddy,goody
+trade,giddy,moody,howdy
+trade,giddy,moody,moldy
+trade,giddy,moody
+trade,giddy,buddy,muddy
+trade,giddy,windy
+trade,giddy,moody,woody
+ 54 [0mt[0mr[0ma[1;32md[0me[0m  12   471 Some((27, 3, "giddy")) ["biddy", "buddy", "condo", "dowdy", "giddy", "goody", "howdy", "moldy", "moody", "muddy", "windy", "woody"]
+trade,leant,beast
+trade,leant,enact
+trade,leant,exact
+trade,leant,exalt
+trade,leant,beast,feast
+trade,leant,heath
+trade,leant
+trade,leant,leapt
+trade,leant,leapt,least
+trade,leant,meant
+trade,leant,heath,meaty
+trade,leant,beast,feast,yeast
+100 [1;33mt[0mr[1;32ma[0md[1;33me[0m  12    94 Some((28, 4, "leant")) ["beast", "enact", "exact", "exalt", "feast", "heath", "leant", "leapt", "least", "meant", "meaty", "yeast"]
+trade,cried,breed
+trade,cried,creed
+trade,cried
+trade,cried,dress
+trade,cried,dried
+trade,cried,drier
+trade,cried,dryer
+trade,cried,breed,freed
+trade,cried,dried,fried
+trade,cried,breed,freed,greed
+trade,cried,dryer,order
+trade,cried,dried,fried,pried
+114 [0mt[1;32mr[0ma[1;33md[1;33me[0m  12    85 Some((30, 4, "cried")) ["breed", "creed", "cried", "dress", "dried", "drier", "dryer", "freed", "fried", "greed", "order", "pried"]
+trade,bathe,acute
+trade,bathe,acute,atone
+trade,bathe,baste
+trade,bathe
+trade,bathe,caste
+trade,bathe,haste
+trade,bathe,haste,haute
+trade,bathe,lathe
+trade,bathe,latte
+trade,bathe,caste,paste
+trade,bathe,caste,saute
+trade,bathe,caste,paste,waste
+172 [1;33mt[0mr[1;33ma[0md[1;32me[0m  12    94 Some((29, 4, "bathe")) ["acute", "atone", "baste", "bathe", "caste", "haste", "haute", "lathe", "latte", "paste", "saute", "waste"]
+trade,slate,abate
+trade,slate,abate,agate
+trade,slate,elate
+trade,slate,abate,ovate
+trade,slate,elate,plate
+trade,slate,skate
+trade,slate
+trade,slate,stage
+trade,slate,stage,stake
+trade,slate,stale
+trade,slate,skate,state
+trade,slate,stage,stake,stave
+181 [1;33mt[0mr[1;32ma[0md[1;32me[0m  12    45 Some((30, 4, "slate")) ["abate", "agate", "elate", "ovate", "plate", "skate", "slate", "stage", "stake", "stale", "state", "stave"]
+trade,grace,brace
+trade,grace,brake
+trade,grace,brake,brave
+trade,grace,crane
+trade,grace,crane,crave
+trade,grace,crane,crave,craze
+trade,grace,brake,erase
+trade,grace,brake,erase,frame
+trade,grace
+trade,grace,grape
+trade,grace,grape,grave
+trade,grace,grape,grave,graze
+186 [0mt[1;32mr[1;32ma[0md[1;32me[0m  12    42 Some((33, 4, "grace")) ["brace", "brake", "brave", "crane", "crave", "craze", "erase", "frame", "grace", "grape", "grave", "graze"]
+trade,fruit,broth
+trade,fruit,brunt
+trade,fruit,brunt,crust
+trade,fruit,crypt
+trade,fruit,fritz
+trade,fruit,front
+trade,fruit,front,frost
+trade,fruit,froth
+trade,fruit
+trade,fruit,grout
+trade,fruit,brunt,grunt
+trade,fruit,orbit
+trade,fruit,print
+trade,fruit,print,wrist
+  7 [1;33mt[1;32mr[0ma[0md[0me[0m  14   240 Some((31, 3, "fruit")) ["broth", "brunt", "crust", "crypt", "fritz", "front", "frost", "froth", "fruit", "grout", "grunt", "orbit", "print", "wrist"]
+trade,party,abort
+trade,party,abort,actor
+trade,party,abort,altar
+trade,party,aorta
+trade,party,carat
+trade,party
+trade,party,ratio
+trade,party,ratty
+trade,party,satyr
+trade,party,strap
+trade,party,straw
+trade,party,stray
+trade,party,abort,ultra
+trade,party,warty
+ 13 [1;33mt[1;33mr[1;33ma[0md[0me[0m  14   308 Some((30, 3, "party")) ["abort", "actor", "altar", "aorta", "carat", "party", "ratio", "ratty", "satyr", "strap", "straw", "stray", "ultra", "warty"]
+trade,medal,abled
+trade,medal,ahead
+trade,medal,amend
+trade,medal,decal
+trade,medal,decay
+trade,medal,delay
+trade,medal,ideal
+trade,medal,ahead,knead
+trade,medal,laden
+trade,medal
+trade,medal,media
+trade,medal,pedal
+trade,medal,plead
+trade,medal,sedan
+117 [0mt[0mr[1;33ma[1;33md[1;33me[0m  14   352 Some((28, 3, "medal")) ["abled", "ahead", "amend", "decal", "decay", "delay", "ideal", "knead", "laden", "medal", "media", "pedal", "plead", "sedan"]
+trade,shark,alarm
+trade,shark,chair
+trade,shark,charm
+trade,shark,flair
+trade,shark,alarm,ovary
+trade,shark,quark
+trade,shark,roach
+trade,shark,scarf
+trade,shark,scarf,scary
+trade,shark
+trade,shark,sharp
+trade,shark,scarf,snarl
+trade,shark,spark
+trade,shark,scarf,snarl,swarm
+trade,shark,charm,wharf
+ 21 [0mt[1;33mr[1;32ma[0md[0me[0m  15   421 Some((35, 4, "shark")) ["alarm", "chair", "charm", "flair", "ovary", "quark", "roach", "scarf", "scary", "shark", "sharp", "snarl", "spark", "swarm", "wharf"]
+trade,drool,brood
+trade,drool,drown,crowd
+trade,drool,drill
+trade,drool,drink
+trade,drool,droll
+trade,drool
+trade,drool,droop
+trade,drool,dross
+trade,drool,dross,drown
+trade,drool,drink,druid
+trade,drool,drink,drunk
+trade,drool,dryly
+trade,drool,drown,frond
+trade,drool,grind
+trade,drool,drown,proud
+ 33 [0mt[1;32mr[0ma[1;33md[0me[0m  15   170 Some((35, 3, "drool")) ["brood", "crowd", "drill", "drink", "droll", "drool", "droop", "dross", "drown", "druid", "drunk", "dryly", "frond", "grind", "proud"]
+trade,creep,brief
+trade,creep,creek
+trade,creep
+trade,creep,cress
+trade,creep,crier
+trade,creep,crier,cruel
+trade,creep,error
+trade,creep,freer
+trade,creep,fresh
+trade,creep,freer,green
+trade,creep,brief,grief
+trade,creep,brief,gruel
+trade,creep,preen
+trade,creep,press
+trade,creep,wreck
+ 87 [0mt[1;32mr[0ma[0md[1;33me[0m  15   383 Some((33, 3, "creep")) ["brief", "creek", "creep", "cress", "crier", "cruel", "error", "freer", "fresh", "green", "grief", "gruel", "preen", "press", "wreck"]
+trade,endue,budge
+trade,endue,delve
+trade,endue,dense
+trade,endue,deuce
+trade,endue,dodge
+trade,endue,dunce
+trade,endue,budge,fudge
+trade,endue,hedge
+trade,endue,budge,fudge,judge
+trade,endue,hedge,ledge
+trade,endue,dodge,lodge
+trade,endue,dodge,midge
+trade,endue,nudge
+trade,endue,undue
+trade,endue,hedge,ledge,wedge
+189 [0mt[0mr[0ma[1;33md[1;32me[0m  15   200 Some((38, 4, "endue")) ["budge", "delve", "dense", "deuce", "dodge", "dunce", "fudge", "hedge", "judge", "ledge", "lodge", "midge", "nudge", "undue", "wedge"]
+trade,cider
+trade,cider,decor
+trade,cider,decry
+trade,cider,defer
+trade,cider,demur
+trade,cider,derby
+trade,cider,diner
+trade,cider,diner,diver
+trade,cider,udder,elder
+trade,cider,idler
+trade,cider,udder,odder
+trade,cider,udder,elder,older
+trade,cider,rider
+trade,cider,rodeo
+trade,cider,udder,ruder
+trade,cider,udder
+trade,cider,udder,under
+trade,cider,weird
+trade,cider,rider,wider
+111 [0mt[1;33mr[0ma[1;33md[1;33me[0m  19   307 Some((45, 4, "cider")) ["cider", "decor", "decry", "defer", "demur", "derby", "diner", "diver", "elder", "idler", "odder", "older", "rider", "rodeo", "ruder", "udder", "under", "weird", "wider"]
+trade,cleat,agent
+trade,cleat,asset
+trade,cleat,begat
+trade,cleat,bleat
+trade,cleat,cheat
+trade,cleat
+trade,cleat,eaten
+trade,cleat,eclat
+trade,cleat,facet
+trade,cleat,fetal
+trade,cleat,eaten,matey
+trade,cleat,fetal,metal
+trade,cleat,fetal,metal,petal
+trade,cleat,bleat,pleat
+trade,cleat,steak
+trade,cleat,steal
+trade,cleat,steak,steam
+trade,cleat,sweat
+trade,cleat,valet
+trade,cleat,sweat,wheat
+ 91 [1;33mt[0mr[1;33ma[0md[1;33me[0m  20   343 Some((46, 4, "cleat")) ["agent", "asset", "begat", "bleat", "cheat", "cleat", "eaten", "eclat", "facet", "fetal", "matey", "metal", "petal", "pleat", "steak", "steal", "steam", "sweat", "valet", "wheat"]
+trade,thong,thumb,thick
+trade,thong,thigh
+trade,thong,thing
+trade,thong,think
+trade,thong
+trade,thong,thumb
+trade,thong,thumb,thump
+trade,thong,tight
+trade,thong,tipsy
+trade,thong,tonic
+trade,thong,tooth
+trade,thong,topic
+trade,thong,touch
+trade,thong,tough
+trade,thong,topic,toxic
+trade,thong,tonic,toxin
+trade,thong,tipsy,tulip
+trade,thong,tunic
+trade,thong,tipsy,twist
+trade,thong,tipsy,twixt
+trade,thong,tying
+  2 [1;32mt[0mr[0ma[0md[0me[0m  21   815 Some((48, 3, "thong")) ["thick", "thigh", "thing", "think", "thong", "thumb", "thump", "tight", "tipsy", "tonic", "tooth", "topic", "touch", "tough", "toxic", "toxin", "tulip", "tunic", "twist", "twixt", "tying"]
+trade,tanto,tabla,tabby
+trade,tanto,taboo
+trade,tanto,tacit
+trade,tanto,tabla,tacky
+trade,tanto,tabla,tacky,taffy
+trade,tanto,taint
+trade,tanto,tabla,tally
+trade,tanto,talon
+trade,tanto,tango
+trade,tanto,tangy
+trade,tanto,tasty
+trade,tanto,tasty,tatty
+trade,tanto,taint,taunt
+trade,tanto,tawny
+trade,tanto,tibia
+trade,tanto,titan
+trade,tanto,tonal
+trade,tanto,tonal,tonga
+trade,tanto,topaz
+trade,tanto,total
+trade,tanto,tibia,tubal
+ 11 [1;32mt[0mr[1;33ma[0md[0me[0m  21   318 Some((51, 4, "tanto")) ["tabby", "taboo", "tacit", "tacky", "taffy", "taint", "tally", "talon", "tango", "tangy", "tasty", "tatty", "taunt", "tawny", "tibia", "titan", "tonal", "tonga", "topaz", "total", "tubal"]
+trade,modal,admin
+trade,modal,aloud
+trade,modal,aphid
+trade,modal,audio
+trade,modal,avoid
+trade,modal,badly
+trade,modal,daily
+trade,modal,aphid,daisy
+trade,modal,daily,dally
+trade,modal,dogma
+trade,modal,gonad
+trade,modal,madam
+trade,modal,madly
+trade,modal
+trade,modal,nomad
+trade,modal,badly,sadly
+trade,modal,salad
+trade,modal,squad
+trade,modal,daily,valid
+trade,modal,aphid,vapid
+trade,modal,vodka
+ 36 [0mt[0mr[1;33ma[1;33md[0me[0m  21   839 Some((46, 3, "modal")) ["admin", "aloud", "aphid", "audio", "avoid", "badly", "daily", "daisy", "dally", "dogma", "gonad", "madam", "madly", "modal", "nomad", "sadly", "salad", "squad", "valid", "vapid", "vodka"]
+trade,utile,butte
+trade,utile,butte,chute
+trade,utile,cutie
+trade,utile,elite
+trade,utile,flute
+trade,utile,lithe
+trade,utile,quite
+trade,utile,butte,quote
+trade,utile,smite
+trade,utile,smote
+trade,utile,smite,spite
+trade,utile,stoke
+trade,utile,stole
+trade,utile,stoke,stone
+trade,utile,stoke,stone,stove
+trade,utile,stole,style
+trade,utile,quite,suite
+trade,utile,unite
+trade,utile,untie
+trade,utile
+trade,utile,smite,white
+163 [1;33mt[0mr[0ma[0md[1;32me[0m  21   282 Some((50, 4, "utile")) ["butte", "chute", "cutie", "elite", "flute", "lithe", "quite", "quote", "smite", "smote", "spite", "stoke", "stole", "stone", "stove", "style", "suite", "unite", "untie", "utile", "white"]
+trade,prone,creme,bribe
+trade,prone,brine
+trade,prone,broke
+trade,prone,creme
+trade,prone,crepe
+trade,prone,creme,crime
+trade,prone,crone
+trade,prone,broke,froze
+trade,prone,creme,grime
+trade,prone,crepe,gripe
+trade,prone,grope
+trade,prone,broke,froze,grove
+trade,prone,price
+trade,prone,price,prime
+trade,prone,price,prime,prize
+trade,prone,probe
+trade,prone
+trade,prone,probe,prose
+trade,prone,probe,prose,prove
+trade,prone,prune
+trade,prone,brine,urine
+168 [0mt[1;32mr[0ma[0md[1;32me[0m  21   162 Some((55, 4, "prone")) ["bribe", "brine", "broke", "creme", "crepe", "crime", "crone", "froze", "grime", "gripe", "grope", "grove", "price", "prime", "prize", "probe", "prone", "prose", "prove", "prune", "urine"]
+trade,slant,await
+trade,slant,blast
+trade,slant,boast
+trade,slant,chant
+trade,slant,boast,coast
+trade,slant,chant,giant
+trade,slant,loath
+trade,slant,plait
+trade,slant,plant
+trade,slant,scant
+trade,slant,shaft
+trade,slant,shalt
+trade,slant
+trade,slant,scath,stack
+trade,slant,scath,staff
+trade,slant,stain
+trade,slant,stalk
+trade,slant,stalk,stall
+trade,slant,scath,staff,stamp
+trade,slant,stank
+trade,slant,scath,stash
+trade,slant,scath,swath
+ 19 [1;33mt[0mr[1;32ma[0md[0me[0m  22   308 Some((52, 4, "slant")) ["await", "blast", "boast", "chant", "coast", "giant", "loath", "plait", "plant", "scant", "shaft", "shalt", "slant", "stack", "staff", "stain", "stalk", "stall", "stamp", "stank", "stash", "swath"]
+trade,craps,grain,brain
+trade,craps,brash
+trade,craps,brass
+trade,craps,grain,bravo
+trade,craps,grain,bravo,brawl
+trade,craps,grain,brawn
+trade,craps,crack
+trade,craps,cramp
+trade,craps,crack,crank
+trade,craps,crash
+trade,craps,crass
+trade,craps,crack,crawl
+trade,craps,crack,crawl,crazy
+trade,craps,grain,frail
+trade,craps,grain,frank
+trade,craps,grain,grail
+trade,craps,grain
+trade,craps,graph
+trade,craps,grasp
+trade,craps,brass,grass
+trade,craps,grain,gravy
+trade,craps,prank
+trade,craps,prank,prawn
+trade,craps,wrack
+ 24 [0mt[1;32mr[1;32ma[0md[0me[0m  24   215 Some((63, 4, "craps")) ["brain", "brash", "brass", "bravo", "brawl", "brawn", "crack", "cramp", "crank", "crash", "crass", "crawl", "crazy", "frail", "frank", "grail", "grain", "graph", "grasp", "grass", "gravy", "prank", "prawn", "wrack"]
+trade,retem,beret
+trade,retem,berth
+trade,retem,egret
+trade,retem,enter
+trade,retem,entry
+trade,retem,enter,ester
+trade,retem,egret,ether
+trade,retem,exert
+trade,retem,inert
+trade,retem,otter,inter
+trade,retem,merit
+trade,retem,meter
+trade,retem,metro
+trade,retem,other
+trade,retem,otter
+trade,retem,otter,outer
+trade,retem,inert,overt
+trade,retem,rebut
+trade,retem,rebut,recut
+trade,retem,rebut,refit
+trade,retem,remit
+trade,retem,reset
+trade,retem,retro,retch
+trade,retem,retro
+trade,retem,retro,retry
+trade,retem,rivet
+trade,retem,egret,steer
+trade,retem,inert,stern
+trade,retem,otter,utter
+trade,retem,otter,voter
+ 85 [1;33mt[1;33mr[0ma[0md[1;33me[0m  30   319 Some((73, 3, "retem")) ["beret", "berth", "egret", "enter", "entry", "ester", "ether", "exert", "inert", "inter", "merit", "meter", "metro", "other", "otter", "outer", "overt", "rebut", "recut", "refit", "remit", "reset", "retch", "retro", "retry", "rivet", "steer", "stern", "utter", "voter"]
+trade,short,birth
+trade,short,blurt
+trade,short,burnt
+trade,short,burst
+trade,short,court
+trade,short,burst,first
+trade,short,blurt,flirt
+trade,short,forth
+trade,short,motor,forty
+trade,short,birth,girth
+trade,short,intro
+trade,short,birth,girth,mirth
+trade,short,motor
+trade,short,forth,north
+trade,short,right
+trade,short,robot
+trade,short,roost
+trade,short,motor,rotor
+trade,short,rusty
+trade,short,shirt
+trade,short
+trade,short,skirt
+trade,short,snort
+trade,short,snort,sport
+trade,short,skirt,spurt
+trade,short,stork
+trade,short,stork,storm
+trade,short,stork,storm,story
+trade,short,strip
+trade,short,strut
+trade,short,worst
+trade,short,forth,north,worth
+  4 [1;33mt[1;33mr[0ma[0md[0me[0m  32   789 Some((78, 4, "short")) ["birth", "blurt", "burnt", "burst", "court", "first", "flirt", "forth", "forty", "girth", "intro", "mirth", "motor", "north", "right", "robot", "roost", "rotor", "rusty", "shirt", "short", "skirt", "snort", "sport", "spurt", "stork", "storm", "story", "strip", "strut", "worst", "worth"]
+trade,spale,cease,abase
+trade,spale,agape
+trade,spale,knave,amaze
+trade,spale,knave,awake
+trade,spale,blame
+trade,spale,blame,blaze
+trade,spale,cease
+trade,spale,knave,amaze,chafe
+trade,spale,cease,chase
+trade,spale,blame,flake
+trade,spale,blame,flame
+trade,spale,blame,flake,glaze
+trade,spale,knave,heave
+trade,spale,knave,amaze,image
+trade,spale,knave,inane
+trade,spale,knave
+trade,spale,lease
+trade,spale,blame,leave
+trade,spale,agape,peace
+trade,spale,phase
+trade,spale,place
+trade,spale,place,plane
+trade,spale,knave,awake,quake
+trade,spale,scale
+trade,spale,shake
+trade,spale,scale,shale
+trade,spale,shake,shame
+trade,spale,shape
+trade,spale,shake,shame,shave
+trade,spale,slave
+trade,spale,shake,snake
+trade,spale,space
+trade,spale,shake,suave
+trade,spale,cease,usage
+trade,spale,knave,heave,weave
+trade,spale,whale
+180 [0mt[0mr[1;32ma[0md[1;32me[0m  36   199 Some((101, 4, "spale")) ["abase", "agape", "amaze", "awake", "blame", "blaze", "cease", "chafe", "chase", "flake", "flame", "glaze", "heave", "image", "inane", "knave", "lease", "leave", "peace", "phase", "place", "plane", "quake", "scale", "shake", "shale", "shame", "shape", "shave", "slave", "snake", "space", "suave", "usage", "weave", "whale"]
+trade,widen,bleed
+trade,widen,blend
+trade,widen,bleed,bused
+trade,widen,bleed,clued
+trade,widen,debug
+trade,widen,debug,decoy
+trade,widen,deign
+trade,widen,demon
+trade,widen,denim
+trade,widen,devil
+trade,widen,dicey
+trade,widen,bleed,dopey
+trade,widen,dowel
+trade,widen,dozen
+trade,widen,dwell
+trade,widen,devil,edify
+trade,widen,bleed,embed
+trade,widen,endow
+trade,widen,field
+trade,widen,fiend
+trade,widen,index
+trade,widen,kneed
+trade,widen,medic
+trade,widen,model
+trade,widen,model,modem
+trade,widen,olden
+trade,widen,plied
+trade,widen,plied,shied
+trade,widen,bleed,speed
+trade,widen,blend,spend
+trade,widen,plied,spied
+trade,widen,kneed,unfed
+trade,widen,unwed
+trade,widen,video
+trade,widen
+trade,widen,wield
+trade,widen,field,yield
+108 [0mt[0mr[0ma[1;33md[1;33me[0m  37  1257 Some((86, 3, "widen")) ["bleed", "blend", "bused", "clued", "debug", "decoy", "deign", "demon", "denim", "devil", "dicey", "dopey", "dowel", "dozen", "dwell", "edify", "embed", "endow", "field", "fiend", "index", "kneed", "medic", "model", "modem", "olden", "plied", "shied", "speed", "spend", "spied", "unfed", "unwed", "video", "widen", "wield", "yield"]
+ 93 [0mt[1;33mr[1;33ma[0md[1;33me[0m  43   588 None ["amber", "anger", "baker", "baler", "caper", "clear", "eager", "early", "feral", "gamer", "gayer", "gazer", "harem", "lager", "layer", "maker", "opera", "paler", "paper", "parer", "payer", "racer", "ramen", "rarer", "raven", "rebar", "recap", "regal", "rehab", "relax", "relay", "renal", "repay", "safer", "saner", "shear", "smear", "spear", "swear", "wafer", "wager", "waver", "zebra"]

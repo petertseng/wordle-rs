@@ -1,0 +1,542 @@
+trice,tacky
+ 29 [1;32mt[0mr[0mi[1;33mc[0me[0m   1    61 Some((1, 1, "tacky")) ["tacky"]
+trice,touch
+ 56 [1;32mt[0mr[0mi[1;32mc[0me[0m   1    26 Some((1, 1, "touch")) ["touch"]
+trice,torch
+ 59 [1;32mt[1;33mr[0mi[1;32mc[0me[0m   1    12 Some((1, 1, "torch")) ["torch"]
+trice,stick
+ 73 [1;33mt[0mr[1;32mi[1;32mc[0me[0m   1     9 Some((1, 1, "stick")) ["stick"]
+trice,thick
+ 74 [1;32mt[0mr[1;32mi[1;32mc[0me[0m   1     4 Some((1, 1, "thick")) ["thick"]
+trice,trick
+ 80 [1;32mt[1;32mr[1;32mi[1;32mc[0me[0m   1     2 Some((1, 1, "trick")) ["trick"]
+trice,tepid
+ 92 [1;32mt[0mr[1;33mi[0mc[1;33me[0m   1    67 Some((1, 1, "tepid")) ["tepid"]
+trice,thief
+101 [1;32mt[0mr[1;32mi[0mc[1;33me[0m   1    24 Some((1, 1, "thief")) ["thief"]
+trice,tried
+107 [1;32mt[1;32mr[1;32mi[0mc[1;33me[0m   1    10 Some((1, 1, "tried")) ["tried"]
+trice,ethic
+118 [1;33mt[0mr[1;33mi[1;33mc[1;33me[0m   1    20 Some((1, 1, "ethic")) ["ethic"]
+trice,chief
+126 [0mt[0mr[1;32mi[1;33mc[1;33me[0m   1    44 Some((1, 1, "chief")) ["chief"]
+trice,teach
+137 [1;32mt[0mr[0mi[1;32mc[1;33me[0m   1    11 Some((1, 1, "teach")) ["teach"]
+trice,wreck
+141 [0mt[1;32mr[0mi[1;32mc[1;33me[0m   1    19 Some((1, 1, "wreck")) ["wreck"]
+trice,erect
+142 [1;33mt[1;32mr[0mi[1;32mc[1;33me[0m   1     6 Some((1, 1, "erect")) ["erect"]
+trice,irate
+178 [1;33mt[1;32mr[1;33mi[0mc[1;32me[0m   1    10 Some((1, 1, "irate")) ["irate"]
+trice,twine
+182 [1;32mt[0mr[1;32mi[0mc[1;32me[0m   1    15 Some((1, 1, "twine")) ["twine"]
+trice,write
+187 [1;33mt[1;32mr[1;32mi[0mc[1;32me[0m   1     9 Some((1, 1, "write")) ["write"]
+trice,crate
+196 [1;33mt[1;32mr[0mi[1;33mc[1;32me[0m   1     4 Some((1, 1, "crate")) ["crate"]
+trice,niche
+198 [0mt[0mr[1;33mi[1;33mc[1;32me[0m   1    44 Some((1, 1, "niche")) ["niche"]
+trice,cutie
+199 [1;33mt[0mr[1;33mi[1;33mc[1;32me[0m   1     3 Some((1, 1, "cutie")) ["cutie"]
+trice,crime
+213 [0mt[1;32mr[1;32mi[1;33mc[1;32me[0m   1     8 Some((1, 1, "crime")) ["crime"]
+trice,twice
+236 [1;32mt[0mr[1;32mi[1;32mc[1;32me[0m   1     2 Some((1, 1, "twice")) ["twice"]
+trice,price
+240 [0mt[1;32mr[1;32mi[1;32mc[1;32me[0m   1     4 Some((1, 1, "price")) ["price"]
+trice
+242 [1;32mt[1;32mr[1;32mi[1;32mc[1;32me[0m   1     1 Some((1, 1, "trice")) ["trice"]
+trice,tapir
+trice,tapir,tiara
+ 14 [1;32mt[1;33mr[1;33mi[0mc[0me[0m   2    64 Some((3, 2, "tapir")) ["tapir", "tiara"]
+trice,third
+trice,third,twirl
+ 23 [1;32mt[1;33mr[1;32mi[0mc[0me[0m   2    34 Some((3, 2, "third")) ["third", "twirl"]
+trice,triad
+trice,triad,trial
+ 26 [1;32mt[1;32mr[1;32mi[0mc[0me[0m   2    27 Some((3, 2, "triad")) ["triad", "trial"]
+trice,cairn
+trice,cairn,chirp
+ 48 [0mt[1;33mr[1;32mi[1;33mc[0me[0m   2    42 Some((3, 2, "cairn")) ["cairn", "chirp"]
+trice,crimp
+trice,crimp,crisp
+ 51 [0mt[1;32mr[1;32mi[1;33mc[0me[0m   2    30 Some((3, 2, "crimp")) ["crimp", "crisp"]
+trice,birch
+trice,birch,circa
+ 66 [0mt[1;33mr[1;33mi[1;32mc[0me[0m   2    19 Some((3, 2, "birch")) ["birch", "circa"]
+trice,cater
+trice,cater,recut
+112 [1;33mt[1;33mr[0mi[1;33mc[1;33me[0m   2    27 Some((3, 2, "cater")) ["cater", "recut"]
+trice,crept
+trice,crept,crest
+115 [1;33mt[1;32mr[0mi[1;33mc[1;33me[0m   2    10 Some((3, 2, "crept")) ["crept", "crest"]
+trice,cried
+trice,cried,crier
+132 [0mt[1;32mr[1;32mi[1;33mc[1;33me[0m   2    14 Some((3, 2, "cried")) ["cried", "crier"]
+trice,react
+trice,react,retch
+139 [1;33mt[1;33mr[0mi[1;32mc[1;33me[0m   2     9 Some((3, 2, "react")) ["react", "retch"]
+trice,edict
+trice,edict,evict
+154 [1;33mt[0mr[1;32mi[1;32mc[1;33me[0m   2     5 Some((3, 2, "edict")) ["edict", "evict"]
+trice,lithe
+trice,lithe,untie
+172 [1;33mt[0mr[1;33mi[0mc[1;32me[0m   2    70 Some((3, 2, "lithe")) ["lithe", "untie"]
+trice,chide
+trice,chide,chime
+207 [0mt[0mr[1;32mi[1;33mc[1;32me[0m   2    24 Some((3, 2, "chide")) ["chide", "chime"]
+trice,farce
+trice,farce,force
+219 [0mt[1;33mr[0mi[1;32mc[1;32me[0m   2    16 Some((3, 2, "farce")) ["farce", "force"]
+trice,brace
+trice,brace,grace
+222 [0mt[1;32mr[0mi[1;32mc[1;32me[0m   2    10 Some((3, 2, "brace")) ["brace", "grace"]
+trice,trace
+trice,trace,truce
+224 [1;32mt[1;32mr[0mi[1;32mc[1;32me[0m   2     3 Some((3, 2, "trace")) ["trace", "truce"]
+trice,droit
+trice,droit,fruit
+trice,droit,orbit
+ 16 [1;33mt[1;32mr[1;33mi[0mc[0me[0m   3    68 Some((5, 2, "droit")) ["droit", "fruit", "orbit"]
+trice,trail
+trice,trail,train
+trice,trail,train,trait
+ 17 [1;32mt[1;32mr[1;33mi[0mc[0me[0m   3    34 Some((6, 3, "trail")) ["trail", "train", "trait"]
+trice,shirt,flirt
+trice,shirt
+trice,shirt,skirt
+ 22 [1;33mt[1;33mr[1;32mi[0mc[0me[0m   3    73 Some((5, 2, "shirt")) ["flirt", "shirt", "skirt"]
+trice,cruft,craft
+trice,cruft,crust
+trice,cruft,crypt
+ 34 [1;33mt[1;32mr[0mi[1;33mc[0me[0m   3    30 Some((6, 2, "cruft")) ["craft", "crust", "crypt"]
+trice,track
+trice,track,tract
+trice,track,truck
+ 62 [1;32mt[1;32mr[0mi[1;32mc[0me[0m   3     9 Some((5, 2, "track")) ["track", "tract", "truck"]
+trice,brick
+trice,brick,crick
+trice,brick,crick,prick
+ 78 [0mt[1;32mr[1;32mi[1;32mc[0me[0m   3    13 Some((6, 3, "brick")) ["brick", "crick", "prick"]
+trice,tiger,their
+trice,tiger
+trice,tiger,timer
+ 95 [1;32mt[1;33mr[1;33mi[0mc[1;33me[0m   3    24 Some((5, 2, "tiger")) ["their", "tiger", "timer"]
+trice,bicep
+trice,bicep,dicey
+trice,bicep,medic
+117 [0mt[0mr[1;33mi[1;33mc[1;33me[0m   3   131 Some((5, 2, "bicep")) ["bicep", "dicey", "medic"]
+trice,cider
+trice,cider,nicer
+trice,cider,relic
+120 [0mt[1;33mr[1;33mi[1;33mc[1;33me[0m   3    37 Some((5, 2, "cider")) ["cider", "nicer", "relic"]
+trice,mercy
+trice,mercy,perch
+trice,mercy,reach
+138 [0mt[1;33mr[0mi[1;32mc[1;33me[0m   3    37 Some((5, 2, "mercy")) ["mercy", "perch", "reach"]
+trice,terse
+trice,terse,there
+trice,terse,three
+167 [1;32mt[1;33mr[0mi[0mc[1;32me[0m   3    33 Some((5, 2, "terse")) ["terse", "there", "three"]
+trice,orate,brute
+trice,orate,grate
+trice,orate,wrote
+169 [1;33mt[1;32mr[0mi[0mc[1;32me[0m   3    31 Some((6, 2, "orate")) ["brute", "grate", "wrote"]
+trice,trope,trade
+trice,trope
+trice,trope,trove
+170 [1;32mt[1;32mr[0mi[0mc[1;32me[0m   3    18 Some((5, 2, "trope")) ["trade", "trope", "trove"]
+trice,tilde
+trice,tilde,tithe
+trice,tilde,title
+173 [1;32mt[0mr[1;33mi[0mc[1;32me[0m   3    24 Some((5, 2, "tilde")) ["tilde", "tithe", "title"]
+trice,tribe
+trice,tribe,tripe
+trice,tribe,tripe,trite
+188 [1;32mt[1;32mr[1;32mi[0mc[1;32me[0m   3     7 Some((6, 3, "tribe")) ["tribe", "tripe", "trite"]
+trice,acute
+trice,acute,caste
+trice,acute,chute
+190 [1;33mt[0mr[0mi[1;33mc[1;32me[0m   3    19 Some((5, 2, "acute")) ["acute", "caste", "chute"]
+trice,dript,drift
+trice,dript,fritz
+trice,dript,print
+trice,dript,wrist
+ 25 [1;33mt[1;32mr[1;32mi[0mc[0me[0m   4    51 Some((8, 2, "dript")) ["drift", "fritz", "print", "wrist"]
+trice,carat,actor
+trice,carat
+trice,carat,chart
+trice,carat,court
+ 31 [1;33mt[1;33mr[0mi[1;33mc[0me[0m   4    66 Some((7, 2, "carat")) ["actor", "carat", "chart", "court"]
+trice,crack
+trice,crack,crock
+trice,crack,frock
+trice,crack,wrack
+ 60 [0mt[1;32mr[0mi[1;32mc[0me[0m   4    47 Some((7, 2, "crack")) ["crack", "crock", "frock", "wrack"]
+trice,ditch
+trice,ditch,hitch
+trice,ditch,hitch,pitch
+trice,ditch,hitch,pitch,witch
+ 64 [1;33mt[0mr[1;33mi[1;32mc[0me[0m   4    23 Some((10, 4, "ditch")) ["ditch", "hitch", "pitch", "witch"]
+trice,great,erupt
+trice,great
+trice,great,greet
+trice,great,wrest
+ 88 [1;33mt[1;32mr[0mi[0mc[1;33me[0m   4    81 Some((7, 2, "great")) ["erupt", "great", "greet", "wrest"]
+trice,tread
+trice,tread,treat
+trice,tread,trend
+trice,tread,truer
+ 89 [1;32mt[1;32mr[0mi[0mc[1;33me[0m   4    43 Some((7, 2, "tread")) ["tread", "treat", "trend", "truer"]
+trice,exist,deity
+trice,exist
+trice,exist,heist
+trice,exist,quiet
+100 [1;33mt[0mr[1;32mi[0mc[1;33me[0m   4    70 Some((7, 2, "exist")) ["deity", "exist", "heist", "quiet"]
+trice,forte
+trice,forte,route
+trice,forte,stare
+trice,forte,store
+166 [1;33mt[1;33mr[0mi[0mc[1;32me[0m   4    71 Some((7, 2, "forte")) ["forte", "route", "stare", "store"]
+trice,shire,afire
+trice,shire,raise
+trice,shire
+trice,shire,spire
+183 [0mt[1;33mr[1;32mi[0mc[1;32me[0m   4    54 Some((7, 2, "shire")) ["afire", "raise", "shire", "spire"]
+trice,slice,juice
+trice,slice
+trice,slice,spice
+trice,slice,juice,voice
+234 [0mt[0mr[1;32mi[1;32mc[1;32me[0m   4    12 Some((8, 3, "slice")) ["juice", "slice", "spice", "voice"]
+trice,tonic,tacit
+trice,tonic
+trice,tonic,topic
+trice,tonic,topic,toxic
+trice,tonic,tunic
+ 38 [1;32mt[0mr[1;33mi[1;33mc[0me[0m   5    23 Some((10, 3, "tonic")) ["tacit", "tonic", "topic", "toxic", "tunic"]
+trice,roach,lurch
+trice,roach,march
+trice,roach,porch
+trice,roach,ranch
+trice,roach
+ 57 [0mt[1;33mr[0mi[1;32mc[0me[0m   5    90 Some((9, 2, "roach")) ["lurch", "march", "porch", "ranch", "roach"]
+trice,cinch
+trice,cinch,disco
+trice,cinch,finch
+trice,cinch,finch,pinch
+trice,cinch,finch,pinch,winch
+ 63 [0mt[0mr[1;33mi[1;32mc[0me[0m   5   121 Some((12, 4, "cinch")) ["cinch", "disco", "finch", "pinch", "winch"]
+trice,reifs,flier
+trice,reifs,plier
+trice,reifs,reign
+trice,reifs,skier
+trice,reifs,weird
+102 [0mt[1;33mr[1;32mi[0mc[1;33me[0m   5   110 Some((10, 2, "reifs")) ["flier", "plier", "reign", "skier", "weird"]
+trice,eject
+trice,eject,elect
+trice,eject,enact
+trice,eject,enact,exact
+trice,eject,fetch
+136 [1;33mt[0mr[0mi[1;32mc[1;33me[0m   5    29 Some((10, 3, "eject")) ["eject", "elect", "enact", "exact", "fetch"]
+trice,mince
+trice,mince,niece
+trice,mince,piece
+trice,mince,since
+trice,mince,since,wince
+225 [0mt[0mr[1;33mi[1;32mc[1;32me[0m   5    18 Some((10, 3, "mince")) ["mince", "niece", "piece", "since", "wince"]
+trice,antic
+trice,antic,attic
+trice,antic,cacti
+trice,antic,itchy
+trice,antic,optic
+trice,antic,stoic
+ 37 [1;33mt[0mr[1;33mi[1;33mc[0me[0m   6    96 Some((11, 2, "antic")) ["antic", "attic", "cacti", "itchy", "optic", "stoic"]
+trice,refit,inert
+trice,refit,inter
+trice,refit,merit
+trice,refit
+trice,refit,remit
+trice,refit,rivet
+ 94 [1;33mt[1;33mr[1;33mi[0mc[1;33me[0m   6    58 Some((11, 2, "refit")) ["inert", "inter", "merit", "refit", "remit", "rivet"]
+trice,dried,brief
+trice,dried
+trice,dried,drier
+trice,dried,fried
+trice,dried,brief,grief
+trice,dried,fried,pried
+105 [0mt[1;32mr[1;32mi[0mc[1;33me[0m   6    65 Some((13, 3, "dried")) ["brief", "dried", "drier", "fried", "grief", "pried"]
+trice,ridge,dirge
+trice,ridge,eerie
+trice,ridge,fibre
+trice,ridge
+trice,ridge,rifle
+trice,ridge,rifle,rinse
+174 [0mt[1;33mr[1;33mi[0mc[1;32me[0m   6    99 Some((12, 3, "ridge")) ["dirge", "eerie", "fibre", "ridge", "rifle", "rinse"]
+trice,thing,taint
+trice,thing,thigh
+trice,thing
+trice,thing,think
+trice,thing,twist
+trice,thing,twist,twixt
+trice,thing,tying
+ 20 [1;32mt[0mr[1;32mi[0mc[0me[0m   7    79 Some((14, 3, "thing")) ["taint", "thigh", "thing", "think", "twist", "twixt", "tying"]
+trice,carve
+trice,carve,chore
+trice,carve,curse
+trice,carve,curve
+trice,carve,scare
+trice,carve,score
+trice,carve,scree
+192 [0mt[1;33mr[0mi[1;33mc[1;32me[0m   7    65 Some((13, 2, "carve")) ["carve", "chore", "curse", "curve", "scare", "score", "scree"]
+trice,crane
+trice,crane,crave
+trice,crane,crave,craze
+trice,crane,creme
+trice,crane,creme,crepe
+trice,crane,crone
+trice,crane,creme,crude
+195 [0mt[1;32mr[0mi[1;33mc[1;32me[0m   7    32 Some((16, 3, "crane")) ["crane", "crave", "craze", "creme", "crepe", "crone", "crude"]
+trice,tidal,tibia
+trice,tidal
+trice,tidal,tight
+trice,tidal,timid
+trice,tidal,tight,tipsy
+trice,tidal,titan
+trice,tidal,toxin
+trice,tidal,tulip
+ 11 [1;32mt[0mr[1;33mi[0mc[0me[0m   8   222 Some((16, 3, "tidal")) ["tibia", "tidal", "tight", "timid", "tipsy", "titan", "toxin", "tulip"]
+trice,slick,chick
+trice,slick,click
+trice,slick,click,flick
+trice,slick,juicy
+trice,slick,chick,quick
+trice,slick
+trice,slick,spicy
+trice,slick,juicy,which
+ 72 [0mt[0mr[1;32mi[1;32mc[0me[0m   8    58 Some((18, 3, "slick")) ["chick", "click", "flick", "juicy", "quick", "slick", "spicy", "which"]
+trice,creed,creak
+trice,creed,creak,cream
+trice,creed,credo
+trice,creed
+trice,creed,creek
+trice,creed,creek,creep
+trice,creed,creak,cress
+trice,creed,cruel
+114 [0mt[1;32mr[0mi[1;33mc[1;33me[0m   8    68 Some((18, 3, "creed")) ["creak", "cream", "credo", "creed", "creek", "creep", "cress", "cruel"]
+trice,suite,elite
+trice,suite,quite
+trice,suite,smite
+trice,suite,smite,spite
+trice,suite
+trice,suite,unite
+trice,suite,utile
+trice,suite,elite,white
+181 [1;33mt[0mr[1;32mi[0mc[1;32me[0m   8    38 Some((17, 3, "suite")) ["elite", "quite", "smite", "spite", "suite", "unite", "utile", "white"]
+trice,chair,acrid
+trice,chair
+trice,chair,choir
+trice,chair,cigar
+trice,chair,curio
+trice,chair,incur
+trice,chair,lyric
+trice,chair,micro
+trice,chair,vicar
+ 39 [0mt[1;33mr[1;33mi[1;33mc[0me[0m   9   121 Some((17, 2, "chair")) ["acrid", "chair", "choir", "cigar", "curio", "incur", "lyric", "micro", "vicar"]
+trice,taker
+trice,taker,tamer
+trice,taker,tamer,taper
+trice,taker,teary
+trice,taker,tenor
+trice,taker,teary,terra
+trice,taker,threw
+trice,taker,tower
+trice,taker,tower,tuber
+ 86 [1;32mt[1;33mr[0mi[0mc[1;33me[0m   9   118 Some((20, 3, "taker")) ["taker", "tamer", "taper", "teary", "tenor", "terra", "threw", "tower", "tuber"]
+trice,strig,birth
+trice,strig,birth,dirty
+trice,strig,first
+trice,strig,girth
+trice,strig,intro
+trice,strig,birth,mirth
+trice,strig,ratio
+trice,strig,right
+trice,strig,stair
+trice,strig,strip
+ 13 [1;33mt[1;33mr[1;33mi[0mc[0me[0m  10   191 Some((22, 3, "strig")) ["birth", "dirty", "first", "girth", "intro", "mirth", "ratio", "right", "stair", "strip"]
+trice,brain,braid
+trice,brain
+trice,brain,broil
+trice,brain,drain
+trice,brain,druid
+trice,brain,frail
+trice,brain,frail,grail
+trice,brain,drain,grain
+trice,brain,groin
+trice,brain,irony
+ 15 [0mt[1;32mr[1;33mi[0mc[0me[0m  10   252 Some((21, 3, "brain")) ["braid", "brain", "broil", "drain", "druid", "frail", "grail", "grain", "groin", "irony"]
+trice,shirk,dairy
+trice,shirk,dairy,fairy
+trice,shirk,hairy
+trice,shirk,quirk
+trice,shirk,rainy
+trice,shirk,rhino
+trice,shirk
+trice,shirk,smirk
+trice,shirk,swirl
+trice,shirk,whirl
+ 21 [0mt[1;33mr[1;32mi[0mc[0me[0m  10   308 Some((20, 3, "shirk")) ["dairy", "fairy", "hairy", "quirk", "rainy", "rhino", "shirk", "smirk", "swirl", "whirl"]
+trice,bidet,befit
+trice,bidet,debit
+trice,bidet,eight
+trice,bidet,fetid
+trice,bidet,filet
+trice,bidet,inept
+trice,bidet,inlet
+trice,bidet,inlet,islet
+trice,bidet,piety
+trice,bidet,stein
+ 91 [1;33mt[0mr[1;33mi[0mc[1;33me[0m  10   228 Some((21, 3, "bidet")) ["befit", "debit", "eight", "fetid", "filet", "inept", "inlet", "islet", "piety", "stein"]
+trice,tease,table
+trice,tease,taste
+trice,tease
+trice,tease,tense
+trice,tease,tepee
+trice,tease,theme
+trice,tease,these
+trice,tease,those
+trice,tease,thyme
+trice,tease,thyme,tulle
+164 [1;32mt[0mr[0mi[0mc[1;32me[0m  10    98 Some((20, 3, "tease")) ["table", "taste", "tease", "tense", "tepee", "theme", "these", "those", "thyme", "tulle"]
+trice,throb,tardy
+trice,throb,tarot
+trice,throb,thorn
+trice,throb
+trice,throb,throw
+trice,throb,thrum
+trice,throb,torso
+trice,throb,torso,torus
+trice,throb,tumor
+trice,throb,turbo
+trice,throb,tumor,tutor
+  5 [1;32mt[1;33mr[0mi[0mc[0me[0m  11   273 Some((23, 3, "throb")) ["tardy", "tarot", "thorn", "throb", "throw", "thrum", "torso", "torus", "tumor", "turbo", "tutor"]
+trice,cheat,cadet
+trice,cheat
+trice,cheat,chest
+trice,cheat,cleat
+trice,cheat,cleft
+trice,cheat,comet
+trice,cheat,comet,covet
+trice,cheat,eclat
+trice,cheat,facet
+trice,cheat,octet
+trice,cheat,scent
+109 [1;33mt[0mr[0mi[1;33mc[1;33me[0m  11   114 Some((22, 3, "cheat")) ["cadet", "cheat", "chest", "cleat", "cleft", "comet", "covet", "eclat", "facet", "octet", "scent"]
+trice,pride,brine,arise
+trice,pride,brine,bribe
+trice,pride,bride
+trice,pride,brine
+trice,pride,drive
+trice,pride,brine,arise,grime
+trice,pride,gripe
+trice,pride
+trice,pride,prime
+trice,pride,prime,prize
+trice,pride,brine,urine
+186 [0mt[1;32mr[1;32mi[0mc[1;32me[0m  11    36 Some((27, 4, "pride")) ["arise", "bribe", "bride", "brine", "drive", "grime", "gripe", "pride", "prime", "prize", "urine"]
+trice,graft,artsy
+trice,graft,broth
+trice,graft,brunt
+trice,graft,draft
+trice,graft,front
+trice,graft,front,frost
+trice,graft,froth
+trice,graft
+trice,graft,grant
+trice,graft,grout
+trice,graft,grout,grunt
+trice,graft,wrath
+  7 [1;33mt[1;32mr[0mi[0mc[0me[0m  12   240 Some((25, 3, "graft")) ["artsy", "broth", "brunt", "draft", "front", "frost", "froth", "graft", "grant", "grout", "grunt", "wrath"]
+trice,cling,child
+trice,cling,child,chili
+trice,cling,child,chili,chill
+trice,cling,china
+trice,cling,cliff
+trice,cling,cliff,climb
+trice,cling
+trice,cling,clink
+trice,cling,icily
+trice,cling,icing
+trice,cling,iliac
+trice,cling,scion
+ 45 [0mt[0mr[1;32mi[1;33mc[0me[0m  12   153 Some((27, 4, "cling")) ["child", "chili", "chill", "china", "cliff", "climb", "cling", "clink", "icily", "icing", "iliac", "scion"]
+trice,pence,dance
+trice,pence,deuce
+trice,pence,dance,dunce
+trice,pence,fence
+trice,pence,fence,hence
+trice,pence,dance,lance
+trice,pence,dance,ounce
+trice,pence,peace
+trice,pence
+trice,pence,place
+trice,pence,sauce
+trice,pence,space
+216 [0mt[0mr[0mi[1;32mc[1;32me[0m  12    63 Some((27, 3, "pence")) ["dance", "deuce", "dunce", "fence", "hence", "lance", "ounce", "peace", "pence", "place", "sauce", "space"]
+trice,trust,tramp
+trice,trust,trash
+trice,trust,tramp,trawl
+trice,trust,tramp,troll
+trice,trust,tramp,troop
+trice,trust,trout
+trice,trust,truly
+trice,trust,truly,trump
+trice,trust,truly,trump,trunk
+trice,trust,truss
+trice,trust
+trice,trust,truth
+trice,trust,tryst
+  8 [1;32mt[1;32mr[0mi[0mc[0me[0m  13   117 Some((31, 4, "trust")) ["tramp", "trash", "trawl", "troll", "troop", "trout", "truly", "trump", "trunk", "truss", "trust", "truth", "tryst"]
+trice,chant,ascot
+trice,chant,caput
+trice,chant,catty
+trice,chant
+trice,chant,cloth
+trice,chant,clout
+trice,chant,coast
+trice,chant,count
+trice,chant,octal
+trice,chant,scant
+trice,chant,scout
+trice,chant,uncut
+trice,chant,yacht
+ 28 [1;33mt[0mr[0mi[1;33mc[0me[0m  13   343 Some((25, 2, "chant")) ["ascot", "caput", "catty", "chant", "cloth", "clout", "coast", "count", "octal", "scant", "scout", "uncut", "yacht"]
+trice,deign,alien
+trice,deign,being
+trice,deign
+trice,deign,plied,edify
+trice,deign,eking
+trice,deign,eking,eying
+trice,deign,feign
+trice,deign,neigh
+trice,deign,plied
+trice,deign,plied,shied
+trice,deign,plied,spied
+trice,deign,spiel
+trice,deign,weigh
+ 99 [0mt[0mr[1;32mi[0mc[1;33me[0m  13   350 Some((29, 3, "deign")) ["alien", "being", "deign", "edify", "eking", "eying", "feign", "neigh", "plied", "shied", "spied", "spiel", "weigh"]
+trice,leach,beach
+trice,leach,beech
+trice,leach,belch
+trice,leach,beech,bench
+trice,leach,check
+trice,leach,epoch
+trice,leach,fleck
+trice,leach
+trice,leach,leech
+trice,leach,mecca
+trice,leach,beach,peach
+trice,leach,speck
+trice,leach,belch,welch
+trice,leach,beech,wench
+135 [0mt[0mr[0mi[1;32mc[1;33me[0m  14   139 Some((31, 3, "leach")) ["beach", "beech", "belch", "bench", "check", "epoch", "fleck", "leach", "leech", "mecca", "peach", "speck", "welch", "wench"]
+ 55 [1;33mt[0mr[0mi[1;32mc[0me[0m  15    90 None ["batch", "botch", "butch", "catch", "dutch", "hatch", "hutch", "latch", "match", "notch", "patch", "stack", "stock", "stuck", "watch"]

@@ -1,0 +1,545 @@
+clint,claim
+ 17 [1;32mc[1;32ml[1;33mi[0mn[0mt[0m   1    18 Some((1, 1, "claim")) ["claim"]
+clint,icily
+ 22 [1;33mc[1;33ml[1;32mi[0mn[0mt[0m   1    34 Some((1, 1, "icily")) ["icily"]
+clint,scion
+ 46 [1;33mc[0ml[1;32mi[1;33mn[0mt[0m   1    24 Some((1, 1, "scion")) ["scion"]
+clint,cairn
+ 47 [1;32mc[0ml[1;32mi[1;33mn[0mt[0m   1    17 Some((1, 1, "cairn")) ["cairn"]
+clint,icing
+ 73 [1;33mc[0ml[1;32mi[1;32mn[0mt[0m   1    17 Some((1, 1, "icing")) ["icing"]
+clint,china
+ 74 [1;32mc[0ml[1;32mi[1;32mn[0mt[0m   1    14 Some((1, 1, "china")) ["china"]
+clint,lying
+ 75 [0mc[1;33ml[1;32mi[1;32mn[0mt[0m   1    21 Some((1, 1, "lying")) ["lying"]
+clint,cloth
+ 89 [1;32mc[1;32ml[0mi[0mn[1;33mt[0m   1    17 Some((1, 1, "cloth")) ["cloth"]
+clint,notch
+109 [1;33mc[0ml[0mi[1;33mn[1;33mt[0m   1    39 Some((1, 1, "notch")) ["notch"]
+clint,until
+120 [0mc[1;33ml[1;33mi[1;33mn[1;33mt[0m   1    13 Some((1, 1, "until")) ["until"]
+clint,eclat
+166 [1;33mc[1;33ml[0mi[0mn[1;32mt[0m   1    19 Some((1, 1, "eclat")) ["eclat"]
+clint,elect
+169 [1;33mc[1;32ml[0mi[0mn[1;32mt[0m   1    13 Some((1, 1, "elect")) ["elect"]
+clint,tacit
+172 [1;33mc[0ml[1;33mi[0mn[1;32mt[0m   1    25 Some((1, 1, "tacit")) ["tacit"]
+clint,plait
+177 [0mc[1;32ml[1;33mi[0mn[1;32mt[0m   1    14 Some((1, 1, "plait")) ["plait"]
+clint,flirt
+186 [0mc[1;32ml[1;32mi[0mn[1;32mt[0m   1    12 Some((1, 1, "flirt")) ["flirt"]
+clint,knelt
+192 [0mc[1;33ml[0mi[1;33mn[1;32mt[0m   1    19 Some((1, 1, "knelt")) ["knelt"]
+clint,leant
+219 [0mc[1;33ml[0mi[1;32mn[1;32mt[0m   1    13 Some((1, 1, "leant")) ["leant"]
+clint,giant
+225 [0mc[0ml[1;33mi[1;32mn[1;32mt[0m   1    29 Some((1, 1, "giant")) ["giant"]
+clint,cavil
+clint,cavil,civil
+ 14 [1;32mc[1;33ml[1;33mi[0mn[0mt[0m   2    46 Some((3, 2, "cavil")) ["cavil", "civil"]
+clint,canal
+clint,canal,colon
+ 32 [1;32mc[1;33ml[0mi[1;33mn[0mt[0m   2    17 Some((3, 2, "canal")) ["canal", "colon"]
+clint,clean
+clint,clean,clown
+ 35 [1;32mc[1;32ml[0mi[1;33mn[0mt[0m   2    14 Some((3, 2, "clean")) ["clean", "clown"]
+clint,alien
+clint,alien,align
+ 51 [0mc[1;32ml[1;32mi[1;33mn[0mt[0m   2    21 Some((3, 2, "alien")) ["alien", "align"]
+clint,scene
+clint,scene,scone
+ 55 [1;33mc[0ml[0mi[1;32mn[0mt[0m   2    76 Some((3, 2, "scene")) ["scene", "scone"]
+clint,cling
+clint,cling,clink
+ 80 [1;32mc[1;32ml[1;32mi[1;32mn[0mt[0m   2     4 Some((3, 2, "cling")) ["cling", "clink"]
+clint,latch
+clint,latch,octal
+ 85 [1;33mc[1;33ml[0mi[0mn[1;33mt[0m   2    43 Some((3, 2, "latch")) ["latch", "octal"]
+clint,cacti
+clint,cacti,cutie
+ 92 [1;32mc[0ml[1;33mi[0mn[1;33mt[0m   2    26 Some((3, 2, "cacti")) ["cacti", "cutie"]
+clint,blitz
+clint,blitz,elite
+105 [0mc[1;32ml[1;32mi[0mn[1;33mt[0m   2    22 Some((3, 2, "blitz")) ["blitz", "elite"]
+clint,unite
+clint,unite,unity
+126 [0mc[0ml[1;32mi[1;33mn[1;33mt[0m   2    48 Some((3, 2, "unite")) ["unite", "unity"]
+clint,edict
+clint,edict,evict
+181 [1;33mc[0ml[1;32mi[0mn[1;32mt[0m   2     6 Some((3, 2, "edict")) ["edict", "evict"]
+clint,enact
+clint,enact,uncut
+190 [1;33mc[0ml[0mi[1;33mn[1;32mt[0m   2    14 Some((3, 2, "enact")) ["enact", "uncut"]
+clint,inlet
+clint,inlet,unlit
+201 [0mc[1;33ml[1;33mi[1;33mn[1;32mt[0m   2     7 Some((3, 2, "inlet")) ["inlet", "unlit"]
+clint,scant
+clint,scant,scent
+217 [1;33mc[0ml[0mi[1;32mn[1;32mt[0m   2     5 Some((3, 2, "scant")) ["scant", "scent"]
+clint,chant
+clint,chant,count
+218 [1;32mc[0ml[0mi[1;32mn[1;32mt[0m   2     3 Some((3, 2, "chant")) ["chant", "count"]
+clint,flint
+clint,flint,glint
+240 [0mc[1;32ml[1;32mi[1;32mn[1;32mt[0m   2     4 Some((3, 2, "flint")) ["flint", "glint"]
+clint,child
+clint,child,chili
+clint,child,chili,chill
+ 23 [1;32mc[1;33ml[1;32mi[0mn[0mt[0m   3    24 Some((6, 3, "child")) ["child", "chili", "chill"]
+clint,click
+clint,click,cliff
+clint,click,cliff,climb
+ 26 [1;32mc[1;32ml[1;32mi[0mn[0mt[0m   3    15 Some((6, 3, "click")) ["click", "cliff", "climb"]
+clint,plain,elfin
+clint,plain
+clint,plain,slain
+ 42 [0mc[1;32ml[1;33mi[1;33mn[0mt[0m   3    33 Some((5, 2, "plain")) ["elfin", "plain", "slain"]
+clint,natal
+clint,natal,talon
+clint,natal,tonal
+111 [0mc[1;33ml[0mi[1;33mn[1;33mt[0m   3    35 Some((5, 2, "natal")) ["natal", "talon", "tonal"]
+clint,tonic,antic
+clint,tonic
+clint,tonic,tunic
+118 [1;33mc[0ml[1;33mi[1;33mn[1;33mt[0m   3    12 Some((5, 2, "tonic")) ["antic", "tonic", "tunic"]
+clint,cleat
+clint,cleat,cleft
+clint,cleat,clout
+170 [1;32mc[1;32ml[0mi[0mn[1;32mt[0m   3    12 Some((5, 2, "cleat")) ["cleat", "cleft", "clout"]
+clint,plant,blunt
+clint,plant
+clint,plant,slant
+222 [0mc[1;32ml[0mi[1;32mn[1;32mt[0m   3    11 Some((5, 2, "plant")) ["blunt", "plant", "slant"]
+clint,flail
+clint,flail,flair
+clint,flail,fluid
+clint,flail,plaid
+ 15 [0mc[1;32ml[1;33mi[0mn[0mt[0m   4   154 Some((7, 2, "flail")) ["flail", "flair", "fluid", "plaid"]
+clint,flick
+clint,flick,iliac
+clint,flick,slice
+clint,flick,slick
+ 25 [1;33mc[1;32ml[1;32mi[0mn[0mt[0m   4    22 Some((7, 2, "flick")) ["flick", "iliac", "slice", "slick"]
+clint,lunch,lance
+clint,lunch
+clint,lunch,lynch
+clint,lunch,uncle
+ 31 [1;33mc[1;33ml[0mi[1;33mn[0mt[0m   4    28 Some((7, 2, "lunch")) ["lance", "lunch", "lynch", "uncle"]
+clint,blown
+clint,blown,flown
+clint,blown,glean
+clint,blown,olden
+ 33 [0mc[1;32ml[0mi[1;33mn[0mt[0m   4   105 Some((7, 2, "blown")) ["blown", "flown", "glean", "olden"]
+clint,clang
+clint,clang,clank
+clint,clang,clone
+clint,clang,clung
+ 62 [1;32mc[1;32ml[0mi[1;32mn[0mt[0m   4    12 Some((7, 2, "clang")) ["clang", "clank", "clone", "clung"]
+clint,trial,still
+clint,trial
+clint,trial,twirl
+clint,trial,utile
+102 [0mc[1;33ml[1;32mi[0mn[1;33mt[0m   4    51 Some((7, 2, "trial")) ["still", "trial", "twirl", "utile"]
+clint,logic,lilac
+clint,logic
+clint,logic,lucid
+clint,logic,lyric
+clint,logic,relic
+ 13 [1;33mc[1;33ml[1;33mi[0mn[0mt[0m   5   104 Some((9, 2, "logic")) ["lilac", "logic", "lucid", "lyric", "relic"]
+clint,inane,fiend
+clint,inane
+clint,inane,irony
+clint,inane,ninny
+clint,inane,piano
+ 63 [0mc[0ml[1;33mi[1;32mn[0mt[0m   5   253 Some((9, 2, "inane")) ["fiend", "inane", "irony", "ninny", "piano"]
+clint,blink,blind
+clint,blink
+clint,blink,fling
+clint,blink,fling,sling
+clint,blink,slink
+ 78 [0mc[1;32ml[1;32mi[1;32mn[0mt[0m   5    19 Some((10, 3, "blink")) ["blind", "blink", "fling", "sling", "slink"]
+clint,trice,stick
+clint,trice,thick
+clint,trice
+clint,trice,trick
+clint,trice,twice
+100 [1;33mc[0ml[1;32mi[0mn[1;33mt[0m   5    20 Some((9, 2, "trice")) ["stick", "thick", "trice", "trick", "twice"]
+clint,built
+clint,built,guilt
+clint,built,guilt,quilt
+clint,built,spilt
+clint,built,spilt,stilt
+183 [0mc[1;33ml[1;32mi[0mn[1;32mt[0m   5    20 Some((11, 3, "built")) ["built", "guilt", "quilt", "spilt", "stilt"]
+clint,cabin
+clint,cabin,chain
+clint,cabin,cinch
+clint,cabin,conic
+clint,cabin,cumin
+clint,cabin,conic,cynic
+ 38 [1;32mc[0ml[1;33mi[1;33mn[0mt[0m   6    36 Some((12, 3, "cabin")) ["cabin", "chain", "cinch", "conic", "cumin", "cynic"]
+clint,caste
+clint,caste,catch
+clint,caste,cater
+clint,caste,catty
+clint,caste,chute
+clint,caste,crate
+ 83 [1;32mc[0ml[0mi[0mn[1;33mt[0m   6   141 Some((11, 2, "caste")) ["caste", "catch", "cater", "catty", "chute", "crate"]
+clint,thing,sting
+clint,thing,stink
+clint,thing
+clint,thing,think
+clint,thing,twine
+clint,thing,tying
+153 [0mc[0ml[1;32mi[1;32mn[1;33mt[0m   6    39 Some((11, 2, "thing")) ["sting", "stink", "thing", "think", "twine", "tying"]
+clint,split,filet
+clint,split,islet
+clint,split,light
+clint,split,limit
+clint,split,pilot
+clint,split
+174 [0mc[1;33ml[1;33mi[0mn[1;32mt[0m   6    39 Some((11, 2, "split")) ["filet", "islet", "light", "limit", "pilot", "split"]
+clint,inept
+clint,inept,inert
+clint,inept,ingot
+clint,inept,input
+clint,inept,night
+clint,inept,unfit
+198 [0mc[0ml[1;33mi[1;33mn[1;32mt[0m   6    56 Some((11, 2, "inept")) ["inept", "inert", "ingot", "input", "night", "unfit"]
+clint,crane,canny
+clint,crane,chunk
+clint,crane,corny
+clint,crane
+clint,crane,crank
+clint,crane,crone
+clint,crane,crony
+ 56 [1;32mc[0ml[0mi[1;32mn[0mt[0m   7    59 Some((13, 2, "crane")) ["canny", "chunk", "corny", "crane", "crank", "crone", "crony"]
+clint,choon,candy
+clint,choon,canoe
+clint,choon,canon
+clint,choon,churn
+clint,choon,conch
+clint,choon,condo
+clint,choon,coven
+clint,choon,crown
+ 29 [1;32mc[0ml[0mi[1;33mn[0mt[0m   8   137 Some((16, 2, "choon")) ["candy", "canoe", "canon", "churn", "conch", "condo", "coven", "crown"]
+clint,elute,altar
+clint,elute,alter
+clint,elute,elate
+clint,elute,flute
+clint,elute,plate
+clint,elute,plate,slate
+clint,elute,sloth
+clint,elute,ultra
+ 87 [0mc[1;32ml[0mi[0mn[1;33mt[0m   8   112 Some((17, 3, "elute")) ["altar", "alter", "elate", "flute", "plate", "slate", "sloth", "ultra"]
+clint,tilde,filth
+clint,tilde,lithe
+clint,tilde,tidal
+clint,tilde
+clint,tilde,title
+clint,tilde,trail
+clint,tilde,tulip
+clint,tilde,vital
+ 93 [0mc[1;33ml[1;33mi[0mn[1;33mt[0m   8   138 Some((15, 2, "tilde")) ["filth", "lithe", "tidal", "tilde", "title", "trail", "tulip", "vital"]
+clint,snout,angst
+clint,snout,donut
+clint,snout,onset
+clint,snout,snort
+clint,snout
+clint,snout,tenet
+clint,snout,unmet
+clint,snout,unset
+189 [0mc[0ml[0mi[1;33mn[1;32mt[0m   8   148 Some((15, 2, "snout")) ["angst", "donut", "onset", "snort", "snout", "tenet", "unmet", "unset"]
+clint,point,stint,faint
+clint,point,joint
+clint,point,paint
+clint,point
+clint,point,paint,print
+clint,point,stint,saint
+clint,point,stint
+clint,point,stint,taint
+234 [0mc[0ml[1;32mi[1;32mn[1;32mt[0m   8    21 Some((19, 3, "point")) ["faint", "joint", "paint", "point", "print", "saint", "stint", "taint"]
+clint,flack,black
+clint,flack,block
+clint,flack
+clint,flack,fleck
+clint,flack,fleck,flock
+clint,flack,place
+clint,flack,block,pluck
+clint,flack,black,slack
+clint,flack,ulcer
+  7 [1;33mc[1;32ml[0mi[0mn[0mt[0m   9   127 Some((20, 3, "flack")) ["black", "block", "flack", "fleck", "flock", "place", "pluck", "slack", "ulcer"]
+clint,cimar,chair
+clint,cimar,choir
+clint,cimar,cider
+clint,cimar,cigar
+clint,cimar,circa
+clint,cimar,civic
+clint,cimar,comic
+clint,cimar,cubic
+clint,cimar,curio
+ 11 [1;32mc[0ml[1;33mi[0mn[0mt[0m   9   198 Some((18, 2, "cimar")) ["chair", "choir", "cider", "cigar", "circa", "civic", "comic", "cubic", "curio"]
+clint,price,brick
+clint,price,juice
+clint,price,juicy
+clint,price
+clint,price,prick
+clint,price,juicy,quick
+clint,price,spice
+clint,price,spicy
+clint,price,juice,voice
+clint,price,juicy,which
+ 19 [1;33mc[0ml[1;32mi[0mn[0mt[0m  10   153 Some((22, 3, "price")) ["brick", "juice", "juicy", "price", "prick", "quick", "spice", "spicy", "voice", "which"]
+clint,vinyl,anvil
+clint,vinyl,final
+clint,vinyl,inlay
+clint,vinyl,liken
+clint,vinyl,linen
+clint,vinyl,linen,liner
+clint,vinyl,linen,lingo
+clint,vinyl,login
+clint,vinyl,snail
+clint,vinyl
+ 39 [0mc[1;33ml[1;33mi[1;33mn[0mt[0m  10   121 Some((21, 3, "vinyl")) ["anvil", "final", "inlay", "liken", "linen", "liner", "lingo", "login", "snail", "vinyl"]
+clint,crime,chick
+clint,crime,chide
+clint,crime,chief
+clint,crime,chime
+clint,crime,chirp
+clint,crime,crick
+clint,crime,cried
+clint,crime,cried,crier
+clint,crime
+clint,crime,crimp
+clint,crime,crick,crisp
+ 20 [1;32mc[0ml[1;32mi[0mn[0mt[0m  11    90 Some((23, 3, "crime")) ["chick", "chide", "chief", "chime", "chirp", "crick", "cried", "crier", "crime", "crimp", "crisp"]
+clint,optic,attic
+clint,optic,ditch
+clint,optic,ethic
+clint,optic,ditch,hitch
+clint,optic,itchy
+clint,optic
+clint,optic,pitch
+clint,optic,stoic
+clint,optic,topic
+clint,optic,stoic,toxic
+clint,optic,ditch,hitch,witch
+ 91 [1;33mc[0ml[1;33mi[0mn[1;33mt[0m  11    96 Some((25, 4, "optic")) ["attic", "ditch", "ethic", "hitch", "itchy", "optic", "pitch", "stoic", "topic", "toxic", "witch"]
+clint,react,ascot
+clint,react,eject
+clint,react,erect
+clint,react,exact
+clint,react,facet
+clint,react,octet
+clint,react
+clint,react,recut
+clint,react,scout
+clint,react,tract
+clint,react,ascot,yacht
+163 [1;33mc[0ml[0mi[0mn[1;32mt[0m  11   116 Some((22, 3, "react")) ["ascot", "eject", "erect", "exact", "facet", "octet", "react", "recut", "scout", "tract", "yacht"]
+clint,natis,inter
+clint,natis,inter,intro
+clint,natis,minty
+clint,natis,ninth
+clint,natis,minty,pinto
+clint,natis,satin
+clint,natis,stain
+clint,natis,stein
+clint,natis,titan
+clint,natis,toxin
+clint,natis,train
+clint,natis,untie
+117 [0mc[0ml[1;33mi[1;33mn[1;33mt[0m  12   161 Some((26, 3, "natis")) ["inter", "intro", "minty", "ninth", "pinto", "satin", "stain", "stein", "titan", "toxin", "train", "untie"]
+clint,thank,atone
+clint,thank,stand
+clint,thank,stank
+clint,thank,stone
+clint,thank,stone,stony
+clint,thank,stone,stung
+clint,thank,stunk
+clint,thank,tawny
+clint,thank
+clint,thank,thong
+clint,thank,trend
+clint,thank,trunk
+clint,thank,twang
+135 [0mc[0ml[0mi[1;32mn[1;33mt[0m  13   171 Some((27, 3, "thank")) ["atone", "stand", "stank", "stone", "stony", "stung", "stunk", "tawny", "thank", "thong", "trend", "trunk", "twang"]
+clint,slide,alibi
+clint,slide,alike
+clint,slide,alike,alive
+clint,slide,alibi,blimp
+clint,slide,bliss
+clint,slide,elide
+clint,slide,flier
+clint,slide,elide,glide
+clint,slide,alike,olive
+clint,slide,plied
+clint,slide,flier,plier
+clint,slide
+clint,slide,slime
+clint,slide,slimy
+ 24 [0mc[1;32ml[1;32mi[0mn[0mt[0m  14   107 Some((32, 3, "slide")) ["alibi", "alike", "alive", "blimp", "bliss", "elide", "flier", "glide", "olive", "plied", "plier", "slide", "slime", "slimy"]
+clint,mince,finch
+clint,mince,incur
+clint,mince,ionic
+clint,mince,manic
+clint,mince
+clint,mince,nicer
+clint,mince,niche
+clint,mince,niece
+clint,mince,ionic,panic
+clint,mince,finch,pinch
+clint,mince,since
+clint,mince,ionic,sonic
+clint,mince,since,wince
+clint,mince,finch,pinch,winch
+ 37 [1;33mc[0ml[1;33mi[1;33mn[0mt[0m  14    98 Some((33, 4, "mince")) ["finch", "incur", "ionic", "manic", "mince", "nicer", "niche", "niece", "panic", "pinch", "since", "sonic", "wince", "winch"]
+clint,bloat,alert
+clint,bloat,allot
+clint,bloat,aloft
+clint,bloat,blast
+clint,bloat,bleat
+clint,bloat
+clint,bloat,blurt
+clint,bloat,fleet
+clint,bloat,float
+clint,bloat,flout
+clint,bloat,float,gloat
+clint,bloat,pleat
+clint,bloat,fleet,sleet
+clint,bloat,fleet,slept
+168 [0mc[1;32ml[0mi[0mn[1;32mt[0m  14    62 Some((30, 3, "bloat")) ["alert", "allot", "aloft", "blast", "bleat", "bloat", "blurt", "fleet", "float", "flout", "gloat", "pleat", "sleet", "slept"]
+clint,carle,cabal
+clint,carle,cable
+clint,carle,camel
+clint,carle,carol
+clint,carle,caulk
+clint,carle,cello
+clint,carle,chalk
+clint,carle,color
+clint,carle,coral
+clint,carle,could
+clint,carle,could,coyly
+clint,carle,crawl
+clint,carle,cruel
+clint,carle,curly
+clint,carle,cycle
+  5 [1;32mc[1;33ml[0mi[0mn[0mt[0m  15   213 Some((31, 3, "carle")) ["cabal", "cable", "camel", "carol", "caulk", "cello", "chalk", "color", "coral", "could", "coyly", "crawl", "cruel", "curly", "cycle"]
+clint,claes,clack
+clint,claes,clack,clamp
+clint,claes,clash
+clint,claes,clash,clasp
+clint,claes,class
+clint,claes,clear
+clint,claes,clerk
+clint,claes,cloak
+clint,claes,clock
+clint,claes,close
+clint,claes,clock,cloud
+clint,claes,clerk,clove
+clint,claes,clock,cluck
+clint,claes,clued
+clint,claes,clock,clump
+  8 [1;32mc[1;32ml[0mi[0mn[0mt[0m  15    97 Some((36, 3, "claes")) ["clack", "clamp", "clash", "clasp", "class", "clear", "clerk", "cloak", "clock", "close", "cloud", "clove", "cluck", "clued", "clump"]
+clint,crest,comet,cadet
+clint,crest,caput
+clint,crest,carat
+clint,crest,carat,chart
+clint,crest,cheat
+clint,crest,chest
+clint,crest,coast
+clint,crest,comet
+clint,crest,carat,court
+clint,crest,comet,covet
+clint,crest,craft
+clint,crest,crept
+clint,crest
+clint,crest,crust
+clint,crest,craft,crypt
+164 [1;32mc[0ml[0mi[0mn[1;32mt[0m  15    58 Some((34, 3, "crest")) ["cadet", "caput", "carat", "chart", "cheat", "chest", "coast", "comet", "court", "covet", "craft", "crept", "crest", "crust", "crypt"]
+clint,dealt,adult
+clint,dealt
+clint,dealt,dwelt
+clint,dealt,exalt
+clint,dealt,smelt,exult
+clint,dealt,fault
+clint,dealt,leapt
+clint,dealt,leapt,least
+clint,dealt,moult
+clint,dealt,shalt
+clint,dealt,smelt
+clint,dealt,smelt,spelt
+clint,dealt,splat
+clint,dealt,valet
+clint,dealt,fault,vault
+165 [0mc[1;33ml[0mi[0mn[1;32mt[0m  15   140 Some((33, 3, "dealt")) ["adult", "dealt", "dwelt", "exalt", "exult", "fault", "leapt", "least", "moult", "shalt", "smelt", "spelt", "splat", "valet", "vault"]
+clint,picas,acrid
+clint,picas,basic
+clint,picas,bicep
+clint,picas,birch
+clint,picas,dicey
+clint,picas,disco
+clint,picas,ficus
+clint,picas,acrid,magic
+clint,picas,medic
+clint,picas,dicey,micro
+clint,picas,birch,mimic
+clint,picas,music
+clint,picas,picky
+clint,picas,piece
+clint,picas,pubic
+clint,picas,vicar
+ 10 [1;33mc[0ml[1;33mi[0mn[0mt[0m  16   526 Some((35, 3, "picas")) ["acrid", "basic", "bicep", "birch", "dicey", "disco", "ficus", "magic", "medic", "micro", "mimic", "music", "picky", "piece", "pubic", "vicar"]
+clint,flank,alone
+clint,flank,alone,along
+clint,flank,gland,bland
+clint,flank,blank
+clint,flank,blend
+clint,flank,blend,blond
+clint,flank
+clint,flank,flung
+clint,flank,flunk
+clint,flank,gland
+clint,flank,gland,plane
+clint,flank,blank,plank
+clint,flank,plunk
+clint,flank,gland,slang
+clint,flank,blend,slung
+clint,flank,plunk,slunk
+ 60 [0mc[1;32ml[0mi[1;32mn[0mt[0m  16    72 Some((39, 3, "flank")) ["alone", "along", "bland", "blank", "blend", "blond", "flank", "flung", "flunk", "gland", "plane", "plank", "plunk", "slang", "slung", "slunk"]
+clint,snide,anime
+clint,snide,avian
+clint,snide,avian,axion
+clint,snide,deign
+clint,snide,feign
+clint,snide,anime,knife
+clint,snide,naive
+clint,snide,feign,neigh
+clint,snide,noise
+clint,snide,noisy
+clint,snide,onion
+clint,snide,feign,reign
+clint,snide
+clint,snide,sniff
+clint,snide,snipe
+clint,snide,onion,unify
+clint,snide,onion,union
+ 45 [0mc[0ml[1;32mi[1;33mn[0mt[0m  17   248 Some((39, 3, "snide")) ["anime", "avian", "axion", "deign", "feign", "knife", "naive", "neigh", "noise", "noisy", "onion", "reign", "snide", "sniff", "snipe", "unify", "union"]
+clint,swift,drift
+clint,swift,heist,exist
+clint,swift,foist
+clint,swift,heist
+clint,swift,heist,hoist
+clint,swift,idiot
+clint,swift,heist,joist
+clint,swift,heist,joist,moist
+clint,swift,idiot,quiet
+clint,swift,shift
+clint,swift,shirt
+clint,swift,shirt,skirt
+clint,swift
+clint,swift,twist
+clint,swift,twixt
+clint,swift,waist
+clint,swift,waist,wrist
+180 [0mc[0ml[1;32mi[0mn[1;32mt[0m  17    93 Some((41, 4, "swift")) ["drift", "exist", "foist", "heist", "hoist", "idiot", "joist", "moist", "quiet", "shift", "shirt", "skirt", "swift", "twist", "twixt", "waist", "wrist"]
+216 [0mc[0ml[0mi[1;32mn[1;32mt[0m  18    87 None ["agent", "brunt", "burnt", "daunt", "event", "front", "gaunt", "grant", "grunt", "haunt", "jaunt", "meant", "mount", "shunt", "spent", "stunt", "taunt", "vaunt"]

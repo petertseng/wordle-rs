@@ -1,0 +1,332 @@
+orate,occur
+  5 [1;32mo[1;33mr[0ma[0mt[0me[0m   1    81 Some((1, 1, "occur")) ["occur"]
+orate,offal
+ 11 [1;32mo[0mr[1;33ma[0mt[0me[0m   1    72 Some((1, 1, "offal")) ["offal"]
+orate,organ
+ 17 [1;32mo[1;32mr[1;33ma[0mt[0me[0m   1    12 Some((1, 1, "organ")) ["organ"]
+orate,ovary
+ 23 [1;32mo[1;33mr[1;32ma[0mt[0me[0m   1     8 Some((1, 1, "ovary")) ["ovary"]
+orate,bravo
+ 25 [1;33mo[1;32mr[1;32ma[0mt[0me[0m   1    10 Some((1, 1, "bravo")) ["bravo"]
+orate,orbit
+ 35 [1;32mo[1;32mr[0ma[1;33mt[0me[0m   1     4 Some((1, 1, "orbit")) ["orbit"]
+orate,octal
+ 38 [1;32mo[0mr[1;33ma[1;33mt[0me[0m   1    17 Some((1, 1, "octal")) ["octal"]
+orate,roast
+ 49 [1;33mo[1;33mr[1;32ma[1;33mt[0me[0m   1     6 Some((1, 1, "roast")) ["roast"]
+orate,quota
+ 64 [1;33mo[0mr[1;33ma[1;32mt[0me[0m   1    45 Some((1, 1, "quota")) ["quota"]
+orate,aorta
+ 67 [1;33mo[1;33mr[1;33ma[1;32mt[0me[0m   1     7 Some((1, 1, "aorta")) ["aorta"]
+orate,swath
+ 72 [0mo[0mr[1;32ma[1;32mt[0me[0m   1   103 Some((1, 1, "swath")) ["swath"]
+orate,loath
+ 73 [1;33mo[0mr[1;32ma[1;32mt[0me[0m   1    13 Some((1, 1, "loath")) ["loath"]
+orate,wrath
+ 78 [0mo[1;32mr[1;32ma[1;32mt[0me[0m   1    18 Some((1, 1, "wrath")) ["wrath"]
+orate,olden
+ 83 [1;32mo[0mr[0ma[0mt[1;33me[0m   1   131 Some((1, 1, "olden")) ["olden"]
+orate,order
+ 89 [1;32mo[1;32mr[0ma[0mt[1;33me[0m   1     9 Some((1, 1, "order")) ["order"]
+orate,cameo
+ 91 [1;33mo[0mr[1;33ma[0mt[1;33me[0m   1    86 Some((1, 1, "cameo")) ["cameo"]
+orate,opera
+ 95 [1;32mo[1;33mr[1;33ma[0mt[1;33me[0m   1     7 Some((1, 1, "opera")) ["opera"]
+orate,pesto
+136 [1;33mo[0mr[0ma[1;32mt[1;33me[0m   1    46 Some((1, 1, "pesto")) ["pesto"]
+orate,berth
+138 [0mo[1;33mr[0ma[1;32mt[1;33me[0m   1    49 Some((1, 1, "berth")) ["berth"]
+orate,earth
+147 [0mo[1;33mr[1;33ma[1;32mt[1;33me[0m   1    17 Some((1, 1, "earth")) ["earth"]
+orate,ombre
+167 [1;32mo[1;33mr[0ma[0mt[1;32me[0m   1     8 Some((1, 1, "ombre")) ["ombre"]
+orate,adore
+175 [1;33mo[1;33mr[1;33ma[0mt[1;32me[0m   1     9 Some((1, 1, "adore")) ["adore"]
+orate,arose
+178 [1;33mo[1;32mr[1;33ma[0mt[1;32me[0m   1     2 Some((1, 1, "arose")) ["arose"]
+orate,store
+193 [1;33mo[1;33mr[0ma[1;33mt[1;32me[0m   1    17 Some((1, 1, "store")) ["store"]
+orate,atone
+199 [1;33mo[0mr[1;33ma[1;33mt[1;32me[0m   1    11 Some((1, 1, "atone")) ["atone"]
+orate,stare
+210 [0mo[1;33mr[1;32ma[1;33mt[1;32me[0m   1    15 Some((1, 1, "stare")) ["stare"]
+orate,wrote
+223 [1;33mo[1;32mr[0ma[1;32mt[1;32me[0m   1     2 Some((1, 1, "wrote")) ["wrote"]
+orate,ovate
+236 [1;32mo[0mr[1;32ma[1;32mt[1;32me[0m   1     2 Some((1, 1, "ovate")) ["ovate"]
+orate,fritz
+orate,fritz,truth
+ 60 [0mo[1;32mr[0ma[1;32mt[0me[0m   2    51 Some((3, 2, "fritz")) ["fritz", "truth"]
+orate,broth
+orate,broth,froth
+ 61 [1;33mo[1;32mr[0ma[1;32mt[0me[0m   2     9 Some((3, 2, "broth")) ["broth", "froth"]
+orate,credo
+orate,credo,error
+ 88 [1;33mo[1;32mr[0ma[0mt[1;33me[0m   2    59 Some((3, 2, "credo")) ["credo", "error"]
+orate,delta
+orate,delta,theta
+144 [0mo[0mr[1;33ma[1;32mt[1;33me[0m   2    90 Some((3, 2, "delta")) ["delta", "theta"]
+orate,argue
+orate,argue,arise
+177 [0mo[1;32mr[1;33ma[0mt[1;32me[0m   2    54 Some((3, 2, "argue")) ["argue", "arise"]
+orate,trope
+orate,trope,trove
+196 [1;33mo[1;32mr[0ma[1;33mt[1;32me[0m   2     7 Some((3, 2, "trope")) ["trope", "trove"]
+orate,trace
+orate,trace,trade
+213 [0mo[1;32mr[1;32ma[1;33mt[1;32me[0m   2    12 Some((3, 2, "trace")) ["trace", "trade"]
+orate,quote
+orate,quote,smote
+217 [1;33mo[0mr[0ma[1;32mt[1;32me[0m   2    29 Some((3, 2, "quote")) ["quote", "smote"]
+orate,forte
+orate,forte,route
+220 [1;33mo[1;33mr[0ma[1;32mt[1;32me[0m   2     8 Some((3, 2, "forte")) ["forte", "route"]
+orate,board
+orate,board,hoard
+orate,board,roach
+ 22 [1;33mo[1;33mr[1;32ma[0mt[0me[0m   3    33 Some((5, 2, "board")) ["board", "hoard", "roach"]
+orate,triad,artsy
+orate,triad
+orate,triad,trial
+ 42 [0mo[1;32mr[1;33ma[1;33mt[0me[0m   3    89 Some((5, 2, "triad")) ["artsy", "triad", "trial"]
+orate,boast
+orate,boast,coast
+orate,boast,coast,toast
+ 46 [1;33mo[0mr[1;32ma[1;33mt[0me[0m   3    28 Some((6, 3, "boast")) ["boast", "coast", "toast"]
+orate,party
+orate,party,ratty
+orate,party,warty
+ 66 [0mo[1;33mr[1;33ma[1;32mt[0me[0m   3    63 Some((5, 2, "party")) ["party", "ratty", "warty"]
+orate,oaken
+orate,oaken,ocean
+orate,oaken,omega
+ 92 [1;32mo[0mr[1;33ma[0mt[1;33me[0m   3    17 Some((5, 2, "oaken")) ["oaken", "ocean", "omega"]
+orate,octet
+orate,octet,often
+orate,octet,onset
+110 [1;32mo[0mr[0ma[1;33mt[1;33me[0m   3    21 Some((5, 2, "octet")) ["octet", "often", "onset"]
+orate,great
+orate,great,tread
+orate,great,treat
+123 [0mo[1;32mr[1;33ma[1;33mt[1;33me[0m   3    23 Some((5, 2, "great")) ["great", "tread", "treat"]
+orate,heart
+orate,heart,react
+orate,heart,teary
+129 [0mo[1;33mr[1;32ma[1;33mt[1;33me[0m   3    23 Some((5, 2, "heart")) ["heart", "react", "teary"]
+orate,death
+orate,death,heath
+orate,death,meaty
+153 [0mo[0mr[1;32ma[1;32mt[1;33me[0m   3    46 Some((5, 2, "death")) ["death", "heath", "meaty"]
+orate,terse
+orate,terse,there
+orate,terse,three
+192 [0mo[1;33mr[0ma[1;33mt[1;32me[0m   3    71 Some((5, 2, "terse")) ["terse", "there", "three"]
+orate,bathe
+orate,bathe,lathe
+orate,bathe,table
+198 [0mo[0mr[1;33ma[1;33mt[1;32me[0m   3    94 Some((5, 2, "bathe")) ["bathe", "lathe", "table"]
+orate,trite,brute
+orate,trite
+orate,trite,write
+222 [0mo[1;32mr[0ma[1;32mt[1;32me[0m   3    14 Some((5, 2, "trite")) ["brute", "trite", "write"]
+orate,crate
+orate,crate,grate
+orate,crate,grate,irate
+240 [0mo[1;32mr[1;32ma[1;32mt[1;32me[0m   3     8 Some((6, 3, "crate")) ["crate", "grate", "irate"]
+orate,briar,array
+orate,briar
+orate,briar,friar
+orate,briar,urban
+ 15 [0mo[1;32mr[1;33ma[0mt[0me[0m   4   358 Some((7, 2, "briar")) ["array", "briar", "friar", "urban"]
+orate,ought,optic
+orate,ought
+orate,ought,outdo
+orate,ought,outgo
+ 29 [1;32mo[0mr[0ma[1;33mt[0me[0m   4    57 Some((7, 2, "ought")) ["optic", "ought", "outdo", "outgo"]
+orate,abort
+orate,abort,actor
+orate,abort,ratio
+orate,abort,tarot
+ 40 [1;33mo[1;33mr[1;33ma[1;33mt[0me[0m   4    44 Some((7, 2, "abort")) ["abort", "actor", "ratio", "tarot"]
+orate,forth
+orate,forth,forty
+orate,forth,north
+orate,forth,north,worth
+ 58 [1;33mo[1;33mr[0ma[1;32mt[0me[0m   4    51 Some((8, 3, "forth")) ["forth", "forty", "north", "worth"]
+orate,odder
+orate,odder,offer
+orate,odder,older
+orate,odder,offer,owner
+ 86 [1;32mo[1;33mr[0ma[0mt[1;33me[0m   4    48 Some((8, 3, "odder")) ["odder", "offer", "older", "owner"]
+orate,other
+orate,other,otter
+orate,other,outer
+orate,other,overt
+113 [1;32mo[1;33mr[0ma[1;33mt[1;33me[0m   4    10 Some((7, 2, "other")) ["other", "otter", "outer", "overt"]
+orate,tribe
+orate,tribe,trice
+orate,tribe,trice,tripe
+orate,tribe,truce
+195 [0mo[1;32mr[0ma[1;33mt[1;32me[0m   4    31 Some((8, 3, "tribe")) ["tribe", "trice", "tripe", "truce"]
+orate,onion,oddly
+orate,onion
+orate,onion,opium
+orate,onion,ovoid
+orate,onion,owing
+  2 [1;32mo[0mr[0ma[0mt[0me[0m   5   262 Some((9, 2, "onion")) ["oddly", "onion", "opium", "ovoid", "owing"]
+orate,birth
+orate,birth,dirty
+orate,birth,girth
+orate,birth,girth,mirth
+orate,birth,rusty
+ 57 [0mo[1;33mr[0ma[1;32mt[0me[0m   5   168 Some((10, 3, "birth")) ["birth", "dirty", "girth", "mirth", "rusty"]
+orate,metro
+orate,metro,retro
+orate,metro,tenor
+orate,metro,tower
+orate,metro,voter
+112 [1;33mo[1;33mr[0ma[1;33mt[1;33me[0m   5    50 Some((9, 2, "metro")) ["metro", "retro", "tenor", "tower", "voter"]
+orate,stoke
+orate,stoke,stole
+orate,stoke,stole,stone
+orate,stoke,stole,stone,stove
+orate,stoke,those
+190 [1;33mo[0mr[0ma[1;33mt[1;32me[0m   5    65 Some((12, 4, "stoke")) ["stoke", "stole", "stone", "stove", "those"]
+orate,stage
+orate,stage,stake
+orate,stage,stake,stale
+orate,stage,stake,stale,stave
+orate,stage,tease
+207 [0mo[0mr[1;32ma[1;33mt[1;32me[0m   5    45 Some((12, 4, "stage")) ["stage", "stake", "stale", "stave", "tease"]
+orate,coals,chaos
+orate,coals,coach
+orate,coals,foamy
+orate,coals,koala
+orate,coals,loamy
+orate,coals,piano
+orate,coals,soapy
+ 19 [1;33mo[0mr[1;32ma[0mt[0me[0m   7   125 Some((14, 2, "coals")) ["chaos", "coach", "foamy", "koala", "loamy", "piano", "soapy"]
+orate,trios,droit
+orate,trios,front
+orate,trios,frost
+orate,trios,front,grout
+orate,trios,troll
+orate,trios,troop
+orate,trios,troll,trout
+ 34 [1;33mo[1;32mr[0ma[1;33mt[0me[0m   7    55 Some((16, 3, "trios")) ["droit", "front", "frost", "grout", "troll", "troop", "trout"]
+orate,ovine,obese
+orate,ovine,olive
+orate,ovine,opine
+orate,ovine,ounce
+orate,ovine
+orate,ovine,oxide
+orate,ovine,ozone
+164 [1;32mo[0mr[0ma[0mt[1;32me[0m   7    32 Some((13, 2, "ovine")) ["obese", "olive", "opine", "ounce", "ovine", "oxide", "ozone"]
+orate,abode
+orate,abode,above
+orate,abode,adobe
+orate,abode,alone
+orate,abode,anode
+orate,abode,alone,awoke
+orate,abode,canoe
+172 [1;33mo[0mr[1;33ma[0mt[1;32me[0m   7    48 Some((14, 3, "abode")) ["abode", "above", "adobe", "alone", "anode", "awoke", "canoe"]
+orate,slate,abate
+orate,slate,abate,agate
+orate,slate,elate
+orate,slate,elate,plate
+orate,slate,skate
+orate,slate
+orate,slate,skate,state
+234 [0mo[0mr[1;32ma[1;32mt[1;32me[0m   7    25 Some((16, 3, "slate")) ["abate", "agate", "elate", "plate", "skate", "slate", "state"]
+orate,scart,apart
+orate,scart,chart
+orate,scart,apart,quart
+orate,scart,smart
+orate,scart,stair
+orate,scart,stark
+orate,scart,smart,start
+orate,scart,tiara
+ 48 [0mo[1;33mr[1;32ma[1;33mt[0me[0m   8   102 Some((18, 3, "scart")) ["apart", "chart", "quart", "smart", "stair", "stark", "start", "tiara"]
+orate,scare,blare,aware
+orate,scare,blare
+orate,scare,blare,flare
+orate,scare,blare,flare,glare
+orate,scare
+orate,scare,share
+orate,scare,share,snare
+orate,scare,share,snare,spare
+183 [0mo[1;33mr[1;32ma[0mt[1;32me[0m   8    71 Some((22, 4, "scare")) ["aware", "blare", "flare", "glare", "scare", "share", "snare", "spare"]
+orate,arbor
+orate,arbor,ardor
+orate,arbor,ardor,armor
+orate,arbor,aroma
+orate,arbor,arrow
+orate,arbor,arson
+orate,arbor,broad
+orate,arbor,croak
+orate,arbor,croak,groan
+ 16 [1;33mo[1;32mr[1;33ma[0mt[0me[0m   9    44 Some((19, 3, "arbor")) ["arbor", "ardor", "armor", "aroma", "arrow", "arson", "broad", "croak", "groan"]
+orate,satyr,altar
+orate,satyr,carat
+orate,satyr
+orate,satyr,strap
+orate,satyr,strap,straw
+orate,satyr,stray
+orate,satyr,tapir
+orate,satyr,tardy
+orate,satyr,ultra
+ 39 [0mo[1;33mr[1;33ma[1;33mt[0me[0m   9   308 Some((18, 3, "satyr")) ["altar", "carat", "satyr", "strap", "straw", "stray", "tapir", "tardy", "ultra"]
+orate,bread,arena
+orate,bread
+orate,bread,break
+orate,bread,creak
+orate,bread,creak,cream
+orate,bread,dread
+orate,bread,dream
+orate,bread,creak,freak
+orate,bread,creak,freak,wreak
+ 96 [0mo[1;32mr[1;33ma[0mt[1;33me[0m   9   107 Some((21, 4, "bread")) ["arena", "bread", "break", "creak", "cream", "dread", "dream", "freak", "wreak"]
+orate,crest,crept
+orate,crest
+orate,crest,erect
+orate,crest,erupt
+orate,crest,greet
+orate,crest,trend
+orate,crest,tried
+orate,crest,tried,truer
+orate,crest,wrest
+114 [0mo[1;32mr[0ma[1;33mt[1;33me[0m   9    81 Some((18, 3, "crest")) ["crept", "crest", "erect", "erupt", "greet", "trend", "tried", "truer", "wrest"]
+orate,leary,beard
+orate,leary,beard,heard
+orate,leary,learn
+orate,leary,pearl
+orate,leary,reach
+orate,leary,ready
+orate,leary,realm
+orate,leary,beard,rearm
+orate,leary,weary
+orate,leary,yearn
+102 [0mo[1;33mr[1;32ma[0mt[1;33me[0m  10   121 Some((22, 3, "leary")) ["beard", "heard", "learn", "pearl", "reach", "ready", "realm", "rearm", "weary", "yearn"]
+orate,carse,afire
+orate,carse,agree
+orate,carse,afire,azure
+orate,carse,barge
+orate,carse,carve
+orate,carse,farce
+orate,carse,barge,large
+orate,carse,parse
+orate,carse,raise
+orate,carse,range
+174 [0mo[1;33mr[1;33ma[0mt[1;32me[0m  10   169 Some((22, 3, "carse")) ["afire", "agree", "azure", "barge", "carve", "farce", "large", "parse", "raise", "range"]
+orate,suite,butte
+orate,suite,chute
+orate,suite,elite
+orate,suite,chute,flute
+orate,suite,quite
+orate,suite,smite
+orate,suite,smite,spite
+orate,suite
+orate,suite,unite
+orate,suite,elite,white
+216 [0mo[0mr[0ma[1;32mt[1;32me[0m  10   116 Some((22, 3, "suite")) ["butte", "chute", "elite", "flute", "quite", "smite", "spite", "suite", "unite", "white"]
+225 [0mo[0mr[1;33ma[1;32mt[1;32me[0m  10    45 None ["acute", "baste", "caste", "haste", "haute", "latte", "paste", "saute", "taste", "waste"]

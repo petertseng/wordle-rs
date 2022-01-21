@@ -1,0 +1,201 @@
+stare,itchy
+  6 [0ms[1;32mt[0ma[0mr[0me[0m   1   239 Some((1, 1, "itchy")) ["itchy"]
+stare,artsy
+ 40 [1;33ms[1;33mt[1;33ma[1;33mr[0me[0m   1    91 Some((1, 1, "artsy")) ["artsy"]
+stare,satyr
+ 41 [1;32ms[1;33mt[1;33ma[1;33mr[0me[0m   1    29 Some((1, 1, "satyr")) ["satyr"]
+stare,stair
+ 53 [1;32ms[1;32mt[1;32ma[1;33mr[0me[0m   1     7 Some((1, 1, "stair")) ["stair"]
+stare,usurp
+ 55 [1;33ms[0mt[0ma[1;32mr[0me[0m   1   285 Some((1, 1, "usurp")) ["usurp"]
+stare,smart
+ 77 [1;32ms[1;33mt[1;32ma[1;32mr[0me[0m   1    12 Some((1, 1, "smart")) ["smart"]
+stare,ethic
+ 87 [0ms[1;32mt[0ma[0mr[1;33me[0m   1    98 Some((1, 1, "ethic")) ["ethic"]
+stare,ethos
+ 88 [1;33ms[1;32mt[0ma[0mr[1;33me[0m   1    77 Some((1, 1, "ethos")) ["ethos"]
+stare,asset
+ 94 [1;33ms[1;33mt[1;33ma[0mr[1;33me[0m   1   117 Some((1, 1, "asset")) ["asset"]
+stare,sweat
+ 95 [1;32ms[1;33mt[1;33ma[0mr[1;33me[0m   1    32 Some((1, 1, "sweat")) ["sweat"]
+stare,leash
+100 [1;33ms[0mt[1;32ma[0mr[1;33me[0m   1   163 Some((1, 1, "leash")) ["leash"]
+stare,steer
+116 [1;32ms[1;32mt[0ma[1;33mr[1;33me[0m   1    12 Some((1, 1, "steer")) ["steer"]
+stare,react
+129 [0ms[1;33mt[1;32ma[1;33mr[1;33me[0m   1    23 Some((1, 1, "react")) ["react"]
+stare,sperm
+137 [1;32ms[0mt[0ma[1;32mr[1;33me[0m   1    43 Some((1, 1, "sperm")) ["sperm"]
+stare,stern
+143 [1;32ms[1;32mt[0ma[1;32mr[1;33me[0m   1     7 Some((1, 1, "stern")) ["stern"]
+stare,saute
+176 [1;32ms[1;33mt[1;33ma[0mr[1;32me[0m   1    15 Some((1, 1, "saute")) ["saute"]
+stare,atone
+177 [0ms[1;32mt[1;33ma[0mr[1;32me[0m   1    14 Some((1, 1, "atone")) ["atone"]
+stare,tease
+184 [1;33ms[1;33mt[1;32ma[0mr[1;32me[0m   1    13 Some((1, 1, "tease")) ["tease"]
+stare,terse
+193 [1;33ms[1;33mt[0ma[1;33mr[1;32me[0m   1     9 Some((1, 1, "terse")) ["terse"]
+stare,erase
+208 [1;33ms[0mt[1;32ma[1;33mr[1;32me[0m   1    11 Some((1, 1, "erase")) ["erase"]
+stare,there
+219 [0ms[1;33mt[0ma[1;32mr[1;32me[0m   1    17 Some((1, 1, "there")) ["there"]
+stare,store
+224 [1;32ms[1;32mt[0ma[1;32mr[1;32me[0m   1     6 Some((1, 1, "store")) ["store"]
+stare
+242 [1;32ms[1;32mt[1;32ma[1;32mr[1;32me[0m   1     1 Some((1, 1, "stare")) ["stare"]
+stare,atoll
+stare,atoll,attic
+ 15 [0ms[1;32mt[1;33ma[0mr[0me[0m   2    90 Some((3, 2, "atoll")) ["atoll", "attic"]
+stare,strip
+stare,strip,strut
+ 35 [1;32ms[1;32mt[0ma[1;33mr[0me[0m   2    42 Some((3, 2, "strip")) ["strip", "strut"]
+stare,roast
+stare,roast,trash
+ 49 [1;33ms[1;33mt[1;32ma[1;33mr[0me[0m   2    35 Some((3, 2, "roast")) ["roast", "trash"]
+stare,abort
+stare,abort,ultra
+ 66 [0ms[1;33mt[1;33ma[1;32mr[0me[0m   2    53 Some((3, 2, "abort")) ["abort", "ultra"]
+stare,stark
+stare,stark,start
+ 80 [1;32ms[1;32mt[1;32ma[1;32mr[0me[0m   2     6 Some((3, 2, "stark")) ["stark", "start"]
+stare,opera
+stare,opera,zebra
+144 [0ms[0mt[1;33ma[1;32mr[1;33me[0m   2   106 Some((3, 2, "opera")) ["opera", "zebra"]
+stare,heart
+stare,heart,teary
+156 [0ms[1;33mt[1;32ma[1;32mr[1;33me[0m   2     6 Some((3, 2, "heart")) ["heart", "teary"]
+stare,etude
+stare,etude,utile
+168 [0ms[1;32mt[0ma[0mr[1;32me[0m   2    42 Some((3, 2, "etude")) ["etude", "utile"]
+stare,salve
+stare,salve,sauce
+173 [1;32ms[0mt[1;33ma[0mr[1;32me[0m   2    63 Some((3, 2, "salve")) ["salve", "sauce"]
+stare,skate
+stare,skate,slate
+185 [1;32ms[1;33mt[1;32ma[0mr[1;32me[0m   2    11 Some((3, 2, "skate")) ["skate", "slate"]
+stare,strap
+stare,strap,straw
+stare,strap,straw,stray
+ 44 [1;32ms[1;32mt[1;33ma[1;33mr[0me[0m   3    16 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+stare,stork
+stare,stork,storm
+stare,stork,storm,story
+ 62 [1;32ms[1;32mt[0ma[1;32mr[0me[0m   3    19 Some((6, 3, "stork")) ["stork", "storm", "story"]
+stare,crame,reach
+stare,crame,ready
+stare,crame,realm
+126 [0ms[0mt[1;32ma[1;33mr[1;33me[0m   3   121 Some((6, 2, "crame")) ["reach", "ready", "realm"]
+stare,tense
+stare,tense,these
+stare,tense,those
+166 [1;33ms[1;33mt[0ma[0mr[1;32me[0m   3    78 Some((5, 2, "tense")) ["tense", "these", "those"]
+stare,afore,adore
+stare,afore,afire
+stare,afore,azure
+225 [0ms[0mt[1;33ma[1;32mr[1;32me[0m   3    54 Some((6, 2, "afore")) ["adore", "afire", "azure"]
+stare,blast
+stare,blast,boast
+stare,blast,coast
+stare,blast,coast,toast
+ 22 [1;33ms[1;33mt[1;32ma[0mr[0me[0m   4   153 Some((8, 3, "blast")) ["blast", "boast", "coast", "toast"]
+stare,harsh,arson
+stare,harsh
+stare,harsh,marsh
+stare,harsh,raspy
+ 37 [1;33ms[0mt[1;33ma[1;33mr[0me[0m   4   541 Some((7, 2, "harsh")) ["arson", "harsh", "marsh", "raspy"]
+stare,apart
+stare,apart,chart
+stare,apart,chart,quart
+stare,apart,tiara
+ 75 [0ms[1;33mt[1;32ma[1;32mr[0me[0m   4    33 Some((8, 3, "apart")) ["apart", "chart", "quart", "tiara"]
+stare,steed
+stare,steed,steel
+stare,steed,steel,steep
+stare,steed,stein
+ 89 [1;32ms[1;32mt[0ma[0mr[1;33me[0m   4    70 Some((8, 3, "steed")) ["steed", "steel", "steep", "stein"]
+stare,ashen
+stare,ashen,askew
+stare,ashen,easel
+stare,ashen,essay
+ 91 [1;33ms[0mt[1;33ma[0mr[1;33me[0m   4   610 Some((7, 2, "ashen")) ["ashen", "askew", "easel", "essay"]
+stare,sedan
+stare,sedan,sepia
+stare,sedan,sneak
+stare,sedan,speak
+ 92 [1;32ms[0mt[1;33ma[0mr[1;33me[0m   4   161 Some((7, 2, "sedan")) ["sedan", "sepia", "sneak", "speak"]
+stare,stead
+stare,stead,steak
+stare,stead,steak,steal
+stare,stead,steak,steal,steam
+ 98 [1;32ms[1;32mt[1;33ma[0mr[1;33me[0m   4    17 Some((10, 4, "stead")) ["stead", "steak", "steal", "steam"]
+stare,beast
+stare,beast,feast
+stare,beast,feast,least
+stare,beast,feast,least,yeast
+103 [1;33ms[1;33mt[1;32ma[0mr[1;33me[0m   4    37 Some((10, 4, "beast")) ["beast", "feast", "least", "yeast"]
+stare,crest
+stare,crest,ester
+stare,crest,reset
+stare,crest,wrest
+112 [1;33ms[1;33mt[0ma[1;33mr[1;33me[0m   4    70 Some((7, 2, "crest")) ["crest", "ester", "reset", "wrest"]
+stare,other,ether
+stare,other
+stare,other,otter
+stare,other,utter
+114 [0ms[1;32mt[0ma[1;33mr[1;33me[0m   4    18 Some((7, 2, "other")) ["ether", "other", "otter", "utter"]
+stare,alert
+stare,alert,avert
+stare,alert,extra
+stare,alert,extra,terra
+147 [0ms[1;33mt[1;33ma[1;32mr[1;33me[0m   4    14 Some((8, 3, "alert")) ["alert", "avert", "extra", "terra"]
+stare,smite
+stare,smite,smote
+stare,smite,spite
+stare,smite,spite,suite
+167 [1;32ms[1;33mt[0ma[0mr[1;32me[0m   4    53 Some((8, 3, "smite")) ["smite", "smote", "spite", "suite"]
+stare,scree
+stare,scree,serve
+stare,scree,spree
+stare,scree,surge
+191 [1;32ms[0mt[0ma[1;33mr[1;32me[0m   4    40 Some((7, 2, "scree")) ["scree", "serve", "spree", "surge"]
+stare,arise
+stare,arise,arose
+stare,arise,parse
+stare,arise,raise
+199 [1;33ms[0mt[1;33ma[1;33mr[1;32me[0m   4    25 Some((7, 2, "arise")) ["arise", "arose", "parse", "raise"]
+stare,blare,aware
+stare,blare
+stare,blare,flare
+stare,blare,flare,glare
+234 [0ms[0mt[1;32ma[1;32mr[1;32me[0m   4    27 Some((8, 3, "blare")) ["aware", "blare", "flare", "glare"]
+stare,scare
+stare,scare,share
+stare,scare,share,snare
+stare,scare,share,snare,spare
+236 [1;32ms[0mt[1;32ma[1;32mr[1;32me[0m   4     8 Some((10, 4, "scare")) ["scare", "share", "snare", "spare"]
+stare,splat,saint
+stare,splat,salty
+stare,splat,satin
+stare,splat
+stare,splat,squat
+ 14 [1;32ms[1;33mt[1;33ma[0mr[0me[0m   5   134 Some((9, 2, "splat")) ["saint", "salty", "satin", "splat", "squat"]
+stare,shalt,scant
+stare,shalt,shaft
+stare,shalt
+stare,shalt,slant
+stare,shalt,swath
+ 23 [1;32ms[1;33mt[1;32ma[0mr[0me[0m   5    65 Some((9, 2, "shalt")) ["scant", "shaft", "shalt", "slant", "swath"]
+stare,stoke
+stare,stoke,stole
+stare,stoke,stole,stone
+stare,stoke,stole,stone,stove
+stare,stoke,style
+170 [1;32ms[1;32mt[0ma[0mr[1;32me[0m   5    32 Some((12, 4, "stoke")) ["stoke", "stole", "stone", "stove", "style"]
+stare,abate
+stare,abate,agate
+stare,abate,elate
+stare,abate,elate,ovate
+stare,abate,elate,plate
+183 [0ms[1;33mt[1;32ma[0mr[1;32me[0m   5    45 Some((11, 3, "abate")) ["abate", "agate", "elate", "ovate", "plate"]
+188 [1;32ms[1;32mt[1;32ma[0mr[1;32me[0m   5     8 None ["stage", "stake", "stale", "state", "stave"]

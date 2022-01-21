@@ -1,0 +1,240 @@
+canst,bacon
+ 16 [1;33mc[1;32ma[1;33mn[0ms[0mt[0m   1    58 Some((1, 1, "bacon")) ["bacon"]
+canst,chaos
+ 32 [1;32mc[1;33ma[0mn[1;33ms[0mt[0m   1   114 Some((1, 1, "chaos")) ["chaos"]
+canst,snack
+ 40 [1;33mc[1;33ma[1;33mn[1;33ms[0mt[0m   1    21 Some((1, 1, "snack")) ["snack"]
+canst,sonar
+ 48 [0mc[1;33ma[1;32mn[1;33ms[0mt[0m   1   118 Some((1, 1, "sonar")) ["sonar"]
+canst,cause
+ 62 [1;32mc[1;32ma[0mn[1;32ms[0mt[0m   1     6 Some((1, 1, "cause")) ["cause"]
+canst,gnash
+ 66 [0mc[1;33ma[1;33mn[1;32ms[0mt[0m   1    16 Some((1, 1, "gnash")) ["gnash"]
+canst,pansy
+ 78 [0mc[1;32ma[1;32mn[1;32ms[0mt[0m   1     8 Some((1, 1, "pansy")) ["pansy"]
+canst,crate
+ 86 [1;32mc[1;33ma[0mn[0ms[1;33mt[0m   1    48 Some((1, 1, "crate")) ["crate"]
+canst,notch
+ 91 [1;33mc[0ma[1;33mn[0ms[1;33mt[0m   1    39 Some((1, 1, "notch")) ["notch"]
+canst,antic
+ 94 [1;33mc[1;33ma[1;33mn[0ms[1;33mt[0m   1    14 Some((1, 1, "antic")) ["antic"]
+canst,stack
+112 [1;33mc[1;33ma[0mn[1;33ms[1;33mt[0m   1    33 Some((1, 1, "stack")) ["stack"]
+canst,caste
+116 [1;32mc[1;32ma[0mn[1;33ms[1;33mt[0m   1     6 Some((1, 1, "caste")) ["caste"]
+canst,patsy
+141 [0mc[1;32ma[0mn[1;32ms[1;33mt[0m   1    19 Some((1, 1, "patsy")) ["patsy"]
+canst,tense
+153 [0mc[0ma[1;32mn[1;32ms[1;33mt[0m   1     3 Some((1, 1, "tense")) ["tense"]
+canst,uncut
+172 [1;33mc[0ma[1;33mn[0ms[1;32mt[0m   1    14 Some((1, 1, "uncut")) ["uncut"]
+canst,count
+173 [1;32mc[0ma[1;33mn[0ms[1;32mt[0m   1     6 Some((1, 1, "count")) ["count"]
+canst,enact
+175 [1;33mc[1;33ma[1;33mn[0ms[1;32mt[0m   1     4 Some((1, 1, "enact")) ["enact"]
+canst,chant
+176 [1;32mc[1;33ma[1;33mn[0ms[1;32mt[0m   1     2 Some((1, 1, "chant")) ["chant"]
+canst,scout
+190 [1;33mc[0ma[0mn[1;33ms[1;32mt[0m   1    24 Some((1, 1, "scout")) ["scout"]
+canst,ascot
+193 [1;33mc[1;33ma[0mn[1;33ms[1;32mt[0m   1     9 Some((1, 1, "ascot")) ["ascot"]
+canst,scent
+199 [1;33mc[0ma[1;33mn[1;33ms[1;32mt[0m   1     3 Some((1, 1, "scent")) ["scent"]
+canst,slant
+201 [0mc[1;33ma[1;33mn[1;33ms[1;32mt[0m   1     6 Some((1, 1, "slant")) ["slant"]
+canst,scant
+202 [1;33mc[1;33ma[1;33mn[1;33ms[1;32mt[0m   1     2 Some((1, 1, "scant")) ["scant"]
+canst,saint
+204 [0mc[1;32ma[1;33mn[1;33ms[1;32mt[0m   1     3 Some((1, 1, "saint")) ["saint"]
+canst,coast
+221 [1;32mc[1;33ma[0mn[1;32ms[1;32mt[0m   1     3 Some((1, 1, "coast")) ["coast"]
+canst,waist
+222 [0mc[1;32ma[0mn[1;32ms[1;32mt[0m   1    10 Some((1, 1, "waist")) ["waist"]
+canst,angst
+228 [0mc[1;33ma[1;33mn[1;32ms[1;32mt[0m   1     2 Some((1, 1, "angst")) ["angst"]
+canst,cabin
+canst,cabin,cairn
+ 17 [1;32mc[1;32ma[1;33mn[0ms[0mt[0m   2    29 Some((3, 2, "cabin")) ["cabin", "cairn"]
+canst,since
+canst,since,sonic
+ 46 [1;33mc[0ma[1;32mn[1;33ms[0mt[0m   2    24 Some((3, 2, "since")) ["since", "sonic"]
+canst,sandy
+canst,sandy,saner
+ 51 [0mc[1;32ma[1;32mn[1;33ms[0mt[0m   2    88 Some((3, 2, "sandy")) ["sandy", "saner"]
+canst,tonic
+canst,tonic,tunic
+100 [1;33mc[0ma[1;32mn[0ms[1;33mt[0m   2    16 Some((3, 2, "tonic")) ["tonic", "tunic"]
+canst,tango
+canst,tango,tangy
+105 [0mc[1;32ma[1;32mn[0ms[1;33mt[0m   2    44 Some((3, 2, "tango")) ["tango", "tangy"]
+canst,nasty
+canst,nasty,satin
+123 [0mc[1;32ma[1;33mn[1;33ms[1;33mt[0m   2    27 Some((3, 2, "nasty")) ["nasty", "satin"]
+canst,donut
+canst,donut,tenet
+180 [0mc[0ma[1;32mn[0ms[1;32mt[0m   2    20 Some((3, 2, "donut")) ["donut", "tenet"]
+canst,sauce,basic
+canst,sauce
+canst,sauce,saucy
+ 34 [1;33mc[1;32ma[0mn[1;33ms[0mt[0m   3   110 Some((5, 2, "sauce")) ["basic", "sauce", "saucy"]
+canst,dense
+canst,dense,rinse
+canst,dense,sense
+ 72 [0mc[0ma[1;32mn[1;32ms[0mt[0m   3    24 Some((5, 2, "dense")) ["dense", "rinse", "sense"]
+canst,chute
+canst,chute,cloth
+canst,chute,cutie
+ 83 [1;32mc[0ma[0mn[0ms[1;33mt[0m   3   141 Some((5, 2, "chute")) ["chute", "cloth", "cutie"]
+canst,stand,stain
+canst,stand
+canst,stand,stank
+120 [0mc[1;33ma[1;33mn[1;33ms[1;33mt[0m   3    54 Some((5, 2, "stand")) ["stain", "stand", "stank"]
+canst,tacet,facet
+canst,tacet,tacit
+canst,tacet,yacht
+169 [1;33mc[1;32ma[0mn[0ms[1;32mt[0m   3    12 Some((6, 2, "tacet")) ["facet", "tacit", "yacht"]
+canst,caret,cadet
+canst,caret,caput
+canst,caret,carat
+170 [1;32mc[1;32ma[0mn[0ms[1;32mt[0m   3     7 Some((6, 2, "caret")) ["cadet", "caput", "carat"]
+canst,chest
+canst,chest,crest
+canst,chest,crust
+218 [1;32mc[0ma[0mn[1;32ms[1;32mt[0m   3     9 Some((5, 2, "chest")) ["chest", "crest", "crust"]
+canst,acorn
+canst,acorn,knack
+canst,acorn,ocean
+canst,acorn,pecan
+ 13 [1;33mc[1;33ma[1;33mn[0ms[0mt[0m   4   116 Some((7, 2, "acorn")) ["acorn", "knack", "ocean", "pecan"]
+canst,noise
+canst,noise,noisy
+canst,noise,noose
+canst,noise,nurse
+ 63 [0mc[0ma[1;33mn[1;32ms[0mt[0m   4    45 Some((7, 2, "noise")) ["noise", "noisy", "noose", "nurse"]
+canst,cacti
+canst,cacti,catch
+canst,cacti,cater
+canst,cacti,catty
+ 89 [1;32mc[1;32ma[0mn[0ms[1;33mt[0m   4    20 Some((7, 2, "cacti")) ["cacti", "catch", "cater", "catty"]
+canst,junta,aunty
+canst,junta
+canst,junta,tonal
+canst,junta,tonga
+102 [0mc[1;33ma[1;32mn[0ms[1;33mt[0m   4    60 Some((7, 2, "junta")) ["aunty", "junta", "tonal", "tonga"]
+canst,stoic,stick
+canst,stoic,stock
+canst,stoic
+canst,stoic,stuck
+109 [1;33mc[0ma[0mn[1;33ms[1;33mt[0m   4    96 Some((7, 2, "stoic")) ["stick", "stock", "stoic", "stuck"]
+canst,stash,artsy
+canst,stash
+canst,stash,tease
+canst,stash,trash
+138 [0mc[1;33ma[0mn[1;32ms[1;33mt[0m   4    50 Some((7, 2, "stash")) ["artsy", "stash", "tease", "trash"]
+canst,eclat
+canst,eclat,exact
+canst,eclat,react
+canst,eclat,tract
+166 [1;33mc[1;33ma[0mn[0ms[1;32mt[0m   4    43 Some((7, 2, "eclat")) ["eclat", "exact", "react", "tract"]
+canst,chart
+canst,chart,cheat
+canst,chart,cleat
+canst,chart,craft
+167 [1;32mc[1;33ma[0mn[0ms[1;32mt[0m   4    22 Some((7, 2, "chart")) ["chart", "cheat", "cleat", "craft"]
+canst,conch,cinch
+canst,conch
+canst,conch,condo
+canst,conch,conic
+canst,conch,cynic
+ 20 [1;32mc[0ma[1;32mn[0ms[0mt[0m   5    51 Some((9, 2, "conch")) ["cinch", "conch", "condo", "conic", "cynic"]
+canst,canny,canal
+canst,canny,candy
+canst,canny
+canst,canny,canal,canoe
+canst,canny,canon
+ 26 [1;32mc[1;32ma[1;32mn[0ms[0mt[0m   5    18 Some((10, 3, "canny")) ["canal", "candy", "canny", "canoe", "canon"]
+canst,scion,scene
+canst,scion
+canst,scion,scone
+canst,scion,scorn
+canst,scion,snuck
+ 37 [1;33mc[0ma[1;33mn[1;33ms[0mt[0m   5    66 Some((9, 2, "scion")) ["scene", "scion", "scone", "scorn", "snuck"]
+canst,basin
+canst,basin,mason
+canst,basin,nasal
+canst,basin,salon
+canst,basin,sauna
+ 42 [0mc[1;32ma[1;33mn[1;33ms[0mt[0m   5   174 Some((9, 2, "basin")) ["basin", "mason", "nasal", "salon", "sauna"]
+canst,thank,atone
+canst,thank
+canst,thank,titan
+canst,thank,train
+canst,thank,twang
+ 93 [0mc[1;33ma[1;33mn[0ms[1;33mt[0m   5   195 Some((9, 2, "thank")) ["atone", "thank", "titan", "train", "twang"]
+canst,dance
+canst,dance,fancy
+canst,dance,lance
+canst,dance,manic
+canst,dance,manic,panic
+canst,dance,fancy,ranch
+ 25 [1;33mc[1;32ma[1;32mn[0ms[0mt[0m   6    35 Some((13, 3, "dance")) ["dance", "fancy", "lance", "manic", "panic", "ranch"]
+canst,bones,bonus
+canst,bones,minus
+canst,bones,sinew
+canst,bones,singe
+canst,bones,sunny
+canst,bones,synod
+ 45 [0mc[0ma[1;32mn[1;33ms[0mt[0m   6   383 Some((12, 2, "bones")) ["bonus", "minus", "sinew", "singe", "sunny", "synod"]
+canst,baton
+canst,baton,eaten
+canst,baton,natal
+canst,baton,taken
+canst,baton,talon
+canst,baton,tawny
+ 96 [0mc[1;32ma[1;33mn[0ms[1;33mt[0m   6    88 Some((11, 2, "baton")) ["baton", "eaten", "natal", "taken", "talon", "tawny"]
+canst,terse
+canst,terse,these
+canst,terse,those
+canst,terse,tipsy
+canst,terse,torso
+canst,terse,truss
+135 [0mc[0ma[0mn[1;32ms[1;33mt[0m   6   155 Some((11, 2, "terse")) ["terse", "these", "those", "tipsy", "torso", "truss"]
+canst,fault
+canst,fault,gamut
+canst,fault,habit
+canst,fault,habit,tarot
+canst,fault,valet
+canst,fault,vault
+168 [0mc[1;32ma[0mn[0ms[1;32mt[0m   6    72 Some((12, 3, "fault")) ["fault", "gamut", "habit", "tarot", "valet", "vault"]
+canst,leant,agent
+canst,leant,giant
+canst,leant,giant,grant
+canst,leant
+canst,leant,meant
+canst,leant,plant
+174 [0mc[1;33ma[1;33mn[0ms[1;32mt[0m   6    52 Some((12, 3, "leant")) ["agent", "giant", "grant", "leant", "meant", "plant"]
+canst,incur,icing
+canst,incur
+canst,incur,knock
+canst,incur,nicer
+canst,incur,niche
+canst,incur,niece
+canst,incur,uncle
+ 10 [1;33mc[0ma[1;33mn[0ms[0mt[0m   7   307 Some((13, 2, "incur")) ["icing", "incur", "knock", "nicer", "niche", "niece", "uncle"]
+canst,clank,chain
+canst,clank,china
+canst,clank,clang
+canst,clank
+canst,clank,clean
+canst,clank,crane
+canst,clank,crank
+ 14 [1;32mc[1;33ma[1;33mn[0ms[0mt[0m   7    50 Some((13, 2, "clank")) ["chain", "china", "clang", "clank", "clean", "crane", "crank"]
+canst,acute,actor
+canst,acute
+canst,acute,attic
+canst,acute,octal
+canst,acute,teach
+canst,acute,trace
+canst,acute,track
+ 85 [1;33mc[1;33ma[0mn[0ms[1;33mt[0m   7   126 Some((13, 2, "acute")) ["actor", "acute", "attic", "octal", "teach", "trace", "track"]
+ 88 [1;33mc[1;32ma[0mn[0ms[1;33mt[0m   7    51 None ["batch", "hatch", "latch", "match", "patch", "tacky", "watch"]

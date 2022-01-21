@@ -1,0 +1,212 @@
+antre,aunty
+ 14 [1;32ma[1;33mn[1;33mt[0mr[0me[0m   1    30 Some((1, 1, "aunty")) ["aunty"]
+antre,angst
+ 17 [1;32ma[1;32mn[1;33mt[0mr[0me[0m   1    14 Some((1, 1, "angst")) ["angst"]
+antre,until
+ 24 [0ma[1;32mn[1;32mt[0mr[0me[0m   1    24 Some((1, 1, "until")) ["until"]
+antre,antic
+ 26 [1;32ma[1;32mn[1;32mt[0mr[0me[0m   1    10 Some((1, 1, "antic")) ["antic"]
+antre,incur
+ 33 [0ma[1;32mn[0mt[1;33mr[0me[0m   1    64 Some((1, 1, "incur")) ["incur"]
+antre,aorta
+ 38 [1;32ma[0mn[1;33mt[1;33mr[0me[0m   1    40 Some((1, 1, "aorta")) ["aorta"]
+antre,cairn
+ 58 [1;33ma[1;33mn[0mt[1;32mr[0me[0m   1    38 Some((1, 1, "cairn")) ["cairn"]
+antre,snarl
+ 61 [1;33ma[1;32mn[0mt[1;32mr[0me[0m   1    22 Some((1, 1, "snarl")) ["snarl"]
+antre,angry
+ 62 [1;32ma[1;32mn[0mt[1;32mr[0me[0m   1     5 Some((1, 1, "angry")) ["angry"]
+antre,thorn
+ 66 [0ma[1;33mn[1;33mt[1;32mr[0me[0m   1    14 Some((1, 1, "thorn")) ["thorn"]
+antre,snort
+ 69 [0ma[1;32mn[1;33mt[1;32mr[0me[0m   1     8 Some((1, 1, "snort")) ["snort"]
+antre,ultra
+ 73 [1;33ma[0mn[1;32mt[1;32mr[0me[0m   1     7 Some((1, 1, "ultra")) ["ultra"]
+antre,intro
+ 78 [0ma[1;32mn[1;32mt[1;32mr[0me[0m   1     5 Some((1, 1, "intro")) ["intro"]
+antre,agent
+ 95 [1;32ma[1;33mn[1;33mt[0mr[1;33me[0m   1     9 Some((1, 1, "agent")) ["agent"]
+antre,enact
+ 97 [1;33ma[1;32mn[1;33mt[0mr[1;33me[0m   1     8 Some((1, 1, "enact")) ["enact"]
+antre,often
+102 [0ma[1;33mn[1;32mt[0mr[1;33me[0m   1    32 Some((1, 1, "often")) ["often"]
+antre,eaten
+103 [1;33ma[1;33mn[1;32mt[0mr[1;33me[0m   1    10 Some((1, 1, "eaten")) ["eaten"]
+antre,arena
+113 [1;32ma[1;33mn[0mt[1;33mr[1;33me[0m   1     8 Some((1, 1, "arena")) ["arena"]
+antre,anger
+116 [1;32ma[1;32mn[0mt[1;33mr[1;33me[0m   1     4 Some((1, 1, "anger")) ["anger"]
+antre,stern
+147 [0ma[1;33mn[1;33mt[1;32mr[1;33me[0m   1     5 Some((1, 1, "stern")) ["stern"]
+antre,inert
+150 [0ma[1;32mn[1;33mt[1;32mr[1;33me[0m   1     3 Some((1, 1, "inert")) ["inert"]
+antre,extra
+154 [1;33ma[0mn[1;32mt[1;32mr[1;33me[0m   1     3 Some((1, 1, "extra")) ["extra"]
+antre,entry
+159 [0ma[1;32mn[1;32mt[1;32mr[1;33me[0m   1     2 Some((1, 1, "entry")) ["entry"]
+antre,alone
+167 [1;32ma[1;33mn[0mt[0mr[1;32me[0m   1    27 Some((1, 1, "alone")) ["alone"]
+antre,atone
+176 [1;32ma[1;33mn[1;33mt[0mr[1;32me[0m   1     3 Some((1, 1, "atone")) ["atone"]
+antre,unite
+177 [0ma[1;32mn[1;33mt[0mr[1;32me[0m   1     5 Some((1, 1, "unite")) ["unite"]
+antre,untie
+186 [0ma[1;32mn[1;32mt[0mr[1;32me[0m   1     3 Some((1, 1, "untie")) ["untie"]
+antre,genre
+219 [0ma[1;33mn[0mt[1;32mr[1;32me[0m   1     9 Some((1, 1, "genre")) ["genre"]
+antre,snore
+222 [0ma[1;32mn[0mt[1;32mr[1;32me[0m   1     5 Some((1, 1, "snore")) ["snore"]
+antre,snare
+223 [1;33ma[1;32mn[0mt[1;32mr[1;32me[0m   1     2 Some((1, 1, "snare")) ["snare"]
+antre,stare
+226 [1;33ma[0mn[1;33mt[1;32mr[1;32me[0m   1     3 Some((1, 1, "stare")) ["stare"]
+antre,aptly
+antre,aptly,attic
+ 20 [1;32ma[0mn[1;32mt[0mr[0me[0m   2    36 Some((3, 2, "aptly")) ["aptly", "attic"]
+antre,notch
+antre,notch,nutty
+ 21 [0ma[1;33mn[1;32mt[0mr[0me[0m   2    85 Some((3, 2, "notch")) ["notch", "nutty"]
+antre,apron
+antre,apron,arson
+ 32 [1;32ma[1;33mn[0mt[1;33mr[0me[0m   2    26 Some((3, 2, "apron")) ["apron", "arson"]
+antre,grant
+antre,grant,train
+ 40 [1;33ma[1;33mn[1;33mt[1;33mr[0me[0m   2    25 Some((3, 2, "grant")) ["grant", "train"]
+antre,acorn
+antre,acorn,adorn
+ 59 [1;32ma[1;33mn[0mt[1;32mr[0me[0m   2     9 Some((3, 2, "acorn")) ["acorn", "adorn"]
+antre,abort
+antre,abort,apart
+ 65 [1;32ma[0mn[1;33mt[1;32mr[0me[0m   2     9 Some((3, 2, "abort")) ["abort", "apart"]
+antre,angel
+antre,angel,annex
+ 89 [1;32ma[1;32mn[0mt[0mr[1;33me[0m   2    20 Some((3, 2, "angel")) ["angel", "annex"]
+antre,adept
+antre,adept,asset
+ 92 [1;32ma[0mn[1;33mt[0mr[1;33me[0m   2    41 Some((3, 2, "adept")) ["adept", "asset"]
+antre,aider
+antre,aider,amber
+110 [1;32ma[0mn[0mt[1;33mr[1;33me[0m   2    97 Some((3, 2, "aider")) ["aider", "amber"]
+antre,tenor
+antre,tenor,trend
+120 [0ma[1;33mn[1;33mt[1;33mr[1;33me[0m   2    29 Some((3, 2, "tenor")) ["tenor", "trend"]
+antre,after
+antre,after,alter
+128 [1;32ma[0mn[1;32mt[1;33mr[1;33me[0m   2     6 Some((3, 2, "after")) ["after", "alter"]
+antre,enter
+antre,enter,inter
+132 [0ma[1;32mn[1;32mt[1;33mr[1;33me[0m   2     4 Some((3, 2, "enter")) ["enter", "inter"]
+antre,learn
+antre,learn,yearn
+139 [1;33ma[1;33mn[0mt[1;32mr[1;33me[0m   2     9 Some((3, 2, "learn")) ["learn", "yearn"]
+antre,exert
+antre,exert,overt
+144 [0ma[0mn[1;33mt[1;32mr[1;33me[0m   2    52 Some((3, 2, "exert")) ["exert", "overt"]
+antre,alert
+antre,alert,avert
+146 [1;32ma[0mn[1;33mt[1;32mr[1;33me[0m   2     4 Some((3, 2, "alert")) ["alert", "avert"]
+antre,crane
+antre,crane,range
+193 [1;33ma[1;33mn[0mt[1;33mr[1;32me[0m   2    13 Some((3, 2, "crane")) ["crane", "range"]
+antre,store
+antre,store,there
+225 [0ma[0mn[1;33mt[1;32mr[1;32me[0m   2    17 Some((3, 2, "store")) ["store", "there"]
+antre,annoy
+antre,annoy,annul
+antre,annoy,anvil
+  8 [1;32ma[1;32mn[0mt[0mr[0me[0m   3    53 Some((5, 2, "annoy")) ["annoy", "annul", "anvil"]
+antre,motor
+antre,motor,rotor
+antre,motor,tutor
+ 45 [0ma[0mn[1;32mt[1;33mr[0me[0m   3   131 Some((5, 2, "motor")) ["motor", "rotor", "tutor"]
+antre,ratio
+antre,ratio,ratty
+antre,ratio,satyr
+ 46 [1;33ma[0mn[1;32mt[1;33mr[0me[0m   3    61 Some((5, 2, "ratio")) ["ratio", "ratty", "satyr"]
+antre,actor
+antre,actor,altar
+antre,actor,artsy
+ 47 [1;32ma[0mn[1;32mt[1;33mr[0me[0m   3    16 Some((5, 2, "actor")) ["actor", "altar", "artsy"]
+antre,alarm,agora
+antre,alarm
+antre,alarm,award
+ 56 [1;32ma[0mn[0mt[1;32mr[0me[0m   3    56 Some((5, 2, "alarm")) ["agora", "alarm", "award"]
+antre,knead,enema
+antre,knead
+antre,knead,sneak
+ 88 [1;33ma[1;32mn[0mt[0mr[1;33me[0m   3    35 Some((5, 2, "knead")) ["enema", "knead", "sneak"]
+antre,leant
+antre,leant,meant
+antre,leant,taken
+ 94 [1;33ma[1;33mn[1;33mt[0mr[1;33me[0m   3    34 Some((5, 2, "leant")) ["leant", "meant", "taken"]
+antre,heart
+antre,heart,teary
+antre,heart,terra
+145 [1;33ma[0mn[1;33mt[1;32mr[1;33me[0m   3    14 Some((5, 2, "heart")) ["heart", "teary", "terra"]
+antre,metro
+antre,metro,retro
+antre,metro,retry
+153 [0ma[0mn[1;32mt[1;32mr[1;33me[0m   3    17 Some((5, 2, "metro")) ["metro", "retro", "retry"]
+antre,knave,inane
+antre,knave
+antre,knave,snake
+169 [1;33ma[1;32mn[0mt[0mr[1;32me[0m   3    18 Some((5, 2, "knave")) ["inane", "knave", "snake"]
+antre,abate
+antre,abate,acute
+antre,abate,agate
+173 [1;32ma[0mn[1;33mt[0mr[1;32me[0m   3    12 Some((5, 2, "abate")) ["abate", "acute", "agate"]
+antre,stone
+antre,stone,tense
+antre,stone,twine
+174 [0ma[1;33mn[1;33mt[0mr[1;32me[0m   3    33 Some((5, 2, "stone")) ["stone", "tense", "twine"]
+antre,bathe
+antre,bathe,lathe
+antre,bathe,latte
+181 [1;33ma[0mn[1;32mt[0mr[1;32me[0m   3    14 Some((5, 2, "bathe")) ["bathe", "lathe", "latte"]
+antre,baton
+antre,baton,natal
+antre,baton,satin
+antre,baton,titan
+ 22 [1;33ma[1;33mn[1;32mt[0mr[0me[0m   4    37 Some((7, 2, "baton")) ["baton", "natal", "satin", "titan"]
+antre,alien
+antre,alien,amend
+antre,alien,apnea
+antre,alien,ashen
+ 86 [1;32ma[1;33mn[0mt[0mr[1;33me[0m   4    55 Some((7, 2, "alien")) ["alien", "amend", "apnea", "ashen"]
+antre,fetal
+antre,fetal,matey
+antre,fetal,metal
+antre,fetal,metal,petal
+100 [1;33ma[0mn[1;32mt[0mr[1;33me[0m   4    87 Some((8, 3, "fetal")) ["fetal", "matey", "metal", "petal"]
+antre,ramen
+antre,ramen,raven
+antre,ramen,renal
+antre,ramen,saner
+112 [1;33ma[1;33mn[0mt[1;33mr[1;33me[0m   4    49 Some((7, 2, "ramen")) ["ramen", "raven", "renal", "saner"]
+antre,infer
+antre,infer,inner
+antre,infer,sneer
+antre,infer,sneer,under
+114 [0ma[1;32mn[0mt[1;33mr[1;33me[0m   4    27 Some((8, 3, "infer")) ["infer", "inner", "sneer", "under"]
+antre,angle
+antre,angle,anime
+antre,angle,ankle
+antre,angle,anime,anode
+170 [1;32ma[1;32mn[0mt[0mr[1;32me[0m   4    12 Some((8, 3, "angle")) ["angle", "anime", "ankle", "anode"]
+antre,arise,agree
+antre,arise,argue
+antre,arise
+antre,arise,arose
+191 [1;32ma[0mn[0mt[1;33mr[1;32me[0m   4    25 Some((7, 2, "arise")) ["agree", "argue", "arise", "arose"]
+antre,afore,adore
+antre,afore,afire
+antre,afore,aware
+antre,afore,aware,azure
+218 [1;32ma[0mn[0mt[1;32mr[1;32me[0m   4    10 Some((9, 3, "afore")) ["adore", "afire", "aware", "azure"]
+antre,abbey
+antre,abbey,abled
+antre,abbey,ahead
+antre,abbey,alley
+antre,abbey,askew
+ 83 [1;32ma[0mn[0mt[0mr[1;33me[0m   5   284 Some((9, 2, "abbey")) ["abbey", "abled", "ahead", "alley", "askew"]
+127 [1;33ma[0mn[1;32mt[1;33mr[1;33me[0m   5    28 None ["cater", "eater", "hater", "later", "water"]

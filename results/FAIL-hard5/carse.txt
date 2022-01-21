@@ -1,0 +1,302 @@
+carse,cairn
+ 17 [1;32mc[1;32ma[1;33mr[0ms[0me[0m   1    45 Some((1, 1, "cairn")) ["cairn"]
+carse,acrid
+ 22 [1;33mc[1;33ma[1;32mr[0ms[0me[0m   1    74 Some((1, 1, "acrid")) ["acrid"]
+carse,march
+ 25 [1;33mc[1;32ma[1;32mr[0ms[0me[0m   1    50 Some((1, 1, "march")) ["march"]
+carse,chaos
+ 32 [1;32mc[1;33ma[0mr[1;33ms[0me[0m   1   114 Some((1, 1, "chaos")) ["chaos"]
+carse,facet
+ 88 [1;33mc[1;32ma[0mr[0ms[1;33me[0m   1    96 Some((1, 1, "facet")) ["facet"]
+carse,racer
+ 97 [1;33mc[1;32ma[1;33mr[0ms[1;33me[0m   1    29 Some((1, 1, "racer")) ["racer"]
+carse,corer
+101 [1;32mc[0ma[1;32mr[0ms[1;33me[0m   1    34 Some((1, 1, "corer")) ["corer"]
+carse,easel
+114 [0mc[1;32ma[0mr[1;33ms[1;33me[0m   1   264 Some((1, 1, "easel")) ["easel"]
+carse,screw
+127 [1;33mc[0ma[1;32mr[1;33ms[1;33me[0m   1    19 Some((1, 1, "screw")) ["screw"]
+carse,verso
+153 [0mc[0ma[1;32mr[1;32ms[1;33me[0m   1    26 Some((1, 1, "verso")) ["verso"]
+carse,chafe
+167 [1;32mc[1;33ma[0mr[0ms[1;32me[0m   1    41 Some((1, 1, "chafe")) ["chafe"]
+carse,range
+177 [0mc[1;32ma[1;33mr[0ms[1;32me[0m   1    68 Some((1, 1, "range")) ["range"]
+carse,force
+181 [1;33mc[0ma[1;32mr[0ms[1;32me[0m   1    17 Some((1, 1, "force")) ["force"]
+carse,curve
+182 [1;32mc[0ma[1;32mr[0ms[1;32me[0m   1    11 Some((1, 1, "curve")) ["curve"]
+carse,agree
+183 [0mc[1;33ma[1;32mr[0ms[1;32me[0m   1    43 Some((1, 1, "agree")) ["agree"]
+carse,farce
+187 [1;33mc[1;32ma[1;32mr[0ms[1;32me[0m   1     5 Some((1, 1, "farce")) ["farce"]
+carse,carve
+188 [1;32mc[1;32ma[1;32mr[0ms[1;32me[0m   1     4 Some((1, 1, "carve")) ["carve"]
+carse,sauce
+196 [1;33mc[1;32ma[0mr[1;33ms[1;32me[0m   1     6 Some((1, 1, "sauce")) ["sauce"]
+carse,caste
+197 [1;32mc[1;32ma[0mr[1;33ms[1;32me[0m   1     4 Some((1, 1, "caste")) ["caste"]
+carse,score
+199 [1;33mc[0ma[1;33mr[1;33ms[1;32me[0m   1    10 Some((1, 1, "score")) ["score"]
+carse,scare
+202 [1;33mc[1;33ma[1;33mr[1;33ms[1;32me[0m   1     3 Some((1, 1, "scare")) ["scare"]
+carse,scree
+208 [1;33mc[0ma[1;32mr[1;33ms[1;32me[0m   1     5 Some((1, 1, "scree")) ["scree"]
+carse,cause
+224 [1;32mc[1;32ma[0mr[1;32ms[1;32me[0m   1     3 Some((1, 1, "cause")) ["cause"]
+carse,raise
+231 [0mc[1;32ma[1;33mr[1;32ms[1;32me[0m   1     6 Some((1, 1, "raise")) ["raise"]
+carse,curse
+236 [1;32mc[0ma[1;32mr[1;32ms[1;32me[0m   1     3 Some((1, 1, "curse")) ["curse"]
+carse,parse
+240 [0mc[1;32ma[1;32mr[1;32ms[1;32me[0m   1     4 Some((1, 1, "parse")) ["parse"]
+carse,macro
+carse,macro,ranch
+ 16 [1;33mc[1;32ma[1;33mr[0ms[0me[0m   2    79 Some((3, 2, "macro")) ["macro", "ranch"]
+carse,circa
+carse,circa,coral
+ 23 [1;32mc[1;33ma[1;32mr[0ms[0me[0m   2    40 Some((3, 2, "circa")) ["circa", "coral"]
+carse,basic
+carse,basic,saucy
+ 34 [1;33mc[1;32ma[0mr[1;33ms[0me[0m   2   110 Some((3, 2, "basic")) ["basic", "saucy"]
+carse,scorn
+carse,scorn,scour
+ 37 [1;33mc[0ma[1;33mr[1;33ms[0me[0m   2   135 Some((3, 2, "scorn")) ["scorn", "scour"]
+carse,scarf
+carse,scarf,scary
+ 40 [1;33mc[1;33ma[1;33mr[1;33ms[0me[0m   2    52 Some((3, 2, "scarf")) ["scarf", "scary"]
+carse,scrub
+carse,scrub,scrum
+ 46 [1;33mc[0ma[1;32mr[1;33ms[0me[0m   2    64 Some((3, 2, "scrub")) ["scrub", "scrum"]
+carse,scram
+carse,scram,scrap
+ 49 [1;33mc[1;33ma[1;32mr[1;33ms[0me[0m   2    24 Some((3, 2, "scram")) ["scram", "scrap"]
+carse,crash
+carse,crash,crass
+ 68 [1;32mc[1;33ma[1;33mr[1;32ms[0me[0m   2     3 Some((3, 2, "crash")) ["crash", "crass"]
+carse,harsh
+carse,harsh,marsh
+ 78 [0mc[1;32ma[1;32mr[1;32ms[0me[0m   2    11 Some((3, 2, "harsh")) ["harsh", "marsh"]
+carse,caper
+carse,caper,cater
+ 98 [1;32mc[1;32ma[1;33mr[0ms[1;33me[0m   2    17 Some((3, 2, "caper")) ["caper", "cater"]
+carse,mercy
+carse,mercy,perch
+100 [1;33mc[0ma[1;32mr[0ms[1;33me[0m   2    54 Some((3, 2, "mercy")) ["mercy", "perch"]
+carse,feral
+carse,feral,terra
+102 [0mc[1;33ma[1;32mr[0ms[1;33me[0m   2   131 Some((3, 2, "feral")) ["feral", "terra"]
+carse,scent
+carse,scent,speck
+109 [1;33mc[0ma[0mr[1;33ms[1;33me[0m   2   198 Some((3, 2, "scent")) ["scent", "speck"]
+carse,safer
+carse,safer,saner
+123 [0mc[1;32ma[1;33mr[1;33ms[1;33me[0m   2    56 Some((3, 2, "safer")) ["safer", "saner"]
+carse,chess
+carse,chess,chest
+137 [1;32mc[0ma[0mr[1;32ms[1;33me[0m   2    19 Some((3, 2, "chess")) ["chess", "chest"]
+carse,cress
+carse,cress,crest
+146 [1;32mc[0ma[1;33mr[1;32ms[1;33me[0m   2     7 Some((3, 2, "cress")) ["cress", "crest"]
+carse,dance
+carse,dance,lance
+169 [1;33mc[1;32ma[0mr[0ms[1;32me[0m   2    34 Some((3, 2, "dance")) ["dance", "lance"]
+carse,barge
+carse,barge,large
+186 [0mc[1;32ma[1;32mr[0ms[1;32me[0m   2    34 Some((3, 2, "barge")) ["barge", "large"]
+carse,scale
+carse,scale,space
+193 [1;33mc[1;33ma[0mr[1;33ms[1;32me[0m   2    13 Some((3, 2, "scale")) ["scale", "space"]
+carse,cease
+carse,cease,chase
+221 [1;32mc[1;33ma[0mr[1;32ms[1;32me[0m   2     5 Some((3, 2, "cease")) ["cease", "chase"]
+carse,raspy
+carse,raspy,satyr
+carse,raspy,savor
+ 42 [0mc[1;32ma[1;33mr[1;33ms[0me[0m   3   224 Some((5, 2, "raspy")) ["raspy", "satyr", "savor"]
+carse,reach
+carse,reach,react
+carse,reach,recap
+ 94 [1;33mc[1;33ma[1;33mr[0ms[1;33me[0m   3    66 Some((5, 2, "reach")) ["reach", "react", "recap"]
+carse,peace,acute
+carse,peace
+carse,peace,place
+166 [1;33mc[1;33ma[0mr[0ms[1;32me[0m   3    74 Some((5, 2, "peace")) ["acute", "peace", "place"]
+carse,cable
+carse,cable,cache
+carse,cable,cache,canoe
+170 [1;32mc[1;32ma[0mr[0ms[1;32me[0m   3    18 Some((6, 3, "cable")) ["cable", "cache", "canoe"]
+carse,price
+carse,price,trice
+carse,price,truce
+172 [1;33mc[0ma[1;33mr[0ms[1;32me[0m   3    65 Some((5, 2, "price")) ["price", "trice", "truce"]
+carse,brace
+carse,brace,grace
+carse,brace,grace,trace
+175 [1;33mc[1;33ma[1;33mr[0ms[1;32me[0m   3    24 Some((6, 3, "brace")) ["brace", "grace", "trace"]
+carse,serve
+carse,serve,spree
+carse,serve,surge
+207 [0mc[0ma[1;32mr[1;33ms[1;32me[0m   3    34 Some((5, 2, "serve")) ["serve", "spree", "surge"]
+carse,chose
+carse,chose,close
+carse,chose,copse
+218 [1;32mc[0ma[0mr[1;32ms[1;32me[0m   3    15 Some((5, 2, "chose")) ["chose", "close", "copse"]
+carse,arise
+carse,arise,arose
+carse,arise,erase
+228 [0mc[1;33ma[1;33mr[1;32ms[1;32me[0m   3    11 Some((5, 2, "arise")) ["arise", "arose", "erase"]
+carse,cargo,carat
+carse,cargo
+carse,cargo,carol
+carse,cargo,carat,carry
+ 26 [1;32mc[1;32ma[1;32mr[0ms[0me[0m   4    33 Some((8, 3, "cargo")) ["carat", "cargo", "carol", "carry"]
+carse,spray
+carse,spray,strap
+carse,spray,straw
+carse,spray,stray
+ 48 [0mc[1;33ma[1;32mr[1;33ms[0me[0m   4   199 Some((7, 2, "spray")) ["spray", "strap", "straw", "stray"]
+carse,crush,crisp
+carse,crush,crisp,cross
+carse,crush
+carse,crush,crust
+ 65 [1;32mc[0ma[1;33mr[1;32ms[0me[0m   4    18 Some((8, 3, "crush")) ["crisp", "cross", "crush", "crust"]
+carse,torsi,burst
+carse,torsi,first
+carse,torsi,torso
+carse,torsi,worst
+ 72 [0mc[0ma[1;32mr[1;32ms[0me[0m   4    54 Some((8, 2, "torsi")) ["burst", "first", "torso", "worst"]
+carse,cheat,cheap
+carse,cheat
+carse,cheat,clean
+carse,cheat,cleat
+ 86 [1;32mc[1;33ma[0mr[0ms[1;33me[0m   4    96 Some((7, 2, "cheat")) ["cheap", "cheat", "clean", "cleat"]
+carse,camel,cadet
+carse,camel,cadet,cagey
+carse,camel
+carse,camel,cameo
+ 89 [1;32mc[1;32ma[0mr[0ms[1;33me[0m   4    56 Some((8, 3, "camel")) ["cadet", "cagey", "camel", "cameo"]
+carse,creak,cedar
+carse,creak,clear
+carse,creak
+carse,creak,cream
+ 95 [1;32mc[1;33ma[1;33mr[0ms[1;33me[0m   4    32 Some((7, 2, "creak")) ["cedar", "clear", "creak", "cream"]
+carse,shear
+carse,shear,smear
+carse,shear,smear,spear
+carse,shear,smear,spear,swear
+120 [0mc[1;33ma[1;33mr[1;33ms[1;33me[0m   4   138 Some((10, 4, "shear")) ["shear", "smear", "spear", "swear"]
+carse,dress
+carse,dress,fresh
+carse,dress,press
+carse,dress,fresh,wrest
+144 [0mc[0ma[1;33mr[1;32ms[1;33me[0m   4    65 Some((8, 3, "dress")) ["dress", "fresh", "press", "wrest"]
+carse,crane
+carse,crane,crate
+carse,crane,crate,crave
+carse,crane,crate,crave,craze
+176 [1;32mc[1;33ma[1;33mr[0ms[1;32me[0m   4    15 Some((10, 4, "crane")) ["crane", "crate", "crave", "craze"]
+carse,share
+carse,share,snare
+carse,share,snare,spare
+carse,share,snare,spare,stare
+201 [0mc[1;33ma[1;33mr[1;33ms[1;32me[0m   4    25 Some((10, 4, "share")) ["share", "snare", "spare", "stare"]
+carse,lapse,false
+carse,lapse
+carse,lapse,masse
+carse,lapse,pause
+222 [0mc[1;32ma[0mr[1;32ms[1;32me[0m   4    26 Some((7, 2, "lapse")) ["false", "lapse", "masse", "pause"]
+carse,reuse,prose
+carse,reuse
+carse,reuse,rinse
+carse,reuse,rouse
+225 [0mc[0ma[1;33mr[1;32ms[1;32me[0m   4    46 Some((7, 2, "reuse")) ["prose", "reuse", "rinse", "rouse"]
+carse,toric,birch
+carse,toric,lurch
+carse,toric,lyric
+carse,toric,porch
+carse,toric,torch
+ 19 [1;33mc[0ma[1;32mr[0ms[0me[0m   5   165 Some((10, 2, "toric")) ["birch", "lurch", "lyric", "porch", "torch"]
+carse,curly,corny
+carse,curly,curio
+carse,curly
+carse,curly,curry
+carse,curly,curry,curvy
+ 20 [1;32mc[0ma[1;32mr[0ms[0me[0m   5    96 Some((10, 3, "curly")) ["corny", "curio", "curly", "curry", "curvy"]
+carse,clash,chasm
+carse,clash
+carse,clash,clasp
+carse,clash,clasp,class
+carse,clash,coast
+ 59 [1;32mc[1;33ma[0mr[1;32ms[0me[0m   5    16 Some((10, 3, "clash")) ["chasm", "clash", "clasp", "class", "coast"]
+carse,earth,early
+carse,earth
+carse,earth,harem
+carse,earth,parer
+carse,earth,parer,rarer
+105 [0mc[1;32ma[1;32mr[0ms[1;33me[0m   5    83 Some((10, 3, "earth")) ["early", "earth", "harem", "parer", "rarer"]
+carse,hires,serif
+carse,hires,serum
+carse,hires,shrew
+carse,hires,siren
+carse,hires,surer
+126 [0mc[0ma[1;32mr[1;33ms[1;33me[0m   5   199 Some((10, 2, "hires")) ["serif", "serum", "shrew", "siren", "surer"]
+carse,blase,beast
+carse,blase,feast
+carse,blase,leash
+carse,blase,leash,least
+carse,blase,feast,yeast
+138 [0mc[1;33ma[0mr[1;32ms[1;33me[0m   5    62 Some((12, 3, "blase")) ["beast", "feast", "leash", "least", "yeast"]
+carse,creme,chore
+carse,creme
+carse,creme,crepe
+carse,creme,crime
+carse,creme,crone
+carse,creme,crone,crude
+173 [1;32mc[0ma[1;33mr[0ms[1;32me[0m   6    39 Some((12, 3, "creme")) ["chore", "creme", "crepe", "crime", "crone", "crude"]
+carse,scene
+carse,scene,scone
+carse,scene,scope
+carse,scene,since
+carse,scene,slice
+carse,scene,slice,spice
+190 [1;33mc[0ma[0mr[1;33ms[1;32me[0m   6    41 Some((12, 3, "scene")) ["scene", "scone", "scope", "since", "slice", "spice"]
+carse,blase,abase
+carse,blase,abuse
+carse,blase,amuse
+carse,blase,lease
+carse,blase,phase
+carse,blase,phase,tease
+219 [0mc[1;33ma[0mr[1;32ms[1;32me[0m   6    48 Some((13, 3, "blase")) ["abase", "abuse", "amuse", "lease", "phase", "tease"]
+carse,herse,horse
+carse,herse,nurse
+carse,herse,nurse,purse
+carse,herse,terse
+carse,herse,terse,verse
+carse,herse,nurse,worse
+234 [0mc[0ma[1;32mr[1;32ms[1;32me[0m   6    21 Some((15, 3, "herse")) ["horse", "nurse", "purse", "terse", "verse", "worse"]
+carse,chart,acorn
+carse,chart,actor
+carse,chart,roach
+carse,chart,track
+carse,chart,tract
+carse,chart,vicar
+carse,chart,wrack
+ 13 [1;33mc[1;33ma[1;33mr[0ms[0me[0m   7   211 Some((14, 2, "chart")) ["acorn", "actor", "roach", "track", "tract", "vicar", "wrack"]
+carse,brash,artsy
+carse,brash
+carse,brash,brass
+carse,brash,grasp
+carse,brash,grasp,grass
+carse,brash,roast
+carse,brash,trash
+ 66 [0mc[1;33ma[1;33mr[1;32ms[0me[0m   7    37 Some((14, 3, "brash")) ["artsy", "brash", "brass", "grasp", "grass", "roast", "trash"]
+carse,tawse,baste
+carse,tawse,baste,haste
+carse,tawse,baste,haste,paste
+carse,tawse,salve
+carse,tawse,baste,saute
+carse,tawse,taste
+carse,tawse,waste
+195 [0mc[1;32ma[0mr[1;33ms[1;32me[0m   7    48 Some((18, 4, "tawse")) ["baste", "haste", "paste", "salve", "saute", "taste", "waste"]
+198 [0mc[0ma[1;33mr[1;33ms[1;32me[0m   7    89 None ["shire", "shore", "snore", "spire", "spore", "store", "swore"]

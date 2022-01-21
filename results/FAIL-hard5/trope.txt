@@ -1,0 +1,638 @@
+trope,orbit
+ 16 [1;33mt[1;32mr[1;33mo[0mp[0me[0m   1    55 Some((1, 1, "orbit")) ["orbit"]
+trope,thorn
+ 23 [1;32mt[1;33mr[1;32mo[0mp[0me[0m   1    29 Some((1, 1, "thorn")) ["thorn"]
+trope,tapir
+ 32 [1;32mt[1;33mr[0mo[1;33mp[0me[0m   1    21 Some((1, 1, "tapir")) ["tapir"]
+trope,print
+ 34 [1;33mt[1;32mr[0mo[1;33mp[0me[0m   1    32 Some((1, 1, "print")) ["print"]
+trope,sport
+ 49 [1;33mt[1;33mr[1;32mo[1;33mp[0me[0m   1    10 Some((1, 1, "sport")) ["sport"]
+trope,troop
+ 53 [1;32mt[1;32mr[1;32mo[1;33mp[0me[0m   1     3 Some((1, 1, "troop")) ["troop"]
+trope,adapt
+ 55 [1;33mt[0mr[0mo[1;32mp[0me[0m   1    74 Some((1, 1, "adapt")) ["adapt"]
+trope,graph
+ 60 [0mt[1;32mr[0mo[1;32mp[0me[0m   1    45 Some((1, 1, "graph")) ["graph"]
+trope,crypt
+ 61 [1;33mt[1;32mr[0mo[1;32mp[0me[0m   1    17 Some((1, 1, "crypt")) ["crypt"]
+trope,morph
+ 66 [0mt[1;33mr[1;33mo[1;32mp[0me[0m   1    18 Some((1, 1, "morph")) ["morph"]
+trope,loopy
+ 72 [0mt[0mr[1;32mo[1;32mp[0me[0m   1    52 Some((1, 1, "loopy")) ["loopy"]
+trope,adopt
+ 73 [1;33mt[0mr[1;32mo[1;32mp[0me[0m   1    10 Some((1, 1, "adopt")) ["adopt"]
+trope,wooer
+102 [0mt[1;33mr[1;32mo[0mp[1;33me[0m   1    63 Some((1, 1, "wooer")) ["wooer"]
+trope,tepid
+110 [1;32mt[0mr[0mo[1;33mp[1;33me[0m   1    32 Some((1, 1, "tepid")) ["tepid"]
+trope,taper
+113 [1;32mt[1;33mr[0mo[1;33mp[1;33me[0m   1     6 Some((1, 1, "taper")) ["taper"]
+trope,tempo
+146 [1;32mt[0mr[1;33mo[1;32mp[1;33me[0m   1     2 Some((1, 1, "tempo")) ["tempo"]
+trope,stare
+166 [1;33mt[1;33mr[0mo[0mp[1;32me[0m   1    71 Some((1, 1, "stare")) ["stare"]
+trope,ovate
+172 [1;33mt[0mr[1;33mo[0mp[1;32me[0m   1    65 Some((1, 1, "ovate")) ["ovate"]
+trope,those
+182 [1;32mt[0mr[1;32mo[0mp[1;32me[0m   1     7 Some((1, 1, "those")) ["those"]
+trope,store
+184 [1;33mt[1;33mr[1;32mo[0mp[1;32me[0m   1     7 Some((1, 1, "store")) ["store"]
+trope,wrote
+187 [1;33mt[1;32mr[1;32mo[0mp[1;32me[0m   1     6 Some((1, 1, "wrote")) ["wrote"]
+trope,trove
+188 [1;32mt[1;32mr[1;32mo[0mp[1;32me[0m   1     5 Some((1, 1, "trove")) ["trove"]
+trope,tepee
+191 [1;32mt[0mr[0mo[1;33mp[1;32me[0m   1     8 Some((1, 1, "tepee")) ["tepee"]
+trope,spore
+210 [0mt[1;33mr[1;32mo[1;33mp[1;32me[0m   1    10 Some((1, 1, "spore")) ["spore"]
+trope,tripe
+224 [1;32mt[1;32mr[0mo[1;32mp[1;32me[0m   1     3 Some((1, 1, "tripe")) ["tripe"]
+trope,coupe
+225 [0mt[0mr[1;33mo[1;32mp[1;32me[0m   1    14 Some((1, 1, "coupe")) ["coupe"]
+trope,grope
+240 [0mt[1;32mr[1;32mo[1;32mp[1;32me[0m   1     2 Some((1, 1, "grope")) ["grope"]
+trope
+242 [1;32mt[1;32mr[1;32mo[1;32mp[1;32me[0m   1     1 Some((1, 1, "trope")) ["trope"]
+trope,thong
+trope,thong,tooth
+ 20 [1;32mt[0mr[1;32mo[0mp[0me[0m   2    41 Some((3, 2, "thong")) ["thong", "tooth"]
+trope,troll
+trope,troll,trout
+ 26 [1;32mt[1;32mr[1;32mo[0mp[0me[0m   2    25 Some((3, 2, "troll")) ["troll", "trout"]
+trope,tramp
+trope,tramp,trump
+ 35 [1;32mt[1;32mr[0mo[1;33mp[0me[0m   2    12 Some((3, 2, "tramp")) ["tramp", "trump"]
+trope,topaz
+trope,topaz,topic
+ 38 [1;32mt[0mr[1;33mo[1;33mp[0me[0m   2    22 Some((3, 2, "topaz")) ["topaz", "topic"]
+trope,primo
+trope,primo,prior
+ 42 [0mt[1;32mr[1;33mo[1;33mp[0me[0m   2    50 Some((3, 2, "primo")) ["primo", "prior"]
+trope,tenor
+trope,tenor,tower
+ 95 [1;32mt[1;33mr[1;33mo[0mp[1;33me[0m   2    17 Some((3, 2, "tenor")) ["tenor", "tower"]
+trope,ebony
+trope,ebony,gooey
+ 99 [0mt[0mr[1;32mo[0mp[1;33me[0m   2   216 Some((3, 2, "ebony")) ["ebony", "gooey"]
+trope,dopey
+trope,dopey,poesy
+117 [0mt[0mr[1;33mo[1;33mp[1;33me[0m   2   165 Some((3, 2, "dopey")) ["dopey", "poesy"]
+trope,depot
+trope,depot,pesto
+118 [1;33mt[0mr[1;33mo[1;33mp[1;33me[0m   2    24 Some((3, 2, "depot")) ["depot", "pesto"]
+trope,epoch
+trope,epoch,epoxy
+126 [0mt[0mr[1;32mo[1;33mp[1;33me[0m   2    35 Some((3, 2, "epoch")) ["epoch", "epoxy"]
+trope,crept
+trope,crept,erupt
+142 [1;33mt[1;32mr[0mo[1;32mp[1;33me[0m   2     5 Some((3, 2, "crept")) ["crept", "erupt"]
+trope,forte
+trope,forte,route
+175 [1;33mt[1;33mr[1;33mo[0mp[1;32me[0m   2    17 Some((3, 2, "forte")) ["forte", "route"]
+trope,phone
+trope,phone,spoke
+207 [0mt[0mr[1;32mo[1;33mp[1;32me[0m   2    25 Some((3, 2, "phone")) ["phone", "spoke"]
+trope,thump
+trope,thump,tipsy
+trope,thump,tulip
+ 29 [1;32mt[0mr[0mo[1;33mp[0me[0m   3    78 Some((5, 2, "thump")) ["thump", "tipsy", "tulip"]
+trope,harpy
+trope,harpy,ralph
+trope,harpy,raspy
+ 57 [0mt[1;33mr[0mo[1;32mp[0me[0m   3    83 Some((5, 2, "harpy")) ["harpy", "ralph", "raspy"]
+trope,hippo
+trope,hippo,poppy
+trope,hippo,soapy
+ 63 [0mt[0mr[1;33mo[1;32mp[0me[0m   3   118 Some((5, 2, "hippo")) ["hippo", "poppy", "soapy"]
+trope,token
+trope,token,totem
+trope,token,totem,towel
+ 92 [1;32mt[0mr[1;33mo[0mp[1;33me[0m   3    68 Some((6, 3, "token")) ["token", "totem", "towel"]
+trope,credo
+trope,credo,error
+trope,credo,order
+ 96 [0mt[1;32mr[1;33mo[0mp[1;33me[0m   3    59 Some((5, 2, "credo")) ["credo", "error", "order"]
+trope,terse
+trope,terse,there
+trope,terse,three
+167 [1;32mt[1;33mr[0mo[0mp[1;32me[0m   3    33 Some((5, 2, "terse")) ["terse", "there", "three"]
+trope,paste
+trope,paste,plate
+trope,paste,spite
+190 [1;33mt[0mr[0mo[1;33mp[1;32me[0m   3    22 Some((5, 2, "paste")) ["paste", "plate", "spite"]
+trope,agape
+trope,agape,shape
+trope,agape,snipe
+216 [0mt[0mr[0mo[1;32mp[1;32me[0m   3    46 Some((5, 2, "agape")) ["agape", "shape", "snipe"]
+trope,elope
+trope,elope,scope
+trope,elope,slope
+234 [0mt[0mr[1;32mo[1;32mp[1;32me[0m   3     8 Some((5, 2, "elope")) ["elope", "scope", "slope"]
+trope,apron
+trope,apron,polar
+trope,apron,porch
+trope,apron,vapor
+ 39 [0mt[1;33mr[1;33mo[1;33mp[0me[0m   4   135 Some((7, 2, "apron")) ["apron", "polar", "porch", "vapor"]
+trope,stomp,photo
+trope,stomp,spout
+trope,stomp
+trope,stomp,stoop
+ 46 [1;33mt[0mr[1;32mo[1;33mp[0me[0m   4    33 Some((7, 2, "stomp")) ["photo", "spout", "stomp", "stoop"]
+trope,creep
+trope,creep,preen
+trope,creep,press
+trope,creep,pried
+114 [0mt[1;32mr[0mo[1;33mp[1;33me[0m   4    63 Some((7, 2, "creep")) ["creep", "preen", "press", "pried"]
+trope,poker,opera
+trope,poker
+trope,poker,poser
+trope,poker,poser,power
+120 [0mt[1;33mr[1;33mo[1;33mp[1;33me[0m   4    44 Some((8, 3, "poker")) ["opera", "poker", "poser", "power"]
+trope,poise,copse
+trope,poise,opine
+trope,poise
+trope,poise,posse
+198 [0mt[0mr[1;33mo[1;33mp[1;32me[0m   4    55 Some((7, 2, "poise")) ["copse", "opine", "poise", "posse"]
+trope,probe
+trope,probe,prone
+trope,probe,prone,prose
+trope,probe,prone,prose,prove
+213 [0mt[1;32mr[1;32mo[1;33mp[1;32me[0m   4     9 Some((10, 4, "probe")) ["probe", "prone", "prose", "prove"]
+trope,grape,crepe
+trope,grape,drape
+trope,grape
+trope,grape,gripe
+222 [0mt[1;32mr[0mo[1;32mp[1;32me[0m   4    13 Some((7, 2, "grape")) ["crepe", "drape", "grape", "gripe"]
+trope,tardy
+trope,tardy,third
+trope,tardy,thrum
+trope,tardy,tiara
+trope,tardy,twirl
+  5 [1;32mt[1;33mr[0mo[0mp[0me[0m   5   273 Some((9, 2, "tardy")) ["tardy", "third", "thrum", "tiara", "twirl"]
+trope,party,apart
+trope,party
+trope,party,spurt
+trope,party,strap
+trope,party,strip
+ 31 [1;33mt[1;33mr[0mo[1;33mp[0me[0m   5    78 Some((9, 2, "party")) ["apart", "party", "spurt", "strap", "strip"]
+trope,crest
+trope,crest,erect
+trope,crest,great
+trope,crest,great,greet
+trope,crest,wrest
+ 88 [1;33mt[1;32mr[0mo[0mp[1;33me[0m   5    81 Some((10, 3, "crest")) ["crest", "erect", "great", "greet", "wrest"]
+trope,tread
+trope,tread,treat
+trope,tread,trend
+trope,tread,tried
+trope,tread,truer
+ 89 [1;32mt[1;32mr[0mo[0mp[1;33me[0m   5    43 Some((9, 2, "tread")) ["tread", "treat", "trend", "tried", "truer"]
+trope,leapt,adept
+trope,leapt,inept
+trope,leapt
+trope,leapt,slept
+trope,leapt,inept,swept
+136 [1;33mt[0mr[0mo[1;32mp[1;33me[0m   5    26 Some((10, 3, "leapt")) ["adept", "inept", "leapt", "slept", "swept"]
+trope,irate,brute
+trope,irate,crate
+trope,irate,crate,grate
+trope,irate
+trope,irate,write
+169 [1;33mt[1;32mr[0mo[0mp[1;32me[0m   5    31 Some((10, 3, "irate")) ["brute", "crate", "grate", "irate", "write"]
+trope,front,broth
+trope,front,droit
+trope,front
+trope,front,frost
+trope,front,froth
+trope,front,droit,grout
+ 25 [1;33mt[1;32mr[1;32mo[0mp[0me[0m   6    42 Some((12, 3, "front")) ["broth", "droit", "front", "frost", "froth", "grout"]
+trope,copal,opium
+trope,copal,piano
+trope,copal,polka
+trope,copal,polyp
+trope,copal,pouch
+trope,copal,pound
+ 36 [0mt[0mr[1;33mo[1;33mp[0me[0m   6   566 Some((12, 2, "copal")) ["opium", "piano", "polka", "polyp", "pouch", "pound"]
+trope,trace
+trope,trace,trade
+trope,trace,tribe
+trope,trace,trice
+trope,trace,tribe,trite
+trope,trace,trice,truce
+170 [1;32mt[1;32mr[0mo[0mp[1;32me[0m   6    18 Some((13, 3, "trace")) ["trace", "trade", "tribe", "trice", "trite", "truce"]
+trope,chore,snore,adore
+trope,chore
+trope,chore,score
+trope,chore,shore
+trope,chore,snore
+trope,chore,snore,swore
+183 [0mt[1;33mr[1;32mo[0mp[1;32me[0m   6    53 Some((13, 3, "chore")) ["adore", "chore", "score", "shore", "snore", "swore"]
+trope,pride,price
+trope,pride
+trope,pride,price,prime
+trope,pride,price,prime,prize
+trope,pride,prude
+trope,pride,prune
+195 [0mt[1;32mr[0mo[1;33mp[1;32me[0m   6    32 Some((14, 4, "pride")) ["price", "pride", "prime", "prize", "prude", "prune"]
+trope,arbor
+trope,arbor,ardor
+trope,arbor,ardor,armor
+trope,arbor,arrow
+trope,arbor,arson
+trope,arbor,bravo
+trope,arbor,organ
+ 15 [0mt[1;32mr[1;33mo[0mp[0me[0m   7   259 Some((14, 3, "arbor")) ["arbor", "ardor", "armor", "arrow", "arson", "bravo", "organ"]
+trope,stork,abort
+trope,stork,roost
+trope,stork,short
+trope,stork,short,snort
+trope,stork
+trope,stork,storm
+trope,stork,storm,story
+ 22 [1;33mt[1;33mr[1;32mo[0mp[0me[0m   7    66 Some((15, 3, "stork")) ["abort", "roost", "short", "snort", "stork", "storm", "story"]
+trope,other,metro
+trope,other
+trope,other,otter
+trope,other,outer
+trope,other,overt
+trope,other,metro,retro
+trope,other,voter
+ 94 [1;33mt[1;33mr[1;33mo[0mp[1;33me[0m   7    50 Some((14, 3, "other")) ["metro", "other", "otter", "outer", "overt", "retro", "voter"]
+trope,stoke,atone
+trope,stoke,quote
+trope,stoke,smote
+trope,stoke
+trope,stoke,stole
+trope,stoke,stole,stone
+trope,stoke,stole,stone,stove
+181 [1;33mt[0mr[1;32mo[0mp[1;32me[0m   7    26 Some((16, 4, "stoke")) ["atone", "quote", "smote", "stoke", "stole", "stone", "stove"]
+trope,pilot,optic
+trope,pilot,patio
+trope,pilot
+trope,pilot,pinto
+trope,pilot,pivot
+trope,pilot,point
+trope,pilot,point,posit
+trope,pilot,pouty
+ 37 [1;33mt[0mr[1;33mo[1;33mp[0me[0m   8   104 Some((16, 3, "pilot")) ["optic", "patio", "pilot", "pinto", "pivot", "point", "posit", "pouty"]
+trope,group,croup
+trope,group,droop
+trope,group
+trope,group,prong
+trope,group,proof
+trope,group,proud
+trope,group,proof,prowl
+trope,group,proof,prowl,proxy
+ 51 [0mt[1;32mr[1;32mo[1;33mp[0me[0m   8    42 Some((18, 4, "group")) ["croup", "droop", "group", "prong", "proof", "proud", "prowl", "proxy"]
+trope,drone,brose,arose
+trope,drone,brose,broke
+trope,drone,crone
+trope,drone
+trope,drone,drove
+trope,drone,erode
+trope,drone,brose,froze
+trope,drone,brose,froze,grove
+186 [0mt[1;32mr[1;32mo[0mp[1;32me[0m   8    36 Some((20, 4, "drone")) ["arose", "broke", "crone", "drone", "drove", "erode", "froze", "grove"]
+trope,parse
+trope,parse,puree
+trope,parse,puree,purge
+trope,parse,purse
+trope,parse,rupee
+trope,parse,spare
+trope,parse,spire
+trope,parse,spree
+192 [0mt[1;33mr[0mo[1;33mp[1;32me[0m   8    60 Some((16, 3, "parse")) ["parse", "puree", "purge", "purse", "rupee", "spare", "spire", "spree"]
+trope,throb,tarot
+trope,throb
+trope,throb,throw
+trope,throb,torch
+trope,throb,torso
+trope,throb,torso,torus
+trope,throb,tumor
+trope,throb,turbo
+trope,throb,tumor,tutor
+ 14 [1;32mt[1;33mr[1;33mo[0mp[0me[0m   9    77 Some((19, 3, "throb")) ["tarot", "throb", "throw", "torch", "torso", "torus", "tumor", "turbo", "tutor"]
+trope,tamer,taker
+trope,tamer
+trope,tamer,teary
+trope,tamer,teary,terra
+trope,tamer,their
+trope,tamer,threw
+trope,tamer,tiger
+trope,tamer,timer
+trope,tamer,tiger,tuber
+ 86 [1;32mt[1;33mr[0mo[0mp[1;33me[0m   9   118 Some((19, 3, "tamer")) ["taker", "tamer", "teary", "terra", "their", "threw", "tiger", "timer", "tuber"]
+trope,cramp
+trope,cramp,crimp
+trope,cramp,crisp
+trope,cramp,crimp,crump
+trope,cramp,grasp
+trope,cramp,prank
+trope,cramp,prank,prawn
+trope,cramp,prick
+trope,cramp,prism
+trope,cramp,privy
+ 33 [0mt[1;32mr[0mo[1;33mp[0me[0m  10   165 Some((21, 3, "cramp")) ["cramp", "crimp", "crisp", "crump", "grasp", "prank", "prawn", "prick", "prism", "privy"]
+trope,motel,comet
+trope,motel,covet
+trope,motel,detox
+trope,motel,ethos
+trope,motel,extol
+trope,motel,hotel
+trope,motel
+trope,motel,octet
+trope,motel,octet,often
+trope,motel,onset
+ 91 [1;33mt[0mr[1;33mo[0mp[1;33me[0m  10   210 Some((20, 3, "motel")) ["comet", "covet", "detox", "ethos", "extol", "hotel", "motel", "octet", "often", "onset"]
+trope,pleat,depth
+trope,pleat,depth,empty
+trope,pleat,petal
+trope,pleat,petty
+trope,pleat,piety
+trope,pleat
+trope,pleat,depth,setup
+trope,pleat,spelt
+trope,pleat,spent
+trope,pleat,steep
+trope,pleat,upset
+109 [1;33mt[0mr[0mo[1;33mp[1;33me[0m  11   131 Some((23, 3, "pleat")) ["depth", "empty", "petal", "petty", "piety", "pleat", "setup", "spelt", "spent", "steep", "upset"]
+trope,forge,horse,borne
+trope,forge,force
+trope,forge
+trope,forge,gorge
+trope,forge,horse,horde
+trope,forge,horse
+trope,forge,ombre
+trope,forge,rogue
+trope,forge,rouge
+trope,forge,rouse
+trope,forge,horse,worse
+174 [0mt[1;33mr[1;33mo[0mp[1;32me[0m  11   110 Some((24, 3, "forge")) ["borne", "force", "forge", "gorge", "horde", "horse", "ombre", "rogue", "rouge", "rouse", "worse"]
+trope,sloop,phony
+trope,sloop,pooch
+trope,sloop,scoop
+trope,sloop
+trope,sloop,scoop,snoop
+trope,sloop,spoil
+trope,sloop,spoof
+trope,sloop,spoof,spook
+trope,sloop,spool
+trope,sloop,spoof,spook,spoon
+trope,sloop,scoop,snoop,swoop
+trope,sloop,whoop
+ 45 [0mt[0mr[1;32mo[1;33mp[0me[0m  12   182 Some((29, 4, "sloop")) ["phony", "pooch", "scoop", "sloop", "snoop", "spoil", "spoof", "spook", "spool", "spoon", "swoop", "whoop"]
+trope,craft,artsy
+trope,craft,brunt
+trope,craft
+trope,craft,crust
+trope,craft,draft
+trope,craft,drift
+trope,craft,fritz
+trope,craft,fruit
+trope,craft,draft,graft
+trope,craft,grant
+trope,craft,brunt,grunt
+trope,craft,wrath
+trope,craft,brunt,wrist
+  7 [1;33mt[1;32mr[0mo[0mp[0me[0m  13   240 Some((28, 3, "craft")) ["artsy", "brunt", "craft", "crust", "draft", "drift", "fritz", "fruit", "graft", "grant", "grunt", "wrath", "wrist"]
+trope,spark,chirp
+trope,spark,parka
+trope,spark,parry
+trope,spark,rapid
+trope,spark,scrap
+trope,spark,sharp
+trope,spark,slurp
+trope,spark
+trope,spark,spray
+trope,spark,sprig
+trope,spark,spurn
+trope,spark,syrup
+trope,spark,usurp
+ 30 [0mt[1;33mr[0mo[1;33mp[0me[0m  13   488 Some((25, 2, "spark")) ["chirp", "parka", "parry", "rapid", "scrap", "sharp", "slurp", "spark", "spray", "sprig", "spurn", "syrup", "usurp"]
+trope,teeth,taken
+trope,teeth,teach
+trope,teeth,teddy
+trope,teeth
+trope,teeth,tenet
+trope,teeth,tenth
+trope,teeth,testy
+trope,teeth,theft
+trope,teeth,theta
+trope,teeth,thief
+trope,teeth,tweak
+trope,teeth,tweed
+trope,teeth,tweet
+ 83 [1;32mt[0mr[0mo[0mp[1;33me[0m  13   352 Some((25, 2, "teeth")) ["taken", "teach", "teddy", "teeth", "tenet", "tenth", "testy", "theft", "theta", "thief", "tweak", "tweed", "tweet"]
+trope,thale,table
+trope,thale,taste
+trope,thale,tease
+trope,thale,tense
+trope,thale,theme
+trope,thale,theme,these
+trope,thale,theme,thyme
+trope,thale,tilde
+trope,thale,tithe
+trope,thale,title
+trope,thale,title,tulle
+trope,thale,tense,twice
+trope,thale,tense,twine
+164 [1;32mt[0mr[0mo[0mp[1;32me[0m  13    98 Some((31, 3, "thale")) ["table", "taste", "tease", "tense", "theme", "these", "thyme", "tilde", "tithe", "title", "tulle", "twice", "twine"]
+trope,tonal,taboo
+trope,tonal,talon
+trope,tonal,tango
+trope,tonal,toast
+trope,tonal,today
+trope,tonal,touch,toddy
+trope,tonal
+trope,tonal,tonga
+trope,tonal,tonic
+trope,tonal,total
+trope,tonal,touch
+trope,tonal,touch,tough
+trope,tonal,touch,toxic
+trope,tonal,toxin
+ 11 [1;32mt[0mr[1;33mo[0mp[0me[0m  14   227 Some((30, 3, "tonal")) ["taboo", "talon", "tango", "toast", "today", "toddy", "tonal", "tonga", "tonic", "total", "touch", "tough", "toxic", "toxin"]
+trope,roast,actor
+trope,roast,aorta
+trope,roast,court
+trope,roast,forth
+trope,roast,forth,forty
+trope,roast,intro
+trope,roast,forth,motor
+trope,roast,forth,north
+trope,roast,ratio
+trope,roast
+trope,roast,robot
+trope,roast,rotor
+trope,roast,worst
+trope,roast,forth,north,worth
+ 13 [1;33mt[1;33mr[1;33mo[0mp[0me[0m  14   219 Some((32, 4, "roast")) ["actor", "aorta", "court", "forth", "forty", "intro", "motor", "north", "ratio", "roast", "robot", "rotor", "worst", "worth"]
+trope,pulpy,dumpy
+trope,pulpy,glyph
+trope,pulpy,guppy
+trope,pulpy,happy
+trope,pulpy,happy,hippy
+trope,pulpy,humph
+trope,pulpy,dumpy,jumpy
+trope,pulpy,kappa
+trope,pulpy,lumpy
+trope,pulpy,glyph,lymph
+trope,pulpy,nymph
+trope,pulpy
+trope,pulpy,puppy
+trope,pulpy,happy,sappy
+trope,pulpy,wimpy
+trope,pulpy,wimpy,wispy
+ 54 [0mt[0mr[0mo[1;32mp[0me[0m  16   418 Some((36, 3, "pulpy")) ["dumpy", "glyph", "guppy", "happy", "hippy", "humph", "jumpy", "kappa", "lumpy", "lymph", "nymph", "pulpy", "puppy", "sappy", "wimpy", "wispy"]
+trope,tract,track
+trope,tract
+trope,tract,trail
+trope,tract,trail,train
+trope,tract,trait
+trope,tract,trail,trash
+trope,tract,trail,trawl
+trope,tract,triad
+trope,tract,triad,trial
+trope,tract,trick
+trope,tract,trick,truck
+trope,tract,trans,truly
+trope,tract,trans,trunk
+trope,tract,trans,truss
+trope,tract,trust
+trope,tract,truth
+trope,tract,trust,tryst
+  8 [1;32mt[1;32mr[0mo[0mp[0me[0m  17   117 Some((42, 3, "tract")) ["track", "tract", "trail", "train", "trait", "trash", "trawl", "triad", "trial", "trick", "truck", "truly", "trunk", "truss", "trust", "truth", "tryst"]
+trope,acorn
+trope,acorn,adorn
+trope,acorn,agora
+trope,acorn,choir
+trope,acorn,chord
+trope,acorn,fiord,fjord
+trope,acorn,floor
+trope,acorn,flora
+trope,acorn,floor,flour
+trope,acorn,fiord,glory
+trope,acorn,fiord,ivory
+trope,acorn,floor,roomy
+trope,acorn,scorn
+trope,acorn,scour
+trope,acorn,shorn
+trope,acorn,fiord,sword
+trope,acorn,shorn,sworn
+ 21 [0mt[1;33mr[1;32mo[0mp[0me[0m  17   297 Some((40, 3, "acorn")) ["acorn", "adorn", "agora", "choir", "chord", "fjord", "floor", "flora", "flour", "glory", "ivory", "roomy", "scorn", "scour", "shorn", "sword", "sworn"]
+trope,panty,aptly
+trope,panty,caput
+trope,panty,input
+trope,panty,paint
+trope,panty,pasta
+trope,panty,pasty
+trope,panty,patch
+trope,panty,patsy
+trope,panty,pasty,patty
+trope,panty,pitch
+trope,panty,pithy
+trope,panty,plait
+trope,panty,plant
+trope,panty,putty
+trope,panty,spilt
+trope,panty,splat
+trope,panty,spilt,split
+trope,panty,splat,stamp
+trope,panty,spilt,stump
+ 28 [1;33mt[0mr[0mo[1;33mp[0me[0m  19   347 Some((42, 3, "panty")) ["aptly", "caput", "input", "paint", "pasta", "pasty", "patch", "patsy", "patty", "pitch", "pithy", "plait", "plant", "putty", "spilt", "splat", "split", "stamp", "stump"]
+trope,louse,boule
+trope,louse,canoe
+trope,louse,movie,dodge
+trope,louse,gouge
+trope,louse,house
+trope,louse,lodge
+trope,louse
+trope,louse,house,mouse
+trope,louse,movie
+trope,louse,noble
+trope,louse,noise
+trope,louse,obese
+trope,louse,olive
+trope,louse,ounce
+trope,louse,canoe,ovine
+trope,louse,canoe,oxide
+trope,louse,solve
+trope,louse,vogue
+trope,louse,movie,voice
+171 [0mt[0mr[1;33mo[0mp[1;32me[0m  19   411 Some((42, 3, "louse")) ["boule", "canoe", "dodge", "gouge", "house", "lodge", "louse", "mouse", "movie", "noble", "noise", "obese", "olive", "ounce", "ovine", "oxide", "solve", "vogue", "voice"]
+trope,place,ample
+trope,place,ample,apple
+trope,place,ample,lapse
+trope,place,ample,maple
+trope,place,pause
+trope,place,pause,payee
+trope,place,peace
+trope,place,pence
+trope,place,pique,penne
+trope,place,phase
+trope,place,pence,piece
+trope,place,pique
+trope,place,pique,pixie
+trope,place
+trope,place,plane
+trope,place,plume
+trope,place,pulse
+trope,place,space
+trope,place,spade
+trope,place,spice
+trope,place,spike
+trope,place,spike,spine
+189 [0mt[0mr[0mo[1;33mp[1;32me[0m  22   200 Some((51, 3, "place")) ["ample", "apple", "lapse", "maple", "pause", "payee", "peace", "pence", "penne", "phase", "piece", "pique", "pixie", "place", "plane", "plume", "pulse", "space", "spade", "spice", "spike", "spine"]
+trope,grace,argue
+trope,grace,arise
+trope,grace,brace
+trope,grace,brake
+trope,grace,brake,brave
+trope,grace,bride,bribe
+trope,grace,bride
+trope,grace,bride,bribe,brine
+trope,grace,crane
+trope,grace,crane,crave
+trope,grace,crane,crave,craze
+trope,grace,creme
+trope,grace,creme,crime
+trope,grace,creme,crude
+trope,grace,brake,drake
+trope,grace,bride,drive
+trope,grace,brake,erase
+trope,grace,brake,erase,frame
+trope,grace
+trope,grace,grade
+trope,grace,grade,grave
+trope,grace,grade,grave,graze
+trope,grace,grime
+trope,grace,bride,urine
+168 [0mt[1;32mr[0mo[0mp[1;32me[0m  24   162 Some((65, 4, "grace")) ["argue", "arise", "brace", "brake", "brave", "bribe", "bride", "brine", "crane", "crave", "craze", "creme", "crime", "crude", "drake", "drive", "erase", "frame", "grace", "grade", "grave", "graze", "grime", "urine"]
+trope,repay,caper
+trope,repay,hyper
+trope,repay,leper
+trope,repay,paler
+trope,repay,caper,paper
+trope,repay,paler,parer
+trope,repay,payer
+trope,repay,pearl
+trope,repay,perch
+trope,repay,perch,peril
+trope,repay,perky
+trope,repay,piper
+trope,repay,plier
+trope,repay,plier,purer
+trope,repay,recap
+trope,repay
+trope,repay,repel
+trope,repay,reply
+trope,repay,ripen
+trope,repay,ripen,riper
+trope,repay,spear
+trope,repay,plier,sperm
+trope,repay,piper,super
+trope,repay,piper,upper
+trope,repay,piper,viper
+111 [0mt[1;33mr[0mo[1;33mp[1;33me[0m  25   232 Some((58, 3, "repay")) ["caper", "hyper", "leper", "paler", "paper", "parer", "payer", "pearl", "perch", "peril", "perky", "piper", "plier", "purer", "recap", "repay", "repel", "reply", "ripen", "riper", "spear", "sperm", "super", "upper", "viper"]
+ 93 [0mt[1;33mr[1;33mo[0mp[1;33me[0m  27   362 None ["boxer", "corer", "cover", "cower", "decor", "foyer", "goner", "heron", "homer", "hover", "joker", "loser", "lover", "lower", "mover", "mower", "odder", "offer", "older", "owner", "rodeo", "roger", "rover", "rower", "sober", "sower", "verso"]

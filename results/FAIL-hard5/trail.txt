@@ -1,0 +1,200 @@
+trail,teary
+ 23 [1;32mt[1;33mr[1;32ma[0mi[0ml[0m   1    37 Some((1, 1, "teary")) ["teary"]
+trail,triad
+ 44 [1;32mt[1;32mr[1;33ma[1;33mi[0ml[0m   1     8 Some((1, 1, "triad")) ["triad"]
+trail,giant
+ 46 [1;33mt[0mr[1;32ma[1;33mi[0ml[0m   1    36 Some((1, 1, "giant")) ["giant"]
+trail,diary
+ 48 [0mt[1;33mr[1;32ma[1;33mi[0ml[0m   1    52 Some((1, 1, "diary")) ["diary"]
+trail,tiara
+ 50 [1;32mt[1;33mr[1;32ma[1;33mi[0ml[0m   1     7 Some((1, 1, "tiara")) ["tiara"]
+trail,irate
+ 52 [1;33mt[1;32mr[1;32ma[1;33mi[0ml[0m   1     8 Some((1, 1, "irate")) ["irate"]
+trail,their
+ 59 [1;32mt[1;33mr[0ma[1;32mi[0ml[0m   1    12 Some((1, 1, "their")) ["their"]
+trail,ratio
+ 67 [1;33mt[1;33mr[1;33ma[1;32mi[0ml[0m   1    17 Some((1, 1, "ratio")) ["ratio"]
+trail,tapir
+ 68 [1;32mt[1;33mr[1;33ma[1;32mi[0ml[0m   1     5 Some((1, 1, "tapir")) ["tapir"]
+trail,chair
+ 75 [0mt[1;33mr[1;32ma[1;32mi[0ml[0m   1    26 Some((1, 1, "chair")) ["chair"]
+trail,stair
+ 76 [1;33mt[1;33mr[1;32ma[1;32mi[0ml[0m   1     6 Some((1, 1, "stair")) ["stair"]
+trail,tulle
+ 83 [1;32mt[0mr[0ma[0mi[1;33ml[0m   1   106 Some((1, 1, "tulle")) ["tulle"]
+trail,blurt
+ 85 [1;33mt[1;33mr[0ma[0mi[1;33ml[0m   1    44 Some((1, 1, "blurt")) ["blurt"]
+trail,truly
+ 89 [1;32mt[1;32mr[0ma[0mi[1;33ml[0m   1     9 Some((1, 1, "truly")) ["truly"]
+trail,flirt
+112 [1;33mt[1;33mr[0ma[1;33mi[1;33ml[0m   1    15 Some((1, 1, "flirt")) ["flirt"]
+trail,tulip
+137 [1;32mt[0mr[0ma[1;32mi[1;33ml[0m   1     4 Some((1, 1, "tulip")) ["tulip"]
+trail,valid
+144 [0mt[0mr[1;33ma[1;32mi[1;33ml[0m   1    74 Some((1, 1, "valid")) ["valid"]
+trail,plait
+154 [1;33mt[0mr[1;32ma[1;32mi[1;33ml[0m   1     2 Some((1, 1, "plait")) ["plait"]
+trail,flair
+156 [0mt[1;33mr[1;32ma[1;32mi[1;33ml[0m   1     7 Some((1, 1, "flair")) ["flair"]
+trail,towel
+164 [1;32mt[0mr[0ma[0mi[1;32ml[0m   1    27 Some((1, 1, "towel")) ["towel"]
+trail,troll
+170 [1;32mt[1;32mr[0ma[0mi[1;32ml[0m   1     7 Some((1, 1, "troll")) ["troll"]
+trail,stall
+181 [1;33mt[0mr[1;32ma[0mi[1;32ml[0m   1     3 Some((1, 1, "stall")) ["stall"]
+trail,trawl
+188 [1;32mt[1;32mr[1;32ma[0mi[1;32ml[0m   1     2 Some((1, 1, "trawl")) ["trawl"]
+trail,still
+190 [1;33mt[0mr[0ma[1;33mi[1;32ml[0m   1    21 Some((1, 1, "still")) ["still"]
+trail,twirl
+194 [1;32mt[1;33mr[0ma[1;33mi[1;32ml[0m   1     6 Some((1, 1, "twirl")) ["twirl"]
+trail,vital
+199 [1;33mt[0mr[1;33ma[1;33mi[1;32ml[0m   1     8 Some((1, 1, "vital")) ["vital"]
+trail,tidal
+200 [1;32mt[0mr[1;33ma[1;33mi[1;32ml[0m   1     4 Some((1, 1, "tidal")) ["tidal"]
+trail,trial
+206 [1;32mt[1;32mr[1;33ma[1;33mi[1;32ml[0m   1     2 Some((1, 1, "trial")) ["trial"]
+trail,until
+217 [1;33mt[0mr[0ma[1;32mi[1;32ml[0m   1     4 Some((1, 1, "until")) ["until"]
+trail,peril
+219 [0mt[1;33mr[0ma[1;32mi[1;32ml[0m   1    14 Some((1, 1, "peril")) ["peril"]
+trail,broil
+222 [0mt[1;32mr[0ma[1;32mi[1;32ml[0m   1    10 Some((1, 1, "broil")) ["broil"]
+trail
+242 [1;32mt[1;32mr[1;32ma[1;32mi[1;32ml[0m   1     1 Some((1, 1, "trail")) ["trail"]
+trail,artsy
+trail,artsy,great
+ 16 [1;33mt[1;32mr[1;33ma[0mi[0ml[0m   2    89 Some((3, 2, "artsy")) ["artsy", "great"]
+trail,tread
+trail,tread,treat
+ 17 [1;32mt[1;32mr[1;33ma[0mi[0ml[0m   2    40 Some((3, 2, "tread")) ["tread", "treat"]
+trail,taint
+trail,taint,titan
+ 38 [1;32mt[0mr[1;33ma[1;33mi[0ml[0m   2    58 Some((3, 2, "taint")) ["taint", "titan"]
+trail,druid
+trail,druid,groin
+ 60 [0mt[1;32mr[0ma[1;32mi[0ml[0m   2    56 Some((3, 2, "druid")) ["druid", "groin"]
+trail,tacit
+trail,tacit,tibia
+ 65 [1;32mt[0mr[1;33ma[1;32mi[0ml[0m   2    23 Some((3, 2, "tacit")) ["tacit", "tibia"]
+trail,again
+trail,again,chain
+ 72 [0mt[0mr[1;32ma[1;32mi[0ml[0m   2    64 Some((3, 2, "again")) ["again", "chain"]
+trail,train
+trail,train,trait
+ 80 [1;32mt[1;32mr[1;32ma[1;32mi[0ml[0m   2     4 Some((3, 2, "train")) ["train", "trait"]
+trail,dryly
+trail,dryly,wryly
+ 87 [0mt[1;32mr[0ma[0mi[1;33ml[0m   2    74 Some((3, 2, "dryly")) ["dryly", "wryly"]
+trail,tilde
+trail,tilde,title
+110 [1;32mt[0mr[0ma[1;33mi[1;33ml[0m   2    37 Some((3, 2, "tilde")) ["tilde", "title"]
+trail,pearl
+trail,pearl,snarl
+183 [0mt[1;33mr[1;32ma[0mi[1;32ml[0m   2    17 Some((3, 2, "pearl")) ["pearl", "snarl"]
+trail,swirl
+trail,swirl,whirl
+192 [0mt[1;33mr[0ma[1;33mi[1;32ml[0m   2    38 Some((3, 2, "swirl")) ["swirl", "whirl"]
+trail,rival
+trail,rival,viral
+201 [0mt[1;33mr[1;33ma[1;33mi[1;32ml[0m   2    14 Some((3, 2, "rival")) ["rival", "viral"]
+trail,frail
+trail,frail,grail
+240 [0mt[1;32mr[1;32ma[1;32mi[1;32ml[0m   2     5 Some((3, 2, "frail")) ["frail", "grail"]
+trail,tiger,third
+trail,tiger
+trail,tiger,timer
+ 32 [1;32mt[1;33mr[0ma[1;33mi[0ml[0m   3    64 Some((5, 2, "tiger")) ["third", "tiger", "timer"]
+trail,briar,arise
+trail,briar
+trail,briar,friar
+ 42 [0mt[1;32mr[1;33ma[1;33mi[0ml[0m   3    59 Some((5, 2, "briar")) ["arise", "briar", "friar"]
+trail,droit
+trail,droit,fruit
+trail,droit,orbit
+ 61 [1;33mt[1;32mr[0ma[1;32mi[0ml[0m   3    14 Some((5, 2, "droit")) ["droit", "fruit", "orbit"]
+trail,staid,await
+trail,staid
+trail,staid,stain
+ 73 [1;33mt[0mr[1;32ma[1;32mi[0ml[0m   3    14 Some((5, 2, "staid")) ["await", "staid", "stain"]
+trail,table
+trail,table,tally
+trail,table,talon
+ 92 [1;32mt[0mr[1;33ma[0mi[1;33ml[0m   3    48 Some((5, 2, "table")) ["table", "tally", "talon"]
+trail,split,limit
+trail,split
+trail,split,unlit
+136 [1;33mt[0mr[0ma[1;32mi[1;33ml[0m   3    19 Some((5, 2, "split")) ["limit", "split", "unlit"]
+trail,lurid
+trail,lurid,lyric
+trail,lurid,relic
+138 [0mt[1;33mr[0ma[1;32mi[1;33ml[0m   3    24 Some((5, 2, "lurid")) ["lurid", "lyric", "relic"]
+trail,rebel
+trail,rebel,repel
+trail,rebel,repel,revel
+165 [0mt[1;33mr[0ma[0mi[1;32ml[0m   3   134 Some((6, 3, "rebel")) ["rebel", "repel", "revel"]
+trail,tonal
+trail,tonal,total
+trail,tonal,tubal
+173 [1;32mt[0mr[1;33ma[0mi[1;32ml[0m   3    12 Some((5, 2, "tonal")) ["tonal", "total", "tubal"]
+trail,shall
+trail,shall,shawl
+trail,shall,small
+180 [0mt[0mr[1;32ma[0mi[1;32ml[0m   3    39 Some((5, 2, "shall")) ["shall", "shawl", "small"]
+trail,brawl
+trail,brawl,crawl
+trail,brawl,crawl,drawl
+186 [0mt[1;32mr[1;32ma[0mi[1;32ml[0m   3    13 Some((6, 3, "brawl")) ["brawl", "crawl", "drawl"]
+trail,anvil,axial
+trail,anvil,final
+trail,anvil,ideal
+198 [0mt[0mr[1;33ma[1;33mi[1;32ml[0m   3    54 Some((6, 2, "anvil")) ["axial", "final", "ideal"]
+trail,anvil
+trail,anvil,basil
+trail,anvil,cavil
+225 [0mt[0mr[1;33ma[1;32mi[1;32ml[0m   3    22 Some((5, 2, "anvil")) ["anvil", "basil", "cavil"]
+trail,merit
+trail,merit,refit
+trail,merit,remit
+trail,merit,strip
+ 58 [1;33mt[1;33mr[0ma[1;32mi[0ml[0m   4    45 Some((7, 2, "merit")) ["merit", "refit", "remit", "strip"]
+trail,braid
+trail,braid,brain
+trail,braid,drain
+trail,braid,grain
+ 78 [0mt[1;32mr[1;32ma[1;32mi[0ml[0m   4    19 Some((7, 2, "braid")) ["braid", "brain", "drain", "grain"]
+trail,plain,claim
+trail,plain,plaid
+trail,plain
+trail,plain,slain
+153 [0mt[0mr[1;32ma[1;32mi[1;33ml[0m   4    25 Some((7, 2, "plain")) ["claim", "plaid", "plain", "slain"]
+trail,drill
+trail,drill,frill
+trail,drill,frill,grill
+trail,drill,frill,grill,krill
+195 [0mt[1;32mr[0ma[1;33mi[1;32ml[0m   4    23 Some((10, 4, "drill")) ["drill", "frill", "grill", "krill"]
+trail,teaks,teach
+trail,teaks,tease
+trail,teaks,thank
+trail,teaks,toast
+trail,teaks,twang
+ 20 [1;32mt[0mr[1;32ma[0mi[0ml[0m   5    78 Some((10, 2, "teaks")) ["teach", "tease", "thank", "toast", "twang"]
+trail,frist,drift
+trail,frist,fritz
+trail,frist,print
+trail,frist,wrist
+trail,frist,write
+ 34 [1;33mt[1;32mr[0ma[1;33mi[0ml[0m   5    68 Some((10, 2, "frist")) ["drift", "fritz", "print", "wrist", "write"]
+trail,alert
+trail,alert,altar
+trail,alert,alter
+trail,alert,later
+trail,alert,ultra
+ 94 [1;33mt[1;33mr[1;33ma[0mi[1;33ml[0m   5    22 Some((9, 2, "alert")) ["alert", "altar", "alter", "later", "ultra"]
+trail,civil
+trail,civil,devil
+trail,civil,pupil
+trail,civil,pupil,spoil
+trail,civil,vigil
+216 [0mt[0mr[0ma[1;32mi[1;32ml[0m   5    49 Some((10, 3, "civil")) ["civil", "devil", "pupil", "spoil", "vigil"]
+234 [0mt[0mr[1;32ma[1;32mi[1;32ml[0m   5    14 None ["avail", "email", "flail", "quail", "snail"]

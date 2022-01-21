@@ -1,0 +1,236 @@
+stale,itchy
+  6 [0ms[1;32mt[0ma[0ml[0me[0m   1   239 Some((1, 1, "itchy")) ["itchy"]
+stale,attic
+ 15 [0ms[1;32mt[1;33ma[0ml[0me[0m   1    90 Some((1, 1, "attic")) ["attic"]
+stale,lusty
+ 31 [1;33ms[1;33mt[0ma[1;33ml[0me[0m   1   170 Some((1, 1, "lusty")) ["lusty"]
+stale,stool
+ 35 [1;32ms[1;32mt[0ma[1;33ml[0me[0m   1    21 Some((1, 1, "stool")) ["stool"]
+stale,blast
+ 49 [1;33ms[1;33mt[1;32ma[1;33ml[0me[0m   1    24 Some((1, 1, "blast")) ["blast"]
+stale,slant
+ 50 [1;32ms[1;33mt[1;32ma[1;33ml[0me[0m   1    11 Some((1, 1, "slant")) ["slant"]
+stale,spilt
+ 59 [1;32ms[1;33mt[0ma[1;32ml[0me[0m   1    26 Some((1, 1, "spilt")) ["spilt"]
+stale,atoll
+ 69 [0ms[1;32mt[1;33ma[1;32ml[0me[0m   1     6 Some((1, 1, "atoll")) ["atoll"]
+stale,psalm
+ 73 [1;33ms[0mt[1;32ma[1;32ml[0me[0m   1    61 Some((1, 1, "psalm")) ["psalm"]
+stale,shalt
+ 77 [1;32ms[1;33mt[1;32ma[1;32ml[0me[0m   1     6 Some((1, 1, "shalt")) ["shalt"]
+stale,ethos
+ 88 [1;33ms[1;32mt[0ma[0ml[1;33me[0m   1    77 Some((1, 1, "ethos")) ["ethos"]
+stale,asset
+ 94 [1;33ms[1;33mt[1;33ma[0ml[1;33me[0m   1   117 Some((1, 1, "asset")) ["asset"]
+stale,sweat
+ 95 [1;32ms[1;33mt[1;33ma[0ml[1;33me[0m   1    32 Some((1, 1, "sweat")) ["sweat"]
+stale,islet
+112 [1;33ms[1;33mt[0ma[1;33ml[1;33me[0m   1    53 Some((1, 1, "islet")) ["islet"]
+stale,steel
+116 [1;32ms[1;32mt[0ma[1;33ml[1;33me[0m   1    10 Some((1, 1, "steel")) ["steel"]
+stale,easel
+118 [1;33ms[0mt[1;33ma[1;33ml[1;33me[0m   1   114 Some((1, 1, "easel")) ["easel"]
+stale,steal
+125 [1;32ms[1;32mt[1;33ma[1;33ml[1;33me[0m   1     3 Some((1, 1, "steal")) ["steal"]
+stale,leash
+127 [1;33ms[0mt[1;32ma[1;33ml[1;33me[0m   1    41 Some((1, 1, "leash")) ["leash"]
+stale,least
+130 [1;33ms[1;33mt[1;32ma[1;33ml[1;33me[0m   1     5 Some((1, 1, "least")) ["least"]
+stale,etude
+168 [0ms[1;32mt[0ma[0ml[1;32me[0m   1    42 Some((1, 1, "etude")) ["etude"]
+stale,sauce
+173 [1;32ms[0mt[1;33ma[0ml[1;32me[0m   1    63 Some((1, 1, "sauce")) ["sauce"]
+stale,saute
+176 [1;32ms[1;33mt[1;33ma[0ml[1;32me[0m   1    15 Some((1, 1, "saute")) ["saute"]
+stale,atone
+177 [0ms[1;32mt[1;33ma[0ml[1;32me[0m   1    14 Some((1, 1, "atone")) ["atone"]
+stale,tease
+184 [1;33ms[1;33mt[1;32ma[0ml[1;32me[0m   1    13 Some((1, 1, "tease")) ["tease"]
+stale,skate
+185 [1;32ms[1;33mt[1;32ma[0ml[1;32me[0m   1    11 Some((1, 1, "skate")) ["skate"]
+stale,salve
+200 [1;32ms[0mt[1;33ma[1;33ml[1;32me[0m   1    15 Some((1, 1, "salve")) ["salve"]
+stale,lease
+208 [1;33ms[0mt[1;32ma[1;33ml[1;32me[0m   1    13 Some((1, 1, "lease")) ["lease"]
+stale,slave
+209 [1;32ms[0mt[1;32ma[1;33ml[1;32me[0m   1    10 Some((1, 1, "slave")) ["slave"]
+stale,slate
+212 [1;32ms[1;33mt[1;32ma[1;33ml[1;32me[0m   1     2 Some((1, 1, "slate")) ["slate"]
+stale,smile
+218 [1;32ms[0mt[0ma[1;32ml[1;32me[0m   1    23 Some((1, 1, "smile")) ["smile"]
+stale,utile
+222 [0ms[1;32mt[0ma[1;32ml[1;32me[0m   1     7 Some((1, 1, "utile")) ["utile"]
+stale,aisle
+226 [1;33ms[0mt[1;33ma[1;32ml[1;32me[0m   1     9 Some((1, 1, "aisle")) ["aisle"]
+stale,table
+228 [0ms[1;33mt[1;33ma[1;32ml[1;32me[0m   1     3 Some((1, 1, "table")) ["table"]
+stale,whale
+234 [0ms[0mt[1;32ma[1;32ml[1;32me[0m   1    11 Some((1, 1, "whale")) ["whale"]
+stale
+242 [1;32ms[1;32mt[1;32ma[1;32ml[1;32me[0m   1     1 Some((1, 1, "stale")) ["stale"]
+stale,sloth
+stale,sloth,split
+ 32 [1;32ms[1;33mt[0ma[1;33ml[0me[0m   2    56 Some((3, 2, "sloth")) ["sloth", "split"]
+stale,salty
+stale,salty,splat
+ 41 [1;32ms[1;33mt[1;33ma[1;33ml[0me[0m   2    22 Some((3, 2, "salty")) ["salty", "splat"]
+stale,still
+stale,still,stilt
+ 62 [1;32ms[1;32mt[0ma[1;32ml[0me[0m   2    17 Some((3, 2, "still")) ["still", "stilt"]
+stale,sadly
+stale,sadly,sally
+ 65 [1;32ms[0mt[1;33ma[1;32ml[0me[0m   2    38 Some((3, 2, "sadly")) ["sadly", "sally"]
+stale,stalk
+stale,stalk,stall
+ 80 [1;32ms[1;32mt[1;32ma[1;32ml[0me[0m   2     3 Some((3, 2, "stalk")) ["stalk", "stall"]
+stale,sleet
+stale,sleet,slept
+113 [1;32ms[1;33mt[0ma[1;33ml[1;33me[0m   2    18 Some((3, 2, "sleet")) ["sleet", "slept"]
+stale,leant
+stale,leant,leapt
+129 [0ms[1;33mt[1;32ma[1;33ml[1;33me[0m   2    14 Some((3, 2, "leant")) ["leant", "leapt"]
+stale,smelt
+stale,smelt,spelt
+140 [1;32ms[1;33mt[0ma[1;32ml[1;33me[0m   2    10 Some((3, 2, "smelt")) ["smelt", "spelt"]
+stale,early
+stale,early,fella
+144 [0ms[0mt[1;33ma[1;32ml[1;33me[0m   2    97 Some((3, 2, "early")) ["early", "fella"]
+stale,mealy
+stale,mealy,realm
+153 [0ms[0mt[1;32ma[1;32ml[1;33me[0m   2    34 Some((3, 2, "mealy")) ["mealy", "realm"]
+stale,dealt
+stale,dealt,exalt
+156 [0ms[1;33mt[1;32ma[1;32ml[1;33me[0m   2     5 Some((3, 2, "dealt")) ["dealt", "exalt"]
+stale,false
+stale,false,lapse
+199 [1;33ms[0mt[1;33ma[1;33ml[1;32me[0m   2    24 Some((3, 2, "false")) ["false", "lapse"]
+stale,lathe
+stale,lathe,latte
+201 [0ms[1;33mt[1;33ma[1;33ml[1;32me[0m   2    12 Some((3, 2, "lathe")) ["lathe", "latte"]
+stale,elate
+stale,elate,plate
+210 [0ms[1;33mt[1;32ma[1;33ml[1;32me[0m   2     7 Some((3, 2, "elate")) ["elate", "plate"]
+stale,title
+stale,title,tulle
+219 [0ms[1;33mt[0ma[1;32ml[1;32me[0m   2    18 Some((3, 2, "title")) ["title", "tulle"]
+stale,stole
+stale,stole,style
+224 [1;32ms[1;32mt[0ma[1;32ml[1;32me[0m   2     5 Some((3, 2, "stole")) ["stole", "style"]
+stale,scale
+stale,scale,shale
+236 [1;32ms[0mt[1;32ma[1;32ml[1;32me[0m   2     5 Some((3, 2, "scale")) ["scale", "shale"]
+stale,strap
+stale,strap,straw
+stale,strap,straw,stray
+ 17 [1;32ms[1;32mt[1;33ma[0ml[0me[0m   3    57 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+stale,chalk
+stale,chalk,koala
+stale,chalk,qualm
+ 72 [0ms[0mt[1;32ma[1;32ml[0me[0m   3    92 Some((5, 2, "chalk")) ["chalk", "koala", "qualm"]
+stale,ashen
+stale,ashen,askew
+stale,ashen,essay
+ 91 [1;33ms[0mt[1;33ma[0ml[1;33me[0m   3   610 Some((5, 2, "ashen")) ["ashen", "askew", "essay"]
+stale,stead
+stale,stead,steak
+stale,stead,steak,steam
+ 98 [1;32ms[1;32mt[1;33ma[0ml[1;33me[0m   3    17 Some((6, 3, "stead")) ["stead", "steak", "steam"]
+stale,beast
+stale,beast,feast
+stale,beast,feast,yeast
+103 [1;33ms[1;33mt[1;32ma[0ml[1;33me[0m   3    37 Some((6, 3, "beast")) ["beast", "feast", "yeast"]
+stale,sleek
+stale,sleek,sleep
+stale,sleek,spiel
+110 [1;32ms[0mt[0ma[1;33ml[1;33me[0m   3   120 Some((5, 2, "sleek")) ["sleek", "sleep", "spiel"]
+stale,dwelt
+stale,dwelt,exult
+stale,dwelt,knelt
+138 [0ms[1;33mt[0ma[1;32ml[1;33me[0m   3    37 Some((5, 2, "dwelt")) ["dwelt", "exult", "knelt"]
+stale,acute
+stale,acute,bathe
+stale,acute,haute
+174 [0ms[1;33mt[1;33ma[0ml[1;32me[0m   3    94 Some((5, 2, "acute")) ["acute", "bathe", "haute"]
+stale,saint
+stale,saint,satin
+stale,saint,satyr
+stale,saint,squat
+ 14 [1;32ms[1;33mt[1;33ma[0ml[0me[0m   4   134 Some((7, 2, "saint")) ["saint", "satin", "satyr", "squat"]
+stale,scart,scant
+stale,scart,shaft
+stale,scart,smart
+stale,scart,swath
+ 23 [1;32ms[1;33mt[1;32ma[0ml[0me[0m   4    65 Some((8, 2, "scart")) ["scant", "shaft", "smart", "swath"]
+stale,bless
+stale,bless,flesh
+stale,bless,loser
+stale,bless,welsh
+109 [1;33ms[0mt[0ma[1;33ml[1;33me[0m   4   454 Some((7, 2, "bless")) ["bless", "flesh", "loser", "welsh"]
+stale,tense
+stale,tense,terse
+stale,tense,these
+stale,tense,those
+166 [1;33ms[1;33mt[0ma[0ml[1;32me[0m   4    78 Some((7, 2, "tense")) ["tense", "terse", "these", "those"]
+stale,smite
+stale,smite,smote
+stale,smite,spite
+stale,smite,spite,suite
+167 [1;32ms[1;33mt[0ma[0ml[1;32me[0m   4    53 Some((8, 3, "smite")) ["smite", "smote", "spite", "suite"]
+stale,stoke
+stale,stoke,stone
+stale,stoke,stone,store
+stale,stoke,stone,store,stove
+170 [1;32ms[1;32mt[0ma[0ml[1;32me[0m   4    32 Some((10, 4, "stoke")) ["stoke", "stone", "store", "stove"]
+stale,close
+stale,close,loose
+stale,close,louse
+stale,close,pulse
+190 [1;33ms[0mt[0ma[1;33ml[1;32me[0m   4    66 Some((7, 2, "close")) ["close", "loose", "louse", "pulse"]
+stale,lithe,elite
+stale,lithe,flute
+stale,lithe
+stale,lithe,tilde
+192 [0ms[1;33mt[0ma[1;33ml[1;32me[0m   4    45 Some((7, 2, "lithe")) ["elite", "flute", "lithe", "tilde"]
+stale,trabs,boast
+stale,trabs,coast
+stale,trabs,roast
+stale,trabs,toast
+stale,trabs,trash
+ 22 [1;33ms[1;33mt[1;32ma[0ml[0me[0m   5   153 Some((10, 2, "trabs")) ["boast", "coast", "roast", "toast", "trash"]
+stale,liart,loath
+stale,liart,plait
+stale,liart,plant
+stale,liart,trail
+stale,liart,trawl
+ 48 [0ms[1;33mt[1;32ma[1;33ml[0me[0m   5    49 Some((10, 2, "liart")) ["loath", "plait", "plant", "trail", "trawl"]
+stale,fault,adult
+stale,fault,aptly
+stale,fault
+stale,fault,tally
+stale,fault,vault
+ 66 [0ms[1;33mt[1;33ma[1;32ml[0me[0m   5    35 Some((9, 2, "fault")) ["adult", "aptly", "fault", "tally", "vault"]
+stale,scald
+stale,scald,scalp
+stale,scald,scalp,scaly
+stale,scald,shall
+stale,scald,shall,small
+ 74 [1;32ms[0mt[1;32ma[1;32ml[0me[0m   5    26 Some((11, 3, "scald")) ["scald", "scalp", "scaly", "shall", "small"]
+stale,other,ether
+stale,other,ethic
+stale,other
+stale,other,otter
+stale,other,utter
+ 87 [0ms[1;32mt[0ma[0ml[1;33me[0m   5    98 Some((9, 2, "other")) ["ether", "ethic", "other", "otter", "utter"]
+stale,strep,steed
+stale,strep,steep
+stale,strep,steer
+stale,strep,stein
+stale,strep,stern
+ 89 [1;32ms[1;32mt[0ma[0ml[1;33me[0m   5    70 Some((10, 2, "strep")) ["steed", "steep", "steer", "stein", "stern"]
+stale,shelf
+stale,shelf,shell
+stale,shelf,smell
+stale,shelf,smell,spell
+stale,shelf,smell,spell,swell
+137 [1;32ms[0mt[0ma[1;32ml[1;33me[0m   5    48 Some((12, 4, "shelf")) ["shelf", "shell", "smell", "spell", "swell"]
+188 [1;32ms[1;32mt[1;32ma[0ml[1;32me[0m   5     8 None ["stage", "stake", "stare", "state", "stave"]

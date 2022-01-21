@@ -1,0 +1,985 @@
+roist,robin
+ 17 [1;32mr[1;32mo[1;33mi[0ms[0mt[0m   1    18 Some((1, 1, "robin")) ["robin"]
+roist,rhino
+ 23 [1;32mr[1;33mo[1;32mi[0ms[0mt[0m   1     6 Some((1, 1, "rhino")) ["rhino"]
+roist,visor
+ 40 [1;33mr[1;33mo[1;33mi[1;33ms[0mt[0m   1    35 Some((1, 1, "visor")) ["visor"]
+roist,scion
+ 48 [0mr[1;33mo[1;32mi[1;33ms[0mt[0m   1    65 Some((1, 1, "scion")) ["scion"]
+roist,reuse
+ 56 [1;32mr[0mo[0mi[1;32ms[0mt[0m   1    16 Some((1, 1, "reuse")) ["reuse"]
+roist,rouse
+ 62 [1;32mr[1;32mo[0mi[1;32ms[0mt[0m   1     8 Some((1, 1, "rouse")) ["rouse"]
+roist,rinse
+ 65 [1;32mr[0mo[1;33mi[1;32ms[0mt[0m   1     4 Some((1, 1, "rinse")) ["rinse"]
+roist,kiosk
+ 66 [0mr[1;33mo[1;33mi[1;32ms[0mt[0m   1    21 Some((1, 1, "kiosk")) ["kiosk"]
+roist,raise
+ 74 [1;32mr[0mo[1;32mi[1;32ms[0mt[0m   1     3 Some((1, 1, "raise")) ["raise"]
+roist,retro
+ 86 [1;32mr[1;33mo[0mi[0ms[1;33mt[0m   1    46 Some((1, 1, "retro")) ["retro"]
+roist,intro
+ 94 [1;33mr[1;33mo[1;33mi[0ms[1;33mt[0m   1    24 Some((1, 1, "intro")) ["intro"]
+roist,ratio
+ 95 [1;32mr[1;33mo[1;33mi[0ms[1;33mt[0m   1     7 Some((1, 1, "ratio")) ["ratio"]
+roist,rusty
+110 [1;32mr[0mo[0mi[1;33ms[1;33mt[0m   1    47 Some((1, 1, "rusty")) ["rusty"]
+roist,torus
+115 [1;33mr[1;32mo[0mi[1;33ms[1;33mt[0m   1    41 Some((1, 1, "torus")) ["torus"]
+roist,stoic
+120 [0mr[1;33mo[1;33mi[1;33ms[1;33mt[0m   1    36 Some((1, 1, "stoic")) ["stoic"]
+roist,those
+138 [0mr[1;33mo[0mi[1;32ms[1;33mt[0m   1    48 Some((1, 1, "those")) ["those"]
+roist,torso
+142 [1;33mr[1;32mo[0mi[1;32ms[1;33mt[0m   1    11 Some((1, 1, "torso")) ["torso"]
+roist,tipsy
+144 [0mr[0mo[1;33mi[1;32ms[1;33mt[0m   1    46 Some((1, 1, "tipsy")) ["tipsy"]
+roist,court
+169 [1;33mr[1;32mo[0mi[0ms[1;32mt[0m   1    19 Some((1, 1, "court")) ["court"]
+roist,robot
+170 [1;32mr[1;32mo[0mi[0ms[1;32mt[0m   1    10 Some((1, 1, "robot")) ["robot"]
+roist,vomit
+177 [0mr[1;32mo[1;33mi[0ms[1;32mt[0m   1    16 Some((1, 1, "vomit")) ["vomit"]
+roist,idiot
+183 [0mr[1;33mo[1;32mi[0ms[1;32mt[0m   1    16 Some((1, 1, "idiot")) ["idiot"]
+roist,reset
+191 [1;32mr[0mo[0mi[1;33ms[1;32mt[0m   1    13 Some((1, 1, "reset")) ["reset"]
+roist,posit
+204 [0mr[1;32mo[1;33mi[1;33ms[1;32mt[0m   1     8 Some((1, 1, "posit")) ["posit"]
+roist,ghost
+219 [0mr[1;33mo[0mi[1;32ms[1;32mt[0m   1    31 Some((1, 1, "ghost")) ["ghost"]
+roist,frost
+220 [1;33mr[1;33mo[0mi[1;32ms[1;32mt[0m   1    10 Some((1, 1, "frost")) ["frost"]
+roist,worst
+223 [1;33mr[1;32mo[0mi[1;32ms[1;32mt[0m   1     7 Some((1, 1, "worst")) ["worst"]
+roist,midst
+225 [0mr[0mo[1;33mi[1;32ms[1;32mt[0m   1    37 Some((1, 1, "midst")) ["midst"]
+roist,first
+226 [1;33mr[0mo[1;33mi[1;32ms[1;32mt[0m   1     7 Some((1, 1, "first")) ["first"]
+roist,wrist
+235 [1;33mr[0mo[1;32mi[1;32ms[1;32mt[0m   1     6 Some((1, 1, "wrist")) ["wrist"]
+roist,radio
+roist,radio,rigor
+ 14 [1;32mr[1;33mo[1;33mi[0ms[0mt[0m   2    26 Some((3, 2, "radio")) ["radio", "rigor"]
+roist,rainy
+roist,rainy,reign
+ 20 [1;32mr[0mo[1;32mi[0ms[0mt[0m   2    33 Some((3, 2, "rainy")) ["rainy", "reign"]
+roist,primo
+roist,primo,prior
+ 22 [1;33mr[1;33mo[1;32mi[0ms[0mt[0m   2    29 Some((3, 2, "primo")) ["primo", "prior"]
+roist,raspy
+roist,raspy,rebus
+ 29 [1;32mr[0mo[0mi[1;33ms[0mt[0m   2   234 Some((3, 2, "raspy")) ["raspy", "rebus"]
+roist,solid
+roist,solid,sonic
+ 42 [0mr[1;32mo[1;33mi[1;33ms[0mt[0m   2    78 Some((3, 2, "solid")) ["solid", "sonic"]
+roist,horse
+roist,horse,worse
+ 61 [1;33mr[1;32mo[0mi[1;32ms[0mt[0m   2    24 Some((3, 2, "horse")) ["horse", "worse"]
+roist,rotor
+roist,rotor,route
+ 89 [1;32mr[1;32mo[0mi[0ms[1;33mt[0m   2    36 Some((3, 2, "rotor")) ["rotor", "route"]
+roist,stair
+roist,stair,strip
+118 [1;33mr[0mo[1;33mi[1;33ms[1;33mt[0m   2    56 Some((3, 2, "stair")) ["stair", "strip"]
+roist,droit
+roist,droit,orbit
+175 [1;33mr[1;33mo[1;33mi[0ms[1;32mt[0m   2     8 Some((3, 2, "droit")) ["droit", "orbit"]
+roist,joint
+roist,joint,point
+186 [0mr[1;32mo[1;32mi[0ms[1;32mt[0m   2    10 Some((3, 2, "joint")) ["joint", "point"]
+roist,shirt
+roist,shirt,skirt
+208 [1;33mr[0mo[1;32mi[1;33ms[1;32mt[0m   2    10 Some((3, 2, "shirt")) ["shirt", "skirt"]
+roist,roast
+roist,roast,roost
+224 [1;32mr[1;32mo[0mi[1;32ms[1;32mt[0m   2     5 Some((3, 2, "roast")) ["roast", "roost"]
+roist,rayon
+roist,rayon,razor
+roist,rayon,rumor
+  5 [1;32mr[1;33mo[0mi[0ms[0mt[0m   3   177 Some((5, 2, "rayon")) ["rayon", "razor", "rumor"]
+roist,bison
+roist,bison,disco
+roist,bison,spoil
+ 39 [0mr[1;33mo[1;33mi[1;33ms[0mt[0m   3   189 Some((5, 2, "bison")) ["bison", "disco", "spoil"]
+roist,noise
+roist,noise,noisy
+roist,noise,poise
+ 78 [0mr[1;32mo[1;32mi[1;32ms[0mt[0m   3    12 Some((5, 2, "noise")) ["noise", "noisy", "poise"]
+roist,ratty
+roist,ratty,retch
+roist,ratty,retry
+ 83 [1;32mr[0mo[0mi[0ms[1;33mt[0m   3   120 Some((5, 2, "ratty")) ["ratty", "retch", "retry"]
+roist,sooth
+roist,sooth,sooty
+roist,sooth,south
+114 [0mr[1;32mo[0mi[1;33ms[1;33mt[0m   3   198 Some((5, 2, "sooth")) ["sooth", "sooty", "south"]
+roist,react
+roist,react,rebut
+roist,react,recut
+164 [1;32mr[0mo[0mi[0ms[1;32mt[0m   3    36 Some((5, 2, "react")) ["react", "rebut", "recut"]
+roist,drift
+roist,drift,flirt
+roist,drift,print
+181 [1;33mr[0mo[1;32mi[0ms[1;32mt[0m   3    22 Some((5, 2, "drift")) ["drift", "flirt", "print"]
+roist,short
+roist,short,snort
+roist,short,snort,sport
+193 [1;33mr[1;33mo[0mi[1;33ms[1;32mt[0m   3    16 Some((6, 3, "short")) ["short", "snort", "sport"]
+roist,goier,doing
+roist,goier,going
+roist,goier,voice
+roist,goier,voila
+ 24 [0mr[1;32mo[1;32mi[0ms[0mt[0m   4    70 Some((8, 2, "goier")) ["doing", "going", "voice", "voila"]
+roist,resin
+roist,resin,risen
+roist,resin,riser
+roist,resin,risky
+ 38 [1;32mr[0mo[1;33mi[1;33ms[0mt[0m   4    71 Some((7, 2, "resin")) ["resin", "risen", "riser", "risky"]
+roist,missy,gipsy
+roist,missy
+roist,missy,quasi
+roist,missy,sissy
+ 63 [0mr[0mo[1;33mi[1;32ms[0mt[0m   4   125 Some((7, 2, "missy")) ["gipsy", "missy", "quasi", "sissy"]
+roist,ditto
+roist,ditto,optic
+roist,ditto,patio
+roist,ditto,pinto
+ 93 [0mr[1;33mo[1;33mi[0ms[1;33mt[0m   4   113 Some((7, 2, "ditto")) ["ditto", "optic", "patio", "pinto"]
+roist,store
+roist,store,stork
+roist,store,stork,storm
+roist,store,stork,storm,story
+112 [1;33mr[1;33mo[0mi[1;33ms[1;33mt[0m   4    75 Some((10, 4, "store")) ["store", "stork", "storm", "story"]
+roist,artsy
+roist,artsy,terse
+roist,artsy,trash
+roist,artsy,truss
+136 [1;33mr[0mo[0mi[1;32ms[1;33mt[0m   4    51 Some((7, 2, "artsy")) ["artsy", "terse", "trash", "truss"]
+roist,fruit
+roist,fruit,inert
+roist,fruit,merit
+roist,fruit,trait
+172 [1;33mr[0mo[1;33mi[0ms[1;32mt[0m   4    50 Some((7, 2, "fruit")) ["fruit", "inert", "merit", "trait"]
+roist,refit
+roist,refit,remit
+roist,refit,right
+roist,refit,rivet
+173 [1;32mr[0mo[1;33mi[0ms[1;32mt[0m   4    14 Some((7, 2, "refit")) ["refit", "remit", "right", "rivet"]
+roist,pilot,bigot
+roist,pilot,ingot
+roist,pilot
+roist,pilot,pivot
+174 [0mr[1;33mo[1;33mi[0ms[1;32mt[0m   4    41 Some((7, 2, "pilot")) ["bigot", "ingot", "pilot", "pivot"]
+roist,smart
+roist,smart,spurt
+roist,smart,start
+roist,smart,strut
+190 [1;33mr[0mo[0mi[1;33ms[1;32mt[0m   4    67 Some((7, 2, "smart")) ["smart", "spurt", "start", "strut"]
+roist,sight,islet
+roist,sight
+roist,sight,split
+roist,sight,visit
+198 [0mr[0mo[1;33mi[1;33ms[1;32mt[0m   4    70 Some((7, 2, "sight")) ["islet", "sight", "split", "visit"]
+roist,whist,exist
+roist,whist,heist
+roist,whist,twist
+roist,whist,waist
+234 [0mr[0mo[1;32mi[1;32ms[1;32mt[0m   4    31 Some((8, 2, "whist")) ["exist", "heist", "twist", "waist"]
+roist,foist
+roist,foist,hoist
+roist,foist,hoist,joist
+roist,foist,hoist,joist,moist
+240 [0mr[1;32mo[1;32mi[1;32ms[1;32mt[0m   4     6 Some((10, 4, "foist")) ["foist", "hoist", "joist", "moist"]
+roist,prise,arise
+roist,prise,brisk
+roist,prise,crisp
+roist,prise,brisk,frisk
+roist,prise,prism
+ 73 [1;33mr[0mo[1;32mi[1;32ms[0mt[0m   5    21 Some((11, 3, "prise")) ["arise", "brisk", "crisp", "frisk", "prism"]
+roist,toxin,motif
+roist,toxin,tonic
+roist,toxin,topic
+roist,toxin,toxic
+roist,toxin
+ 96 [0mr[1;32mo[1;33mi[0ms[1;33mt[0m   5    49 Some((9, 2, "toxin")) ["motif", "tonic", "topic", "toxic", "toxin"]
+roist,stash,patsy
+roist,stash
+roist,stash,tease
+roist,stash,tense
+roist,stash,these
+135 [0mr[0mo[0mi[1;32ms[1;33mt[0m   5   155 Some((9, 2, "stash")) ["patsy", "stash", "tease", "tense", "these"]
+roist,boast
+roist,boast,boost
+roist,boast,coast
+roist,boast,joust
+roist,boast,coast,toast
+222 [0mr[1;32mo[0mi[1;32ms[1;32mt[0m   5    23 Some((10, 3, "boast")) ["boast", "boost", "coast", "joust", "toast"]
+roist,miser
+roist,miser,serif
+roist,miser,siren
+roist,miser,sprig
+roist,miser,virus
+roist,miser,wiser
+ 37 [1;33mr[0mo[1;33mi[1;33ms[0mt[0m   6   320 Some((11, 2, "miser")) ["miser", "serif", "siren", "sprig", "virus", "wiser"]
+roist,shire
+roist,shire,shirk
+roist,shire,skier
+roist,shire,smirk
+roist,shire,spire
+roist,shire,smirk,swirl
+ 46 [1;33mr[0mo[1;32mi[1;33ms[0mt[0m   6   126 Some((12, 3, "shire")) ["shire", "shirk", "skier", "smirk", "spire", "swirl"]
+roist,cross,arose
+roist,cross
+roist,cross,dross
+roist,cross,dross,gross
+roist,cross,arose,prose
+roist,cross,verso
+ 58 [1;33mr[1;33mo[0mi[1;32ms[0mt[0m   6    41 Some((13, 3, "cross")) ["arose", "cross", "dross", "gross", "prose", "verso"]
+roist,amiss
+roist,amiss,bliss
+roist,amiss,daisy
+roist,amiss,guise
+roist,amiss,swish
+roist,amiss,guise,whisk
+ 72 [0mr[0mo[1;32mi[1;32ms[0mt[0m   6    88 Some((12, 3, "amiss")) ["amiss", "bliss", "daisy", "guise", "swish", "whisk"]
+roist,trout,abort
+roist,trout,front
+roist,trout,grout
+roist,trout,overt
+roist,trout,tarot
+roist,trout
+166 [1;33mr[1;33mo[0mi[0ms[1;32mt[0m   6    50 Some((11, 2, "trout")) ["abort", "front", "grout", "overt", "tarot", "trout"]
+roist,stilt,shift,saint
+roist,stilt,shift
+roist,stilt,spilt
+roist,stilt
+roist,stilt,stint
+roist,stilt,shift,swift
+207 [0mr[0mo[1;32mi[1;33ms[1;32mt[0m   6    45 Some((13, 3, "stilt")) ["saint", "shift", "spilt", "stilt", "stint", "swift"]
+roist,crest,burst
+roist,crest
+roist,crest,crust
+roist,crest,trust
+roist,crest,trust,tryst
+roist,crest,wrest
+217 [1;33mr[0mo[0mi[1;32ms[1;32mt[0m   6    40 Some((12, 3, "crest")) ["burst", "crest", "crust", "trust", "tryst", "wrest"]
+roist,colin,comic
+roist,colin,conic
+roist,colin,folio
+roist,colin,ionic
+roist,colin,logic
+roist,colin,login
+roist,colin,movie
+ 15 [0mr[1;32mo[1;33mi[0ms[0mt[0m   7   232 Some((14, 2, "colin")) ["comic", "conic", "folio", "ionic", "logic", "login", "movie"]
+roist,loser
+roist,loser,poser
+roist,loser,sober
+roist,loser,solar
+roist,loser,sonar
+roist,loser,sorry
+roist,loser,sober,sower
+ 34 [1;33mr[1;32mo[0mi[1;33ms[0mt[0m   7   206 Some((14, 3, "loser")) ["loser", "poser", "sober", "solar", "sonar", "sorry", "sower"]
+roist,satin
+roist,satin,sixth
+roist,satin,sixth,sixty
+roist,satin,staid
+roist,satin,stain
+roist,satin,stein
+roist,satin,vista
+117 [0mr[0mo[1;33mi[1;33ms[1;33mt[0m   7   338 Some((14, 3, "satin")) ["satin", "sixth", "sixty", "staid", "stain", "stein", "vista"]
+roist,mount,comet
+roist,mount,count
+roist,mount,covet
+roist,mount,donut
+roist,mount,doubt
+roist,mount,moult
+roist,mount
+168 [0mr[1;32mo[0mi[0ms[1;32mt[0m   7    72 Some((13, 2, "mount")) ["comet", "count", "covet", "donut", "doubt", "moult", "mount"]
+roist,chose
+roist,chose,close
+roist,chose,floss
+roist,chose,floss,gloss
+roist,chose,lasso
+roist,chose,obese
+roist,chose,slosh
+roist,chose,whose
+ 57 [0mr[1;33mo[0mi[1;32ms[0mt[0m   8   150 Some((16, 3, "chose")) ["chose", "close", "floss", "gloss", "lasso", "obese", "slosh", "whose"]
+roist,shoot,ascot
+roist,shoot,onset
+roist,shoot,stopt,scout
+roist,shoot
+roist,shoot,shout
+roist,shoot,stopt,scout,snout
+roist,shoot,stopt,spout
+roist,shoot,stopt,stout
+192 [0mr[1;33mo[0mi[1;33ms[1;32mt[0m   8    68 Some((20, 4, "shoot")) ["ascot", "onset", "scout", "shoot", "shout", "snout", "spout", "stout"]
+roist,groin,broil
+roist,groin,choir
+roist,groin,curio
+roist,groin
+roist,groin,irony
+roist,groin,ivory
+roist,groin,micro
+roist,groin,minor
+roist,groin,vigor
+ 13 [1;33mr[1;33mo[1;33mi[0ms[0mt[0m   9   126 Some((17, 2, "groin")) ["broil", "choir", "curio", "groin", "irony", "ivory", "micro", "minor", "vigor"]
+roist,loans,bonus
+roist,loans,bosom
+roist,loans,focus
+roist,loans,locus
+roist,loans,nosey
+roist,loans,soapy
+roist,loans,bosom,soggy
+roist,loans,solve
+roist,loans,sound
+ 33 [0mr[1;32mo[0mi[1;33ms[0mt[0m   9   943 Some((19, 3, "loans")) ["bonus", "bosom", "focus", "locus", "nosey", "soapy", "soggy", "solve", "sound"]
+roist,styre,ester
+roist,styre,satyr
+roist,styre,stare
+roist,styre,stark
+roist,styre,steer
+roist,styre,stern
+roist,styre,strap
+roist,styre,strap,straw
+roist,styre,stray
+109 [1;33mr[0mo[0mi[1;33ms[1;33mt[0m   9   272 Some((19, 3, "styre")) ["ester", "satyr", "stare", "stark", "steer", "stern", "strap", "straw", "stray"]
+roist,stink,smite
+roist,stink,smite,smith
+roist,stink,smite,spite
+roist,stink,stick
+roist,stink,stiff
+roist,stink,stiff,still
+roist,stink,sting
+roist,stink
+roist,stink,smite,spite,suite
+126 [0mr[0mo[1;32mi[1;33ms[1;33mt[0m   9   137 Some((22, 4, "stink")) ["smite", "smith", "spite", "stick", "stiff", "still", "sting", "stink", "suite"]
+roist,blast,angst
+roist,blast,beast
+roist,blast
+roist,blast,guest,chest
+roist,blast,feast
+roist,blast,guest
+roist,blast,least
+roist,blast,guest,quest
+roist,blast,feast,yeast
+216 [0mr[0mo[0mi[1;32ms[1;32mt[0m   9   111 Some((20, 3, "blast")) ["angst", "beast", "blast", "chest", "feast", "guest", "least", "quest", "yeast"]
+roist,tower,forth,aorta
+roist,tower,forte
+roist,tower,forth
+roist,tower,forth,forty
+roist,tower,motor
+roist,tower,forth,north
+roist,tower,torch
+roist,tower
+roist,tower,voter
+roist,tower,worth
+ 88 [1;33mr[1;32mo[0mi[0ms[1;33mt[0m  10    94 Some((22, 3, "tower")) ["aorta", "forte", "forth", "forty", "motor", "north", "torch", "tower", "voter", "worth"]
+roist,ovine,axiom
+roist,ovine,axion
+roist,ovine,axiom,idiom
+roist,ovine,olive
+roist,ovine,onion
+roist,ovine,opine
+roist,ovine,opium
+roist,ovine
+roist,ovine,owing
+roist,ovine,oxide
+roist,ovine,axion,union
+ 21 [0mr[1;33mo[1;32mi[0ms[0mt[0m  11   152 Some((23, 3, "ovine")) ["axiom", "axion", "idiom", "olive", "onion", "opine", "opium", "ovine", "owing", "oxide", "union"]
+roist,sworn,arson
+roist,sworn,savor
+roist,sworn,score
+roist,sworn,scorn
+roist,sworn,scour
+roist,sworn,score,shore
+roist,sworn,scorn,shorn
+roist,sworn,snore
+roist,sworn,score,shore,spore
+roist,sworn,sword
+roist,sworn,sword,swore
+roist,sworn
+ 31 [1;33mr[1;33mo[0mi[1;33ms[0mt[0m  12   379 Some((28, 4, "sworn")) ["arson", "savor", "score", "scorn", "scour", "shore", "shorn", "snore", "spore", "sword", "swore", "sworn"]
+roist,trice,fritz
+roist,trice,third
+roist,trice,triad
+roist,trice,triad,trial
+roist,trice,tribe
+roist,trice
+roist,trice,trick
+roist,trice,tried
+roist,trice,tribe,tripe
+roist,trice,tribe,tripe,trite
+roist,trice,third,twirl
+roist,trice,write
+100 [1;33mr[0mo[1;32mi[0ms[1;33mt[0m  12    73 Some((28, 4, "trice")) ["fritz", "third", "triad", "trial", "tribe", "trice", "trick", "tried", "tripe", "trite", "twirl", "write"]
+roist,flint,built
+roist,flint,edict
+roist,flint,edict,evict
+roist,flint,faint
+roist,flint
+roist,flint,glint
+roist,flint,built,guilt
+roist,flint,paint
+roist,flint,edict,quiet
+roist,flint,built,guilt,quilt
+roist,flint,paint,taint
+roist,flint,edict,twixt
+180 [0mr[0mo[1;32mi[0ms[1;32mt[0m  12    93 Some((30, 4, "flint")) ["built", "edict", "evict", "faint", "flint", "glint", "guilt", "paint", "quiet", "quilt", "taint", "twixt"]
+roist,roved,roach
+roist,roved,roach,rocky
+roist,roved,rodeo
+roist,roved,roger
+roist,roved,rogue
+roist,roved,roach,roomy
+roist,roved,rogue,rouge
+roist,roved,roach,rough
+roist,roved,round
+roist,roved,rover
+roist,roved,rowdy
+roist,roved,roger,rower
+roist,roved,roach,royal
+  8 [1;32mr[1;32mo[0mi[0ms[0mt[0m  13   130 Some((32, 3, "roved")) ["roach", "rocky", "rodeo", "roger", "rogue", "roomy", "rouge", "rough", "round", "rover", "rowdy", "rower", "royal"]
+roist,riped,rabbi
+roist,riped,rabid
+roist,riped,radii
+roist,riped,rapid
+roist,riped,relic
+roist,riped,rider
+roist,riped,ridge
+roist,riped,rifle
+roist,riped,rigid
+roist,riped,ripen
+roist,riped,ripen,riper
+roist,riped,rival
+roist,riped,river
+ 11 [1;32mr[0mo[1;33mi[0ms[0mt[0m  13   182 Some((27, 3, "riped")) ["rabbi", "rabid", "radii", "rapid", "relic", "rider", "ridge", "rifle", "rigid", "ripen", "riper", "rival", "river"]
+roist,mouse,bossy
+roist,mouse,goose,copse
+roist,mouse,goose
+roist,mouse,house
+roist,mouse,goose,loose
+roist,mouse,house,louse
+roist,mouse,lousy
+roist,mouse,moose
+roist,mouse,mossy
+roist,mouse
+roist,mouse,goose,loose,noose
+roist,mouse,poesy
+roist,mouse,goose,copse,posse
+ 60 [0mr[1;32mo[0mi[1;32ms[0mt[0m  13    97 Some((32, 4, "mouse")) ["bossy", "copse", "goose", "house", "loose", "louse", "lousy", "moose", "mossy", "mouse", "noose", "poesy", "posse"]
+roist,tiger,birth
+roist,tiger,birth,dirty
+roist,tiger,girth
+roist,tiger,inter
+roist,tiger,irate
+roist,tiger,birth,mirth
+roist,tiger,tapir
+roist,tiger,their
+roist,tiger,tiara
+roist,tiger
+roist,tiger,timer
+roist,tiger,trail
+roist,tiger,trail,train
+ 91 [1;33mr[0mo[1;33mi[0ms[1;33mt[0m  13   191 Some((28, 3, "tiger")) ["birth", "dirty", "girth", "inter", "irate", "mirth", "tapir", "their", "tiara", "tiger", "timer", "trail", "train"]
+roist,flout,abbot
+roist,flout,about
+roist,flout,adopt
+roist,flout,afoot
+roist,flout,allot
+roist,flout,aloft
+roist,flout,bloat
+roist,flout,clout
+roist,flout,abbot,depot
+roist,flout,float
+roist,flout
+roist,flout,bloat,gloat
+roist,flout,abbot,octet
+roist,flout,ought
+165 [0mr[1;33mo[0mi[0ms[1;32mt[0m  14   198 Some((30, 3, "flout")) ["abbot", "about", "adopt", "afoot", "allot", "aloft", "bloat", "clout", "depot", "float", "flout", "gloat", "octet", "ought"]
+roist,stoke,ethos
+roist,stoke,gusto
+roist,stoke,pesto
+roist,stoke,sloth
+roist,stoke,smote
+roist,stoke,stock
+roist,stoke
+roist,stoke,stole
+roist,stoke,stoop,stomp
+roist,stoke,stole,stone
+roist,stoke,stoop,stony
+roist,stoke,stoop,stood
+roist,stoke,stoop,stood,stool
+roist,stoke,stoop
+roist,stoke,stole,stone,stove
+111 [0mr[1;33mo[0mi[1;33ms[1;33mt[0m  15   356 Some((37, 4, "stoke")) ["ethos", "gusto", "pesto", "sloth", "smote", "stock", "stoke", "stole", "stomp", "stone", "stony", "stood", "stool", "stoop", "stove"]
+roist,bidon,audio
+roist,bidon,avoid
+roist,bidon,bingo
+roist,bidon,biome
+roist,bidon,dingo
+roist,bidon,diode
+roist,bidon,hippo
+roist,bidon,igloo
+roist,bidon,inbox
+roist,bidon,limbo
+roist,bidon,lingo
+roist,bidon,avoid,ovoid
+roist,bidon,lingo,piano
+roist,bidon,video
+roist,bidon,hippo,viola
+roist,bidon,widow
+ 12 [0mr[1;33mo[1;33mi[0ms[0mt[0m  16   594 Some((35, 3, "bidon")) ["audio", "avoid", "bingo", "biome", "dingo", "diode", "hippo", "igloo", "inbox", "limbo", "lingo", "ovoid", "piano", "video", "viola", "widow"]
+roist,thine,amity
+roist,thine,amity,blitz
+roist,thine,deity
+roist,thine,elite
+roist,thine,faith
+roist,thine,elite,quite
+roist,thine,thick
+roist,thine,thief
+roist,thine,thick,thigh
+roist,thine,thing
+roist,thine,thing,think
+roist,thine,twice
+roist,thine,twine
+roist,thine,tying
+roist,thine,unite
+roist,thine,unity
+roist,thine,elite,utile
+roist,thine,white
+ 99 [0mr[0mo[1;32mi[0ms[1;33mt[0m  18   273 Some((41, 3, "thine")) ["amity", "blitz", "deity", "elite", "faith", "quite", "thick", "thief", "thigh", "thing", "think", "twice", "twine", "tying", "unite", "unity", "utile", "white"]
+roist,tutor,actor
+roist,tutor,broth
+roist,tutor,broth,froth
+roist,tutor,metro
+roist,tutor,other
+roist,tutor,otter
+roist,tutor,outer
+roist,tutor,tenor
+roist,tutor,trope,thorn
+roist,tutor,throb
+roist,tutor,throb,throw
+roist,tutor,trope,troll
+roist,tutor,throb,troop
+roist,tutor,trope
+roist,tutor,trope,trove
+roist,tutor,tumor
+roist,tutor,turbo
+roist,tutor
+roist,tutor,broth,wrote
+ 85 [1;33mr[1;33mo[0mi[0ms[1;33mt[0m  19   219 Some((44, 3, "tutor")) ["actor", "broth", "froth", "metro", "other", "otter", "outer", "tenor", "thorn", "throb", "throw", "troll", "troop", "trope", "trove", "tumor", "turbo", "tutor", "wrote"]
+roist,crash,brash
+roist,crash,grass,brass
+roist,crash,brush
+roist,crash
+roist,crash,crass
+roist,crash,cress
+roist,crash,crush
+roist,crash,curse
+roist,crash,dress
+roist,crash,grass,erase
+roist,crash,brush,fresh
+roist,crash,grass,grasp
+roist,crash,grass
+roist,crash,harsh
+roist,crash,harsh,marsh
+roist,crash,nurse
+roist,crash,parse
+roist,crash,dress,press
+roist,crash,nurse,purse
+roist,crash,nurse,verse
+ 55 [1;33mr[0mo[0mi[1;32ms[0mt[0m  20   147 Some((47, 3, "crash")) ["brash", "brass", "brush", "crash", "crass", "cress", "crush", "curse", "dress", "erase", "fresh", "grasp", "grass", "harsh", "marsh", "nurse", "parse", "press", "purse", "verse"]
+roist,altho,atoll
+roist,altho,atone
+roist,altho,baton
+roist,altho,cloth
+roist,altho,detox
+roist,altho,extol
+roist,altho,junto
+roist,altho,octal
+roist,altho,detox,often
+roist,altho,outdo
+roist,altho,outdo,outgo
+roist,altho,ovate
+roist,altho,photo
+roist,altho,ovate,quota
+roist,altho,quote
+roist,altho,quoth
+roist,altho,taboo
+roist,altho,talon
+roist,altho,taboo,tango
+roist,altho,junto,tempo
+roist,altho,quoth,thong
+ 84 [0mr[1;33mo[0mi[0ms[1;33mt[0m  21   856 Some((48, 3, "altho")) ["atoll", "atone", "baton", "cloth", "detox", "extol", "junto", "octal", "often", "outdo", "outgo", "ovate", "photo", "quota", "quote", "quoth", "taboo", "talon", "tango", "tempo", "thong"]
+roist,spalt,asset
+roist,spalt,beset
+roist,spalt,scant
+roist,spalt,sheet,scent
+roist,spalt,scant,shaft
+roist,spalt,shalt
+roist,spalt,sheet
+roist,spalt,sheet,shunt
+roist,spalt,slant
+roist,spalt,sleet
+roist,spalt,slept
+roist,spalt,smelt
+roist,spalt,spelt
+roist,spalt,spent
+roist,spalt,splat
+roist,spalt,squat
+roist,spalt,sheet,stunt
+roist,spalt,squat,sweat
+roist,spalt,sheet,sweet
+roist,spalt,swept
+roist,spalt,beset,unset
+roist,spalt,upset
+189 [0mr[0mo[0mi[1;33ms[1;32mt[0m  22   239 Some((51, 3, "spalt")) ["asset", "beset", "scant", "scent", "shaft", "shalt", "sheet", "shunt", "slant", "sleet", "slept", "smelt", "spelt", "spent", "splat", "squat", "stunt", "sweat", "sweet", "swept", "unset", "upset"]
+roist,enlit,admit
+roist,enlit,admit,audit
+roist,enlit,admit,await
+roist,enlit,befit
+roist,enlit,befit,debit
+roist,enlit,admit,digit
+roist,enlit,eight
+roist,enlit,flitt,fight
+roist,enlit,filet
+roist,enlit,giant
+roist,enlit,admit,habit
+roist,enlit,inept
+roist,enlit,inlet
+roist,enlit,input
+roist,enlit,light
+roist,enlit,limit
+roist,enlit,flitt,might
+roist,enlit,giant,night
+roist,enlit,limit,plait
+roist,enlit,admit,habit,tacit
+roist,enlit,flitt,tight
+roist,enlit,unfit
+roist,enlit,unlit
+roist,enlit,flitt,might,wight
+171 [0mr[0mo[1;33mi[0ms[1;32mt[0m  24   236 Some((62, 4, "enlit")) ["admit", "audit", "await", "befit", "debit", "digit", "eight", "fight", "filet", "giant", "habit", "inept", "inlet", "input", "light", "limit", "might", "night", "plait", "tacit", "tight", "unfit", "unlit", "wight"]
+roist,since,aisle
+roist,since,basic
+roist,since,basil
+roist,since,basin
+roist,since,basil,basis
+roist,since,ficus
+roist,since,fishy
+roist,since,issue
+roist,since,minus
+roist,since,basic,music
+roist,since,sepia
+roist,since,sepia,sheik
+roist,since,siege
+roist,since,siege,sieve
+roist,since,silky,sigma
+roist,since,silky
+roist,since,silky,silly
+roist,since
+roist,since,sinew
+roist,since,singe
+roist,since,slain
+roist,since,slain,snail
+roist,since,squib
+roist,since,squib,sushi
+roist,since,squib,swami
+roist,since,fishy,wispy
+ 36 [0mr[0mo[1;33mi[1;33ms[0mt[0m  26  1471 Some((61, 3, "since")) ["aisle", "basic", "basil", "basin", "basis", "ficus", "fishy", "issue", "minus", "music", "sepia", "sheik", "siege", "sieve", "sigma", "silky", "silly", "since", "sinew", "singe", "slain", "snail", "squib", "sushi", "swami", "wispy"]
+roist,total,mouth,booth
+roist,total,mouth,booty
+roist,total,botch
+roist,total,hotel
+roist,total,hotly
+roist,total,loath
+roist,total,lofty
+roist,total,mouth,month
+roist,total,hotel,motel
+roist,total,motto
+roist,total,mouth
+roist,total,botch,notch
+roist,total,mouth,pouty
+roist,total,today
+roist,total,tocky,toddy
+roist,total,tocky,token
+roist,total,tonal
+roist,total,tonga
+roist,total,tooth
+roist,total,today,topaz
+roist,total
+roist,total,totem
+roist,total,tocky,touch
+roist,total,tocky,tough
+roist,total,towel
+roist,total,mouth,youth
+ 87 [0mr[1;32mo[0mi[0ms[1;33mt[0m  26   436 Some((63, 3, "total")) ["booth", "booty", "botch", "hotel", "hotly", "loath", "lofty", "month", "motel", "motto", "mouth", "notch", "pouty", "today", "toddy", "token", "tonal", "tonga", "tooth", "topaz", "total", "totem", "touch", "tough", "towel", "youth"]
+roist,great,alert
+roist,great,arhat,apart
+roist,great,alert,avert
+roist,great,beret
+roist,great,blurt
+roist,great,brunt
+roist,great,blurt,burnt
+roist,great,carat
+roist,great,arhat,chart
+roist,great,craft
+roist,great,crept
+roist,great,brunt,crypt
+roist,great,craft,draft
+roist,great,egret
+roist,great,crept,erect
+roist,great,erupt
+roist,great,exert
+roist,great,graft
+roist,great,graft,grant
+roist,great
+roist,great,greet
+roist,great,grunt
+roist,great,heart
+roist,great,arhat,quart
+roist,great,craft,tract
+roist,great,treat
+163 [1;33mr[0mo[0mi[0ms[1;32mt[0m  26   216 Some((61, 3, "great")) ["alert", "apart", "avert", "beret", "blurt", "brunt", "burnt", "carat", "chart", "craft", "crept", "crypt", "draft", "egret", "erect", "erupt", "exert", "graft", "grant", "great", "greet", "grunt", "heart", "quart", "tract", "treat"]
+roist,swoln,chaos
+roist,swoln,mason
+roist,swoln,salon
+roist,swoln,salvo
+roist,swoln,savoy
+roist,swoln,spoke,scoff
+roist,swoln,scold
+roist,swoln,scone
+roist,swoln,spoke,scoop
+roist,swoln,spoke,scope
+roist,swoln,scowl
+roist,swoln,sloop,shoal
+roist,swoln,spoke,shock
+roist,swoln,scone,shone
+roist,swoln,spoke,shock,shook
+roist,swoln,spoke,shove
+roist,swoln,shown
+roist,swoln,showy
+roist,swoln,sloop
+roist,swoln,sloop,slope
+roist,swoln,spoke,shock,smock
+roist,swoln,spoke,smoke
+roist,swoln,spoke,smoky
+roist,swoln,scone,snoop
+roist,swoln,snowy
+roist,swoln,spoke
+roist,swoln,spoke,spoof
+roist,swoln,spoke,spook
+roist,swoln,sloop,spool
+roist,swoln,spoon
+roist,swoln,swoon
+roist,swoln,swoop
+roist,swoln,synod
+ 30 [0mr[1;33mo[0mi[1;33ms[0mt[0m  33  1658 Some((84, 4, "swoln")) ["chaos", "mason", "salon", "salvo", "savoy", "scoff", "scold", "scone", "scoop", "scope", "scowl", "shoal", "shock", "shone", "shook", "shove", "shown", "showy", "sloop", "slope", "smock", "smoke", "smoky", "snoop", "snowy", "spoke", "spoof", "spook", "spool", "spoon", "swoon", "swoop", "synod"]
+roist,spine,aside
+roist,spine,slice,seize
+roist,spine,shied
+roist,spine,shine
+roist,spine,sling,shiny
+roist,spine,skill,skiff
+roist,spine,skill
+roist,spine,skimp
+roist,spine,slice
+roist,spine,skill,slick
+roist,spine,slice,slide
+roist,spine,slice,slide,slime
+roist,spine,skill,slimy
+roist,spine,sling
+roist,spine,sling,slink
+roist,spine,slice,smile
+roist,spine,snide
+roist,spine,sniff
+roist,spine,snipe
+roist,spine,spice
+roist,spine,spicy
+roist,spine,spied
+roist,spine,spied,spiel
+roist,spine,spice,spike
+roist,spine,spicy,spiky
+roist,spine,spicy,spill
+roist,spine
+roist,spine,spiny
+roist,spine,sling,suing
+roist,spine,skill,swill
+roist,spine,shine,swine
+roist,spine,sling,suing,swing
+roist,spine,using
+ 45 [0mr[0mo[1;32mi[1;33ms[0mt[0m  33   521 Some((84, 4, "spine")) ["aside", "seize", "shied", "shine", "shiny", "skiff", "skill", "skimp", "slice", "slick", "slide", "slime", "slimy", "sling", "slink", "smile", "snide", "sniff", "snipe", "spice", "spicy", "spied", "spiel", "spike", "spiky", "spill", "spine", "spiny", "suing", "swill", "swine", "swing", "using"]
+roist,lited,antic
+roist,lited,antic,attic
+roist,lited,witty,bitty
+roist,lited,cacti
+roist,lited,cutie
+roist,lited,ditch
+roist,lited,ditch,ditty
+roist,lited,ethic
+roist,lited,fetid
+roist,lited,fifth
+roist,lited,fifth,fifty
+roist,lited,filth
+roist,lited,witty,hitch
+roist,lited,cacti,itchy
+roist,lited,witty,bitty,kitty
+roist,lited,lithe
+roist,lited,fifth,minty
+roist,lited,fifth,ninth
+roist,lited,piety
+roist,lited,witty,hitch,pitch
+roist,lited,witty,pithy
+roist,lited,tepid
+roist,lited,fifth,tibia
+roist,lited,tidal
+roist,lited,tilde
+roist,lited,timid
+roist,lited,witty,titan
+roist,lited,tithe
+roist,lited,title
+roist,lited,tulip
+roist,lited,cacti,tunic
+roist,lited,cutie,untie
+roist,lited,until
+roist,lited,vital
+roist,lited,width
+roist,lited,witty,witch
+roist,lited,witty
+ 90 [0mr[0mo[1;33mi[0ms[1;33mt[0m  37   853 Some((92, 4, "lited")) ["antic", "attic", "bitty", "cacti", "cutie", "ditch", "ditty", "ethic", "fetid", "fifth", "fifty", "filth", "hitch", "itchy", "kitty", "lithe", "minty", "ninth", "piety", "pitch", "pithy", "tepid", "tibia", "tidal", "tilde", "timid", "titan", "tithe", "title", "tulip", "tunic", "untie", "until", "vital", "width", "witch", "witty"]
+roist,relay,racer
+roist,relay,radar
+roist,relay,radar,rajah
+roist,relay,rally
+roist,relay,ralph
+roist,relay,racer,ramen
+roist,relay,ranch
+roist,relay,randy
+roist,relay,racer,range
+roist,relay,racer,rarer
+roist,relay,racer,ramen,raven
+roist,relay,reach
+roist,relay,ready
+roist,relay,realm
+roist,relay,reach,rearm
+roist,relay,rebar
+roist,relay,rebel
+roist,relay,rebar,recap
+roist,relay,recur
+roist,relay,reedy
+roist,relay,recur,refer
+roist,relay,regal
+roist,relay,rebar,rehab
+roist,relay,relax
+roist,relay
+roist,relay,regal,renal
+roist,relay,recur,renew
+roist,relay,repay
+roist,relay,rebel,repel
+roist,relay,reply
+roist,relay,recur,rerun
+roist,relay,rebel,repel,revel
+roist,relay,recur,revue
+roist,relay,rhyme
+roist,relay,ruddy
+roist,relay,ruder
+roist,relay,ruddy,rugby
+roist,relay,ruler
+roist,relay,ranch,rumba
+roist,relay,ruder,rupee
+roist,relay,rural
+  2 [1;32mr[0mo[0mi[0ms[0mt[0m  41   628 Some((101, 4, "relay")) ["racer", "radar", "rajah", "rally", "ralph", "ramen", "ranch", "randy", "range", "rarer", "raven", "reach", "ready", "realm", "rearm", "rebar", "rebel", "recap", "recur", "reedy", "refer", "regal", "rehab", "relax", "relay", "renal", "renew", "repay", "repel", "reply", "rerun", "revel", "revue", "rhyme", "ruddy", "ruder", "rugby", "ruler", "rumba", "rupee", "rural"]
+roist,lidar,acrid
+roist,lidar,aider
+roist,lidar,birch
+roist,lidar,acrid,braid
+roist,lidar,brain
+roist,lidar,chair
+roist,lidar,cider
+roist,lidar,cigar
+roist,lidar,circa
+roist,lidar,diary
+roist,lidar,diner
+roist,lidar,dirge
+roist,lidar,diner,diver
+roist,lidar,acrid,drain
+roist,lidar,druid
+roist,lidar,eerie
+roist,lidar,finer,fiber
+roist,lidar,birch,fibre
+roist,lidar,birch,fiery
+roist,lidar,filer
+roist,lidar,finer
+roist,lidar,finer,fiber,fixer
+roist,lidar,flair
+roist,lidar,frail
+roist,lidar,girly
+roist,lidar,finer,giver
+roist,lidar,frail,grail
+roist,lidar,brain,grain
+roist,lidar,idler
+roist,lidar,infer,incur
+roist,lidar,infer
+roist,lidar,infer,inner
+roist,lidar,liner
+roist,lidar,liner,liver
+roist,lidar,lurid
+roist,lidar,lyric
+roist,lidar,finer,miner
+roist,lidar,nadir
+roist,lidar,finer,nicer
+roist,lidar,peril
+roist,lidar,finer,giver,piper
+roist,lidar,cigar,vicar
+roist,lidar,finer,giver,viper
+roist,lidar,viral
+roist,lidar,cider,wider
+ 10 [1;33mr[0mo[1;33mi[0ms[0mt[0m  45   970 Some((112, 4, "lidar")) ["acrid", "aider", "birch", "braid", "brain", "chair", "cider", "cigar", "circa", "diary", "diner", "dirge", "diver", "drain", "druid", "eerie", "fiber", "fibre", "fiery", "filer", "finer", "fixer", "flair", "frail", "girly", "giver", "grail", "grain", "idler", "incur", "infer", "inner", "liner", "liver", "lurid", "lyric", "miner", "nadir", "nicer", "peril", "piper", "vicar", "viper", "viral", "wider"]
+roist,spear,safer
+roist,spear,safer,saner
+roist,spear,scare
+roist,spear,scram,scarf
+roist,spear,scram,scarf,scary
+roist,spear,scram
+roist,spear,scrap
+roist,spear,scree
+roist,spear,scree,screw
+roist,spear,scrub
+roist,spear,scrub,scrum
+roist,spear,scree,serum
+roist,spear,scree,serve
+roist,spear,sever
+roist,spear,sever,sewer
+roist,spear,scram,shard
+roist,spear,scare,share
+roist,spear,scram,shard,shark
+roist,spear,sharp
+roist,spear,shear
+roist,spear,sheer
+roist,spear,scree,shrew
+roist,spear,scrub,shrub
+roist,spear,scrub,shrug
+roist,spear,slurp
+roist,spear,shear,smear
+roist,spear,scare,share,snare
+roist,spear,scram,shard,snarl
+roist,spear,sheer,sneer
+roist,spear,spare
+roist,spear,spark
+roist,spear
+roist,spear,sperm
+roist,spear,spray
+roist,spear,spree
+roist,spear,spurn
+roist,spear,sugar
+roist,spear,super
+roist,spear,sever,surer
+roist,spear,scree,surge
+roist,spear,scrub,surly
+roist,spear,scram,swarm
+roist,spear,shear,smear,swear
+roist,spear,slurp,syrup
+roist,spear,usher
+roist,spear,usurp
+ 28 [1;33mr[0mo[0mi[1;33ms[0mt[0m  46  1461 Some((120, 4, "spear")) ["safer", "saner", "scare", "scarf", "scary", "scram", "scrap", "scree", "screw", "scrub", "scrum", "serum", "serve", "sever", "sewer", "shard", "share", "shark", "sharp", "shear", "sheer", "shrew", "shrub", "shrug", "slurp", "smear", "snare", "snarl", "sneer", "spare", "spark", "spear", "sperm", "spray", "spree", "spurn", "sugar", "super", "surer", "surge", "surly", "swarm", "swear", "syrup", "usher", "usurp"]
+  7 [1;33mr[1;32mo[0mi[0ms[0mt[0m  47   514 None ["board", "borax", "borne", "boxer", "cobra", "color", "coral", "corer", "corny", "cover", "cower", "donor", "dowry", "foray", "force", "forge", "forgo", "forum", "foyer", "goner", "gorge", "gourd", "hoard", "homer", "honor", "horde", "horny", "hover", "joker", "lorry", "lover", "lower", "molar", "moral", "moron", "morph", "mourn", "mover", "mower", "poker", "polar", "porch", "power", "wooer", "wordy", "world", "worry"]

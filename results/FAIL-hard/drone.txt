@@ -1,0 +1,296 @@
+drone,dowry
+ 14 [1;32md[1;33mr[1;33mo[0mn[0me[0m   1    63 Some((1, 1, "dowry")) ["dowry"]
+drone,ardor
+ 16 [1;33md[1;32mr[1;33mo[0mn[0me[0m   1    44 Some((1, 1, "ardor")) ["ardor"]
+drone,donor
+ 41 [1;32md[1;33mr[1;33mo[1;33mn[0me[0m   1     6 Some((1, 1, "donor")) ["donor"]
+drone,adorn
+ 49 [1;33md[1;33mr[1;32mo[1;33mn[0me[0m   1     7 Some((1, 1, "adorn")) ["adorn"]
+drone,drown
+ 53 [1;32md[1;32mr[1;32mo[1;33mn[0me[0m   1     3 Some((1, 1, "drown")) ["drown"]
+drone,round
+ 67 [1;33md[1;33mr[1;33mo[1;32mn[0me[0m   1     6 Some((1, 1, "round")) ["round"]
+drone,blond
+ 73 [1;33md[0mr[1;32mo[1;32mn[0me[0m   1     9 Some((1, 1, "blond")) ["blond"]
+drone,frond
+ 79 [1;33md[1;32mr[1;32mo[1;32mn[0me[0m   1     4 Some((1, 1, "frond")) ["frond"]
+drone,decor
+ 95 [1;32md[1;33mr[1;33mo[0mn[1;33me[0m   1    19 Some((1, 1, "decor")) ["decor"]
+drone,error
+ 96 [0md[1;32mr[1;33mo[0mn[1;33me[0m   1    59 Some((1, 1, "error")) ["error"]
+drone,wooer
+102 [0md[1;33mr[1;32mo[0mn[1;33me[0m   1    63 Some((1, 1, "wooer")) ["wooer"]
+drone,diner
+113 [1;32md[1;33mr[0mo[1;33mn[1;33me[0m   1     8 Some((1, 1, "diner")) ["diner"]
+drone,arena
+141 [0md[1;32mr[0mo[1;32mn[1;33me[0m   1    30 Some((1, 1, "arena")) ["arena"]
+drone,trend
+142 [1;33md[1;32mr[0mo[1;32mn[1;33me[0m   1     3 Some((1, 1, "trend")) ["trend"]
+drone,ebony
+153 [0md[0mr[1;32mo[1;32mn[1;33me[0m   1    29 Some((1, 1, "ebony")) ["ebony"]
+drone,ridge
+166 [1;33md[1;33mr[0mo[0mn[1;32me[0m   1    50 Some((1, 1, "ridge")) ["ridge"]
+drone,dirge
+167 [1;32md[1;33mr[0mo[0mn[1;32me[0m   1    20 Some((1, 1, "dirge")) ["dirge"]
+drone,dodge
+173 [1;32md[0mr[1;33mo[0mn[1;32me[0m   1    24 Some((1, 1, "dodge")) ["dodge"]
+drone,horde
+175 [1;33md[1;33mr[1;33mo[0mn[1;32me[0m   1    13 Some((1, 1, "horde")) ["horde"]
+drone,diode
+182 [1;32md[0mr[1;32mo[0mn[1;32me[0m   1     9 Some((1, 1, "diode")) ["diode"]
+drone,adore
+184 [1;33md[1;33mr[1;32mo[0mn[1;32me[0m   1     8 Some((1, 1, "adore")) ["adore"]
+drone,erode
+187 [1;33md[1;32mr[1;32mo[0mn[1;32me[0m   1     7 Some((1, 1, "erode")) ["erode"]
+drone,drove
+188 [1;32md[1;32mr[1;32mo[0mn[1;32me[0m   1     5 Some((1, 1, "drove")) ["drove"]
+drone,anode
+208 [1;33md[0mr[1;32mo[1;33mn[1;32me[0m   1     2 Some((1, 1, "anode")) ["anode"]
+drone,snore
+210 [0md[1;33mr[1;32mo[1;33mn[1;32me[0m   1     9 Some((1, 1, "snore")) ["snore"]
+drone,borne
+228 [0md[1;33mr[1;33mo[1;32mn[1;32me[0m   1    12 Some((1, 1, "borne")) ["borne"]
+drone
+242 [1;32md[1;32mr[1;32mo[1;32mn[1;32me[0m   1     1 Some((1, 1, "drone")) ["drone"]
+drone,dandy
+drone,dandy,dingy
+ 29 [1;32md[0mr[0mo[1;33mn[0me[0m   2   114 Some((3, 2, "dandy")) ["dandy", "dingy"]
+drone,nadir
+drone,nadir,randy
+ 31 [1;33md[1;33mr[0mo[1;33mn[0me[0m   2    61 Some((3, 2, "nadir")) ["nadir", "randy"]
+drone,drain
+drone,drain,drawn
+ 35 [1;32md[1;32mr[0mo[1;33mn[0me[0m   2    10 Some((3, 2, "drain")) ["drain", "drawn"]
+drone,dingo
+drone,dingo,donut
+ 38 [1;32md[0mr[1;33mo[1;33mn[0me[0m   2    33 Some((3, 2, "dingo")) ["dingo", "donut"]
+drone,arson
+drone,arson,organ
+ 42 [0md[1;32mr[1;33mo[1;33mn[0me[0m   2    52 Some((3, 2, "arson")) ["arson", "organ"]
+drone,daunt
+drone,daunt,dying
+ 56 [1;32md[0mr[0mo[1;32mn[0me[0m   2    41 Some((3, 2, "daunt")) ["daunt", "dying"]
+drone,burnt
+drone,burnt,rainy
+ 57 [0md[1;33mr[0mo[1;32mn[0me[0m   2   182 Some((3, 2, "burnt")) ["burnt", "rainy"]
+drone,doing
+drone,doing,downy
+ 65 [1;32md[0mr[1;33mo[1;32mn[0me[0m   2    11 Some((3, 2, "doing")) ["doing", "downy"]
+drone,credo
+drone,credo,order
+ 97 [1;33md[1;32mr[1;33mo[0mn[1;33me[0m   2    12 Some((3, 2, "credo")) ["credo", "order"]
+drone,deign
+drone,deign,denim
+110 [1;32md[0mr[0mo[1;33mn[1;33me[0m   2    44 Some((3, 2, "deign")) ["deign", "denim"]
+drone,nerdy
+drone,nerdy,under
+112 [1;33md[1;33mr[0mo[1;33mn[1;33me[0m   2    22 Some((3, 2, "nerdy")) ["nerdy", "under"]
+drone,green
+drone,green,preen
+114 [0md[1;32mr[0mo[1;33mn[1;33me[0m   2    43 Some((3, 2, "green")) ["green", "preen"]
+drone,endow
+drone,endow,olden
+118 [1;33md[0mr[1;33mo[1;33mn[1;33me[0m   2    33 Some((3, 2, "endow")) ["endow", "olden"]
+drone,demon
+drone,demon,dozen
+119 [1;32md[0mr[1;33mo[1;33mn[1;33me[0m   2     9 Some((3, 2, "demon")) ["demon", "dozen"]
+drone,delve
+drone,delve,deuce
+164 [1;32md[0mr[0mo[0mn[1;32me[0m   2    64 Some((3, 2, "delve")) ["delve", "deuce"]
+drone,lodge
+drone,lodge,oxide
+172 [1;33md[0mr[1;33mo[0mn[1;32me[0m   2    56 Some((3, 2, "lodge")) ["lodge", "oxide"]
+drone,abode
+drone,abode,adobe
+181 [1;33md[0mr[1;32mo[0mn[1;32me[0m   2    23 Some((3, 2, "abode")) ["abode", "adobe"]
+drone,gnome
+drone,gnome,noose
+207 [0md[0mr[1;32mo[1;33mn[1;32me[0m   2    27 Some((3, 2, "gnome")) ["gnome", "noose"]
+drone,opine
+drone,opine,ovine
+225 [0md[0mr[1;33mo[1;32mn[1;32me[0m   2    36 Some((3, 2, "opine")) ["opine", "ovine"]
+drone,crone
+drone,crone,prone
+240 [0md[1;32mr[1;32mo[1;32mn[1;32me[0m   2     7 Some((3, 2, "crone")) ["crone", "prone"]
+drone,braid
+drone,braid,fraud
+drone,braid,triad
+  7 [1;33md[1;32mr[0mo[0mn[0me[0m   3   170 Some((5, 2, "braid")) ["braid", "fraud", "triad"]
+drone,crowd,chord
+drone,crowd,fjord
+drone,crowd,sword
+ 22 [1;33md[1;33mr[1;32mo[0mn[0me[0m   3    51 Some((6, 2, "crowd")) ["chord", "fjord", "sword"]
+drone,brand
+drone,brand,grand
+drone,brand,grind
+ 61 [1;33md[1;32mr[0mo[1;32mn[0me[0m   3    14 Some((5, 2, "brand")) ["brand", "grand", "grind"]
+drone,drank
+drone,drank,drink
+drone,drank,drink,drunk
+ 62 [1;32md[1;32mr[0mo[1;32mn[0me[0m   3     7 Some((6, 3, "drank")) ["drank", "drink", "drunk"]
+drone,corny
+drone,corny,horny
+drone,corny,rhino
+ 66 [0md[1;33mr[1;33mo[1;32mn[0me[0m   3    52 Some((5, 2, "corny")) ["corny", "horny", "rhino"]
+drone,model
+drone,model,modem
+drone,model,video
+ 91 [1;33md[0mr[1;33mo[0mn[1;33me[0m   3   276 Some((5, 2, "model")) ["model", "modem", "video"]
+drone,odder
+drone,odder,older
+drone,odder,rodeo
+ 94 [1;33md[1;33mr[1;33mo[0mn[1;33me[0m   3    55 Some((5, 2, "odder")) ["odder", "older", "rodeo"]
+drone,epoch
+drone,epoch,epoxy
+drone,epoch,gooey
+ 99 [0md[0mr[1;32mo[0mn[1;33me[0m   3   216 Some((5, 2, "epoch")) ["epoch", "epoxy", "gooey"]
+drone,drake
+drone,drake,drape
+drone,drake,drive
+170 [1;32md[1;32mr[0mo[0mn[1;32me[0m   3    13 Some((5, 2, "drake")) ["drake", "drape", "drive"]
+drone,nudge
+drone,nudge,snide
+drone,nudge,undue
+190 [1;33md[0mr[0mo[1;33mn[1;32me[0m   3    28 Some((5, 2, "nudge")) ["nudge", "snide", "undue"]
+drone,dance
+drone,dance,dense
+drone,dance,dunce
+191 [1;32md[0mr[0mo[1;33mn[1;32me[0m   3    11 Some((5, 2, "dance")) ["dance", "dense", "dunce"]
+drone,dairy
+drone,dairy,diary
+drone,dairy,dirty
+drone,dairy,dwarf
+  5 [1;32md[1;33mr[0mo[0mn[0me[0m   4   204 Some((7, 2, "dairy")) ["dairy", "diary", "dirty", "dwarf"]
+drone,broad
+drone,broad,brood
+drone,broad,crowd
+drone,broad,crowd,proud
+ 25 [1;33md[1;32mr[1;32mo[0mn[0me[0m   4    35 Some((8, 3, "broad")) ["broad", "brood", "crowd", "proud"]
+drone,condo
+drone,condo,gonad
+drone,condo,nomad
+drone,condo,synod
+ 37 [1;33md[0mr[1;33mo[1;33mn[0me[0m   4   116 Some((7, 2, "condo")) ["condo", "gonad", "nomad", "synod"]
+drone,bland
+drone,bland,blind
+drone,bland,gland
+drone,bland,stand
+ 55 [1;33md[0mr[0mo[1;32mn[0me[0m   4    96 Some((7, 2, "bland")) ["bland", "blind", "gland", "stand"]
+drone,goner
+drone,goner,heron
+drone,goner,owner
+drone,goner,tenor
+120 [0md[1;33mr[1;33mo[1;33mn[1;33me[0m   4    51 Some((7, 2, "goner")) ["goner", "heron", "owner", "tenor"]
+drone,daine,amend
+drone,daine,blend
+drone,daine,fiend
+drone,daine,blend,spend
+136 [1;33md[0mr[0mo[1;32mn[1;33me[0m   4    26 Some((9, 3, "daine")) ["amend", "blend", "fiend", "spend"]
+drone,bonce,canoe
+drone,bonce,noble
+drone,bonce,noise
+drone,bonce,ounce
+198 [0md[0mr[1;33mo[1;33mn[1;32me[0m   4    67 Some((8, 2, "bonce")) ["canoe", "noble", "noise", "ounce"]
+drone,urine,brine
+drone,urine,crane
+drone,urine,prune
+drone,urine
+222 [0md[1;32mr[0mo[1;32mn[1;32me[0m   4    15 Some((7, 2, "urine")) ["brine", "crane", "prune", "urine"]
+drone,drool,droit
+drone,drool,droll
+drone,drool
+drone,drool,droop
+drone,drool,droit,dross
+ 26 [1;32md[1;32mr[1;32mo[0mn[0me[0m   5    21 Some((10, 3, "drool")) ["droit", "droll", "drool", "droop", "dross"]
+drone,crony
+drone,crony,prong,front
+drone,crony,irony
+drone,crony,prong
+drone,crony,prong,wrong
+ 78 [0md[1;32mr[1;32mo[1;32mn[0me[0m   5    26 Some((11, 3, "crony")) ["crony", "front", "irony", "prong", "wrong"]
+drone,depot,decoy
+drone,depot
+drone,depot,detox
+drone,depot,dopey
+drone,depot,dowel
+ 92 [1;32md[0mr[1;33mo[0mn[1;33me[0m   5    82 Some((9, 2, "depot")) ["decoy", "depot", "detox", "dopey", "dowel"]
+drone,hands,admin
+drone,hands,candy
+drone,hands,handy
+drone,hands,sandy
+drone,hands,undid
+drone,hands,windy
+ 28 [1;33md[0mr[0mo[1;33mn[0me[0m   6   418 Some((12, 2, "hands")) ["admin", "candy", "handy", "sandy", "undid", "windy"]
+drone,bring,brain
+drone,bring,brawn
+drone,bring,grain
+drone,bring,prawn
+drone,bring,train
+drone,bring,urban
+ 33 [0md[1;32mr[0mo[1;33mn[0me[0m   6   146 Some((12, 2, "bring")) ["brain", "brawn", "grain", "prawn", "train", "urban"]
+drone,scorn,acorn
+drone,scorn
+drone,scorn,shorn
+drone,scorn,snort
+drone,scorn,shorn,sworn
+drone,scorn,thorn
+ 48 [0md[1;33mr[1;32mo[1;33mn[0me[0m   6    51 Some((12, 3, "scorn")) ["acorn", "scorn", "shorn", "snort", "sworn", "thorn"]
+drone,brown
+drone,brown,crown
+drone,brown,crown,frown
+drone,brown,groan
+drone,brown,groan,groin
+drone,brown,crown,frown,grown
+ 51 [0md[1;32mr[1;32mo[1;33mn[0me[0m   6    38 Some((15, 4, "brown")) ["brown", "crown", "frown", "groan", "groin", "grown"]
+drone,along,agony
+drone,along
+drone,along,among
+drone,along,phony
+drone,along,phony,stony
+drone,along,thong
+ 72 [0md[0mr[1;32mo[1;32mn[0me[0m   6   103 Some((12, 3, "along")) ["agony", "along", "among", "phony", "stony", "thong"]
+drone,dread
+drone,dread,dream
+drone,dread,dress
+drone,dread,dried
+drone,dread,drier
+drone,dread,drier,dryer
+ 89 [1;32md[1;32mr[0mo[0mn[1;33me[0m   6    30 Some((12, 3, "dread")) ["dread", "dream", "dress", "dried", "drier", "dryer"]
+drone,pride,bride
+drone,pride,grade,crude
+drone,pride,grade
+drone,pride
+drone,pride,prude
+drone,pride,grade,trade
+169 [1;33md[1;32mr[0mo[0mn[1;32me[0m   6    28 Some((13, 3, "pride")) ["bride", "crude", "grade", "pride", "prude", "trade"]
+drone,chore
+drone,chore,score
+drone,chore,shore
+drone,chore,spore
+drone,chore,spore,store
+drone,chore,spore,store,swore
+183 [0md[1;33mr[1;32mo[0mn[1;32me[0m   6    53 Some((14, 4, "chore")) ["chore", "score", "shore", "spore", "store", "swore"]
+drone,genre
+drone,genre,nerve
+drone,genre,nurse
+drone,genre,range
+drone,genre,rinse
+drone,genre,snare
+192 [0md[1;33mr[0mo[1;33mn[1;32me[0m   6    48 Some((11, 2, "genre")) ["genre", "nerve", "nurse", "range", "rinse", "snare"]
+drone,drill,draft
+drone,drill,draft,drama
+drone,drill,drawl
+drone,drill,drift
+drone,drill
+drone,drill,druid
+drone,drill,dryly
+  8 [1;32md[1;32mr[0mo[0mn[0me[0m   7    81 Some((14, 3, "drill")) ["draft", "drama", "drawl", "drift", "drill", "druid", "dryly"]
+drone,arbor
+drone,arbor,armor
+drone,arbor,arrow
+drone,arbor,bravo
+drone,arbor,orbit
+drone,arbor,primo
+drone,arbor,prior
+ 15 [0md[1;32mr[1;33mo[0mn[0me[0m   7   259 Some((13, 2, "arbor")) ["arbor", "armor", "arrow", "bravo", "orbit", "primo", "prior"]
+ 64 [1;33md[0mr[1;33mo[1;32mn[0me[0m   7    31 None ["bound", "found", "hound", "mound", "pound", "sound", "wound"]

@@ -1,0 +1,629 @@
+slane,psalm
+ 22 [1;33ms[1;33ml[1;32ma[0mn[0me[0m   1   168 Some((1, 1, "psalm")) ["psalm"]
+slane,nasal
+ 40 [1;33ms[1;33ml[1;33ma[1;33mn[0me[0m   1    34 Some((1, 1, "nasal")) ["nasal"]
+slane,salon
+ 41 [1;32ms[1;33ml[1;33ma[1;33mn[0me[0m   1    10 Some((1, 1, "salon")) ["salon"]
+slane,align
+ 42 [0ms[1;32ml[1;33ma[1;33mn[0me[0m   1    51 Some((1, 1, "align")) ["align"]
+slane,gnash
+ 46 [1;33ms[0ml[1;32ma[1;33mn[0me[0m   1   106 Some((1, 1, "gnash")) ["gnash"]
+slane,plain
+ 51 [0ms[1;32ml[1;32ma[1;33mn[0me[0m   1    34 Some((1, 1, "plain")) ["plain"]
+slane,slain
+ 53 [1;32ms[1;32ml[1;32ma[1;33mn[0me[0m   1     5 Some((1, 1, "slain")) ["slain"]
+slane,using
+ 55 [1;33ms[0ml[0ma[1;32mn[0me[0m   1   311 Some((1, 1, "using")) ["using"]
+slane,lying
+ 57 [0ms[1;33ml[0ma[1;32mn[0me[0m   1   102 Some((1, 1, "lying")) ["lying"]
+slane,along
+ 69 [0ms[1;32ml[1;33ma[1;32mn[0me[0m   1    32 Some((1, 1, "along")) ["along"]
+slane,easel
+ 94 [1;33ms[1;33ml[1;33ma[0mn[1;33me[0m   1   114 Some((1, 1, "easel")) ["easel"]
+slane,steal
+ 95 [1;32ms[1;33ml[1;33ma[0mn[1;33me[0m   1    32 Some((1, 1, "steal")) ["steal"]
+slane,ashen
+118 [1;33ms[0ml[1;33ma[1;33mn[1;33me[0m   1    77 Some((1, 1, "ashen")) ["ashen"]
+slane,learn
+129 [0ms[1;33ml[1;32ma[1;33mn[1;33me[0m   1    13 Some((1, 1, "learn")) ["learn"]
+slane,blend
+141 [0ms[1;32ml[0ma[1;32mn[1;33me[0m   1    17 Some((1, 1, "blend")) ["blend"]
+slane,meant
+153 [0ms[0ml[1;32ma[1;32mn[1;33me[0m   1    32 Some((1, 1, "meant")) ["meant"]
+slane,leant
+156 [0ms[1;33ml[1;32ma[1;32mn[1;33me[0m   1    10 Some((1, 1, "leant")) ["leant"]
+slane,close
+169 [1;33ms[1;32ml[0ma[0mn[1;32me[0m   1    16 Some((1, 1, "close")) ["close"]
+slane,salve
+176 [1;32ms[1;33ml[1;33ma[0mn[1;32me[0m   1    15 Some((1, 1, "salve")) ["salve"]
+slane,lease
+184 [1;33ms[1;33ml[1;32ma[0mn[1;32me[0m   1    13 Some((1, 1, "lease")) ["lease"]
+slane,knave
+207 [0ms[0ml[1;32ma[1;33mn[1;32me[0m   1    19 Some((1, 1, "knave")) ["knave"]
+slane,clone
+222 [0ms[1;32ml[0ma[1;32mn[1;32me[0m   1     8 Some((1, 1, "clone")) ["clone"]
+slane,atone
+225 [0ms[0ml[1;33ma[1;32mn[1;32me[0m   1    34 Some((1, 1, "atone")) ["atone"]
+slane,alone
+231 [0ms[1;32ml[1;33ma[1;32mn[1;32me[0m   1     6 Some((1, 1, "alone")) ["alone"]
+slane,plane
+240 [0ms[1;32ml[1;32ma[1;32mn[1;32me[0m   1     4 Some((1, 1, "plane")) ["plane"]
+slane,slack
+slane,slack,slash
+ 26 [1;32ms[1;32ml[1;32ma[0mn[0me[0m   2    22 Some((3, 2, "slack")) ["slack", "slash"]
+slane,snail
+slane,snail,snarl
+ 50 [1;32ms[1;33ml[1;32ma[1;33mn[0me[0m   2     7 Some((3, 2, "snail")) ["snail", "snarl"]
+slane,saint
+slane,saint,sauna
+ 65 [1;32ms[0ml[1;33ma[1;32mn[0me[0m   2    34 Some((3, 2, "saint")) ["saint", "sauna"]
+slane,slang
+slane,slang,slant
+ 80 [1;32ms[1;32ml[1;32ma[1;32mn[0me[0m   2     4 Some((3, 2, "slang")) ["slang", "slant"]
+slane,bless
+slane,bless,flesh
+ 88 [1;33ms[1;32ml[0ma[0mn[1;33me[0m   2    83 Some((3, 2, "bless")) ["bless", "flesh"]
+slane,leash
+slane,leash,least
+103 [1;33ms[1;33ml[1;32ma[0mn[1;33me[0m   2    41 Some((3, 2, "leash")) ["leash", "least"]
+slane,elfin
+slane,elfin,olden
+114 [0ms[1;32ml[0ma[1;33mn[1;33me[0m   2    32 Some((3, 2, "elfin")) ["elfin", "olden"]
+slane,enact
+slane,enact,yearn
+126 [0ms[0ml[1;32ma[1;33mn[1;33me[0m   2    49 Some((3, 2, "enact")) ["enact", "yearn"]
+slane,sauce
+slane,sauce,saute
+173 [1;32ms[0ml[1;33ma[0mn[1;32me[0m   2    63 Some((3, 2, "sauce")) ["sauce", "saute"]
+slane,leave
+slane,leave,whale
+183 [0ms[1;33ml[1;32ma[0mn[1;32me[0m   2    47 Some((3, 2, "leave")) ["leave", "whale"]
+slane,slate
+slane,slate,slave
+188 [1;32ms[1;32ml[1;32ma[0mn[1;32me[0m   2     5 Some((3, 2, "slate")) ["slate", "slave"]
+slane,snake
+slane,snake,snare
+209 [1;32ms[0ml[1;32ma[1;33mn[1;32me[0m   2     5 Some((3, 2, "snake")) ["snake", "snare"]
+slane,crane
+slane,crane,inane
+234 [0ms[0ml[1;32ma[1;32mn[1;32me[0m   2    13 Some((3, 2, "crane")) ["crane", "inane"]
+slane,blown
+slane,blown,clown
+slane,blown,clown,flown
+ 33 [0ms[1;32ml[0ma[1;33mn[0me[0m   3   105 Some((6, 3, "blown")) ["blown", "clown", "flown"]
+slane,sandy
+slane,sandy,satin
+slane,sandy,sonar
+ 38 [1;32ms[0ml[1;33ma[1;33mn[0me[0m   3   103 Some((5, 2, "sandy")) ["sandy", "satin", "sonar"]
+slane,islet
+slane,islet,loser
+slane,islet,welsh
+ 85 [1;33ms[1;33ml[0ma[0mn[1;33me[0m   3   454 Some((5, 2, "islet")) ["islet", "loser", "welsh"]
+slane,askew
+slane,askew,asset
+slane,askew,essay
+ 91 [1;33ms[0ml[1;33ma[0mn[1;33me[0m   3   610 Some((5, 2, "askew")) ["askew", "asset", "essay"]
+slane,beast
+slane,beast,feast
+slane,beast,feast,yeast
+100 [1;33ms[0ml[1;32ma[0mn[1;33me[0m   3   163 Some((6, 3, "beast")) ["beast", "feast", "yeast"]
+slane,sedan,saner
+slane,sedan
+slane,sedan,sneak
+119 [1;32ms[0ml[1;33ma[1;33mn[1;33me[0m   3    25 Some((5, 2, "sedan")) ["saner", "sedan", "sneak"]
+slane,clean,alien
+slane,clean
+slane,clean,glean
+123 [0ms[1;32ml[1;33ma[1;33mn[1;33me[0m   3    15 Some((5, 2, "clean")) ["alien", "clean", "glean"]
+slane,scent
+slane,scent,spend
+slane,scent,spent
+137 [1;32ms[0ml[0ma[1;32mn[1;33me[0m   3    36 Some((5, 2, "scent")) ["scent", "spend", "spent"]
+slane,loose
+slane,loose,louse
+slane,loose,pulse
+166 [1;33ms[1;33ml[0ma[0mn[1;32me[0m   3    66 Some((5, 2, "loose")) ["loose", "louse", "pulse"]
+slane,false,aisle
+slane,false
+slane,false,lapse
+175 [1;33ms[1;33ml[1;33ma[0mn[1;32me[0m   3    24 Some((5, 2, "false")) ["aisle", "false", "lapse"]
+slane,alike,algae
+slane,alike
+slane,alike,alive
+177 [0ms[1;32ml[1;33ma[0mn[1;32me[0m   3    42 Some((5, 2, "alike")) ["algae", "alike", "alive"]
+slane,scale
+slane,scale,shale
+slane,scale,shale,stale
+185 [1;32ms[1;33ml[1;32ma[0mn[1;32me[0m   3    10 Some((6, 3, "scale")) ["scale", "shale", "stale"]
+slane,lunge
+slane,lunge,noble
+slane,lunge,uncle
+192 [0ms[1;33ml[0ma[1;33mn[1;32me[0m   3    32 Some((5, 2, "lunge")) ["lunge", "noble", "uncle"]
+slane,angle
+slane,angle,ankle
+slane,angle,lance
+201 [0ms[1;33ml[1;33ma[1;33mn[1;32me[0m   3    17 Some((5, 2, "angle")) ["angle", "ankle", "lance"]
+slane,locus
+slane,locus,lousy
+slane,locus,lupus
+slane,locus,lusty
+  4 [1;33ms[1;33ml[0ma[0mn[0me[0m   4  1237 Some((7, 2, "locus")) ["locus", "lousy", "lupus", "lusty"]
+slane,bison
+slane,bison,bonus
+slane,bison,minus
+slane,bison,noisy
+ 28 [1;33ms[0ml[0ma[1;33mn[0me[0m   4  1027 Some((7, 2, "bison")) ["bison", "bonus", "minus", "noisy"]
+slane,spank,snack
+slane,spank,snaky
+slane,spank,spawn
+slane,spank,stain
+ 47 [1;32ms[0ml[1;32ma[1;33mn[0me[0m   4    50 Some((8, 2, "spank")) ["snack", "snaky", "spawn", "stain"]
+slane,sling
+slane,sling,slink
+slane,sling,slung
+slane,sling,slunk
+ 62 [1;32ms[1;32ml[0ma[1;32mn[0me[0m   4     8 Some((7, 2, "sling")) ["sling", "slink", "slung", "slunk"]
+slane,slept,sleek
+slane,slept,sleep
+slane,slept,sleet
+slane,slept
+ 89 [1;32ms[1;32ml[0ma[0mn[1;33me[0m   4    29 Some((7, 2, "slept")) ["sleek", "sleep", "sleet", "slept"]
+slane,ament,agent
+slane,ament,amend
+slane,ament,arena
+slane,ament,hyena
+144 [0ms[0ml[1;33ma[1;32mn[1;33me[0m   4    77 Some((8, 2, "ament")) ["agent", "amend", "arena", "hyena"]
+slane,stole,smile
+slane,stole,solve
+slane,stole
+slane,stole,style
+167 [1;32ms[1;33ml[0ma[0mn[1;32me[0m   4    42 Some((7, 2, "stole")) ["smile", "solve", "stole", "style"]
+slane,slice
+slane,slice,slide
+slane,slice,slide,slime
+slane,slice,slope
+170 [1;32ms[1;32ml[0ma[0mn[1;32me[0m   4    14 Some((8, 3, "slice")) ["slice", "slide", "slime", "slope"]
+slane,basal
+slane,basal,basil
+slane,basal,lasso
+slane,basal,palsy
+slane,basal,usual
+ 13 [1;33ms[1;33ml[1;33ma[0mn[0me[0m   5   455 Some((9, 2, "basal")) ["basal", "basil", "lasso", "palsy", "usual"]
+slane,stand,scant
+slane,stand,shank
+slane,stand,shank,spank
+slane,stand
+slane,stand,stank
+ 74 [1;32ms[0ml[1;32ma[1;32mn[0me[0m   5    23 Some((10, 3, "stand")) ["scant", "shank", "spank", "stand", "stank"]
+slane,onset,nosey
+slane,onset
+slane,onset,resin
+slane,onset,risen
+slane,onset,unset
+109 [1;33ms[0ml[0ma[1;33mn[1;33me[0m   5   363 Some((9, 2, "onset")) ["nosey", "onset", "resin", "risen", "unset"]
+slane,flabs,bliss
+slane,flabs,blush
+slane,flabs,floss
+slane,flabs,flush
+slane,flabs,gloss
+slane,flabs,plush
+  7 [1;33ms[1;32ml[0ma[0mn[0me[0m   6   275 Some((12, 2, "flabs")) ["bliss", "blush", "floss", "flush", "gloss", "plush"]
+slane,arson,angst
+slane,arson
+slane,arson,basin
+slane,arson,mason
+slane,arson,nasty
+slane,arson,pansy
+ 37 [1;33ms[0ml[1;33ma[1;33mn[0me[0m   6   359 Some((11, 2, "arson")) ["angst", "arson", "basin", "mason", "nasty", "pansy"]
+slane,panel,angel
+slane,panel,laden
+slane,panel,navel
+slane,panel
+slane,panel,penal
+slane,panel,renal
+120 [0ms[1;33ml[1;33ma[1;33mn[1;33me[0m   6    43 Some((11, 2, "panel")) ["angel", "laden", "navel", "panel", "penal", "renal"]
+slane,since,sense
+slane,since
+slane,since,singe
+slane,since,snide
+slane,since,snide,snipe
+slane,since,snore
+191 [1;32ms[0ml[0ma[1;33mn[1;32me[0m   6    29 Some((12, 3, "since")) ["sense", "since", "singe", "snide", "snipe", "snore"]
+slane,clats,blast
+slane,clats,clash
+slane,clats,clash,clasp
+slane,clats,class
+slane,clats,flash
+slane,clats,flash,flask
+slane,clats,glass
+ 25 [1;33ms[1;32ml[1;32ma[0mn[0me[0m   7    76 Some((16, 3, "clats")) ["blast", "clash", "clasp", "class", "flash", "flask", "glass"]
+slane,cease,abase
+slane,cease
+slane,cease,chase
+slane,cease,erase
+slane,cease,abase,phase
+slane,cease,tease
+slane,cease,usage
+181 [1;33ms[0ml[1;32ma[0mn[1;32me[0m   7    62 Some((14, 3, "cease")) ["abase", "cease", "chase", "erase", "phase", "tease", "usage"]
+slane,noise,dense
+slane,noise,ensue
+slane,noise
+slane,noise,noose
+slane,noise,nurse
+slane,noise,rinse
+slane,noise,dense,tense
+190 [1;33ms[0ml[0ma[1;33mn[1;32me[0m   7    49 Some((14, 3, "noise")) ["dense", "ensue", "noise", "noose", "nurse", "rinse", "tense"]
+slane,canoe,anime
+slane,canoe,anode
+slane,canoe
+slane,canoe,dance
+slane,canoe,mange
+slane,canoe,naive
+slane,canoe,mange,range
+198 [0ms[0ml[1;33ma[1;33mn[1;32me[0m   7    86 Some((14, 3, "canoe")) ["anime", "anode", "canoe", "dance", "mange", "naive", "range"]
+slane,shine,scene
+slane,shine,scene,scone
+slane,shine
+slane,shine,shone
+slane,shine,spine
+slane,shine,scene,stone
+slane,shine,spine,swine
+218 [1;32ms[0ml[0ma[1;32mn[1;32me[0m   7    16 Some((16, 3, "shine")) ["scene", "scone", "shine", "shone", "spine", "stone", "swine"]
+slane,blank,bland
+slane,blank
+slane,blank,clang
+slane,blank,clank
+slane,blank,clank,flank
+slane,blank,clang,gland
+slane,blank,clank,flank,plank
+slane,blank,clang,plant
+ 78 [0ms[1;32ml[1;32ma[1;32mn[0me[0m   8    28 Some((20, 4, "blank")) ["bland", "blank", "clang", "clank", "flank", "gland", "plank", "plant"]
+slane,semen
+slane,semen,seven
+slane,semen,sheen
+slane,semen,sinew
+slane,semen,siren
+slane,semen,sneer
+slane,semen,stein
+slane,semen,stein,stern
+110 [1;32ms[0ml[0ma[1;33mn[1;33me[0m   8   109 Some((16, 3, "semen")) ["semen", "seven", "sheen", "sinew", "siren", "sneer", "stein", "stern"]
+slane,eying,being
+slane,eying,ebony
+slane,eying,eking
+slane,eying,event
+slane,eying
+slane,eying,fiend
+slane,eying,penny
+slane,eying,trend
+135 [0ms[0ml[0ma[1;32mn[1;33me[0m   8   263 Some((15, 2, "eying")) ["being", "ebony", "eking", "event", "eying", "fiend", "penny", "trend"]
+slane,slops,slick
+slane,slops,slick,slimy
+slane,slops,sloop
+slane,slops,slosh
+slane,slops,sloth
+slane,slops,slump
+slane,slops,slump,slurp
+slane,slops,slush
+slane,slops,slick,slyly
+  8 [1;32ms[1;32ml[0ma[0mn[0me[0m   9    87 Some((21, 3, "slops")) ["slick", "slimy", "sloop", "slosh", "sloth", "slump", "slurp", "slush", "slyly"]
+slane,salat,sadly
+slane,salat,salad
+slane,salat,sally
+slane,salat,salsa
+slane,salat,salty
+slane,salat,sally,salvo
+slane,salat,shoal
+slane,salat,solar
+slane,salat,splat
+ 14 [1;32ms[1;33ml[1;33ma[0mn[0me[0m   9   122 Some((19, 3, "salat")) ["sadly", "salad", "sally", "salsa", "salty", "salvo", "shoal", "solar", "splat"]
+slane,stall,spald,scald
+slane,stall,spald,scalp
+slane,stall,spald,scaly
+slane,stall,shall
+slane,stall,shalt
+slane,stall,shawl
+slane,stall,shall,small
+slane,stall,stalk
+slane,stall
+ 23 [1;32ms[1;33ml[1;32ma[0mn[0me[0m   9    59 Some((21, 3, "stall")) ["scald", "scalp", "scaly", "shall", "shalt", "shawl", "small", "stalk", "stall"]
+slane,shell,shelf
+slane,shell
+slane,shell,smell
+slane,shell,smelt
+slane,shell,smell,spell
+slane,shell,smelt,spelt
+slane,shell,spiel
+slane,shell,steel
+slane,shell,smell,spell,swell
+ 86 [1;32ms[1;33ml[0ma[0mn[1;33me[0m   9   120 Some((21, 4, "shell")) ["shelf", "shell", "smell", "smelt", "spell", "spelt", "spiel", "steel", "swell"]
+slane,brain,again
+slane,brain
+slane,brain,brawn
+slane,brain,again,chain
+slane,brain,drain
+slane,brain,drawn
+slane,brain,drain,grain
+slane,brain,knack
+slane,brain,drawn,prawn
+slane,brain,drain,grain,train
+ 45 [0ms[0ml[1;32ma[1;33mn[0me[0m  10   239 Some((24, 4, "brain")) ["again", "brain", "brawn", "chain", "drain", "drawn", "grain", "knack", "prawn", "train"]
+slane,bleat,alert
+slane,bleat,alley
+slane,bleat,alter
+slane,bleat,bleak
+slane,bleat
+slane,bleat,clear
+slane,bleat,cleat
+slane,bleat,clear,gleam
+slane,bleat,clear,gleam,plead
+slane,bleat,cleat,pleat
+ 96 [0ms[1;32ml[1;33ma[0mn[1;33me[0m  10    86 Some((23, 4, "bleat")) ["alert", "alley", "alter", "bleak", "bleat", "clear", "cleat", "gleam", "plead", "pleat"]
+slane,leapt,dealt
+slane,leapt,email
+slane,leapt,exalt
+slane,leapt,leafy,leach
+slane,leapt,leafy
+slane,leapt,leafy,leaky
+slane,leapt
+slane,leapt,mealy
+slane,leapt,pearl
+slane,leapt,mealy,realm
+102 [0ms[1;33ml[1;32ma[0mn[1;33me[0m  10    99 Some((22, 3, "leapt")) ["dealt", "email", "exalt", "leach", "leafy", "leaky", "leapt", "mealy", "pearl", "realm"]
+slane,kylin,colon
+slane,kylin,knoll
+slane,kylin,lingo
+slane,kylin,login
+slane,kylin,lunch
+slane,kylin,lynch
+slane,kylin,nobly
+slane,kylin,nylon
+slane,kylin,unlit
+slane,kylin,until
+slane,kylin,vinyl
+ 30 [0ms[1;33ml[0ma[1;33mn[0me[0m  11   369 Some((22, 2, "kylin")) ["colon", "knoll", "lingo", "login", "lunch", "lynch", "nobly", "nylon", "unlit", "until", "vinyl"]
+slane,steam,safer
+slane,steam,safer,sepia
+slane,steam,shear
+slane,steam,smear
+slane,steam,shear,speak
+slane,steam,shear,spear
+slane,steam,stead
+slane,steam,stead,steak
+slane,steam
+slane,steam,shear,spear,swear
+slane,steam,sweat
+ 92 [1;32ms[0ml[1;33ma[0mn[1;33me[0m  11   161 Some((27, 4, "steam")) ["safer", "sepia", "shear", "smear", "speak", "spear", "stead", "steak", "steam", "swear", "sweat"]
+slane,grand,brand
+slane,grand,chant
+slane,grand,franc,crank
+slane,grand,drank
+slane,grand,franc,frank
+slane,grand,giant
+slane,grand
+slane,grand,grant
+slane,grand,chant,piano
+slane,grand,franc,prank
+slane,grand,chant,thank
+slane,grand,twang
+ 72 [0ms[0ml[1;32ma[1;32mn[0me[0m  12   154 Some((28, 3, "grand")) ["brand", "chant", "crank", "drank", "frank", "giant", "grand", "grant", "piano", "prank", "thank", "twang"]
+slane,liken,felon
+slane,liken,inlet
+slane,liken,kneel
+slane,liken,knelt
+slane,liken,lemon
+slane,liken
+slane,liken,linen
+slane,liken,liner
+slane,liken,lumen
+slane,liken,felon,melon
+slane,liken,newly
+slane,liken,novel
+111 [0ms[1;33ml[0ma[1;33mn[1;33me[0m  12   130 Some((24, 3, "liken")) ["felon", "inlet", "kneel", "knelt", "lemon", "liken", "linen", "liner", "lumen", "melon", "newly", "novel"]
+slane,clamp,alarm
+slane,clamp,black
+slane,clamp,clack
+slane,clamp,claim
+slane,clamp
+slane,clamp,black,flack
+slane,clamp,flail
+slane,clamp,flail,flair
+slane,clamp,flail,flaky
+slane,clamp,llama
+slane,clamp,plaid
+slane,clamp,plaid,plait
+slane,clamp,plaid,plaza
+ 24 [0ms[1;32ml[1;32ma[0mn[0me[0m  13   168 Some((30, 3, "clamp")) ["alarm", "black", "clack", "claim", "clamp", "flack", "flail", "flair", "flaky", "llama", "plaid", "plait", "plaza"]
+slane,fling,blind
+slane,fling,blind,blink
+slane,fling,blond
+slane,fling,blond,blunt
+slane,fling,cling
+slane,fling,blind,clink
+slane,fling,clung
+slane,fling
+slane,fling,flint
+slane,fling,flung
+slane,fling,flunk
+slane,fling,glint
+slane,fling,blond,plunk
+ 60 [0ms[1;32ml[0ma[1;32mn[0me[0m  13    72 Some((29, 3, "fling")) ["blind", "blink", "blond", "blunt", "cling", "clink", "clung", "fling", "flint", "flung", "flunk", "glint", "plunk"]
+slane,flare,blade
+slane,flare,blade,blame
+slane,flare,blare
+slane,flare,blade,blame,blaze
+slane,flare,blade,plate,elate
+slane,flare,flake
+slane,flare,flake,flame
+slane,flare
+slane,flare,blade,glade
+slane,flare,blare,glare
+slane,flare,blade,plate,glaze
+slane,flare,blade,plate,place
+slane,flare,blade,plate
+186 [0ms[1;32ml[1;32ma[0mn[1;32me[0m  13    29 Some((38, 4, "flare")) ["blade", "blame", "blare", "blaze", "elate", "flake", "flame", "flare", "glade", "glare", "glaze", "place", "plate"]
+slane,liart,avail
+slane,liart,brawl
+slane,liart,chalk
+slane,liart,brawl,crawl
+slane,liart,brawl,crawl,drawl
+slane,liart,frail
+slane,liart,frail,grail
+slane,liart,chalk,koala
+slane,liart,loamy
+slane,liart,loath
+slane,liart,avail,quail
+slane,liart,chalk,qualm
+slane,liart,trail
+slane,liart,trawl
+ 21 [0ms[1;33ml[1;32ma[0mn[0me[0m  14   338 Some((35, 4, "liart")) ["avail", "brawl", "chalk", "crawl", "drawl", "frail", "grail", "koala", "loamy", "loath", "quail", "qualm", "trail", "trawl"]
+slane,tonal,annul
+slane,tonal,anvil
+slane,tonal,banal
+slane,tonal,banal,canal
+slane,tonal,banal,final
+slane,tonal,inlay
+slane,tonal,lanky
+slane,tonal,lunar
+slane,tonal,lanky,manly
+slane,tonal,natal
+slane,tonal,naval
+slane,tonal,talon
+slane,tonal
+slane,tonal,zonal
+ 39 [0ms[1;33ml[1;33ma[1;33mn[0me[0m  14   166 Some((30, 3, "tonal")) ["annul", "anvil", "banal", "canal", "final", "inlay", "lanky", "lunar", "manly", "natal", "naval", "talon", "tonal", "zonal"]
+slane,eloge,bloke
+slane,eloge,bloke,clove
+slane,eloge,elide
+slane,eloge,elide,elite
+slane,eloge,elope
+slane,eloge,elide,elude
+slane,eloge,fluke
+slane,eloge,fluke,flume
+slane,eloge,fluke,flume,flute
+slane,eloge,glide
+slane,eloge,globe
+slane,eloge,globe,glove
+slane,eloge,olive
+slane,eloge,fluke,plume
+168 [0ms[1;32ml[0ma[0mn[1;32me[0m  14   108 Some((36, 4, "eloge")) ["bloke", "clove", "elide", "elite", "elope", "elude", "fluke", "flume", "flute", "glide", "globe", "glove", "olive", "plume"]
+slane,prone,borne
+slane,prone,brine
+slane,prone,crone
+slane,prone,crone,drone
+slane,prone,opine
+slane,prone,ovine
+slane,prone,ozone
+slane,prone,penne
+slane,prone,phone
+slane,prone
+slane,prone,prune
+slane,prone,twine
+slane,prone,brine,urine
+slane,prone,twine,whine
+216 [0ms[0ml[0ma[1;32mn[1;32me[0m  14   109 Some((30, 3, "prone")) ["borne", "brine", "crone", "drone", "opine", "ovine", "ozone", "penne", "phone", "prone", "prune", "twine", "urine", "whine"]
+slane,raven,anger
+slane,raven,annex
+slane,raven,annex,apnea
+slane,raven,began
+slane,raven,taken,eaten
+slane,raven,enema
+slane,raven,haven
+slane,raven,enema,knead
+slane,raven,taken,oaken
+slane,raven,began,ocean
+slane,raven,began,pecan
+slane,raven,ramen
+slane,raven
+slane,raven,taken
+slane,raven,vegan
+slane,raven,taken,waxen
+117 [0ms[0ml[1;33ma[1;33mn[1;33me[0m  16   288 Some((38, 3, "raven")) ["anger", "annex", "apnea", "began", "eaten", "enema", "haven", "knead", "oaken", "ocean", "pecan", "ramen", "raven", "taken", "vegan", "waxen"]
+slane,abuse
+slane,abuse,amuse
+slane,abuse,arise
+slane,abuse,arise,arose
+slane,abuse,aside
+slane,abuse,baste
+slane,abuse,chase,caste
+slane,abuse,cause
+slane,abuse,chase,haste
+slane,abuse,parse,masse
+slane,abuse,parse
+slane,abuse,chase,tawse,paste
+slane,abuse,cause,pause
+slane,abuse,parse,raise
+slane,abuse,chase,tawse,taste
+slane,abuse,chase,tawse,waste
+172 [1;33ms[0ml[1;33ma[0mn[1;32me[0m  16   127 Some((43, 4, "abuse")) ["abuse", "amuse", "arise", "arose", "aside", "baste", "caste", "cause", "haste", "masse", "parse", "paste", "pause", "raise", "taste", "waste"]
+slane,table,ample,agile
+slane,table,amble
+slane,table,ample
+slane,table,ample,apple
+slane,table,cable
+slane,table,padle,eagle
+slane,table,cable,fable
+slane,table,halve
+slane,table,padle,ladle
+slane,table,halve,large
+slane,table,lathe
+slane,table,lathe,latte
+slane,table,padle,maple
+slane,table
+slane,table,halve,value
+slane,table,halve,valve
+174 [0ms[1;33ml[1;33ma[0mn[1;32me[0m  16   130 Some((41, 3, "table")) ["agile", "amble", "ample", "apple", "cable", "eagle", "fable", "halve", "ladle", "large", "lathe", "latte", "maple", "table", "value", "valve"]
+slane,crabs,amass
+slane,crabs,quash,awash
+slane,crabs,boast
+slane,crabs,brash
+slane,crabs,brass
+slane,crabs,chaos
+slane,crabs,chasm
+slane,crabs,chasm,coast
+slane,crabs,crash
+slane,crabs,crass
+slane,crabs,grasp
+slane,crabs,grass
+slane,crabs,quash
+slane,crabs,quash,quasi
+slane,crabs,roast
+slane,crabs,quash,toast
+slane,crabs,grasp,trash
+ 19 [1;33ms[0ml[1;32ma[0mn[0me[0m  17   645 Some((39, 3, "crabs")) ["amass", "awash", "boast", "brash", "brass", "chaos", "chasm", "coast", "crash", "crass", "grasp", "grass", "quash", "quasi", "roast", "toast", "trash"]
+slane,swoon,scion
+slane,swoon,scorn
+slane,swoon,scorn,shorn
+slane,swoon,shown
+slane,swoon,sniff
+slane,swoon,snoop
+slane,swoon,snort
+slane,swoon,snort,snout
+slane,swoon,snowy
+slane,swoon,sniff,snuck
+slane,swoon,sniff,snuff
+slane,swoon,sonic
+slane,swoon,spoon
+slane,swoon,spurn
+slane,swoon
+slane,swoon,sworn
+slane,swoon,synod
+ 29 [1;32ms[0ml[0ma[1;33mn[0me[0m  17   291 Some((37, 3, "swoon")) ["scion", "scorn", "shorn", "shown", "sniff", "snoop", "snort", "snout", "snowy", "snuck", "snuff", "sonic", "spoon", "spurn", "swoon", "sworn", "synod"]
+slane,stung,shiny
+slane,stung,shunt
+slane,stung,skunk
+slane,stung,skunk,sound
+slane,stung,shiny,spiny
+slane,stung,skunk,spunk
+slane,stung,sting
+slane,stung,stink
+slane,stung,stink,stint
+slane,stung,stink,stony
+slane,stung
+slane,stung,stunk
+slane,stung,stunk,stunt
+slane,stung,suing
+slane,stung,sunny
+slane,stung,swing
+slane,stung,swung
+ 56 [1;32ms[0ml[0ma[1;32mn[0me[0m  17   102 Some((39, 3, "stung")) ["shiny", "shunt", "skunk", "sound", "spiny", "spunk", "sting", "stink", "stint", "stony", "stung", "stunk", "stunt", "suing", "sunny", "swing", "swung"]
+182 [1;32ms[0ml[1;32ma[0mn[1;32me[0m  17    44 None ["scare", "shade", "shake", "shame", "shape", "share", "shave", "skate", "space", "spade", "spare", "stage", "stake", "stare", "state", "stave", "suave"]

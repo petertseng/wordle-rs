@@ -1,0 +1,338 @@
+spale,spray
+ 17 [1;32ms[1;32mp[1;33ma[0ml[0me[0m   1    54 Some((1, 1, "spray")) ["spray"]
+spale,grasp
+ 22 [1;33ms[1;33mp[1;32ma[0ml[0me[0m   1   110 Some((1, 1, "grasp")) ["grasp"]
+spale,apart
+ 24 [0ms[1;32mp[1;32ma[0ml[0me[0m   1    47 Some((1, 1, "apart")) ["apart"]
+spale,palsy
+ 40 [1;33ms[1;33mp[1;33ma[1;33ml[0me[0m   1    56 Some((1, 1, "palsy")) ["palsy"]
+spale,splat
+ 44 [1;32ms[1;32mp[1;33ma[1;33ml[0me[0m   1    12 Some((1, 1, "splat")) ["splat"]
+spale,clasp
+ 49 [1;33ms[1;33mp[1;32ma[1;33ml[0me[0m   1    27 Some((1, 1, "clasp")) ["clasp"]
+spale,imply
+ 57 [0ms[1;33mp[0ma[1;32ml[0me[0m   1    72 Some((1, 1, "imply")) ["imply"]
+spale,amply
+ 66 [0ms[1;33mp[1;33ma[1;32ml[0me[0m   1    34 Some((1, 1, "amply")) ["amply"]
+spale,psalm
+ 76 [1;33ms[1;33mp[1;32ma[1;32ml[0me[0m   1     9 Some((1, 1, "psalm")) ["psalm"]
+spale,scalp
+ 77 [1;32ms[1;33mp[1;32ma[1;32ml[0me[0m   1     5 Some((1, 1, "scalp")) ["scalp"]
+spale,upset
+ 88 [1;33ms[1;32mp[0ma[0ml[1;33me[0m   1    71 Some((1, 1, "upset")) ["upset"]
+spale,sepia
+ 95 [1;32ms[1;33mp[1;33ma[0ml[1;33me[0m   1    23 Some((1, 1, "sepia")) ["sepia"]
+spale,peach
+102 [0ms[1;33mp[1;32ma[0ml[1;33me[0m   1    56 Some((1, 1, "peach")) ["peach"]
+spale,spiel
+116 [1;32ms[1;32mp[0ma[1;33ml[1;33me[0m   1    11 Some((1, 1, "spiel")) ["spiel"]
+spale,easel
+118 [1;33ms[0mp[1;33ma[1;33ml[1;33me[0m   1   114 Some((1, 1, "easel")) ["easel"]
+spale,steal
+119 [1;32ms[0mp[1;33ma[1;33ml[1;33me[0m   1    32 Some((1, 1, "steal")) ["steal"]
+spale,opine
+168 [0ms[1;32mp[0ma[0ml[1;32me[0m   1    32 Some((1, 1, "opine")) ["opine"]
+spale,payee
+174 [0ms[1;33mp[1;33ma[0ml[1;32me[0m   1    70 Some((1, 1, "payee")) ["payee"]
+spale,phase
+184 [1;33ms[1;33mp[1;32ma[0ml[1;32me[0m   1    12 Some((1, 1, "phase")) ["phase"]
+spale,shape
+185 [1;32ms[1;33mp[1;32ma[0ml[1;32me[0m   1     9 Some((1, 1, "shape")) ["shape"]
+spale,pulse
+193 [1;33ms[1;33mp[0ma[1;33ml[1;32me[0m   1     9 Some((1, 1, "pulse")) ["pulse"]
+spale,slope
+194 [1;32ms[1;33mp[0ma[1;33ml[1;32me[0m   1     6 Some((1, 1, "slope")) ["slope"]
+spale,false
+199 [1;33ms[0mp[1;33ma[1;33ml[1;32me[0m   1    24 Some((1, 1, "false")) ["false"]
+spale,salve
+200 [1;32ms[0mp[1;33ma[1;33ml[1;32me[0m   1    15 Some((1, 1, "salve")) ["salve"]
+spale,lapse
+202 [1;33ms[1;33mp[1;33ma[1;33ml[1;32me[0m   1     2 Some((1, 1, "lapse")) ["lapse"]
+spale,lease
+208 [1;33ms[0mp[1;32ma[1;33ml[1;32me[0m   1    13 Some((1, 1, "lease")) ["lease"]
+spale,aisle
+226 [1;33ms[0mp[1;33ma[1;32ml[1;32me[0m   1     9 Some((1, 1, "aisle")) ["aisle"]
+spale,apple
+231 [0ms[1;32mp[1;33ma[1;32ml[1;32me[0m   1     2 Some((1, 1, "apple")) ["apple"]
+spale,whale
+234 [0ms[0mp[1;32ma[1;32ml[1;32me[0m   1    11 Some((1, 1, "whale")) ["whale"]
+spale,opium
+spale,opium,optic
+  6 [0ms[1;32mp[0ma[0ml[0me[0m   2   231 Some((3, 2, "opium")) ["opium", "optic"]
+spale,lupus
+spale,lupus,plush
+ 31 [1;33ms[1;33mp[0ma[1;33ml[0me[0m   2   155 Some((3, 2, "lupus")) ["lupus", "plush"]
+spale,spill
+spale,spill,spilt
+ 62 [1;32ms[1;32mp[0ma[1;32ml[0me[0m   2    12 Some((3, 2, "spill")) ["spill", "spilt"]
+spale,sadly
+spale,sadly,sally
+ 65 [1;32ms[0mp[1;33ma[1;32ml[0me[0m   2    38 Some((3, 2, "sadly")) ["sadly", "sally"]
+spale,apply
+spale,apply,aptly
+ 69 [0ms[1;32mp[1;33ma[1;32ml[0me[0m   2     8 Some((3, 2, "apply")) ["apply", "aptly"]
+spale,apnea
+spale,apnea,opera
+ 96 [0ms[1;32mp[1;33ma[0ml[1;33me[0m   2    34 Some((3, 2, "apnea")) ["apnea", "opera"]
+spale,speak
+spale,speak,spear
+ 98 [1;32ms[1;32mp[1;33ma[0ml[1;33me[0m   2    15 Some((3, 2, "speak")) ["speak", "spear"]
+spale,sleep
+spale,sleep,slept
+113 [1;32ms[1;33mp[0ma[1;33ml[1;33me[0m   2    20 Some((3, 2, "sleep")) ["sleep", "slept"]
+spale,leash
+spale,leash,least
+127 [1;33ms[0mp[1;32ma[1;33ml[1;33me[0m   2    41 Some((3, 2, "leash")) ["leash", "least"]
+spale,leapt
+spale,leapt,pearl
+129 [0ms[1;33mp[1;32ma[1;33ml[1;33me[0m   2     9 Some((3, 2, "leapt")) ["leapt", "pearl"]
+spale,reply
+spale,reply,whelp
+138 [0ms[1;33mp[0ma[1;32ml[1;33me[0m   2    30 Some((3, 2, "reply")) ["reply", "whelp"]
+spale,spell
+spale,spell,spelt
+143 [1;32ms[1;32mp[0ma[1;32ml[1;33me[0m   2     7 Some((3, 2, "spell")) ["spell", "spelt"]
+spale,early
+spale,early,fella
+144 [0ms[0mp[1;33ma[1;32ml[1;33me[0m   2    97 Some((3, 2, "early")) ["early", "fella"]
+spale,scope
+spale,scope,snipe
+167 [1;32ms[1;33mp[0ma[0ml[1;32me[0m   2    34 Some((3, 2, "scope")) ["scope", "snipe"]
+spale,sauce
+spale,sauce,saute
+173 [1;32ms[0mp[1;33ma[0ml[1;32me[0m   2    63 Some((3, 2, "sauce")) ["sauce", "saute"]
+spale,elope
+spale,elope,plume
+192 [0ms[1;33mp[0ma[1;33ml[1;32me[0m   2    42 Some((3, 2, "elope")) ["elope", "plume"]
+spale,slate
+spale,slate,slave
+209 [1;32ms[0mp[1;32ma[1;33ml[1;32me[0m   2    10 Some((3, 2, "slate")) ["slate", "slave"]
+spale,ample
+spale,ample,maple
+228 [0ms[1;33mp[1;33ma[1;32ml[1;32me[0m   2     8 Some((3, 2, "ample")) ["ample", "maple"]
+spale,scrap,sappy
+spale,scrap
+spale,scrap,strap
+ 14 [1;32ms[1;33mp[1;33ma[0ml[0me[0m   3    96 Some((5, 2, "scrap")) ["sappy", "scrap", "strap"]
+spale,aphid
+spale,aphid,aping
+spale,aphid,apron
+ 15 [0ms[1;32mp[1;33ma[0ml[0me[0m   3   103 Some((5, 2, "aphid")) ["aphid", "aping", "apron"]
+spale,slump,sloop
+spale,slump
+spale,slump,slurp
+ 32 [1;32ms[1;33mp[0ma[1;33ml[0me[0m   3    51 Some((5, 2, "slump")) ["sloop", "slump", "slurp"]
+spale,split
+spale,split,spoil
+spale,split,spool
+ 35 [1;32ms[1;32mp[0ma[1;33ml[0me[0m   3    27 Some((5, 2, "split")) ["split", "spoil", "spool"]
+spale,chalk
+spale,chalk,koala
+spale,chalk,qualm
+ 72 [0ms[0mp[1;32ma[1;32ml[0me[0m   3    92 Some((5, 2, "chalk")) ["chalk", "koala", "qualm"]
+spale,epoch
+spale,epoch,epoxy
+spale,epoch,upper
+ 87 [0ms[1;32mp[0ma[0ml[1;33me[0m   3   105 Some((5, 2, "epoch")) ["epoch", "epoxy", "upper"]
+spale,beast
+spale,beast,feast
+spale,beast,feast,yeast
+100 [1;33ms[0mp[1;32ma[0ml[1;33me[0m   3   163 Some((6, 3, "beast")) ["beast", "feast", "yeast"]
+spale,sleek
+spale,sleek,sleet
+spale,sleek,steel
+110 [1;32ms[0mp[0ma[1;33ml[1;33me[0m   3   120 Some((5, 2, "sleek")) ["sleek", "sleet", "steel"]
+spale,parse
+spale,parse,paste
+spale,parse,pause
+175 [1;33ms[1;33mp[1;33ma[0ml[1;32me[0m   3    21 Some((5, 2, "parse")) ["parse", "paste", "pause"]
+spale,space
+spale,space,spade
+spale,space,spade,spare
+188 [1;32ms[1;32mp[1;32ma[0ml[1;32me[0m   3     7 Some((6, 3, "space")) ["space", "spade", "spare"]
+spale,close
+spale,close,loose
+spale,close,louse
+190 [1;33ms[0mp[0ma[1;33ml[1;32me[0m   3    66 Some((5, 2, "close")) ["close", "loose", "louse"]
+spale,place
+spale,place,plane
+spale,place,plane,plate
+210 [0ms[1;33mp[1;32ma[1;33ml[1;32me[0m   3     5 Some((6, 3, "place")) ["place", "plane", "plate"]
+spale,stole,smile
+spale,stole
+spale,stole,style
+218 [1;32ms[0mp[0ma[1;32ml[1;32me[0m   3    23 Some((5, 2, "stole")) ["smile", "stole", "style"]
+spale,scale
+spale,scale,shale
+spale,scale,shale,stale
+236 [1;32ms[0mp[1;32ma[1;32ml[1;32me[0m   3     5 Some((6, 3, "scale")) ["scale", "shale", "stale"]
+spale,spank
+spale,spank,spark
+spale,spank,spasm
+spale,spank,spawn
+ 26 [1;32ms[1;32mp[1;32ma[0ml[0me[0m   4    38 Some((7, 2, "spank")) ["spank", "spark", "spasm", "spawn"]
+spale,ansae,ashen
+spale,ansae,askew
+spale,ansae,asset
+spale,ansae,essay
+ 91 [1;33ms[0mp[1;33ma[0ml[1;33me[0m   4   610 Some((8, 2, "ansae")) ["ashen", "askew", "asset", "essay"]
+spale,mealy,dealt
+spale,mealy,exalt
+spale,mealy
+spale,mealy,realm
+153 [0ms[0mp[1;32ma[1;32ml[1;33me[0m   4    34 Some((7, 2, "mealy")) ["dealt", "exalt", "mealy", "realm"]
+spale,agape
+spale,agape,drape
+spale,agape,grape
+spale,agape,peace
+183 [0ms[1;33mp[1;32ma[0ml[1;32me[0m   4    34 Some((7, 2, "agape")) ["agape", "drape", "grape", "peace"]
+spale,slice
+spale,slice,slide
+spale,slice,slide,slime
+spale,slice,solve
+191 [1;32ms[0mp[0ma[1;33ml[1;32me[0m   4    42 Some((8, 3, "slice")) ["slice", "slide", "slime", "solve"]
+spale,pansy
+spale,pansy,pasta
+spale,pansy,pasty
+spale,pansy,patsy
+spale,pansy,raspy
+ 13 [1;33ms[1;33mp[1;33ma[0ml[0me[0m   5   310 Some((9, 2, "pansy")) ["pansy", "pasta", "pasty", "patsy", "raspy"]
+spale,scamp
+spale,scamp,sharp
+spale,scamp,soapy
+spale,scamp,stamp
+spale,scamp,stamp,swamp
+ 23 [1;32ms[1;33mp[1;32ma[0ml[0me[0m   5    58 Some((10, 3, "scamp")) ["scamp", "sharp", "soapy", "stamp", "swamp"]
+spale,basal
+spale,basal,basil
+spale,basal,lasso
+spale,basal,nasal
+spale,basal,usual
+ 37 [1;33ms[0mp[1;33ma[1;33ml[0me[0m   5   455 Some((9, 2, "basal")) ["basal", "basil", "lasso", "nasal", "usual"]
+spale,pesky
+spale,pesky,pesto
+spale,pesky,poesy
+spale,pesky,poser
+spale,pesky,press
+ 85 [1;33ms[1;33mp[0ma[0ml[1;33me[0m   5   314 Some((9, 2, "pesky")) ["pesky", "pesto", "poesy", "poser", "press"]
+spale,welsh,bless
+spale,welsh,flesh
+spale,welsh,islet
+spale,welsh,loser
+spale,welsh
+109 [1;33ms[0mp[0ma[1;33ml[1;33me[0m   5   454 Some((9, 2, "welsh")) ["bless", "flesh", "islet", "loser", "welsh"]
+spale,shell,shelf
+spale,shell
+spale,shell,smell
+spale,shell,smelt
+spale,shell,smell,swell
+137 [1;32ms[0mp[0ma[1;32ml[1;33me[0m   5    48 Some((10, 3, "shell")) ["shelf", "shell", "smell", "smelt", "swell"]
+spale,poise,copse
+spale,poise
+spale,poise,posse
+spale,poise,prose
+spale,poise,purse
+166 [1;33ms[1;33mp[0ma[0ml[1;32me[0m   5    63 Some((9, 2, "poise")) ["copse", "poise", "posse", "prose", "purse"]
+spale,alpha
+spale,alpha,papal
+spale,alpha,polar
+spale,alpha,polka
+spale,alpha,pupal
+spale,alpha,ralph
+ 39 [0ms[1;33mp[1;33ma[1;33ml[0me[0m   6   172 Some((11, 2, "alpha")) ["alpha", "papal", "polar", "polka", "pupal", "ralph"]
+spale,chals,blast
+spale,chals,clash
+spale,chals,class
+spale,chals,flash
+spale,chals,blast,flask
+spale,chals,glass
+ 46 [1;33ms[0mp[1;32ma[1;33ml[0me[0m   6   168 Some((13, 3, "chals")) ["blast", "clash", "class", "flash", "flask", "glass"]
+spale,swept,setup
+spale,swept,sheep
+spale,swept,steep
+spale,swept,super
+spale,swept,sweep
+spale,swept
+ 86 [1;32ms[1;33mp[0ma[0ml[1;33me[0m   6   104 Some((11, 2, "swept")) ["setup", "sheep", "steep", "super", "sweep", "swept"]
+spale,spend,speck
+spale,spend,speed
+spale,spend
+spale,spend,spent
+spale,spend,speck,sperm
+spale,spend,spied
+ 89 [1;32ms[1;32mp[0ma[0ml[1;33me[0m   6    60 Some((12, 3, "spend")) ["speck", "speed", "spend", "spent", "sperm", "spied"]
+spale,leany,email
+spale,leany,leach
+spale,leany,leafy
+spale,leany,leafy,leaky
+spale,leany,leant
+spale,leany,learn
+126 [0ms[0mp[1;32ma[1;33ml[1;33me[0m   6    99 Some((13, 3, "leany")) ["email", "leach", "leafy", "leaky", "leant", "learn"]
+spale,cease,abase
+spale,cease
+spale,cease,chase
+spale,cease,erase
+spale,cease,tease
+spale,cease,usage
+181 [1;33ms[0mp[1;32ma[0ml[1;32me[0m   6    62 Some((11, 2, "cease")) ["abase", "cease", "chase", "erase", "tease", "usage"]
+spale,salat,salad
+spale,salat,salon
+spale,salat,salsa
+spale,salat,salty
+spale,salat,salon,salvo
+spale,salat,shoal
+spale,salat,solar
+ 38 [1;32ms[0mp[1;33ma[1;33ml[0me[0m   7   122 Some((15, 3, "salat")) ["salad", "salon", "salsa", "salty", "salvo", "shoal", "solar"]
+spale,plant,clamp
+spale,plant,plaid
+spale,plant,plain
+spale,plant,plait
+spale,plant,plank
+spale,plant
+spale,plant,plaid,plaza
+ 48 [0ms[1;33mp[1;32ma[1;33ml[0me[0m   7    47 Some((14, 3, "plant")) ["clamp", "plaid", "plain", "plait", "plank", "plant", "plaza"]
+spale,stall,scald
+spale,stall,scald,scaly
+spale,stall,shall
+spale,stall,shalt
+spale,stall,shall,small
+spale,stall,stalk
+spale,stall
+ 74 [1;32ms[0mp[1;32ma[1;32ml[0me[0m   7    26 Some((15, 3, "stall")) ["scald", "scaly", "shall", "shalt", "small", "stalk", "stall"]
+spale,tramp,adapt
+spale,tramp,champ
+spale,tramp,cramp
+spale,tramp,prank,graph
+spale,tramp,piano
+spale,tramp,prank
+spale,tramp,prank,prawn
+spale,tramp
+ 21 [0ms[1;33mp[1;32ma[0ml[0me[0m   8   194 Some((17, 3, "tramp")) ["adapt", "champ", "cramp", "graph", "piano", "prank", "prawn", "tramp"]
+spale,floss,bliss
+spale,floss,blush
+spale,floss
+spale,floss,flush
+spale,floss,gloss
+spale,floss,locus
+spale,floss,lousy
+spale,floss,lusty
+ 28 [1;33ms[0mp[0ma[1;33ml[0me[0m   8  1237 Some((15, 2, "floss")) ["bliss", "blush", "floss", "flush", "gloss", "locus", "lousy", "lusty"]
+spale,slain,shawl
+spale,slain,slack
+spale,slain
+spale,slain,slang
+spale,slain,slang,slant
+spale,slain,slack,slash
+spale,slain,snail
+spale,slain,snarl
+ 47 [1;32ms[0mp[1;32ma[1;33ml[0me[0m   8    59 Some((17, 3, "slain")) ["shawl", "slack", "slain", "slang", "slant", "slash", "snail", "snarl"]
+spale,pedal,lapel
+spale,pedal,paler
+spale,pedal,panel
+spale,pedal
+spale,pedal,penal
+spale,pedal,penal,petal
+spale,pedal,plead
+spale,pedal,pleat
+120 [0ms[1;33mp[1;33ma[1;33ml[1;33me[0m   8    50 Some((16, 3, "pedal")) ["lapel", "paler", "panel", "pedal", "penal", "petal", "plead", "pleat"]
+170 [1;32ms[1;32mp[0ma[0ml[1;32me[0m   8    22 None ["spice", "spike", "spine", "spire", "spite", "spoke", "spore", "spree"]

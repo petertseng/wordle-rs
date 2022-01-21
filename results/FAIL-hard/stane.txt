@@ -1,0 +1,233 @@
+stane,itchy
+  6 [0ms[1;32mt[0ma[0mn[0me[0m   1   239 Some((1, 1, "itchy")) ["itchy"]
+stane,satin
+ 41 [1;32ms[1;33mt[1;33ma[1;33mn[0me[0m   1    16 Some((1, 1, "satin")) ["satin"]
+stane,gnash
+ 46 [1;33ms[0mt[1;32ma[1;33mn[0me[0m   1   106 Some((1, 1, "gnash")) ["gnash"]
+stane,train
+ 48 [0ms[1;33mt[1;32ma[1;33mn[0me[0m   1    50 Some((1, 1, "train")) ["train"]
+stane,stain
+ 53 [1;32ms[1;32mt[1;32ma[1;33mn[0me[0m   1     7 Some((1, 1, "stain")) ["stain"]
+stane,using
+ 55 [1;33ms[0mt[0ma[1;32mn[0me[0m   1   311 Some((1, 1, "using")) ["using"]
+stane,shunt
+ 59 [1;32ms[1;33mt[0ma[1;32mn[0me[0m   1    33 Some((1, 1, "shunt")) ["shunt"]
+stane,sauna
+ 65 [1;32ms[0mt[1;33ma[1;32mn[0me[0m   1    34 Some((1, 1, "sauna")) ["sauna"]
+stane,saint
+ 68 [1;32ms[1;33mt[1;33ma[1;32mn[0me[0m   1     8 Some((1, 1, "saint")) ["saint"]
+stane,ethos
+ 88 [1;33ms[1;32mt[0ma[0mn[1;33me[0m   1    77 Some((1, 1, "ethos")) ["ethos"]
+stane,asset
+ 94 [1;33ms[1;33mt[1;33ma[0mn[1;33me[0m   1   117 Some((1, 1, "asset")) ["asset"]
+stane,sweat
+ 95 [1;32ms[1;33mt[1;33ma[0mn[1;33me[0m   1    32 Some((1, 1, "sweat")) ["sweat"]
+stane,leash
+100 [1;33ms[0mt[1;32ma[0mn[1;33me[0m   1   163 Some((1, 1, "leash")) ["leash"]
+stane,ashen
+118 [1;33ms[0mt[1;33ma[1;33mn[1;33me[0m   1    77 Some((1, 1, "ashen")) ["ashen"]
+stane,enact
+129 [0ms[1;33mt[1;32ma[1;33mn[1;33me[0m   1     8 Some((1, 1, "enact")) ["enact"]
+stane,spend
+137 [1;32ms[0mt[0ma[1;32mn[1;33me[0m   1    36 Some((1, 1, "spend")) ["spend"]
+stane,agent
+147 [0ms[1;33mt[1;33ma[1;32mn[1;33me[0m   1    10 Some((1, 1, "agent")) ["agent"]
+stane,saute
+176 [1;32ms[1;33mt[1;33ma[0mn[1;32me[0m   1    15 Some((1, 1, "saute")) ["saute"]
+stane,tease
+184 [1;33ms[1;33mt[1;32ma[0mn[1;32me[0m   1    13 Some((1, 1, "tease")) ["tease"]
+stane,tense
+193 [1;33ms[1;33mt[0ma[1;33mn[1;32me[0m   1     4 Some((1, 1, "tense")) ["tense"]
+stane,knave
+207 [0ms[0mt[1;32ma[1;33mn[1;32me[0m   1    19 Some((1, 1, "knave")) ["knave"]
+stane,twine
+219 [0ms[1;33mt[0ma[1;32mn[1;32me[0m   1    14 Some((1, 1, "twine")) ["twine"]
+stane,stone
+224 [1;32ms[1;32mt[0ma[1;32mn[1;32me[0m   1     2 Some((1, 1, "stone")) ["stone"]
+stane,alone
+225 [0ms[0mt[1;33ma[1;32mn[1;32me[0m   1    34 Some((1, 1, "alone")) ["alone"]
+stane,atone
+231 [0ms[1;32mt[1;33ma[1;32mn[1;32me[0m   1     2 Some((1, 1, "atone")) ["atone"]
+stane,atoll
+stane,atoll,attic
+ 15 [0ms[1;32mt[1;33ma[0mn[0me[0m   2    90 Some((3, 2, "atoll")) ["atoll", "attic"]
+stane,snort
+stane,snort,snout
+ 32 [1;32ms[1;33mt[0ma[1;33mn[0me[0m   2    59 Some((3, 2, "snort")) ["snort", "snout"]
+stane,angst
+stane,angst,nasty
+ 40 [1;33ms[1;33mt[1;33ma[1;33mn[0me[0m   2    54 Some((3, 2, "angst")) ["angst", "nasty"]
+stane,scant
+stane,scant,slant
+ 77 [1;32ms[1;33mt[1;32ma[1;32mn[0me[0m   2     6 Some((3, 2, "scant")) ["scant", "slant"]
+stane,stand
+stane,stand,stank
+ 80 [1;32ms[1;32mt[1;32ma[1;32mn[0me[0m   2     4 Some((3, 2, "stand")) ["stand", "stank"]
+stane,onset
+stane,onset,unset
+112 [1;33ms[1;33mt[0ma[1;33mn[1;33me[0m   2    59 Some((3, 2, "onset")) ["onset", "unset"]
+stane,stein
+stane,stein,stern
+116 [1;32ms[1;32mt[0ma[1;33mn[1;33me[0m   2    10 Some((3, 2, "stein")) ["stein", "stern"]
+stane,eaten
+stane,eaten,taken
+120 [0ms[1;33mt[1;33ma[1;33mn[1;33me[0m   2    34 Some((3, 2, "eaten")) ["eaten", "taken"]
+stane,learn
+stane,learn,yearn
+126 [0ms[0mt[1;32ma[1;33mn[1;33me[0m   2    49 Some((3, 2, "learn")) ["learn", "yearn"]
+stane,event
+stane,event,trend
+138 [0ms[1;33mt[0ma[1;32mn[1;33me[0m   2    56 Some((3, 2, "event")) ["event", "trend"]
+stane,scent
+stane,scent,spent
+140 [1;32ms[1;33mt[0ma[1;32mn[1;33me[0m   2    11 Some((3, 2, "scent")) ["scent", "spent"]
+stane,leant
+stane,leant,meant
+156 [0ms[1;33mt[1;32ma[1;32mn[1;33me[0m   2     4 Some((3, 2, "leant")) ["leant", "meant"]
+stane,etude
+stane,etude,utile
+168 [0ms[1;32mt[0ma[0mn[1;32me[0m   2    42 Some((3, 2, "etude")) ["etude", "utile"]
+stane,salve
+stane,salve,sauce
+173 [1;32ms[0mt[1;33ma[0mn[1;32me[0m   2    63 Some((3, 2, "salve")) ["salve", "sauce"]
+stane,skate
+stane,skate,slate
+185 [1;32ms[1;33mt[1;32ma[0mn[1;32me[0m   2    11 Some((3, 2, "skate")) ["skate", "slate"]
+stane,unite
+stane,unite,untie
+192 [0ms[1;33mt[0ma[1;33mn[1;32me[0m   2    33 Some((3, 2, "unite")) ["unite", "untie"]
+stane,snake
+stane,snake,snare
+209 [1;32ms[0mt[1;32ma[1;33mn[1;32me[0m   2     5 Some((3, 2, "snake")) ["snake", "snare"]
+stane,strap
+stane,strap,straw
+stane,strap,straw,stray
+ 17 [1;32ms[1;32mt[1;33ma[0mn[0me[0m   3    57 Some((6, 3, "strap")) ["strap", "straw", "stray"]
+stane,salon
+stane,salon,sandy
+stane,salon,sonar
+ 38 [1;32ms[0mt[1;33ma[1;33mn[0me[0m   3   103 Some((5, 2, "salon")) ["salon", "sandy", "sonar"]
+stane,shank
+stane,shank,slang
+stane,shank,spank
+ 74 [1;32ms[0mt[1;32ma[1;32mn[0me[0m   3    23 Some((5, 2, "shank")) ["shank", "slang", "spank"]
+stane,askew
+stane,askew,easel
+stane,askew,essay
+ 91 [1;33ms[0mt[1;33ma[0mn[1;33me[0m   3   610 Some((5, 2, "askew")) ["askew", "easel", "essay"]
+stane,nosey
+stane,nosey,resin
+stane,nosey,risen
+109 [1;33ms[0mt[0ma[1;33mn[1;33me[0m   3   363 Some((5, 2, "nosey")) ["nosey", "resin", "risen"]
+stane,sedan,saner
+stane,sedan
+stane,sedan,sneak
+119 [1;32ms[0mt[1;33ma[1;33mn[1;33me[0m   3    25 Some((5, 2, "sedan")) ["saner", "sedan", "sneak"]
+stane,amend
+stane,amend,arena
+stane,amend,hyena
+144 [0ms[0mt[1;33ma[1;32mn[1;33me[0m   3    77 Some((5, 2, "amend")) ["amend", "arena", "hyena"]
+stane,terse
+stane,terse,these
+stane,terse,those
+166 [1;33ms[1;33mt[0ma[0mn[1;32me[0m   3    78 Some((5, 2, "terse")) ["terse", "these", "those"]
+stane,liane,crane
+stane,liane,inane
+stane,liane,plane
+234 [0ms[0mt[1;32ma[1;32mn[1;32me[0m   3    13 Some((6, 2, "liane")) ["crane", "inane", "plane"]
+stane,salty
+stane,salty,satyr
+stane,salty,splat
+stane,salty,squat
+ 14 [1;32ms[1;33mt[1;33ma[0mn[0me[0m   4   134 Some((7, 2, "salty")) ["salty", "satyr", "splat", "squat"]
+stane,shaft
+stane,shaft,shalt
+stane,shaft,smart
+stane,shaft,swath
+ 23 [1;32ms[1;33mt[1;32ma[0mn[0me[0m   4    65 Some((7, 2, "shaft")) ["shaft", "shalt", "smart", "swath"]
+stane,bison
+stane,bison,bonus
+stane,bison,minus
+stane,bison,noisy
+ 28 [1;33ms[0mt[0ma[1;33mn[0me[0m   4  1027 Some((7, 2, "bison")) ["bison", "bonus", "minus", "noisy"]
+stane,strep,steed
+stane,strep,steed,steel
+stane,strep,steep
+stane,strep,steer
+ 89 [1;32ms[1;32mt[0ma[0mn[1;33me[0m   4    70 Some((9, 3, "strep")) ["steed", "steel", "steep", "steer"]
+stane,stead
+stane,stead,steak
+stane,stead,steak,steal
+stane,stead,steak,steal,steam
+ 98 [1;32ms[1;32mt[1;33ma[0mn[1;33me[0m   4    17 Some((10, 4, "stead")) ["stead", "steak", "steal", "steam"]
+stane,beast
+stane,beast,feast
+stane,beast,feast,least
+stane,beast,feast,least,yeast
+103 [1;33ms[1;33mt[1;32ma[0mn[1;33me[0m   4    37 Some((10, 4, "beast")) ["beast", "feast", "least", "yeast"]
+stane,smite
+stane,smite,smote
+stane,smite,spite
+stane,smite,spite,suite
+167 [1;32ms[1;33mt[0ma[0mn[1;32me[0m   4    53 Some((8, 3, "smite")) ["smite", "smote", "spite", "suite"]
+stane,arson
+stane,arson,basin
+stane,arson,mason
+stane,arson,nasal
+stane,arson,pansy
+ 37 [1;33ms[0mt[1;33ma[1;33mn[0me[0m   5   359 Some((9, 2, "arson")) ["arson", "basin", "mason", "nasal", "pansy"]
+stane,other,ether
+stane,other,ethic
+stane,other
+stane,other,otter
+stane,other,utter
+ 87 [0ms[1;32mt[0ma[0mn[1;33me[0m   5    98 Some((9, 2, "other")) ["ether", "ethic", "other", "otter", "utter"]
+stane,stoke
+stane,stoke,stole
+stane,stoke,stole,store
+stane,stoke,stole,store,stove
+stane,stoke,style
+170 [1;32ms[1;32mt[0ma[0mn[1;32me[0m   5    32 Some((12, 4, "stoke")) ["stoke", "stole", "store", "stove", "style"]
+stane,trabs,blast
+stane,trabs,blast,boast
+stane,trabs,coast
+stane,trabs,roast
+stane,trabs,toast
+stane,trabs,trash
+ 22 [1;33ms[1;33mt[1;32ma[0mn[0me[0m   6   153 Some((13, 3, "trabs")) ["blast", "boast", "coast", "roast", "toast", "trash"]
+stane,slain
+stane,slain,snack
+stane,slain,snail
+stane,slain,snack,snaky
+stane,slain,snarl
+stane,slain,spawn
+ 47 [1;32ms[0mt[1;32ma[1;33mn[0me[0m   6    50 Some((12, 3, "slain")) ["slain", "snack", "snail", "snaky", "snarl", "spawn"]
+stane,giant,chant
+stane,giant
+stane,giant,grant
+stane,giant,chant,plant
+stane,giant,thank
+stane,giant,twang
+ 75 [0ms[1;33mt[1;32ma[1;32mn[0me[0m   6    35 Some((12, 3, "giant")) ["chant", "giant", "grant", "plant", "thank", "twang"]
+stane,semen
+stane,semen,seven
+stane,semen,sheen
+stane,semen,sinew
+stane,semen,siren
+stane,semen,sneer
+110 [1;32ms[0mt[0ma[1;33mn[1;33me[0m   6   109 Some((11, 2, "semen")) ["semen", "seven", "sheen", "sinew", "siren", "sneer"]
+stane,bathe,acute
+stane,bathe
+stane,bathe,haute
+stane,bathe,lathe
+stane,bathe,latte
+stane,bathe,table
+174 [0ms[1;33mt[1;33ma[0mn[1;32me[0m   6    94 Some((11, 2, "bathe")) ["acute", "bathe", "haute", "lathe", "latte", "table"]
+stane,tawse,baste
+stane,tawse,baste,caste
+stane,tawse,baste,caste,haste
+stane,tawse,baste,caste,haste,paste
+stane,tawse,taste
+stane,tawse,waste
+175 [1;33ms[1;33mt[1;33ma[0mn[1;32me[0m   6    25 Some((18, 5, "tawse")) ["baste", "caste", "haste", "paste", "taste", "waste"]
+188 [1;32ms[1;32mt[1;32ma[0mn[1;32me[0m   6     8 None ["stage", "stake", "stale", "stare", "state", "stave"]

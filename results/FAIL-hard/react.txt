@@ -1,0 +1,275 @@
+react,rocky
+ 29 [1;32mr[0me[0ma[1;33mc[0mt[0m   1    46 Some((1, 1, "rocky")) ["rocky"]
+react,racer
+ 41 [1;32mr[1;33me[1;33ma[1;33mc[0mt[0m   1    10 Some((1, 1, "racer")) ["racer"]
+react,cedar
+ 43 [1;33mr[1;32me[1;33ma[1;33mc[0mt[0m   1     8 Some((1, 1, "cedar")) ["cedar"]
+react,recap
+ 44 [1;32mr[1;32me[1;33ma[1;33mc[0mt[0m   1     5 Some((1, 1, "recap")) ["recap"]
+react,cease
+ 51 [0mr[1;32me[1;32ma[1;33mc[0mt[0m   1     9 Some((1, 1, "cease")) ["cease"]
+react,ranch
+ 65 [1;32mr[0me[1;33ma[1;32mc[0mt[0m   1     6 Some((1, 1, "ranch")) ["ranch"]
+react,farce
+ 67 [1;33mr[1;33me[1;33ma[1;32mc[0mt[0m   1     9 Some((1, 1, "farce")) ["farce"]
+react,mecca
+ 69 [0mr[1;32me[1;33ma[1;32mc[0mt[0m   1     8 Some((1, 1, "mecca")) ["mecca"]
+react,roach
+ 74 [1;32mr[0me[1;32ma[1;32mc[0mt[0m   1     3 Some((1, 1, "roach")) ["roach"]
+react,reach
+ 80 [1;32mr[1;32me[1;32ma[1;32mc[0mt[0m   1     2 Some((1, 1, "reach")) ["reach"]
+react,route
+ 86 [1;32mr[1;33me[0ma[0mc[1;33mt[0m   1    56 Some((1, 1, "route")) ["route"]
+react,terra
+ 97 [1;33mr[1;32me[1;33ma[0mc[1;33mt[0m   1    21 Some((1, 1, "terra")) ["terra"]
+react,teary
+106 [1;33mr[1;32me[1;32ma[0mc[1;33mt[0m   1     9 Some((1, 1, "teary")) ["teary"]
+react,actor
+118 [1;33mr[0me[1;33ma[1;33mc[1;33mt[0m   1    25 Some((1, 1, "actor")) ["actor"]
+react,cater
+121 [1;33mr[1;33me[1;33ma[1;33mc[1;33mt[0m   1     7 Some((1, 1, "cater")) ["cater"]
+react,crate
+130 [1;33mr[1;33me[1;32ma[1;33mc[1;33mt[0m   1     3 Some((1, 1, "crate")) ["crate"]
+react,twice
+138 [0mr[1;33me[0ma[1;32mc[1;33mt[0m   1    29 Some((1, 1, "twice")) ["twice"]
+react,fetch
+141 [0mr[1;32me[0ma[1;32mc[1;33mt[0m   1    11 Some((1, 1, "fetch")) ["fetch"]
+react,retch
+143 [1;32mr[1;32me[0ma[1;32mc[1;33mt[0m   1     2 Some((1, 1, "retch")) ["retch"]
+react,stack
+153 [0mr[0me[1;32ma[1;32mc[1;33mt[0m   1    14 Some((1, 1, "stack")) ["stack"]
+react,track
+154 [1;33mr[0me[1;32ma[1;32mc[1;33mt[0m   1     6 Some((1, 1, "track")) ["track"]
+react,trace
+157 [1;33mr[1;33me[1;32ma[1;32mc[1;33mt[0m   1     2 Some((1, 1, "trace")) ["trace"]
+react,teach
+159 [0mr[1;32me[1;32ma[1;32mc[1;33mt[0m   1     2 Some((1, 1, "teach")) ["teach"]
+react,rivet
+167 [1;32mr[1;33me[0ma[0mc[1;32mt[0m   1    23 Some((1, 1, "rivet")) ["rivet"]
+react,begat
+177 [0mr[1;32me[1;33ma[0mc[1;32mt[0m   1    21 Some((1, 1, "begat")) ["begat"]
+react,roast
+182 [1;32mr[0me[1;32ma[0mc[1;32mt[0m   1     4 Some((1, 1, "roast")) ["roast"]
+react,exalt
+183 [0mr[1;33me[1;32ma[0mc[1;32mt[0m   1    19 Some((1, 1, "exalt")) ["exalt"]
+react,heart
+187 [1;33mr[1;32me[1;32ma[0mc[1;32mt[0m   1     5 Some((1, 1, "heart")) ["heart"]
+react,recut
+197 [1;32mr[1;32me[0ma[1;33mc[1;32mt[0m   1     3 Some((1, 1, "recut")) ["recut"]
+react,carat
+199 [1;33mr[0me[1;33ma[1;33mc[1;32mt[0m   1    12 Some((1, 1, "carat")) ["carat"]
+react,erect
+220 [1;33mr[1;33me[0ma[1;32mc[1;32mt[0m   1     3 Some((1, 1, "erect")) ["erect"]
+react,tract
+235 [1;33mr[0me[1;32ma[1;32mc[1;32mt[0m   1     4 Some((1, 1, "tract")) ["tract"]
+react
+242 [1;32mr[1;32me[1;32ma[1;32mc[1;32mt[0m   1     1 Some((1, 1, "react")) ["react"]
+react,decor
+react,decor,decry
+ 34 [1;33mr[1;32me[0ma[1;33mc[0mt[0m   2    45 Some((3, 2, "decor")) ["decor", "decry"]
+react,recur
+react,recur,relic
+ 35 [1;32mr[1;32me[0ma[1;33mc[0mt[0m   2    19 Some((3, 2, "recur")) ["recur", "relic"]
+react,mercy
+react,mercy,perch
+ 61 [1;33mr[1;32me[0ma[1;32mc[0mt[0m   2    15 Some((3, 2, "mercy")) ["mercy", "perch"]
+react,fancy
+react,fancy,saucy
+ 63 [0mr[0me[1;33ma[1;32mc[0mt[0m   2   155 Some((3, 2, "fancy")) ["fancy", "saucy"]
+react,circa
+react,circa,march
+ 64 [1;33mr[0me[1;33ma[1;32mc[0mt[0m   2    38 Some((3, 2, "circa")) ["circa", "march"]
+react,crack
+react,crack,wrack
+ 73 [1;33mr[0me[1;32ma[1;32mc[0mt[0m   2    19 Some((3, 2, "crack")) ["crack", "wrack"]
+react,place
+react,place,space
+ 75 [0mr[1;33me[1;32ma[1;32mc[0mt[0m   2    19 Some((3, 2, "place")) ["place", "space"]
+react,brace
+react,brace,grace
+ 76 [1;33mr[1;33me[1;32ma[1;32mc[0mt[0m   2     5 Some((3, 2, "brace")) ["brace", "grace"]
+react,rotor
+react,rotor,rusty
+ 83 [1;32mr[0me[0ma[0mc[1;33mt[0m   2   120 Some((3, 2, "rotor")) ["rotor", "rusty"]
+react,retro
+react,retro,retry
+ 89 [1;32mr[1;32me[0ma[0mc[1;33mt[0m   2    39 Some((3, 2, "retro")) ["retro", "retry"]
+react,ratio
+react,ratio,ratty
+ 92 [1;32mr[0me[1;33ma[0mc[1;33mt[0m   2    41 Some((3, 2, "ratio")) ["ratio", "ratty"]
+react,acute
+react,acute,caste
+120 [0mr[1;33me[1;33ma[1;33mc[1;33mt[0m   2    30 Some((3, 2, "acute")) ["acute", "caste"]
+react,trice
+react,trice,truce
+139 [1;33mr[1;33me[0ma[1;32mc[1;33mt[0m   2     9 Some((3, 2, "trice")) ["trice", "truce"]
+react,beret
+react,beret,merit
+169 [1;33mr[1;32me[0ma[0mc[1;32mt[0m   2    27 Some((3, 2, "beret")) ["beret", "merit"]
+react,abort
+react,abort,tarot
+172 [1;33mr[0me[1;33ma[0mc[1;32mt[0m   2    85 Some((3, 2, "abort")) ["abort", "tarot"]
+react,crept
+react,crept,crest
+193 [1;33mr[1;33me[0ma[1;33mc[1;32mt[0m   2    11 Some((3, 2, "crept")) ["crept", "crest"]
+react,chart
+react,chart,craft
+208 [1;33mr[0me[1;32ma[1;33mc[1;32mt[0m   2     8 Some((3, 2, "chart")) ["chart", "craft"]
+react,enact
+react,enact,exact
+237 [0mr[1;33me[1;32ma[1;32mc[1;32mt[0m   2     4 Some((3, 2, "enact")) ["enact", "exact"]
+react,debar
+react,debar,feral
+react,debar,zebra
+ 16 [1;33mr[1;32me[1;33ma[0mc[0mt[0m   3   133 Some((5, 2, "debar")) ["debar", "feral", "zebra"]
+react,realm,ready
+react,realm
+react,realm,rearm
+ 26 [1;32mr[1;32me[1;32ma[0mc[0mt[0m   3    21 Some((5, 2, "realm")) ["ready", "realm", "rearm"]
+react,chafe
+react,chafe,chase
+react,chafe,scale
+ 48 [0mr[1;33me[1;32ma[1;33mc[0mt[0m   3    44 Some((5, 2, "chafe")) ["chafe", "chase", "scale"]
+react,force
+react,force,price
+react,force,wreck
+ 58 [1;33mr[1;33me[0ma[1;32mc[0mt[0m   3    37 Some((5, 2, "force")) ["force", "price", "wreck"]
+react,dance
+react,dance,lance
+react,dance,sauce
+ 66 [0mr[1;33me[1;33ma[1;32mc[0mt[0m   3    36 Some((5, 2, "dance")) ["dance", "lance", "sauce"]
+react,chute
+react,chute,cutie
+react,chute,ethic
+111 [0mr[1;33me[0ma[1;33mc[1;33mt[0m   3   114 Some((5, 2, "chute")) ["chute", "cutie", "ethic"]
+react,trick,torch
+react,trick
+react,trick,truck
+136 [1;33mr[0me[0ma[1;32mc[1;33mt[0m   3    20 Some((5, 2, "trick")) ["torch", "trick", "truck"]
+react,robot,right
+react,robot
+react,robot,roost
+164 [1;32mr[0me[0ma[0mc[1;32mt[0m   3    36 Some((5, 2, "robot")) ["right", "robot", "roost"]
+react,court
+react,court,crust
+react,court,crypt
+190 [1;33mr[0me[0ma[1;33mc[1;32mt[0m   3    31 Some((5, 2, "court")) ["court", "crust", "crypt"]
+react,chant
+react,chant,coast
+react,chant,scant
+207 [0mr[0me[1;32ma[1;33mc[1;32mt[0m   3    23 Some((5, 2, "chant")) ["chant", "coast", "scant"]
+react,cello
+react,cello,decoy
+react,cello,gecko
+react,cello,medic
+ 33 [0mr[1;32me[0ma[1;33mc[0mt[0m   4   161 Some((7, 2, "cello")) ["cello", "decoy", "gecko", "medic"]
+react,decal
+react,decal,decay
+react,decal,fecal
+react,decal,pecan
+ 42 [0mr[1;32me[1;33ma[1;33mc[0mt[0m   4    30 Some((7, 2, "decal")) ["decal", "decay", "fecal", "pecan"]
+react,crane
+react,crane,crave
+react,crane,crave,craze
+react,crane,scare
+ 49 [1;33mr[1;33me[1;32ma[1;33mc[0mt[0m   4    15 Some((8, 3, "crane")) ["crane", "crave", "craze", "scare"]
+react,beach
+react,beach,leach
+react,beach,peace
+react,beach,leach,peach
+ 78 [0mr[1;32me[1;32ma[1;32mc[0mt[0m   4     7 Some((8, 3, "beach")) ["beach", "leach", "peace", "peach"]
+react,fetal,delta
+react,fetal
+react,fetal,metal
+react,fetal,metal,petal
+ 96 [0mr[1;32me[1;33ma[0mc[1;33mt[0m   4    96 Some((8, 3, "fetal")) ["delta", "fetal", "metal", "petal"]
+react,grate
+react,grate,irate
+react,grate,stare
+react,grate,trade
+103 [1;33mr[1;33me[1;32ma[0mc[1;33mt[0m   4    23 Some((7, 2, "grate")) ["grate", "irate", "stare", "trade"]
+react,death
+react,death,heath
+react,death,meaty
+react,death,tease
+105 [0mr[1;32me[1;32ma[0mc[1;33mt[0m   4    47 Some((7, 2, "death")) ["death", "heath", "meaty", "tease"]
+react,refit,rebut
+react,refit
+react,refit,remit
+react,refit,rebut,reset
+170 [1;32mr[1;32me[0ma[0mc[1;32mt[0m   4    19 Some((8, 3, "refit")) ["rebut", "refit", "remit", "reset"]
+react,alert
+react,alert,avert
+react,alert,great
+react,alert,great,treat
+175 [1;33mr[1;33me[1;33ma[0mc[1;32mt[0m   4    19 Some((8, 3, "alert")) ["alert", "avert", "great", "treat"]
+react,clout
+react,clout,count
+react,clout,scout
+react,clout,uncut
+189 [0mr[0me[0ma[1;33mc[1;32mt[0m   4   116 Some((7, 2, "clout")) ["clout", "count", "scout", "uncut"]
+react,tacit,ascot
+react,tacit,caput
+react,tacit
+react,tacit,yacht
+198 [0mr[0me[1;33ma[1;33mc[1;32mt[0m   4    43 Some((7, 2, "tacit")) ["ascot", "caput", "tacit", "yacht"]
+react,edict
+react,edict,eject
+react,edict,eject,elect
+react,edict,evict
+219 [0mr[1;33me[0ma[1;32mc[1;32mt[0m   4    12 Some((8, 3, "edict")) ["edict", "eject", "elect", "evict"]
+react,ramen,raise
+react,ramen
+react,ramen,range
+react,ramen,rarer
+react,ramen,raven
+ 14 [1;32mr[1;33me[1;33ma[0mc[0mt[0m   5   117 Some((9, 2, "ramen")) ["raise", "ramen", "range", "rarer", "raven"]
+react,macer,caper
+react,macer,carve
+react,macer,clear
+react,macer,creak
+react,macer,cream
+ 40 [1;33mr[1;33me[1;33ma[1;33mc[0mt[0m   5    66 Some((10, 2, "macer")) ["caper", "carve", "clear", "creak", "cream"]
+react,cheat,cadet
+react,cheat
+react,cheat,cleat
+react,cheat,eclat
+react,cheat,facet
+201 [0mr[1;33me[1;33ma[1;33mc[1;32mt[0m   5    13 Some((9, 2, "cheat")) ["cadet", "cheat", "cleat", "eclat", "facet"]
+react,leary,beard
+react,leary,beard,heard
+react,leary,learn
+react,leary,pearl
+react,leary,weary
+react,leary,yearn
+ 25 [1;33mr[1;32me[1;32ma[0mc[0mt[0m   6    57 Some((13, 3, "leary")) ["beard", "heard", "learn", "pearl", "weary", "yearn"]
+react,deter,berth
+react,deter
+react,deter,meter
+react,deter,metro
+react,deter,tenor
+react,deter,terse
+ 88 [1;33mr[1;32me[0ma[0mc[1;33mt[0m   6    88 Some((11, 2, "deter")) ["berth", "deter", "meter", "metro", "tenor", "terse"]
+react,attic,antic
+react,attic
+react,attic,cacti
+react,attic,catty
+react,attic,octal
+react,attic,tacky
+117 [0mr[0me[1;33ma[1;33mc[1;33mt[0m   6   126 Some((11, 2, "attic")) ["antic", "attic", "cacti", "catty", "octal", "tacky"]
+react,chest
+react,chest,cleft
+react,chest,comet
+react,chest,comet,covet
+react,chest,octet
+react,chest,scent
+192 [0mr[1;33me[0ma[1;33mc[1;32mt[0m   6    44 Some((12, 3, "chest")) ["chest", "cleft", "comet", "covet", "octet", "scent"]
+react,relay,rebar
+react,relay,regal
+react,relay,rebar,rehab
+react,relay,relax
+react,relay
+react,relay,regal,renal
+react,relay,repay
+ 17 [1;32mr[1;32me[1;33ma[0mc[0mt[0m   7    50 Some((15, 3, "relay")) ["rebar", "regal", "rehab", "relax", "relay", "renal", "repay"]
+144 [0mr[0me[1;33ma[1;32mc[1;33mt[0m   7    30 None ["batch", "catch", "hatch", "latch", "match", "patch", "watch"]

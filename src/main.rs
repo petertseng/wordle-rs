@@ -226,6 +226,38 @@ fn rate_starter(
     )
 }
 
+fn lower_bound(size: u32, most_divisive: u32) -> u32 {
+    assert_ne!(size, 0);
+    assert_ne!(most_divisive, 0);
+    if size <= most_divisive {
+        return 2 * size - 1;
+    }
+
+    let small_group = size / most_divisive;
+    let large_group = small_group + 1;
+    let num_larges = size % most_divisive;
+    let num_smalls = most_divisive - num_larges;
+    assert_eq!(num_larges * large_group + num_smalls * small_group, size);
+    let v1 = num_larges * lower_bound(large_group, most_divisive)
+        + num_smalls * lower_bound(small_group, most_divisive);
+
+    let v2 = if most_divisive > 2 {
+        let small_group = (size - 1) / (most_divisive - 1);
+        let large_group = small_group + 1;
+        let num_larges = (size - 1) % (most_divisive - 1);
+        let num_smalls = (most_divisive - 1) - num_larges;
+        assert_eq!(
+            1 + num_larges * large_group + num_smalls * small_group,
+            size
+        );
+        num_larges * lower_bound(large_group, most_divisive)
+            + num_smalls * lower_bound(small_group, most_divisive)
+    } else {
+        lower_bound(size - 1, most_divisive)
+    };
+    size + std::cmp::min(v1, v2)
+}
+
 // number of turns, depth, word
 type Best<'a> = Option<(u32, u8, &'a str)>;
 
@@ -326,6 +358,12 @@ fn best_time<'a>(
         }
     }
 
+    let most_divisive = guessables
+        .iter()
+        .filter_map(|g| group_by_score(g, answers, answers.len() - 1).map(|g| g.len()))
+        .max()
+        .unwrap();
+
     let limit = if guesses_left <= 2 {
         1
     } else if guesses_left == 3 {
@@ -333,14 +371,12 @@ fn best_time<'a>(
         // If it can split the guesses into N buckets,
         // but there are more than N words in a bucket,
         // there will be > 1 word in a bucket next turn.
-        guessables
-            .iter()
-            .filter_map(|g| group_by_score(g, answers, answers.len() - 1).map(|g| g.len()))
-            .max()
-            .unwrap()
+        most_divisive
     } else {
         answers.len() - 1
     };
+
+    let most_divisive32 = u32::try_from(most_divisive).unwrap();
 
     let sorted_words = if limit > 1 {
         // perfects take priority; only look for others if there are none.
@@ -365,7 +401,7 @@ fn best_time<'a>(
             if stat == 242 {
                 0
             } else {
-                2 * u32::try_from(ans.len()).unwrap() - 1
+                lower_bound(u32::try_from(ans.len()).unwrap(), most_divisive32)
             }
         });
         let mut potential = potentials.sum::<u32>();
@@ -407,7 +443,8 @@ fn best_time<'a>(
             };
             if let Some((new_total, new_depth, _)) = new_best {
                 sum += new_total;
-                potential -= 2 * u32::try_from(new_answers.len()).unwrap() - 1;
+                potential -=
+                    lower_bound(u32::try_from(new_answers.len()).unwrap(), most_divisive32);
                 potential += new_total;
                 if potential >= best {
                     group_ok = false;
@@ -533,19 +570,15 @@ fn fully_explore_starter(starter: &str, answers: &[&str], words: &[&str], hard: 
                         restriction.clone(),
                         &mut cache,
                     ) {
-                        grouped = group_by_score(
-                            new_best,
-                            current_answers,
-                            current_answers.len() - 1,
-                        )
-                        .unwrap();
+                        grouped =
+                            group_by_score(new_best, current_answers, current_answers.len() - 1)
+                                .unwrap();
                         current_answers = &grouped[&score(new_best, ans)];
                         if &new_best != ans {
                             print!("{},", new_best);
                         }
                         if let Some(r1) = restriction {
-                            let (_, r2) =
-                                filter_guesses(new_best, score(new_best, ans), &[]);
+                            let (_, r2) = filter_guesses(new_best, score(new_best, ans), &[]);
                             restriction = Some(combine_restriction(&r1, &r2));
                         }
                     } else {
@@ -649,7 +682,7 @@ fn main() {
 
 #[cfg(test)]
 mod tests {
-    use super::{best_time, combine_restriction, filter_guesses, score};
+    use super::{best_time, combine_restriction, filter_guesses, lower_bound, score};
     use std::collections::HashMap;
 
     #[test]
@@ -816,6 +849,43 @@ mod tests {
             filter_guesses("aabbb", 5, &vec!["caacc"]),
             (Vec::<&str>::new(), restrict(1))
         );
+    }
+
+    #[test]
+    fn lower_bound_basic() {
+        assert_eq!(lower_bound(1, 10), 1);
+        assert_eq!(lower_bound(2, 10), 3);
+        assert_eq!(lower_bound(3, 10), 5);
+        assert_eq!(lower_bound(4, 10), 7);
+        assert_eq!(lower_bound(5, 10), 9);
+        assert_eq!(lower_bound(6, 10), 11);
+        assert_eq!(lower_bound(7, 10), 13);
+        assert_eq!(lower_bound(8, 10), 15);
+        assert_eq!(lower_bound(9, 10), 17);
+        assert_eq!(lower_bound(10, 10), 19);
+    }
+
+    #[test]
+    fn lower_bound_big() {
+        assert_eq!(lower_bound(11, 10), 22);
+        assert_eq!(lower_bound(12, 10), 25);
+        assert_eq!(lower_bound(13, 10), 28);
+        assert_eq!(lower_bound(14, 10), 31);
+        assert_eq!(lower_bound(15, 10), 34);
+        assert_eq!(lower_bound(16, 10), 37);
+        assert_eq!(lower_bound(17, 10), 40);
+        assert_eq!(lower_bound(18, 10), 43);
+        assert_eq!(lower_bound(19, 10), 46);
+        assert_eq!(lower_bound(20, 10), 49);
+    }
+
+    #[test]
+    fn lower_bound_small() {
+        assert_eq!(lower_bound(1, 2), 1);
+        assert_eq!(lower_bound(2, 2), 3);
+        assert_eq!(lower_bound(3, 2), 6);
+        assert_eq!(lower_bound(4, 2), 10);
+        assert_eq!(lower_bound(5, 2), 14);
     }
 
     #[test]
